@@ -1,0 +1,50 @@
+{
+  "id": "taze_sarimsak",
+  "ad": "Taze sarımsak",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Baharda yeşil sapıyla gelen, kokusu yumuşak sarımsak.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "taze_sarimsak",
+  "aktif": true,
+  "enerji_kcal_100g": null,
+  "enerji_durum": null,
+  "enerji_kaynak_adi": null,
+  "enerji_kaynak_link": null,
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Kökünü ve yaprakların kurumuş uçlarını kesin.",
+    "Beyaz baş kısmı ve körpe yeşil sapı doğranıp birlikte kullanılır."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "taze_sarimsak__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "03-01",
+      "bit": "07-15",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024); Türk Patent coğrafi işaret tescili: Ula Sarımsağı",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Taze sarımsak en çok nisan – haziran arasında tezgâhta."
+    }
+  ],
+  "secim_ipuclari": [
+    "Yeşil sapları dik ve canlı olsun.",
+    "Baş kısmı beyaz, sert ve dolgun olmalı.",
+    "Sararmış, sölpük ya da lekeli olanları almayın."
+  ],
+  "besin": [],
+  "tarifler": [
+    "taze_sarimsakli_yumurta",
+    "tereli_patates_salatasi"
+  ]
+}

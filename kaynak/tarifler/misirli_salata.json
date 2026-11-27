@@ -1,0 +1,20 @@
+{
+  "id": "misirli_salata",
+  "baslik": "Mısırlı yaz salatası",
+  "malzemeler": [
+    "2 adet taze mısır",
+    "2 adet domates",
+    "1 adet salatalık",
+    "1 adet kapya biber",
+    "Birkaç dal maydanoz",
+    "3 yemek kaşığı zeytinyağı",
+    "1 limonun suyu",
+    "Tuz"
+  ],
+  "adimlar": [
+    "Mısırları haşlayıp soğutun, tanelerini bıçakla koçandan ayırın.",
+    "Domates, salatalık ve biberi küp doğrayın.",
+    "Mısır ve maydanozu ekleyin; zeytinyağı, limon ve tuzla karıştırın."
+  ],
+  "kaynak_adi": "Mevsim"
+}

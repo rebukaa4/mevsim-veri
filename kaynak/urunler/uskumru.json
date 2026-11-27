@@ -1,0 +1,77 @@
+{
+  "id": "uskumru",
+  "ad": "Uskumru",
+  "diger_adlar": [],
+  "kategori_id": "balik_deniz",
+  "kisa_tanim": "Yaz sonu ve sonbaharda yağlanan, sırtı zebra desenli lezzetli balık.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "uskumru",
+  "aktif": true,
+  "enerji_kcal_100g": 205,
+  "enerji_durum": "çiğ",
+  "enerji_kaynak_adi": "USDA FoodData Central — \"Fish, mackerel, Atlantic, raw\" (FDC ID 175119)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/175119/nutrients",
+  "az_bilinen": false,
+  "tanitim": "Kolyozla karıştırılır: uskumrunun karnı düz gümüşidir, sırt çizgileri neredeyse dik ve az dalgalıdır; kolyozun karnında ise benekler ya da kırık çizgiler vardır (FAO Scombrids kataloğu, 1983).",
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "uskumru__ege__av__1",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "ege",
+      "donem_turu": "av",
+      "bas": "07-01",
+      "bit": "09-30",
+      "kaynak_adi": "Kınacıgil ve ark. (ed.) 2017, İzmir Balıkçılığı (Akyol, İzmir Körfezi balıklarının av takvimi), İzmir Büyükşehir Belediyesi",
+      "kaynak_link": "https://www.izmir.bel.tr:443/YuklenenDosyalar/Yayinlar/0_08022018_053047_izmir-balikciligi.pdf",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "akademik",
+      "not": "Taze uskumru halde ağustos ortasından nisana kadar görülüyor; ithal dondurulmuş uskumru yıl boyu satılır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Gözleri parlak, dolgun ve şeffaf olsun; içe çökmüş, buğulu gözlü balığı almayın.",
+    "Solungaç kapağını kaldırıp bakın: içi canlı kırmızı olmalı; kahverengi ya da griye dönmüşse balık bayattır.",
+    "Sırtındaki koyu çizgiler net ve parlak olmalı; deri mat ve buruşuksa almayın.",
+    "Parmakla bastırınca eti hemen eski hâline dönmeli; iz kalıyorsa taze değildir."
+  ],
+  "besin": [
+    {
+      "ad": "Protein",
+      "tur": "diger",
+      "aciklama": "100 gramında yaklaşık 19 g protein bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Fish, mackerel, Atlantic, raw\" (FDC ID 175119)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/175119/nutrients"
+    },
+    {
+      "ad": "Omega-3 (EPA ve DHA)",
+      "tur": "diger",
+      "aciklama": "100 gramında yaklaşık 2,3 g EPA ve DHA bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Fish, mackerel, Atlantic, raw\" (FDC ID 175119)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/175119/nutrients"
+    },
+    {
+      "ad": "D vitamini",
+      "tur": "vitamin",
+      "aciklama": "100 gramında yaklaşık 16 µg D vitamini bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Fish, mackerel, Atlantic, raw\" (FDC ID 175119)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/175119/nutrients"
+    },
+    {
+      "ad": "B12 vitamini",
+      "tur": "vitamin",
+      "aciklama": "100 gramında yaklaşık 8,7 µg B12 vitamini bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Fish, mackerel, Atlantic, raw\" (FDC ID 175119)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/175119/nutrients"
+    }
+  ],
+  "tarifler": [
+    "izgara_balik",
+    "firinda_patatesli_balik"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "ege_inciri",
+  "ad": "Ege İnciri (Sarılop)",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Büyük ve Küçük Menderes havzalarının sarı-yeşil kabuklu, amber-pembe etli, çok tatlı ve kokulu Sarılop inciri; hem taze hem kuru yenir.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "35",
+  "gorsel_id": "ege_inciri",
+  "aktif": true,
+  "enerji_kcal_100g": 74,
+  "enerji_durum": "taze, çiğ (incir genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Figs, raw (FDC ID 173021, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/173021/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "ege_inciri__35__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "35",
+      "donem_turu": "hasat",
+      "bas": "07-25",
+      "bit": "09-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Ege İnciri (No 80)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/d808e2cb-768f-47ed-998b-410a73cac02a.pdf",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "resmi",
+      "not": "Taze incir hasadı 40–45 gün sürer; Aydın'da da aynı dönemdir."
+    }
+  ],
+  "secim_ipuclari": [
+    "Olgun incir dokununca yumuşaktır; sert olanlar koparıldıktan sonra pek olgunlaşmaz.",
+    "Sapı sağlam ve meyveye bağlı olsun; boyun kısmı hafif bükülmüş incir olgundur.",
+    "Kabukta hafif çatlaklar olgunluk işaretidir, ama ekşi koku, sızıntı ya da küf varsa almayın.",
+    "Çok çabuk bozulur; 1–2 gün içinde yiyin."
+  ],
+  "besin": [
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum içerir: 100 g'da 232 mg; günlük başvuru değerine oranı yaklaşık %11.",
+      "kaynak_adi": "USDA FoodData Central — Figs, raw (FDC ID 173021, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173021/nutrients"
+    }
+  ],
+  "tarifler": [
+    "incir_receli",
+    "incirli_yogurt",
+    "cevizli_kuru_incir_tatlisi"
+  ]
+}

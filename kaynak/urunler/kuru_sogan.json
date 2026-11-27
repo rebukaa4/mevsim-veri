@@ -1,0 +1,49 @@
+{
+  "id": "kuru_sogan",
+  "ad": "Kuru soğan",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Mutfağın temeli; neredeyse her yemeğin ilk adımı.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "kuru_sogan",
+  "aktif": true,
+  "enerji_kcal_100g": 40,
+  "enerji_durum": "çiğ, yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Onions, raw (FDC ID 170000)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170000/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "kuru_sogan__ege__depo__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "depo",
+      "bas": "01-01",
+      "bit": "12-31",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Depodan yıl boyu bulunur."
+    }
+  ],
+  "secim_ipuclari": [
+    "Elinizde sert ve ağır olanı seçin.",
+    "Dış kabuk kuru, ince ve kâğıt gibi hışırdamalı.",
+    "Filizlenmiş, yumuşamış ya da kararmış (küflü) olanları almayın.",
+    "Kokusu keskin olmalı ama çürük kokmamalı."
+  ],
+  "besin": [],
+  "tarifler": [
+    "sumakli_sogan",
+    "zeytinyagli_taze_fasulye",
+    "kapuska"
+  ]
+}

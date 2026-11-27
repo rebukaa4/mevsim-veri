@@ -1,0 +1,59 @@
+{
+  "id": "alasehir_uzumu",
+  "ad": "Alaşehir Çekirdeksiz Üzümü",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Manisa Alaşehir'in erkenci, yeşil-sarı, küçük ve ince kabuklu taneli, sıkı salkımlı çekirdeksiz sofralık üzümü (Superior Seedless).",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "45",
+  "gorsel_id": null,
+  "aktif": true,
+  "enerji_kcal_100g": 69,
+  "enerji_durum": "çiğ (üzüm genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Grapes, red or green (European type, such as Thompson seedless), raw (FDC ID 174683, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/174683/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Yemeden hemen önce, salkımı bir süzgece koyup akan su altında yıkayın.",
+    "Taneleri sapından ayırmadan buzdolabında saklayın; ayırınca daha çabuk bozulur."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "alasehir_uzumu__45__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "45",
+      "donem_turu": "hasat",
+      "bas": "07-13",
+      "bit": "09-07",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Alaşehir Çekirdeksiz Üzümü (No 1892)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/54214a80-cb10-481d-8354-1c8098038878.pdf",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "resmi",
+      "not": "Açık bağlarda; örtülü bağlarda son hasat eylül sonuna kadar sürer."
+    }
+  ],
+  "secim_ipuclari": [
+    "Salkım sapı yeşil ve esnek olsun; kahverengi, kuru sap eski üründür.",
+    "Taneler salkıma sıkıca bağlı olmalı; sallayınca dökülüyorsa bekletilmiştir.",
+    "Tanelerde ezik, çatlak ya da kahverengi leke olmamalı.",
+    "Tane üzerindeki ince beyaz pus doğaldır."
+  ],
+  "besin": [
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini kaynağıdır: 100 g'da 14,6 µg; günlük başvuru değerine oranı yaklaşık %19.",
+      "kaynak_adi": "USDA FoodData Central — Grapes, red or green (European type, such as Thompson seedless), raw (FDC ID 174683, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/174683/nutrients"
+    }
+  ],
+  "tarifler": [
+    "meyve_salatasi",
+    "uzum_kompostosu"
+  ]
+}

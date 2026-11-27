@@ -1,0 +1,70 @@
+{
+  "id": "acipayam_havucu",
+  "ad": "Acıpayam Çakır Havucu",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Denizli Acıpayam'ın keskin havuç kokulu, gevrek ve aromalı turuncu havucu (Nantes çeşidi); eylülden kış sonuna toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "20",
+  "gorsel_id": null,
+  "aktif": true,
+  "enerji_kcal_100g": 41,
+  "enerji_durum": "çiğ (havuç genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Carrots, raw (FDC ID 170393, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170393/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "acipayam_havucu__20__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "20",
+      "donem_turu": "hasat",
+      "bas": "09-01",
+      "bit": "02-28",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Acıpayam Çakır Havucu (No 1897)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/f415bd6c-4d57-49db-a917-35419715e63d.pdf",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "resmi",
+      "not": "Hasat eylülde başlar, kış boyunca sürer."
+    }
+  ],
+  "secim_ipuclari": [
+    "Sert, düz ve parlak turuncu havuç seçin; bükülen, yumuşamış havuç suyunu kaybetmiştir.",
+    "Üst kısımda yeşillenme olmamalı.",
+    "Çatlak ya da kılcal kök sarmış havuçlar sert ve odunsu olabilir.",
+    "Yapraklı alırsanız yaprakları hemen kesin; yoksa havucun suyunu çeker."
+  ],
+  "besin": [
+    {
+      "ad": "A vitamini",
+      "tur": "vitamin",
+      "aciklama": "A vitamini açısından zengindir: 100 g'da 835 µg; günlük başvuru değerine oranı yaklaşık %104.",
+      "kaynak_adi": "USDA FoodData Central — Carrots, raw (FDC ID 170393, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170393/nutrients"
+    },
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini kaynağıdır: 100 g'da 13,2 µg; günlük başvuru değerine oranı yaklaşık %17.",
+      "kaynak_adi": "USDA FoodData Central — Carrots, raw (FDC ID 170393, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170393/nutrients"
+    },
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum kaynağıdır: 100 g'da 320 mg; günlük başvuru değerine oranı yaklaşık %16.",
+      "kaynak_adi": "USDA FoodData Central — Carrots, raw (FDC ID 170393, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170393/nutrients"
+    }
+  ],
+  "tarifler": [
+    "havuclu_portakalli_salata",
+    "havuc_tarator"
+  ]
+}

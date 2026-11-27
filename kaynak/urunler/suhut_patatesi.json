@@ -1,0 +1,70 @@
+{
+  "id": "suhut_patatesi",
+  "ad": "Şuhut Patatesi",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Afyonkarahisar Şuhut'un 1100 metre üstündeki ovasında yetişen, koyu sarı etli, yemekte dağılmayan 'kışlık patates' (Agria çeşidi).",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "03",
+  "gorsel_id": null,
+  "aktif": true,
+  "enerji_kcal_100g": 77,
+  "enerji_durum": "çiğ, kabuğuyla (patates genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Potatoes, flesh and skin, raw (FDC ID 170026, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170026/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "suhut_patatesi__03__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "03",
+      "donem_turu": "hasat",
+      "bas": "09-01",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Şuhut Patatesi (No 1060)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/cb735443-7068-4298-855a-8a01ec6a4044.pdf",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "resmi",
+      "not": "Hasat çoğunlukla eylül – ekimde; kasıma sarkabilir."
+    }
+  ],
+  "secim_ipuclari": [
+    "Sert, pürüzsüz kabuklu ve filizlenmemiş patates seçin.",
+    "Kabuğunda yeşillenme olmamalı; yeşil kısımlar acıdır, kesip atın.",
+    "Taze hasat patatesin ince kabuğu parmakla sıyrılabilir; bu tazelik işaretidir.",
+    "Serin, karanlık ve havadar yerde, soğandan ayrı saklayın."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini kaynağıdır: 100 g'da 19,7 mg; günlük başvuru değerine oranı yaklaşık %24.",
+      "kaynak_adi": "USDA FoodData Central — Potatoes, flesh and skin, raw (FDC ID 170026, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170026/nutrients"
+    },
+    {
+      "ad": "B6 vitamini",
+      "tur": "vitamin",
+      "aciklama": "B6 vitamini kaynağıdır: 100 g'da 0,3 mg; günlük başvuru değerine oranı yaklaşık %21.",
+      "kaynak_adi": "USDA FoodData Central — Potatoes, flesh and skin, raw (FDC ID 170026, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170026/nutrients"
+    },
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum kaynağıdır: 100 g'da 425 mg; günlük başvuru değerine oranı yaklaşık %21.",
+      "kaynak_adi": "USDA FoodData Central — Potatoes, flesh and skin, raw (FDC ID 170026, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170026/nutrients"
+    }
+  ],
+  "tarifler": [
+    "patates_salatasi",
+    "firinda_baharatli_patates"
+  ]
+}

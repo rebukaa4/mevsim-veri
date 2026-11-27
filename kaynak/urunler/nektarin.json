@@ -1,0 +1,56 @@
+{
+  "id": "nektarin",
+  "ad": "Nektarin",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Şeftalinin tüysüz, pürüzsüz kabuklu çeşidi; daha sıkı etli ve hafif mayhoştur.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "nektarin",
+  "aktif": true,
+  "enerji_kcal_100g": 44,
+  "enerji_durum": "çiğ, çekirdeksiz yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central — Nectarines, raw (FDC ID 169914, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169914/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "nektarin__ege__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "hasat",
+      "bas": "05-24",
+      "bit": "09-10",
+      "kaynak_adi": "Ercan & Özkarakaş 2003. ANADOLU J. of AARI 13(2):17–31 (Ege Tarımsal Araştırma Enstitüsü)",
+      "kaynak_link": "https://dergipark.org.tr/tr/download/article-file/20017",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "akademik",
+      "not": "Menemen'de nektarin hasadı."
+    }
+  ],
+  "secim_ipuclari": [
+    "Kabuğu parlak ve gergin olsun; buruşmuşsa suyunu kaybetmiştir.",
+    "Sap dibinde yeşillik kalmamış, sarı-turuncu zeminli olanları seçin.",
+    "Hafifçe esneyen ama yumuşamamış olanlar en lezzetlisidir."
+  ],
+  "besin": [
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum içerir: 100 g'da 201 mg; günlük başvuru değerine oranı yaklaşık %10.",
+      "kaynak_adi": "USDA FoodData Central — Nectarines, raw (FDC ID 169914, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169914/nutrients"
+    }
+  ],
+  "tarifler": [
+    "meyveli_yogurt_kasesi",
+    "seftali_kompostosu",
+    "seftali_receli"
+  ]
+}

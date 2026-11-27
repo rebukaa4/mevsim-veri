@@ -1,0 +1,63 @@
+{
+  "id": "deniz_kestanesi",
+  "ad": "Deniz kestanesi",
+  "diger_adlar": [],
+  "kategori_id": "balik_deniz",
+  "kisa_tanim": "Kasım'dan Nisan sonuna kadar toplanabilen, dikenli kabuğunun içindeki turuncu yumurtası yenen deniz canlısı.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "deniz_kestanesi",
+  "aktif": true,
+  "enerji_kcal_100g": 105,
+  "enerji_durum": "çiğ, yenebilir kısım (gonad)",
+  "enerji_kaynak_adi": "Cerkovnikov E., Gall-Palla V., Urban S. 1963. Contribution to the nutritional value of the sea urchin (Paracentrotus lividus) from the Adriatic Sea. Acta Adriatica 10 (yalnızca özet sayfası okundu)",
+  "enerji_kaynak_link": "https://acta.izor.hr/ojs/index.php/acta/article/view/1157",
+  "az_bilinen": true,
+  "tanitim": "Kayalık kıyılarda yaşayan, kestane gibi dikenli, yuvarlak bir deniz canlısıdır; yalnızca içindeki beş dilim turuncu yumurtası (gonad) yenir. Tadı yoğun, tuzlu-tatlı ve deniz kokuludur; genellikle limonla ekmek üstünde ya da makarnayla yenir. Yasal toplama yasağı 1 Mayıs–31 Ekim arasıdır (2026/25 tebliği, haberlere göre).",
+  "hazirlama_adimlari": [
+    "Yalnızca güvendiğiniz kişiden, temiz sudan toplanmış ve canlı olanı alın; aynı gün tüketin.",
+    "Kalın bir bez ya da eldivenle tutun; dikenler batarsa acıtır.",
+    "Ağız tarafını (düz, alt yüzü) yukarı çevirin; makas ucunu ağızdan sokup çevresini daire şeklinde keserek kapağı kaldırın.",
+    "İçindeki koyu sıvıyı ve siyah iç kısımları dökün; çok hafifçe deniz suyuyla ya da tuzlu soğuk suyla çalkalayın.",
+    "Kabuğun iç duvarına yapışık beş turuncu yumurta dilimini küçük bir kaşıkla dikkatle alın.",
+    "Çiğ yendiği için temizledikten hemen sonra, buz gibi soğukken tüketin; artanı saklamayın."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak ve gıda güvenliği bilgisi; ayrı bir kaynakla doğrulanmadı)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "deniz_kestanesi__ege__av__1",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "ege",
+      "donem_turu": "av",
+      "bas": "11-01",
+      "bit": "04-30",
+      "kaynak_adi": "Deniz Haber, \"Balıkçılıkta yeni kurallar Resmi Gazete'de\", 16.09.2026 (Tebliğ 2026/25 özeti); Küçükdermenci, Lök ve ark. 2017, Çeşme deniz kestanesi çalışması (Su Ürünleri Dergisi)",
+      "kaynak_link": "https://www.denizhaber.net/balikcilikta-yeni-kurallar-resmi-gazetede-haber-126194.htm",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Habere göre 1 Mayıs – 31 Ekim arası toplama yasak; resmî metinden doğrulanmadı."
+    }
+  ],
+  "secim_ipuclari": [
+    "Canlı olmalı: dikenleri dik ve hareketli olmalı; dikenleri yatmış, dökülüyorsa ölmüştür.",
+    "Alttaki ağız kısmı sıkı kapalı olmalı.",
+    "Açılmışsa yumurtaları parlak turuncu ve dolgun olmalı; koyu, erimiş görünümlü ya da kötü kokulu olanı yemeyin.",
+    "Yalnızca toplandığı gün yenmelidir; bekletilmiş deniz kestanesi almayın."
+  ],
+  "besin": [
+    {
+      "ad": "Protein",
+      "tur": "diger",
+      "aciklama": "Taze yumurtasının (gonad) 100 gramında yaklaşık 11,5 g protein ölçülmüştür.",
+      "kaynak_adi": "Cerkovnikov E., Gall-Palla V., Urban S. 1963. Contribution to the nutritional value of the sea urchin (Paracentrotus lividus) from the Adriatic Sea. Acta Adriatica 10 (yalnızca özet sayfası okundu)",
+      "kaynak_link": "https://acta.izor.hr/ojs/index.php/acta/article/view/1157"
+    }
+  ],
+  "tarifler": [
+    "limonlu_deniz_kestanesi",
+    "deniz_kestaneli_makarna"
+  ]
+}

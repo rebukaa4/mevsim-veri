@@ -1,0 +1,70 @@
+{
+  "id": "lufer",
+  "ad": "Lüfer / çinekop",
+  "diger_adlar": [],
+  "kategori_id": "balik_deniz",
+  "kisa_tanim": "Sonbahar ve kış aylarının, boyuna göre farklı adlarla satılan göçmen balığı.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "lufer",
+  "aktif": true,
+  "enerji_kcal_100g": 124,
+  "enerji_durum": "çiğ",
+  "enerji_kaynak_adi": "USDA FoodData Central — \"Fish, bluefish, raw\" (FDC ID 171949)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/171949/nutrients",
+  "az_bilinen": false,
+  "tanitim": "Lüfer, çinekop ve sarıkanat aynı balığın boy adlarıdır: 8–10 cm defne yaprağı, 10–20 cm çinekop, 20–25 cm sarıkanat, 25–35 cm lüfer, 35 cm'den büyüğü kofana (Kalaycı ve ark. 2019, Gürtan 1959'a dayanarak). Yasal en küçük av boyu 18 cm'dir (Tebliğ 2024/20). Eti yumuşak ve orta yağlıdır, ızgarada ya da tavada yapılır.",
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "lufer__ege__av__1",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "ege",
+      "donem_turu": "av",
+      "bas": "09-01",
+      "bit": "03-31",
+      "kaynak_adi": "Kınacıgil ve ark. (ed.) 2017, İzmir Balıkçılığı (Akyol, İzmir Körfezi balıklarının av takvimi), İzmir Büyükşehir Belediyesi; Öztürk ve Öztürk 1996, On the biology of the Turkish straits system (CIESM); Polat ve Ergün 2008, Karadeniz'in pelajik balıkları (SÜMAE Yunus Araştırma Bülteni)",
+      "kaynak_link": "https://www.izmir.bel.tr:443/YuklenenDosyalar/Yayinlar/0_08022018_053047_izmir-balikciligi.pdf",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "akademik",
+      "not": "İri lüfer ekim ortasından nisan ortasına kadar; en ucuz olduğu aylar ekim – aralık."
+    }
+  ],
+  "secim_ipuclari": [
+    "Gözleri parlak, dolgun ve şeffaf olsun; içe çökmüş, buğulu gözlü balığı almayın.",
+    "Solungaç kapağını kaldırıp bakın: içi canlı kırmızı olmalı; kahverengi ya da griye dönmüşse balık bayattır.",
+    "Lüfer çabuk yumuşar: gövdesi diri, karnı sağlam olmalı.",
+    "18 cm'den küçük (avuç içi boyunda) lüfer yasal boyun altındadır; almayın."
+  ],
+  "besin": [
+    {
+      "ad": "Protein",
+      "tur": "diger",
+      "aciklama": "100 gramında yaklaşık 20 g protein bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Fish, bluefish, raw\" (FDC ID 171949)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/171949/nutrients"
+    },
+    {
+      "ad": "B12 vitamini",
+      "tur": "vitamin",
+      "aciklama": "100 gramında yaklaşık 5,4 µg B12 vitamini bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Fish, bluefish, raw\" (FDC ID 171949)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/171949/nutrients"
+    },
+    {
+      "ad": "Selenyum",
+      "tur": "mineral",
+      "aciklama": "100 gramında yaklaşık 36 µg selenyum bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Fish, bluefish, raw\" (FDC ID 171949)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/171949/nutrients"
+    }
+  ],
+  "tarifler": [
+    "izgara_balik",
+    "firinda_patatesli_balik"
+  ]
+}

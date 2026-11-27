@@ -1,0 +1,17 @@
+{
+  "id": "limonata",
+  "baslik": "Ev limonatası",
+  "malzemeler": [
+    "4 limon",
+    "1 su bardağı toz şeker",
+    "6 su bardağı soğuk su",
+    "Birkaç dal nane"
+  ],
+  "adimlar": [
+    "Limonları yıkayıp ikisinin kabuğunu ince rendeleyin.",
+    "Rendelenmiş kabuğu şekerle ovup 15 dakika bekletin.",
+    "Bütün limonların suyunu sıkıp şekere ekleyin, şeker eriyene kadar karıştırın.",
+    "Soğuk suyu ekleyip süzün, naneyle soğuk servis edin."
+  ],
+  "kaynak_adi": "Mevsim ekibi (özgün tarif)"
+}

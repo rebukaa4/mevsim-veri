@@ -1,0 +1,81 @@
+{
+  "id": "maydanoz",
+  "ad": "Maydanoz",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Her mutfağın yeşili; salatada, kısırda, yemeğin üstünde.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "maydanoz",
+  "aktif": true,
+  "enerji_kcal_100g": 36,
+  "enerji_durum": "çiğ, yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Parsley, fresh (FDC ID 170416)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170416/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Kalın saplarını kesin, bol suda yıkayın.",
+    "İyice süzüp kuruladıktan sonra doğrayın; ıslak maydanoz ezilir ve çabuk kararır."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "maydanoz__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "01-01",
+      "bit": "12-31",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Halde yıl boyu satılıyor; belirgin bir mevsimi görülmüyor."
+    }
+  ],
+  "secim_ipuclari": [
+    "Yapraklar koyu yeşil, dik ve parlak olsun.",
+    "Sararmış ya da kararmış yapraklı demetleri almayın.",
+    "Koklayın: taze maydanozun kokusu belirgindir.",
+    "Sapları gevrek olmalı, sölpük olmamalı."
+  ],
+  "besin": [
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini açısından zengindir (100 g'da 1640 µg; günlük başvuru değerini aşar).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Parsley, fresh (FDC ID 170416)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170416/nutrients"
+    },
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir (100 g'da 133 mg; günlük başvuru değerini aşar).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Parsley, fresh (FDC ID 170416)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170416/nutrients"
+    },
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat açısından zengindir (100 g'da 152 µg; günlük başvuru değerine oranı yaklaşık %76).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Parsley, fresh (FDC ID 170416)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170416/nutrients"
+    },
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif kaynağıdır (100 g'da 3,3 g).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Parsley, fresh (FDC ID 170416)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170416/nutrients"
+    }
+  ],
+  "tarifler": [
+    "kisir",
+    "coban_salatasi",
+    "mevsim_salatasi"
+  ]
+}

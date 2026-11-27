@@ -1,0 +1,95 @@
+{
+  "id": "ceviz",
+  "ad": "Ceviz",
+  "diger_adlar": [],
+  "kategori_id": "diger",
+  "kisa_tanim": "Ekimde toplanan, kabuğuyla ya da iç olarak kış boyu kullanılan sert kabuklu meyve.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "ceviz",
+  "aktif": true,
+  "enerji_kcal_100g": 654,
+  "enerji_durum": "ceviz içi (çiğ)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Nuts, walnuts, english (FDC ID 170187, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170187/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Kabuğu kırmak için cevizi sivri uçları yukarı-aşağı gelecek şekilde tutun ve ortadaki birleşme çizgisinden ceviz kıracağıyla ya da çekiçle hafifçe vurun.",
+    "İçteki odunsu ara bölmeleri ayıklayın; tatlıda kullanacaksanız iri parçaları elle bölün."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "ceviz__ege__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "hasat",
+      "bas": "10-01",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Kavaklıdere Cevizi (No 528)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/3c04b492-3528-4379-895b-a0fd4c984dea.pdf",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "resmi",
+      "not": "Kavaklıdere'de ceviz hasadı."
+    }
+  ],
+  "secim_ipuclari": [
+    "Kabuklu cevizde boyuna göre ağır olanları seçin; hafif ceviz içi kurumuş ya da boş olabilir.",
+    "Kabukta çatlak ve delik olmamalı; delik, kurt işaretidir.",
+    "Salladığınızda içinde tıkırdayan ceviz eskidir.",
+    "Ceviz içi alıyorsanız açık renkli, dolgun ve kokusuz olsun; acı ya da yağ kokusu (ransitlik) varsa bayatlamıştır. Ceviz içini buzdolabında kapalı kapta saklayın."
+  ],
+  "besin": [
+    {
+      "ad": "Manganez",
+      "tur": "mineral",
+      "aciklama": "Manganez açısından zengindir: 100 g'da 3,41 mg; günlük başvuru değerine oranı yaklaşık %170.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, walnuts, english (FDC ID 170187, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170187/nutrients"
+    },
+    {
+      "ad": "Bakır",
+      "tur": "mineral",
+      "aciklama": "Bakır açısından zengindir: 100 g'da 1,59 mg; günlük başvuru değerine oranı yaklaşık %159.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, walnuts, english (FDC ID 170187, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170187/nutrients"
+    },
+    {
+      "ad": "Fosfor",
+      "tur": "mineral",
+      "aciklama": "Fosfor açısından zengindir: 100 g'da 346 mg; günlük başvuru değerine oranı yaklaşık %49.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, walnuts, english (FDC ID 170187, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170187/nutrients"
+    },
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat açısından zengindir: 100 g'da 98 µg; günlük başvuru değerine oranı yaklaşık %49.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, walnuts, english (FDC ID 170187, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170187/nutrients"
+    },
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif açısından zengindir: 100 g'da 6,7 g.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, walnuts, english (FDC ID 170187, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170187/nutrients"
+    },
+    {
+      "ad": "Çoklu doymamış yağ",
+      "tur": "diger",
+      "aciklama": "Çoklu doymamış yağ asidi içeriği yüksektir: 100 g ceviz içinde 47,2 g.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, walnuts, english (FDC ID 170187, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170187/nutrients"
+    }
+  ],
+  "tarifler": [
+    "cevizli_kuru_incir_tatlisi",
+    "firin_elma",
+    "muhammara"
+  ]
+}

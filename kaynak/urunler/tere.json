@@ -1,0 +1,73 @@
+{
+  "id": "tere",
+  "ad": "Tere",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Küçük yapraklı, acımsı ve ferah yeşillik; salatanın tadını açar.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "tere",
+  "aktif": true,
+  "enerji_kcal_100g": 32,
+  "enerji_durum": "çiğ, yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Cress, garden, raw (FDC ID 168407)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/168407/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Kök kısmını kesin, bol suda yıkayın.",
+    "İnce sapları da yaprakla birlikte doğranıp yenir."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "tere__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "09-16",
+      "bit": "05-31",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Yaz aylarında (haziran – eylül başı) tezgâhta azalır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Yapraklar canlı yeşil ve diri olsun.",
+    "Sararmış, sölpük ya da çiçek açmış tereyi almayın.",
+    "Sapları ince ve gevrek olmalı.",
+    "Demet nemli ama çürük kokulu olmamalı."
+  ],
+  "besin": [
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini açısından zengindir (100 g'da 542 µg; günlük başvuru değerini aşar).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Cress, garden, raw (FDC ID 168407)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168407/nutrients"
+    },
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir (100 g'da 69 mg; günlük başvuru değerine oranı yaklaşık %86).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Cress, garden, raw (FDC ID 168407)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168407/nutrients"
+    },
+    {
+      "ad": "A vitamini",
+      "tur": "vitamin",
+      "aciklama": "A vitamini açısından zengindir (100 g'da 346 µg; günlük başvuru değerine oranı yaklaşık %43).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Cress, garden, raw (FDC ID 168407)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168407/nutrients"
+    }
+  ],
+  "tarifler": [
+    "tereli_patates_salatasi",
+    "mevsim_salatasi"
+  ]
+}

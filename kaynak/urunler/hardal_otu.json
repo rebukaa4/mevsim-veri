@@ -1,0 +1,52 @@
+{
+  "id": "hardal_otu",
+  "ad": "Hardal otu",
+  "diger_adlar": [],
+  "kategori_id": "ot",
+  "kisa_tanim": "Yabani hardalın genç yaprakları; hafif acı ve keskin bir haşlama otu.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "hardal_otu",
+  "aktif": true,
+  "enerji_kcal_100g": null,
+  "enerji_durum": null,
+  "enerji_kaynak_adi": null,
+  "enerji_kaynak_link": null,
+  "az_bilinen": true,
+  "tanitim": "Hardal otu, yabani hardalın çiçeklenmeden önce toplanan genç yaprakları ve körpe saplarıdır. Tadı hafif acı ve keskindir; haşlanınca yumuşar.",
+  "hazirlama_adimlari": [
+    "Sert sapları ve sararmış yaprakları ayıklayın.",
+    "Bol suda birkaç kez yıkayın.",
+    "Kaynar tuzlu suda 5-8 dakika haşlayıp süzün; acılığı azalır.",
+    "Yabani otları, bitkiyi iyi tanıyan pazar satıcılarından alın; tahminle doğadan toplamayın, benzer görünen zehirli bitkiler olabilir."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "hardal_otu__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "10-01",
+      "bit": "05-31",
+      "kaynak_adi": "Ertuğ F. 2004. Wild edible plants of the Bodrum area (Muğla, Turkey). Turk J Bot 28:161–174",
+      "kaynak_link": "https://journals.tubitak.gov.tr/botany/vol28/iss1/16",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Yabani hardal; Bodrum'da en sık yenen otlardan."
+    }
+  ],
+  "secim_ipuclari": [
+    "Yapraklar genç, yumuşak ve canlı yeşil olsun.",
+    "Sarı çiçek açmış, sapı sertleşmiş bitkileri almayın.",
+    "Sararmış ya da delik yapraklı demetlerden kaçının."
+  ],
+  "besin": [],
+  "tarifler": [
+    "haslanmis_ot_salatasi",
+    "yumurtali_ot_kavurmasi"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "pazi",
+  "ad": "Pazı",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Geniş yapraklı, kalın saplı yeşillik; sarması ve kavurması pek lezzetli.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "pazi",
+  "aktif": true,
+  "enerji_kcal_100g": 19,
+  "enerji_durum": "çiğ, yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Chard, swiss, raw (FDC ID 169991)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169991/nutrients",
+  "az_bilinen": true,
+  "tanitim": "Pazı, pancarın yaprakları için yetiştirilen akrabasıdır; geniş yeşil yaprakları ve kalın beyaz ya da renkli sapları yenir. Tadı ıspanağa benzer ama biraz daha toprak tadındadır.",
+  "hazirlama_adimlari": [
+    "Yaprakları bol suda, toprağı tamamen gidene kadar yıkayın.",
+    "Kalın sapı yapraktan ayırın; sapı ayrıca doğrayın, çünkü yapraktan daha geç pişer.",
+    "Sarma için yaprakları kaynar suda 1-2 dakika haşlayıp soğuk suya alın; yumuşar ve kolay sarılır.",
+    "Kavurma için önce doğranmış sapları, birkaç dakika sonra yaprakları tencereye ekleyin."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "pazi__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "11-01",
+      "bit": "04-30",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Halde yıl boyu var; kasım – nisan arası daha ucuz. Dönem sinyali zayıf."
+    }
+  ],
+  "secim_ipuclari": [
+    "Yapraklar parlak, canlı yeşil ve dik olsun.",
+    "Saplar sert ve çıtır olmalı; bükünce kırılmalı.",
+    "Delik, sarı ya da kahverengi lekeli yaprakları almayın.",
+    "Sarma yapacaksanız orta boy, yırtıksız yaprakları seçin."
+  ],
+  "besin": [
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini açısından zengindir (100 g'da 830 µg; günlük başvuru değerini aşar).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Chard, swiss, raw (FDC ID 169991)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169991/nutrients"
+    },
+    {
+      "ad": "A vitamini",
+      "tur": "vitamin",
+      "aciklama": "A vitamini açısından zengindir (100 g'da 306 µg; günlük başvuru değerine oranı yaklaşık %38).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Chard, swiss, raw (FDC ID 169991)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169991/nutrients"
+    },
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir (100 g'da 30 mg; günlük başvuru değerine oranı yaklaşık %38).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Chard, swiss, raw (FDC ID 169991)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169991/nutrients"
+    }
+  ],
+  "tarifler": [
+    "zeytinyagli_pazi_sarmasi",
+    "pazi_kavurmasi",
+    "otlu_borek"
+  ]
+}

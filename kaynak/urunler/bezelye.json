@@ -1,0 +1,81 @@
+{
+  "id": "bezelye",
+  "ad": "Bezelye (taze)",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Baharın tatlı yeşil taneleri; zeytinyağlısı ve pilavı çok sevilir.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "bezelye",
+  "aktif": true,
+  "enerji_kcal_100g": 81,
+  "enerji_durum": "çiğ, yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Peas, green, raw (FDC ID 170419)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170419/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Kabuğu uç kısmından açıp tanelerini başparmağınızla bir kaba sıyırın.",
+    "Taneleri yıkayıp süzün; 1 kg kabuklu bezelyeden yaklaşık 400 g tane çıkar."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "bezelye__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "03-16",
+      "bit": "05-31",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Serin mevsim ürünü; kıyıda sıcaklar başlayınca biter. Yaz sonuna kadar görülen bezelye iç bölgelerden gelir."
+    }
+  ],
+  "secim_ipuclari": [
+    "Kabuklar parlak yeşil, dolgun ve gergin olsun; sararmış kabuklu bezelye unlu ve serttir.",
+    "Kabuğu bastırınca hafif 'gıcırdamalı'; bu tazeliğin işaretidir.",
+    "Bir tane ayıklayıp tadın: taze bezelye tatlıdır.",
+    "Çok şişkin, kabuğu kurumuş olanları almayın."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir (100 g'da 40 mg; günlük başvuru değerine oranı yaklaşık %50).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Peas, green, raw (FDC ID 170419)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170419/nutrients"
+    },
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini açısından zengindir (100 g'da 25 µg; günlük başvuru değerine oranı yaklaşık %33).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Peas, green, raw (FDC ID 170419)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170419/nutrients"
+    },
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat açısından zengindir (100 g'da 65 µg; günlük başvuru değerine oranı yaklaşık %32).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Peas, green, raw (FDC ID 170419)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170419/nutrients"
+    },
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif kaynağıdır (100 g'da 5,7 g).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Peas, green, raw (FDC ID 170419)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170419/nutrients"
+    }
+  ],
+  "tarifler": [
+    "zeytinyagli_bezelye",
+    "bezelyeli_bulgur_pilavi",
+    "zeytinyagli_enginar"
+  ]
+}

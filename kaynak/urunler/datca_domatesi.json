@@ -1,0 +1,57 @@
+{
+  "id": "datca_domatesi",
+  "ad": "Datça Domatesi",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Muğla Datça'da yazın ekilip ekimden ocağa toplanan, ince kabuklu, parlak koyu kırmızı, basık ve dilimli, sulu ama mayhoş olmayan yerel domates.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "48",
+  "gorsel_id": null,
+  "aktif": true,
+  "enerji_kcal_100g": 18,
+  "enerji_durum": "çiğ (kırmızı domates genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Tomatoes, red, ripe, raw, year round average (FDC ID 170457, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170457/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "datca_domatesi__48__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "48",
+      "donem_turu": "hasat",
+      "bas": "10-01",
+      "bit": "01-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Datça Domatesi (No 1571)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/5c1fe343-035e-41e0-93eb-6956ab83b0ba.pdf",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "resmi",
+      "not": "Yaz sonunda ekilir; ekimde toplanmaya başlanır, ocak sonuna kadar sürer."
+    }
+  ],
+  "secim_ipuclari": [
+    "Parlak, koyu kırmızı ve kokulu domatesleri seçin.",
+    "Dokununca hafifçe esnemeli; çok yumuşak ya da sulanmış olanlar çabuk bozulur.",
+    "Datça domatesi dilimli ve basık biçimlidir; düzensiz görünümü doğaldır.",
+    "Buzdolabına koymayın; oda sıcaklığında saklayıp birkaç gün içinde yiyin, tadı korunur."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini kaynağıdır: 100 g'da 13,7 mg; günlük başvuru değerine oranı yaklaşık %17.",
+      "kaynak_adi": "USDA FoodData Central — Tomatoes, red, ripe, raw, year round average (FDC ID 170457, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170457/nutrients"
+    }
+  ],
+  "tarifler": [
+    "narli_coban_salatasi",
+    "menemen",
+    "domates_salatasi"
+  ]
+}

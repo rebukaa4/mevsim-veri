@@ -1,0 +1,74 @@
+{
+  "id": "kirmizi_pancar",
+  "ad": "Kırmızı pancar",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Koyu kırmızı, tatlı kış kökü; salatası ve yoğurtlusu çok güzeldir.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "kirmizi_pancar",
+  "aktif": true,
+  "enerji_kcal_100g": 43,
+  "enerji_durum": "çiğ, yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Beets, raw (FDC ID 169145)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169145/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Yapraklarını 2-3 cm sap bırakarak kesin; kökü kesmeyin, yoksa pişerken rengi suya akar.",
+    "Fırçayla yıkayıp kabuğuyla haşlayın (40-60 dakika) ya da folyoya sarıp fırında pişirin; çatal kolayca giriyorsa pişmiştir.",
+    "Ilınınca kabuğunu elle sıyırın; ellerinizi boyamasın diye eldiven giyebilirsiniz."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "kirmizi_pancar__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "11-01",
+      "bit": "05-31",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024); Cumhuriyet/AA 11.01.2024, kışlık sebze",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "İzmir'in kışlık sebzelerinden; en ucuz olduğu dönem mart ortası – mayıs ortası."
+    }
+  ],
+  "secim_ipuclari": [
+    "Sert, pürüzsüz ve elinizde ağır olanı seçin.",
+    "Orta boy pancarlar daha çabuk pişer ve daha tatlıdır.",
+    "Yaprakları varsa taze ve dik olsun.",
+    "Yumuşak, buruşuk ya da yaralı olanları almayın."
+  ],
+  "besin": [
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat açısından zengindir (100 g'da 109 µg; günlük başvuru değerine oranı yaklaşık %55).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Beets, raw (FDC ID 169145)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169145/nutrients"
+    },
+    {
+      "ad": "Manganez",
+      "tur": "mineral",
+      "aciklama": "Manganez kaynağıdır (100 g'da 0,3 mg; günlük başvuru değerine oranı yaklaşık %16).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Beets, raw (FDC ID 169145)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169145/nutrients"
+    },
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum kaynağıdır (100 g'da 325 mg; günlük başvuru değerine oranı yaklaşık %16).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Beets, raw (FDC ID 169145)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169145/nutrients"
+    }
+  ],
+  "tarifler": [
+    "pancar_salatasi",
+    "yogurtlu_pancar"
+  ]
+}

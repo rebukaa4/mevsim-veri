@@ -1,0 +1,74 @@
+{
+  "id": "koprubasi_cilegi",
+  "ad": "Köprübaşı Çileği",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Manisa Köprübaşı'nın Demirköprü Barajı çevresinde yetişen, sert yapılı, canlı ve parlak kırmızı, iri (26–30 g) çileği.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "45",
+  "gorsel_id": null,
+  "aktif": true,
+  "enerji_kcal_100g": 32,
+  "enerji_durum": "çiğ (çilek genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Strawberries, raw (FDC ID 167762, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/167762/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Yemeden hemen önce, sapıyla birlikte bol suda kısa süre yıkayın; sapı yıkadıktan sonra koparın (önce koparırsanız içine su çeker).",
+    "Buzdolabında yıkamadan, tek kat halinde saklayın ve 2–3 gün içinde tüketin."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "koprubasi_cilegi__45__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "45",
+      "donem_turu": "hasat",
+      "bas": "04-24",
+      "bit": "06-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Köprübaşı Çileği (No 943)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/c5890703-a2b7-44d7-8399-d939fc9c42b7.pdf",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "resmi",
+      "not": "İlk hasat nisanın son haftasında, son hasat haziran sonunda."
+    }
+  ],
+  "secim_ipuclari": [
+    "Yeşil sapı (çanak yaprakları) taze ve dik olsun; kurumuş sap eski üründür.",
+    "Rengi sap dibine kadar parlak kırmızı olmalı; beyaz kalan uçlar tam olgunlaşmamıştır.",
+    "Kabın dibine bakın: ezik, sulanmış ya da küflü tane varsa diğerleri de çabuk bozulur.",
+    "Kokusu belirgin ve tatlı olan çilek daha lezzetlidir."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "Tescil belgesine göre 100 g'da 60–68 mg C vitamini bulunur; günlük başvuru değerine (80 mg) oranı yaklaşık %75–85.",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescil belgesi No 943 — Köprübaşı Çileği",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/c5890703-a2b7-44d7-8399-d939fc9c42b7.pdf"
+    },
+    {
+      "ad": "Manganez",
+      "tur": "mineral",
+      "aciklama": "Manganez kaynağıdır: 100 g'da 0,39 mg; günlük başvuru değerine oranı yaklaşık %19.",
+      "kaynak_adi": "USDA FoodData Central — Strawberries, raw (FDC ID 167762, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/167762/nutrients"
+    },
+    {
+      "ad": "Su",
+      "tur": "diger",
+      "aciklama": "Su oranı yüksektir: 100 g'ının yaklaşık 91 g'ı sudur.",
+      "kaynak_adi": "USDA FoodData Central — Strawberries, raw (FDC ID 167762, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/167762/nutrients"
+    }
+  ],
+  "tarifler": [
+    "cilek_receli",
+    "cilekli_muhallebi",
+    "meyveli_yogurt_kasesi"
+  ]
+}

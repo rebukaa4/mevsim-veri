@@ -1,0 +1,70 @@
+{
+  "id": "karides",
+  "ad": "Karides",
+  "diger_adlar": [],
+  "kategori_id": "balik_deniz",
+  "kisa_tanim": "Sonbaharda Ege'de avlanan, kabuklu deniz ürünü.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "karides",
+  "aktif": true,
+  "enerji_kcal_100g": 85,
+  "enerji_durum": "çiğ",
+  "enerji_kaynak_adi": "USDA FoodData Central — \"Crustaceans, shrimp, raw\" (FDC ID 175179)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/175179/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Karidesin başını çevirerek koparın.",
+    "Kabuğu karın tarafındaki bacaklardan başlayarak soyun; isterseniz kuyruk ucunu bırakın.",
+    "Sırtını bıçak ucuyla boydan boya hafifçe yarın, içindeki siyah ince damarı (bağırsak) kürdan ya da bıçak ucuyla çekip çıkarın.",
+    "Soğuk suyla durulayıp kurulayın.",
+    "Karidesi pembeleşip kıvrılana kadar pişirin; fazla pişirmek sertleştirir.",
+    "Deniz ürününü güvendiğiniz bir balıkçıdan alın, eve gelince hemen buzdolabına koyun ve aynı gün pişirin. Donmuş karidesi buzdolabında ya da soğuk su dolu kapalı poşette çözdürün; oda sıcaklığında bekletmeyin."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak ve gıda güvenliği bilgisi; ayrı bir kaynakla doğrulanmadı)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "karides__ege__av__1",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "ege",
+      "donem_turu": "av",
+      "bas": "09-01",
+      "bit": "12-31",
+      "kaynak_adi": "Kınacıgil ve ark. (ed.) 2017, İzmir Balıkçılığı (Akyol, İzmir Körfezi balıklarının av takvimi), İzmir Büyükşehir Belediyesi; Ticari Amaçlı Su Ürünleri Avcılığı Tebliği (No 2024/20), Resmî Gazete 11.08.2024, madde 27",
+      "kaynak_link": "https://www.izmir.bel.tr:443/YuklenenDosyalar/Yayinlar/0_08022018_053047_izmir-balikciligi.pdf",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "akademik",
+      "not": "Yaz aylarında satılan karides Ege'deki av kısıtlaması nedeniyle başka kaynaklıdır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Kabuğu parlak, sıkı ve ete yapışık olmalı; kabuğu gevşemiş, kayganlaşmış karidesi almayın.",
+    "Başı gövdeye sağlam bağlı olmalı; başın siyahlaşması bayatlık işaretidir.",
+    "Hafif deniz kokmalı; amonyak ya da çürük kokusu varsa almayın.",
+    "Donmuş karides alıyorsanız paket içinde buz kristali birikmemiş olmalı."
+  ],
+  "besin": [
+    {
+      "ad": "Protein",
+      "tur": "diger",
+      "aciklama": "100 gramında yaklaşık 20 g protein bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Crustaceans, shrimp, raw\" (FDC ID 175179)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/175179/nutrients"
+    },
+    {
+      "ad": "Selenyum",
+      "tur": "mineral",
+      "aciklama": "100 gramında yaklaşık 30 µg selenyum bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Crustaceans, shrimp, mixed species, raw\" (FDC ID 174210)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/174210/nutrients"
+    }
+  ],
+  "tarifler": [
+    "karides_guvec",
+    "karides_sote"
+  ]
+}

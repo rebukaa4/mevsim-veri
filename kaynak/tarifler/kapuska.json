@@ -1,0 +1,21 @@
+{
+  "id": "kapuska",
+  "baslik": "Kapuska",
+  "malzemeler": [
+    "Yarım orta boy beyaz lahana",
+    "1 adet kuru soğan",
+    "200 g kıyma (isteğe bağlı)",
+    "1 yemek kaşığı salça",
+    "2 yemek kaşığı pirinç ya da bulgur",
+    "3 yemek kaşığı sıvı yağ",
+    "Tuz, pul biber",
+    "1,5 su bardağı sıcak su"
+  ],
+  "adimlar": [
+    "Varsa kıymayı yağda kavurun; soğanı ekleyip pembeleştirin.",
+    "Salçayı ekleyip çevirin; doğranmış lahanayı ekleyip sönene kadar karıştırın.",
+    "Pirinç, tuz, pul biber ve sıcak suyu ekleyin.",
+    "Kapağı kapalı kısık ateşte 30 dakika pişirin."
+  ],
+  "kaynak_adi": "Mevsim"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "ispanak",
+  "ad": "Ispanak",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Kışın Menemen ovasından gelen yeşil yapraklı sebze.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "ispanak",
+  "aktif": true,
+  "enerji_kcal_100g": 23,
+  "enerji_durum": "çiğ, yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Spinach, raw (FDC ID 168462)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/168462/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Köklerini ve kalın saplarını kesin, sararmış yaprakları ayıklayın.",
+    "Bol suda en az 3 kez, son suyun dibinde hiç toprak kalmayana kadar yıkayın.",
+    "Süzüp iri iri doğrayın; pişince çok azalır, 1 kg ıspanak bir tencere yemeğe ancak yeter."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "ispanak__ege__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "hasat",
+      "bas": "11-01",
+      "bit": "04-30",
+      "kaynak_adi": "Habertürk/İHA 12.11.2025, ıspanak; İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
+      "kaynak_link": "https://yerel-haberler.haberturk.com/izmir-haberleri/kis-sebzesi-ispanakta-hasat-bolluguispanagin-kilosu-tarlada-6-pazarda-40-tl-115363222",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Menemen ovası ıspanağı; en bol ve ucuz olduğu aylar mart – nisan."
+    }
+  ],
+  "secim_ipuclari": [
+    "Yaprakları koyu yeşil, parlak ve dik olsun; sararmış ya da sararmaya başlamış olanları almayın.",
+    "Yapraklar elde diri durmalı, sölpük ve ıslak-çürük olmamalı.",
+    "Sapları ince olanlar daha körpedir.",
+    "Demetin dibinde çamur ve çürüme olup olmadığına bakın."
+  ],
+  "besin": [
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini açısından zengindir (100 g'da 483 µg; günlük başvuru değerini aşar).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Spinach, raw (FDC ID 168462)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168462/nutrients"
+    },
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat açısından zengindir (100 g'da 194 µg; günlük başvuru değerine oranı yaklaşık %97).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Spinach, raw (FDC ID 168462)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168462/nutrients"
+    },
+    {
+      "ad": "A vitamini",
+      "tur": "vitamin",
+      "aciklama": "A vitamini açısından zengindir (100 g'da 469 µg; günlük başvuru değerine oranı yaklaşık %59).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Spinach, raw (FDC ID 168462)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168462/nutrients"
+    }
+  ],
+  "tarifler": [
+    "zeytinyagli_ispanak",
+    "ispanak_borani",
+    "otlu_borek"
+  ]
+}

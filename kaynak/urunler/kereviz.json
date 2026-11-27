@@ -1,0 +1,68 @@
+{
+  "id": "kereviz",
+  "ad": "Kereviz (kök)",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Kışın yumru kökü; zeytinyağlısı ve yoğurtlu salatası Ege'de çok sevilir.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "kereviz",
+  "aktif": true,
+  "enerji_kcal_100g": 42,
+  "enerji_durum": "çiğ, yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Celeriac, raw (FDC ID 170400)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170400/nutrients",
+  "az_bilinen": true,
+  "tanitim": "Kök kereviz, toprak altında büyüyen yuvarlak bir yumrudur; kalın kabuğu soyulup açık renkli eti yenir. Tadı hafif tatlı, kendine özgü kokulu ve maydanoza yakındır.",
+  "hazirlama_adimlari": [
+    "Önce bir kaba su ve 1 limonun suyunu koyun; soyulan kereviz kararmasın diye bu suya atılacak.",
+    "Kerevizi fırçayla yıkayın, üst ve alt kısmını düz kesin.",
+    "Kalın kabuğunu bıçakla yukarıdan aşağı doğru soyun; köklerin girintilerini oyarak temizleyin.",
+    "İstediğiniz gibi doğrayıp hemen limonlu suya bırakın; yaprakları varsa yemeğin üstüne doğranabilir."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "kereviz__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "01-01",
+      "bit": "05-31",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024); Cumhuriyet/AA 11.01.2024, kışlık sebze",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Halde en ucuz olduğu dönem ocak – mayıs."
+    }
+  ],
+  "secim_ipuclari": [
+    "Elinizde ağır ve sert olanı seçin; hafif olan kerevizin içi boşalmış (süngerleşmiş) olabilir.",
+    "Üstüne vurunca dolu bir ses vermeli.",
+    "Yaprakları varsa yeşil ve taze olsun.",
+    "Yumuşak noktalı ya da çürük lekeli olanları almayın."
+  ],
+  "besin": [
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini açısından zengindir (100 g'da 41 µg; günlük başvuru değerine oranı yaklaşık %55).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Celeriac, raw (FDC ID 170400)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170400/nutrients"
+    },
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum kaynağıdır (100 g'da 300 mg; günlük başvuru değerine oranı yaklaşık %15).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Celeriac, raw (FDC ID 170400)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170400/nutrients"
+    }
+  ],
+  "tarifler": [
+    "zeytinyagli_kereviz",
+    "yogurtlu_kereviz_salatasi"
+  ]
+}

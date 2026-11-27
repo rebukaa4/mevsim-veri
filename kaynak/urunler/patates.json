@@ -1,0 +1,114 @@
+{
+  "id": "patates",
+  "ad": "Patates",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Her sofranın dostu; baharda ovaların taze patatesi, yıl boyu depodan.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "patates",
+  "aktif": true,
+  "enerji_kcal_100g": 77,
+  "enerji_durum": "çiğ, yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Potatoes, flesh and skin, raw (FDC ID 170026)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170026/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Patatesi fırçayla yıkayın; taze patates kabuğuyla da pişirilebilir.",
+    "Yeşillenmiş kısımları ve filiz gözlerini kalınca kesip atın; bu kısımlar yenmemelidir.",
+    "Soyduğunuz patatesleri kararmasın diye pişirene kadar su içinde tutun."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "patates__ege__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "hasat",
+      "bas": "05-01",
+      "bit": "06-30",
+      "kaynak_adi": "Yılmaz, Demircan, Erel 2006. SDÜ Ziraat Fak. Derg. 1(1):22–32",
+      "kaynak_link": "https://dergipark.org.tr/en/download/article-file/308840",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "akademik",
+      "not": "İzmir ovalarının erkenci (taze) patatesi."
+    },
+    {
+      "id": "patates__ege__hasat__2",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "hasat",
+      "bas": "11-01",
+      "bit": "11-30",
+      "kaynak_adi": "Yılmaz, Demircan, Erel 2006. SDÜ Ziraat Fak. Derg. 1(1):22–32",
+      "kaynak_link": "https://dergipark.org.tr/en/download/article-file/308840",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "akademik",
+      "not": "İzmir ovalarında ikinci ürün patates hasadı."
+    },
+    {
+      "id": "patates__ege_ic__hasat__1",
+      "kapsam_turu": "alt_bolge",
+      "kapsam_id": "ege_ic",
+      "donem_turu": "hasat",
+      "bas": "09-01",
+      "bit": "10-31",
+      "kaynak_adi": "Yılmaz, Demircan, Erel 2006. SDÜ Ziraat Fak. Derg. 1(1):22–32; Tarım ve Orman Bakanlığı, iklim ve fenolojik durum istatistikleri (Ağustos 2025); Tarım ve Orman Bakanlığı, iklim ve fenolojik durum istatistikleri (Eylül 2025)",
+      "kaynak_link": "https://dergipark.org.tr/en/download/article-file/308840",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "akademik",
+      "not": "İç Ege yaylalarında (ör. Afyonkarahisar) patates hasadı eylül – ekimdedir."
+    },
+    {
+      "id": "patates__ege__depo__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "depo",
+      "bas": "01-01",
+      "bit": "12-31",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Depolanmış patates yıl boyu bulunur."
+    }
+  ],
+  "secim_ipuclari": [
+    "Sert, pürüzsüz ve kabuğu sağlam olanı seçin.",
+    "Yeşillenmiş ya da filiz vermiş patatesleri almayın.",
+    "Taze patatesin kabuğu incedir, tırnakla kolayca sıyrılır.",
+    "Yumuşak, buruşuk ya da çürük kokulu olanlardan uzak durun."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini kaynağıdır (100 g'da 20 mg; günlük başvuru değerine oranı yaklaşık %25).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Potatoes, flesh and skin, raw (FDC ID 170026)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170026/nutrients"
+    },
+    {
+      "ad": "B6 vitamini",
+      "tur": "vitamin",
+      "aciklama": "B6 vitamini kaynağıdır (100 g'da 0,3 mg; günlük başvuru değerine oranı yaklaşık %21).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Potatoes, flesh and skin, raw (FDC ID 170026)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170026/nutrients"
+    },
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum kaynağıdır (100 g'da 425 mg; günlük başvuru değerine oranı yaklaşık %21).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Potatoes, flesh and skin, raw (FDC ID 170026)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170026/nutrients"
+    }
+  ],
+  "tarifler": [
+    "firinda_sebzeli_patates",
+    "tereli_patates_salatasi",
+    "sebzeli_turlu"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "sardalya",
+  "ad": "Sardalya",
+  "diger_adlar": [],
+  "kategori_id": "balik_deniz",
+  "kisa_tanim": "Ege'nin yıl boyu bulunan, en lezzetli ve yağlı olduğu dönem yaz sonu–sonbahar olan küçük gümüşi balığı.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "sardalya",
+  "aktif": true,
+  "enerji_kcal_100g": 225,
+  "enerji_durum": "çiğ; ölçüm yağlı döneme yakın, kış sardalyasında değer daha düşüktür",
+  "enerji_kaynak_adi": "CREA Centro di ricerca Alimenti e Nutrizione, Tabelle di Composizione degli Alimenti (İtalya, 2019) — \"Sardine — Sardina pilchardus\" (kod 122800)",
+  "enerji_kaynak_link": "https://www.alimentinutrizione.it/tabelle-nutrizionali/122800",
+  "az_bilinen": false,
+  "tanitim": "Hamsiden biraz iri, daha tombul ve küt burunlu bir balıktır; alt çenesi burnunu geçmez. Yağlı ve aromalıdır, en çok ızgarada ya da fırında pişirilir.",
+  "hazirlama_adimlari": [
+    "Sardalyanın pulları çok incedir; akan suyun altında parmakla sıyırarak temizleyin.",
+    "Başını solungaçların hemen arkasından koparın; çekerken iç organların çoğu başla birlikte çıkar.",
+    "Karnını başparmakla açıp kalan iç organları ve siyah zarı yıkayarak temizleyin.",
+    "Kılçıksız isterseniz karnından açın, orta kılçığı kuyruk ucundan tutup yavaşça çekip ayırın.",
+    "Temizlediğiniz sardalyaları hemen buzdolabına koyun ve aynı gün pişirin; sardalya çabuk bozulan bir balıktır.",
+    "Eti beyazlaşıp kılçıktan kolayca ayrılana kadar pişirin."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak ve gıda güvenliği bilgisi; ayrı bir kaynakla doğrulanmadı)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "sardalya__ege__pazar_yogun__1",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "01-01",
+      "bit": "12-31",
+      "kaynak_adi": "Kınacıgil ve ark. (ed.) 2017, İzmir Balıkçılığı (Akyol, İzmir Körfezi balıklarının av takvimi), İzmir Büyükşehir Belediyesi",
+      "kaynak_link": "https://www.izmir.bel.tr:443/YuklenenDosyalar/Yayinlar/0_08022018_053047_izmir-balikciligi.pdf",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "akademik",
+      "not": "Yıl boyu avlanır; halde en ucuz olduğu dönem eylül – aralık."
+    },
+    {
+      "id": "sardalya__ege__av__1",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "ege",
+      "donem_turu": "av",
+      "bas": "07-01",
+      "bit": "10-31",
+      "kaynak_adi": "Akçay ve Egemen 2006, İzmir Körfezinde avlanan bazı balık türlerinin kimyasal değişimleri (Su Ürünleri Dergisi)",
+      "kaynak_link": "https://www.acarindex.com/su-urunleri-dergisi/izmir-korfezinde-avlanan-bazi-balik-turlerinin-kimyasal-degisimleri-uzerine-bir-arastirma-357217",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "akademik",
+      "not": "Sardalyanın en yağlı ve lezzetli olduğu dönem; kışın yağ oranı düşer."
+    }
+  ],
+  "secim_ipuclari": [
+    "Gözleri parlak, dolgun ve şeffaf olsun; içe çökmüş, buğulu gözlü balığı almayın.",
+    "Sırtı koyu mavi-yeşil, karnı parlak gümüşi olmalı; karnı yumuşamış, patlamış ya da kanı karna yayılmış sardalyayı almayın.",
+    "Parmakla bastırınca eti hemen eski hâline dönmeli; iz kalıyorsa taze değildir.",
+    "Hafif deniz ve yosun kokmalı; ağır, ekşi ya da amonyak gibi koku bayatlık işaretidir."
+  ],
+  "besin": [
+    {
+      "ad": "Protein",
+      "tur": "diger",
+      "aciklama": "Adriyatik'te yapılan aylık ölçümde 100 gramında her ay yaklaşık 19–20 g protein bulunmuştur.",
+      "kaynak_adi": "Šimat V. ve ark. 2020. Foods 9(7):867 — Orta Adriyatik sardalyasında aylık bileşim",
+      "kaynak_link": "https://doi.org/10.3390/foods9070867"
+    },
+    {
+      "ad": "Omega-3 (EPA ve DHA)",
+      "tur": "diger",
+      "aciklama": "Yağlı bir balıktır; aynı ölçümde 100 gramındaki EPA ve DHA toplamı yıl ortalamasında yaklaşık 1,7 g bulunmuştur, yağın az olduğu kış aylarında daha düşüktür.",
+      "kaynak_adi": "Šimat V. ve ark. 2020. Foods 9(7):867 — Orta Adriyatik sardalyasında aylık bileşim",
+      "kaynak_link": "https://doi.org/10.3390/foods9070867"
+    },
+    {
+      "ad": "Selenyum",
+      "tur": "mineral",
+      "aciklama": "100 gramında yaklaşık 58 µg selenyum bulunur.",
+      "kaynak_adi": "CREA Centro di ricerca Alimenti e Nutrizione, Tabelle di Composizione degli Alimenti (İtalya, 2019) — \"Sardine — Sardina pilchardus\" (kod 122800)",
+      "kaynak_link": "https://www.alimentinutrizione.it/tabelle-nutrizionali/122800"
+    }
+  ],
+  "tarifler": [
+    "izgara_sardalya",
+    "firinda_domatesli_sardalya"
+  ]
+}

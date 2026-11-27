@@ -1,0 +1,59 @@
+{
+  "id": "taze_misir",
+  "ad": "Taze mısır",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Yazın haşlanmış ya da közlenmiş yenen tatlı koçan.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "taze_misir",
+  "aktif": true,
+  "enerji_kcal_100g": 86,
+  "enerji_durum": "çiğ, yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Corn, sweet, yellow, raw (FDC ID 169998)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169998/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Kabuklarını ve püsküllerini soyun; kalan ince püskülleri elle temizleyin.",
+    "Haşlarken suya tuz atmayın, pişince tuzlayın; taneler daha yumuşak kalır."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "taze_misir__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "07-01",
+      "bit": "10-31",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Tarla mısırı dönemi; haziranda görülen mısır çoğunlukla Akdeniz'den gelir."
+    }
+  ],
+  "secim_ipuclari": [
+    "Yeşil kabukları taze ve sıkıca sarılı olsun.",
+    "Uçtaki püskül kahverengi ama nemli olmalı; kupkuru ve siyah püskül eskidiğini gösterir.",
+    "Kabuğun üstünden tanelere bastırın; dolgun ve sıra sıra hissedilmeli.",
+    "Bir taneyi tırnakla delin: süt gibi beyaz su çıkıyorsa tazedir."
+  ],
+  "besin": [
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat kaynağıdır (100 g'da 42 µg; günlük başvuru değerine oranı yaklaşık %21).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Corn, sweet, yellow, raw (FDC ID 169998)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169998/nutrients"
+    }
+  ],
+  "tarifler": [
+    "haslanmis_misir",
+    "misirli_salata"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "koycegiz_portakali",
+  "ad": "Köyceğiz Portakalı",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Muğla Köyceğiz'in Sandıras Dağı eteklerinde yetişen, koyu turuncu renkli, sulu ve şekeri yüksek Washington (göbekli) portakalı.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "48",
+  "gorsel_id": null,
+  "aktif": true,
+  "enerji_kcal_100g": 49,
+  "enerji_durum": "çiğ, kabuksuz (göbekli/navel portakal değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Oranges, raw, navels (Includes foods for USDA's Food Distribution Program) (FDC ID 169917, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169917/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "koycegiz_portakali__48__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "48",
+      "donem_turu": "hasat",
+      "bas": "09-24",
+      "bit": "11-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Köyceğiz Portakalı (No 1124)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/5e652232-1344-494b-8db2-893d47ece95c.pdf",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "resmi",
+      "not": "Eylül sonundan kasım sonuna kadar hasat edilir."
+    }
+  ],
+  "secim_ipuclari": [
+    "Boyuna göre ağır olsun; ağır portakal daha sulu demektir.",
+    "Kabuğu ince ve pürüzsüz olanlar genelde daha sulu çıkar.",
+    "Yumuşak, küflü ya da buruşmuş bölgesi olmamalı.",
+    "Kabuk rengi olgunluğu her zaman göstermez; biraz yeşillik kalmış portakal da tatlı olabilir."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir: 100 g'da 59,1 mg; günlük başvuru değerine oranı yaklaşık %73.",
+      "kaynak_adi": "USDA FoodData Central — Oranges, raw, navels (Includes foods for USDA's Food Distribution Program) (FDC ID 169917, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169917/nutrients"
+    },
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat kaynağıdır: 100 g'da 34 µg; günlük başvuru değerine oranı yaklaşık %17.",
+      "kaynak_adi": "USDA FoodData Central — Oranges, raw, navels (Includes foods for USDA's Food Distribution Program) (FDC ID 169917, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169917/nutrients"
+    }
+  ],
+  "tarifler": [
+    "narenciye_salatasi",
+    "portakalli_kek",
+    "havuclu_portakalli_salata"
+  ]
+}

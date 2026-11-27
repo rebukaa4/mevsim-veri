@@ -1,0 +1,96 @@
+{
+  "id": "radika",
+  "ad": "Radika",
+  "diger_adlar": [],
+  "kategori_id": "ot",
+  "kisa_tanim": "Hafif acımsı yabani hindiba; haşlanıp zeytinyağı ve limonla yenir.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "radika",
+  "aktif": true,
+  "enerji_kcal_100g": 23,
+  "enerji_durum": "çiğ, yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Chicory greens, raw (FDC ID 169992)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169992/nutrients",
+  "az_bilinen": true,
+  "tanitim": "Radika, yabani hindibanın genç yapraklarıdır; yaprak demeti dibiyle birlikte haşlanıp yenir. Tadı hoş bir acılıktadır; haşlayınca acılığı yumuşar.",
+  "hazirlama_adimlari": [
+    "Kök uçlarını kesin; sararmış ve sert yaprakları ayıklayın.",
+    "Toprağı tamamen gidene kadar bol suda 3-4 kez yıkayın.",
+    "Kaynayan tuzlu suda 8-10 dakika, sapları yumuşayana kadar haşlayın.",
+    "Süzüp soğuk suya alın, hafifçe sıkın; salata ya da kavurma için hazırdır. Daha az acı isterseniz haşlama süresini uzatın.",
+    "Yabani otları, bitkiyi iyi tanıyan pazar satıcılarından alın; tahminle doğadan toplamayın, benzer görünen zehirli bitkiler olabilir."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "radika__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "10-01",
+      "bit": "05-31",
+      "kaynak_adi": "Ertuğ F. 2004. Wild edible plants of the Bodrum area (Muğla, Turkey). Turk J Bot 28:161–174; Kaya İ., İncekara N., Nemli Y. 2004. YYÜ Tarım Bilimleri Dergisi 14(1):1–6",
+      "kaynak_link": "https://journals.tubitak.gov.tr/botany/vol28/iss1/16",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Pazarda radika adıyla yabani hindiba ya da karahindiba satılır."
+    },
+    {
+      "id": "radika__ege_ic__pazar_yogun__1",
+      "kapsam_turu": "alt_bolge",
+      "kapsam_id": "ege_ic",
+      "donem_turu": "pazar_yogun",
+      "bas": "06-01",
+      "bit": "07-31",
+      "kaynak_adi": "Yücel, Yücel Şengün ve Çoban 2012, Afyonkarahisar yabani yenen bitkileri (Biological Diversity and Conservation 5/2)",
+      "kaynak_link": "https://dergipark.org.tr/en/download/article-file/1191843",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "akademik",
+      "not": "İç Ege'de (Afyonkarahisar) radika haziran – temmuzda toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Yapraklar koyu yeşil, diri ve genç olsun; çiçek sapı çıkmış radika serttir ve çok acıdır.",
+    "Sararmış ya da çürümüş yapraklı demetleri almayın.",
+    "Küçük, rozet halindeki genç bitkiler daha yumuşak ve daha az acıdır.",
+    "Dipteki kök kısmı temiz ve taze olmalı."
+  ],
+  "besin": [
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini açısından zengindir (100 g'da 298 µg; günlük başvuru değerini aşar).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Chicory greens, raw (FDC ID 169992)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169992/nutrients"
+    },
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat açısından zengindir (100 g'da 110 µg; günlük başvuru değerine oranı yaklaşık %55).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Chicory greens, raw (FDC ID 169992)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169992/nutrients"
+    },
+    {
+      "ad": "A vitamini",
+      "tur": "vitamin",
+      "aciklama": "A vitamini açısından zengindir (100 g'da 286 µg; günlük başvuru değerine oranı yaklaşık %36).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Chicory greens, raw (FDC ID 169992)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169992/nutrients"
+    },
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif kaynağıdır (100 g'da 4 g).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Chicory greens, raw (FDC ID 169992)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169992/nutrients"
+    }
+  ],
+  "tarifler": [
+    "haslanmis_ot_salatasi",
+    "yumurtali_ot_kavurmasi"
+  ]
+}

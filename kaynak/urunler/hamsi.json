@@ -1,0 +1,76 @@
+{
+  "id": "hamsi",
+  "ad": "Hamsi",
+  "diger_adlar": [],
+  "kategori_id": "balik_deniz",
+  "kisa_tanim": "Sonbahar ve kış aylarının ince, yağlı, uygun fiyatlı balığı.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "hamsi",
+  "aktif": true,
+  "enerji_kcal_100g": 131,
+  "enerji_durum": "çiğ",
+  "enerji_kaynak_adi": "USDA FoodData Central — \"Fish, anchovy, european, raw\" (FDC ID 174182)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/174182/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Hamsiyi alır almaz soğuk suyla yıkayıp buzdolabına koyun; temizliği aynı gün yapın.",
+    "Başını iki parmakla tutup aşağı doğru koparın; çekerken iç organlar da başla birlikte gelir.",
+    "Karnını başparmakla açıp orta kılçığı kuyruğa kadar sıyırarak çekin; tavada yapacaksanız kuyruğu bırakın.",
+    "Kalan siyah zarı akan suyun altında temizleyip süzgeçte süzdürün.",
+    "Hamsi tava ve buğulama gibi pişirildiğinde eti tamamen beyazlaşana kadar pişirin."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak ve gıda güvenliği bilgisi; ayrı bir kaynakla doğrulanmadı)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "hamsi__ege__av__1",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "ege",
+      "donem_turu": "av",
+      "bas": "09-01",
+      "bit": "03-31",
+      "kaynak_adi": "Kınacıgil ve ark. (ed.) 2017, İzmir Balıkçılığı (Akyol, İzmir Körfezi balıklarının av takvimi), İzmir Büyükşehir Belediyesi; Ticari Amaçlı Su Ürünleri Avcılığı Tebliği (No 2024/20), Resmî Gazete 11.08.2024; Deniz Haber, \"Balıkçılıkta yeni kurallar Resmi Gazete'de\", 16.09.2026 (Tebliğ 2026/25 özeti)",
+      "kaynak_link": "https://www.izmir.bel.tr:443/YuklenenDosyalar/Yayinlar/0_08022018_053047_izmir-balikciligi.pdf",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "akademik",
+      "not": "Ege'de gırgır avı 1 Eylül'de açılır. Yaz aylarında satılan hamsi başka av yönteminden ya da başka denizden gelir."
+    }
+  ],
+  "secim_ipuclari": [
+    "Gözleri parlak ve dışa doğru dolgun olmalı; gözleri kızarmış ya da çökmüşse taze değildir.",
+    "Gövdesi dimdik ve parlak gümüşi olmalı; elinize aldığınızda sarkıyor ya da karnı dağılıyorsa almayın.",
+    "Tezgâhta buzun üzerinde durmalı; ılık ortamda bekleyen hamsi çok çabuk bozulur.",
+    "Hafif deniz ve yosun kokmalı; ağır, ekşi ya da amonyak gibi koku bayatlık işaretidir."
+  ],
+  "besin": [
+    {
+      "ad": "Protein",
+      "tur": "diger",
+      "aciklama": "100 gramında yaklaşık 20 g protein bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Fish, anchovy, european, raw\" (FDC ID 174182)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/174182/nutrients"
+    },
+    {
+      "ad": "Omega-3 (EPA ve DHA)",
+      "tur": "diger",
+      "aciklama": "100 gramında yaklaşık 1,4 g EPA ve DHA bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Fish, anchovy, european, raw\" (FDC ID 174182)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/174182/nutrients"
+    },
+    {
+      "ad": "Selenyum",
+      "tur": "mineral",
+      "aciklama": "100 gramında yaklaşık 36 µg selenyum bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Fish, anchovy, european, raw\" (FDC ID 174182)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/174182/nutrients"
+    }
+  ],
+  "tarifler": [
+    "hamsi_tava",
+    "hamsi_bugulama"
+  ]
+}

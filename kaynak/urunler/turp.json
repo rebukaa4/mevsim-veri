@@ -1,0 +1,60 @@
+{
+  "id": "turp",
+  "ad": "Turp",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Kırmızısı ve karası olan, keskin tatlı kış kökü.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "turp",
+  "aktif": true,
+  "enerji_kcal_100g": 16,
+  "enerji_durum": "çiğ, yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Radishes, raw (FDC ID 169276)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169276/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Yapraklarını ve kökünü kesip fırçayla yıkayın.",
+    "Kara turpun kalın kabuğunu soyun; kırmızı turp kabuğuyla yenebilir.",
+    "Rendelenmiş turpu 10 dakika tuzlayıp suyunu sıkarsanız acılığı azalır."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "turp__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "09-01",
+      "bit": "06-30",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Halde neredeyse yıl boyu var, temmuz – ağustosta azalır. Kara turp daha çok kasım – mart arasında görülür."
+    }
+  ],
+  "secim_ipuclari": [
+    "Sert, ağır ve pürüzsüz olanı seçin; yumuşak turp bayattır.",
+    "Kesince içi beyaz ve dolu olmalı; içi boşalmış (pamuksu) turp tatsızdır.",
+    "Yaprakları varsa yeşil ve taze olsun.",
+    "Çatlak ve lekeli olanları almayın."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini kaynağıdır (100 g'da 15 mg; günlük başvuru değerine oranı yaklaşık %18).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Radishes, raw (FDC ID 169276)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169276/nutrients"
+    }
+  ],
+  "tarifler": [
+    "turp_salatasi",
+    "mevsim_salatasi"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "bogurtlen",
+  "ad": "Böğürtlen",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Yaz sonunda yol ve dere kenarındaki dikenli çalılarda olgunlaşan siyah yabani meyve.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "bogurtlen",
+  "aktif": true,
+  "enerji_kcal_100g": 43,
+  "enerji_durum": "çiğ (kültür böğürtleni)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Blackberries, raw (FDC ID 173946, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/173946/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Yemeden hemen önce bir süzgeçte, kısa süre ve hafif suyla yıkayın.",
+    "Kâğıt havlu üzerinde süzdürün; ıslak bırakılırsa çabuk küflenir."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "bogurtlen__ege__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "hasat",
+      "bas": "07-01",
+      "bit": "09-30",
+      "kaynak_adi": "Ertuğ F. 2004. Wild edible plants of the Bodrum area (Muğla, Turkey). Turk J Bot 28:161–174; Gürdal B., Kültür Ş. 2014. Marmaris (Muğla) etnobotanik çalışması. İstanbul Ecz. Fak. Derg. 44(1):69–78 (Rubus sanctus \"börtlen, böğürtlen\")",
+      "kaynak_link": "https://journals.tubitak.gov.tr/botany/vol28/iss1/16",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Yabani böğürtlen pazara az miktarda gelir; aylar genel bilgiye dayanıyor."
+    }
+  ],
+  "secim_ipuclari": [
+    "Parlak siyah ve dolgun taneleri seçin; kırmızı-mor olanlar ekşi ve serttir.",
+    "Kap dibinde ezilmiş, küflü ya da suyunu salmış tane olmamalı.",
+    "Kendiniz toplayacaksanız trafik yoğun yol kenarlarından ve ilaçlanmış alanlardan uzak durun."
+  ],
+  "besin": [
+    {
+      "ad": "Manganez",
+      "tur": "mineral",
+      "aciklama": "Manganez açısından zengindir: 100 g'da 0,65 mg; günlük başvuru değerine oranı yaklaşık %32.",
+      "kaynak_adi": "USDA FoodData Central — Blackberries, raw (FDC ID 173946, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173946/nutrients"
+    },
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini kaynağıdır: 100 g'da 19,8 µg; günlük başvuru değerine oranı yaklaşık %26.",
+      "kaynak_adi": "USDA FoodData Central — Blackberries, raw (FDC ID 173946, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173946/nutrients"
+    },
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini kaynağıdır: 100 g'da 21 mg; günlük başvuru değerine oranı yaklaşık %26.",
+      "kaynak_adi": "USDA FoodData Central — Blackberries, raw (FDC ID 173946, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173946/nutrients"
+    },
+    {
+      "ad": "Bakır",
+      "tur": "mineral",
+      "aciklama": "Bakır kaynağıdır: 100 g'da 0,17 mg; günlük başvuru değerine oranı yaklaşık %16.",
+      "kaynak_adi": "USDA FoodData Central — Blackberries, raw (FDC ID 173946, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173946/nutrients"
+    },
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif kaynağıdır: 100 g'da 5,3 g.",
+      "kaynak_adi": "USDA FoodData Central — Blackberries, raw (FDC ID 173946, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173946/nutrients"
+    }
+  ],
+  "tarifler": [
+    "meyveli_yogurt_kasesi",
+    "bogurtlen_receli"
+  ]
+}

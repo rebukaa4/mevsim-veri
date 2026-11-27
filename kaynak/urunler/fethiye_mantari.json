@@ -1,0 +1,83 @@
+{
+  "id": "fethiye_mantari",
+  "ad": "Fethiye Kuzu Göbeği Mantarı",
+  "diger_adlar": [],
+  "kategori_id": "diger",
+  "kisa_tanim": "Muğla'da Fethiye ve Seydikemer'in çam ormanlarında ilkbaharda kendiliğinden çıkan, bal peteği şapkalı (5x15 cm'ye kadar) kuzu göbeği mantarı; taze ve kurutulmuş satılır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "48",
+  "gorsel_id": null,
+  "aktif": true,
+  "enerji_kcal_100g": 31,
+  "enerji_durum": "çiğ (USDA 'morel' kaydı; pişirmeden yenmez)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Mushrooms, morel, raw (FDC ID 168423, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/168423/nutrients",
+  "az_bilinen": true,
+  "tanitim": "Kuzu göbeği, şapkası bal peteği gibi oyuklu, krem-kahverengi bir yabani mantardır. Kültürü yapılmaz; Muğla'da ilkbaharda ormanlardan toplanır. Tadı yoğun ve topraksıdır; tereyağında sotelenir, pilava ya da çorbaya katılır. Kurutulmuşu yıl boyu bulunur.",
+  "hazirlama_adimlari": [
+    "Kuzu göbeği asla çiğ yenmez; mutlaka iyice pişirin. ABD Gıda ve İlaç Dairesi (FDA), çiğ ya da az pişmiş kuzu göbeği yüzünden yaşanan zehirlenmelerden sonra pişirmeyi önermiştir.",
+    "Oyuklarında toprak ve kum olur: mantarı uzunlamasına ikiye kesin, soğuk suda çalkalayarak yıkayın, oyukları yumuşak bir fırçayla temizleyin.",
+    "Kâğıt havlu üzerinde süzdürün.",
+    "Kurutulmuşsa ılık suda 20–30 dakika bekletip yumuşatın, sonra yıkayın; ıslatma suyunu süzgeç kâğıdından geçirip pilav veya çorbada kullanabilirsiniz.",
+    "Tereyağında orta ateşte en az 10–15 dakika, suyunu salıp çekene kadar pişirin."
+  ],
+  "hazirlama_kaynak_adi": "KFF Health News, 'Mysterious morel mushrooms at center of food poisoning outbreak' (2023; FDA'nın pişirme önerisi) + Fethiye Kuzu Göbeği Mantarı tescil belgesi (No 1898) + Mevsim ekibi",
+  "hazirlama_kaynak_link": "https://kffhealthnews.org/news/article/morel-mushrooms-food-poisoning-outbreak-sushi-raw/",
+  "mevsimler": [
+    {
+      "id": "fethiye_mantari__48__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "48",
+      "donem_turu": "hasat",
+      "bas": "02-01",
+      "bit": "05-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Fethiye Kuzu Göbeği Mantarı (No 1898)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/abf0186e-5530-4dfe-bf61-2d1afb21a260.pdf",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "resmi",
+      "not": "Fethiye ve Seydikemer'de toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Şapkası dolgun, oyukları belirgin, rengi krem-kahverengi olsun; sap kısmı beyaz ve lekesiz olmalı.",
+    "Etli kısmı süngerimsi ve hafif gevrek olmalı; yumuşamış, sulanmış ya da kötü kokanları almayın.",
+    "Yalnızca güvendiğiniz satıcıdan alın; kendiniz toplamayın. Zehirli 'yalancı' benzerleri vardır ve ayırt etmek uzmanlık ister.",
+    "Kurutulmuşunda kırıntısı az, bütün ve küf kokusu olmayanı seçin."
+  ],
+  "besin": [
+    {
+      "ad": "D vitamini",
+      "tur": "vitamin",
+      "aciklama": "D vitamini açısından zengindir: 100 g'da 5,1 µg; günlük başvuru değerine oranı yaklaşık %102.",
+      "kaynak_adi": "USDA FoodData Central — Mushrooms, morel, raw (FDC ID 168423, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168423/nutrients"
+    },
+    {
+      "ad": "Demir",
+      "tur": "mineral",
+      "aciklama": "Demir açısından zengindir: 100 g'da 12,2 mg; günlük başvuru değerine oranı yaklaşık %87.",
+      "kaynak_adi": "USDA FoodData Central — Mushrooms, morel, raw (FDC ID 168423, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168423/nutrients"
+    },
+    {
+      "ad": "Bakır",
+      "tur": "mineral",
+      "aciklama": "Bakır açısından zengindir: 100 g'da 0,62 mg; günlük başvuru değerine oranı yaklaşık %62.",
+      "kaynak_adi": "USDA FoodData Central — Mushrooms, morel, raw (FDC ID 168423, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168423/nutrients"
+    },
+    {
+      "ad": "Manganez",
+      "tur": "mineral",
+      "aciklama": "Manganez kaynağıdır: 100 g'da 0,59 mg; günlük başvuru değerine oranı yaklaşık %29.",
+      "kaynak_adi": "USDA FoodData Central — Mushrooms, morel, raw (FDC ID 168423, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168423/nutrients"
+    }
+  ],
+  "tarifler": [
+    "tereyagli_kuzu_gobegi",
+    "kuzu_gobekli_pilav"
+  ]
+}

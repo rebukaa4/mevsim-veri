@@ -1,0 +1,84 @@
+{
+  "id": "isirgan",
+  "ad": "Isırgan",
+  "diger_adlar": [],
+  "kategori_id": "ot",
+  "kisa_tanim": "Dokununca yakan ama haşlanınca yumuşayan bahar otu; çorbası meşhurdur.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "isirgan",
+  "aktif": true,
+  "enerji_kcal_100g": null,
+  "enerji_durum": null,
+  "enerji_kaynak_adi": null,
+  "enerji_kaynak_link": null,
+  "az_bilinen": true,
+  "tanitim": "Isırgan, yaprakları ve gövdesindeki ince tüylerle dokunanı yakan bir yabani bitkidir; genç yaprakları ve körpe uçları yenir. Pişince yakıcılığı tamamen kaybolur; tadı ıspanağa benzer, biraz daha otsudur.",
+  "hazirlama_adimlari": [
+    "Mutlaka eldiven giyin; ısırgana çıplak elle dokunmayın.",
+    "Yaprakları ve körpe uçları sert saplardan koparın.",
+    "Eldivenle bol suda yıkayın.",
+    "Kaynar suda 1-2 dakika haşlayın; haşlanınca yakıcılığı tamamen gider, artık elle tutulabilir.",
+    "Süzüp doğrayın; çorba, börek ya da kavurma için hazırdır.",
+    "Yabani otları, bitkiyi iyi tanıyan pazar satıcılarından alın; tahminle doğadan toplamayın, benzer görünen zehirli bitkiler olabilir."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "isirgan__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "10-01",
+      "bit": "05-31",
+      "kaynak_adi": "Ertuğ F. 2004. Wild edible plants of the Bodrum area (Muğla, Turkey). Turk J Bot 28:161–174",
+      "kaynak_link": "https://journals.tubitak.gov.tr/botany/vol28/iss1/16",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Bu ota özel ay bilgisi yok; yabani otların genel dönemi alındı."
+    }
+  ],
+  "secim_ipuclari": [
+    "Genç, üst kısımdaki körpe yaprakları ve uçları seçin.",
+    "Koyu yeşil, diri yapraklar tazedir; sararmış olanları almayın.",
+    "Çiçeklenmiş ve sapları sertleşmiş ısırganı almayın."
+  ],
+  "besin": [
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini açısından zengindir (haşlanmış ısırgan, 100 g'da 499 µg; günlük başvuru değerini aşar).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Stinging Nettles, blanched (Northern Plains Indians) (FDC ID 169819)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169819/nutrients"
+    },
+    {
+      "ad": "Kalsiyum",
+      "tur": "mineral",
+      "aciklama": "Kalsiyum açısından zengindir (haşlanmış ısırgan, 100 g'da 481 mg; günlük başvuru değerine oranı yaklaşık %60).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Stinging Nettles, blanched (Northern Plains Indians) (FDC ID 169819)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169819/nutrients"
+    },
+    {
+      "ad": "Manganez",
+      "tur": "mineral",
+      "aciklama": "Manganez açısından zengindir (haşlanmış ısırgan, 100 g'da 0,8 mg; günlük başvuru değerine oranı yaklaşık %39).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Stinging Nettles, blanched (Northern Plains Indians) (FDC ID 169819)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169819/nutrients"
+    },
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif açısından zengindir (haşlanmış ısırgan, 100 g'da 6,9 g).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Stinging Nettles, blanched (Northern Plains Indians) (FDC ID 169819)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169819/nutrients"
+    }
+  ],
+  "tarifler": [
+    "yumurtali_ot_kavurmasi",
+    "isirgan_corbasi",
+    "otlu_borek"
+  ]
+}

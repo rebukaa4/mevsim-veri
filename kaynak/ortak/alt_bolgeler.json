@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "id": "ege_ic",
+    "bolge_id": "ege",
+    "ad": "İç Ege",
+    "aciklama": "Afyonkarahisar, Kütahya ve Uşak gibi denize uzak, yüksek kesimler. Bu kesime özel tarih varsa o gösterilir; yoksa Ege bölgesi tarihi geçerlidir."
+  }
+]

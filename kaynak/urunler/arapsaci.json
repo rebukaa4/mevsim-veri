@@ -1,0 +1,52 @@
+{
+  "id": "arapsaci",
+  "ad": "Arapsaçı",
+  "diger_adlar": [],
+  "kategori_id": "ot",
+  "kisa_tanim": "İnce, saç gibi yapraklı yabani rezene; kokusu anason gibidir.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "arapsaci",
+  "aktif": true,
+  "enerji_kcal_100g": null,
+  "enerji_durum": null,
+  "enerji_kaynak_adi": null,
+  "enerji_kaynak_link": null,
+  "az_bilinen": true,
+  "tanitim": "Arapsaçı, yabani rezenenin ince, tüy gibi yapraklarıdır; yaprakları ve körpe sapları yenir. Tadı ve kokusu anasonu andırır; börekte, kavurmada ve zeytinyağlılarda kullanılır.",
+  "hazirlama_adimlari": [
+    "Kalın, sert sapları ayırın; yalnızca ince yaprakları ve körpe sapları kullanın.",
+    "Bol suda yıkayıp süzün.",
+    "İnce doğrayın; kokusu güçlü olduğu için diğer otlarla karıştırarak da kullanılabilir.",
+    "Rezene kokusu yoksa kullanmayın: maydanozgiller arasında ona benzeyen zehirli bitkiler (ör. baldıran) vardır. Yabani otları, bitkiyi iyi tanıyan pazar satıcılarından alın; tahminle doğadan toplamayın, benzer görünen zehirli bitkiler olabilir."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "arapsaci__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "10-01",
+      "bit": "05-31",
+      "kaynak_adi": "Ertuğ F. 2004. Wild edible plants of the Bodrum area (Muğla, Turkey). Turk J Bot 28:161–174; Kaya İ., İncekara N., Nemli Y. 2004. YYÜ Tarım Bilimleri Dergisi 14(1):1–6",
+      "kaynak_link": "https://journals.tubitak.gov.tr/botany/vol28/iss1/16",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Yabani rezene (Foeniculum vulgare)."
+    }
+  ],
+  "secim_ipuclari": [
+    "Yapraklar canlı yeşil, ince ve kabarık olsun.",
+    "Koklayın: belirgin anason/rezene kokusu olmalı; bu kokuyu vermeyen otu almayın.",
+    "Sararmış ve kurumuş uçlu demetleri almayın."
+  ],
+  "besin": [],
+  "tarifler": [
+    "otlu_borek",
+    "yumurtali_ot_kavurmasi"
+  ]
+}

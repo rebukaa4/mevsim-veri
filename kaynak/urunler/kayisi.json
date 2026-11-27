@@ -1,0 +1,56 @@
+{
+  "id": "kayisi",
+  "ad": "Kayısı",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Yaz başında çıkan, kadifemsi kabuklu, tatlı ve hafif mayhoş turuncu meyve.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "kayisi",
+  "aktif": true,
+  "enerji_kcal_100g": 48,
+  "enerji_durum": "çiğ, çekirdeksiz yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central — Apricots, raw (FDC ID 171697, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/171697/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "kayisi__ege__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "hasat",
+      "bas": "06-01",
+      "bit": "07-31",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024); Muğla İl Tarım ve Orman Müdürlüğü, Tarım Takvimi",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Ege kayısısı haziran – temmuzda; mayısta Akdeniz'den, ağustos – eylülde Malatya'dan gelir."
+    }
+  ],
+  "secim_ipuclari": [
+    "Rengi eşit turuncu olsun; sap dibinde yeşillik kalmışsa erken toplanmıştır.",
+    "Parmakla hafifçe bastırınca azıcık esneyen kayısı yemeye hazırdır.",
+    "Buruşuk, ezik ya da kararmış lekeli kayısıyı almayın.",
+    "Kokusu güzel olan kayısı daha lezzetlidir."
+  ],
+  "besin": [
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum içerir: 100 g'da 259 mg; günlük başvuru değerine oranı yaklaşık %12.",
+      "kaynak_adi": "USDA FoodData Central — Apricots, raw (FDC ID 171697, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/171697/nutrients"
+    }
+  ],
+  "tarifler": [
+    "kayisi_receli",
+    "kayisi_kompostosu"
+  ]
+}

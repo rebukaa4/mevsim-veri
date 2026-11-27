@@ -1,0 +1,68 @@
+{
+  "id": "balkabagi",
+  "ad": "Balkabağı",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Sonbahar ve kışın tatlı turuncu kabağı; tatlısı ve çorbası çok sevilir.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "balkabagi",
+  "aktif": true,
+  "enerji_kcal_100g": 26,
+  "enerji_durum": "çiğ, yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Pumpkin, raw (FDC ID 168448)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/168448/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Kalın kabuğunu keskin bir bıçakla, dilimleri tahtaya yatırarak soyun.",
+    "Çekirdeklerini ve lifli iç kısmını kaşıkla kazıyın.",
+    "İstediğiniz büyüklükte doğrayın; tatlı için iri, çorba için küçük doğrayın."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "balkabagi__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "09-16",
+      "bit": "02-28",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Depolanarak kış boyu satılır; en ucuz olduğu aylar ekim ve aralık – şubat."
+    }
+  ],
+  "secim_ipuclari": [
+    "Bütün alıyorsanız ağır, sert ve kabuğu lekesiz olsun; sapı kurumuş olmalı.",
+    "Dilim alıyorsanız eti koyu turuncu, sıkı ve parlak olsun.",
+    "Kesik yüzde sulanma, yumuşama ya da küf olmamalı.",
+    "Çekirdek bölgesi lifli ve kuru değil, nemli görünmeli."
+  ],
+  "besin": [
+    {
+      "ad": "A vitamini",
+      "tur": "vitamin",
+      "aciklama": "A vitamini açısından zengindir (100 g'da 426 µg; günlük başvuru değerine oranı yaklaşık %53).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Pumpkin, raw (FDC ID 168448)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168448/nutrients"
+    },
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum kaynağıdır (100 g'da 340 mg; günlük başvuru değerine oranı yaklaşık %17).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Pumpkin, raw (FDC ID 168448)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168448/nutrients"
+    }
+  ],
+  "tarifler": [
+    "balkabagi_tatlisi",
+    "balkabagi_corbasi",
+    "firinda_sebzeli_patates"
+  ]
+}

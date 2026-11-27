@@ -1,0 +1,25 @@
+{
+  "id": "kisir",
+  "baslik": "Kısır",
+  "malzemeler": [
+    "1,5 su bardağı ince bulgur",
+    "1,5 su bardağı sıcak su",
+    "1 yemek kaşığı salça (biber ya da domates)",
+    "1 demet maydanoz",
+    "Birkaç dal taze nane",
+    "4-5 dal taze soğan",
+    "2 adet domates",
+    "1 adet sivri biber",
+    "Yarım çay bardağı zeytinyağı",
+    "2 yemek kaşığı nar ekşisi ya da 1 limonun suyu",
+    "Tuz, pul biber, kimyon",
+    "Servis için marul yaprakları"
+  ],
+  "adimlar": [
+    "Bulguru sıcak suyla ıslatıp kapağı kapalı 15 dakika bekletin.",
+    "Salçayı ve zeytinyağını ekleyip elle iyice yoğurun.",
+    "İnce doğranmış maydanoz, nane, taze soğan, domates ve biberi ekleyin.",
+    "Nar ekşisi, tuz ve baharatlarla karıştırın; marul yapraklarıyla servis edin."
+  ],
+  "kaynak_adi": "Mevsim"
+}

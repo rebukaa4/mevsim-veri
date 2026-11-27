@@ -1,0 +1,91 @@
+{
+  "id": "urla_enginari",
+  "ad": "Urla Sakız Enginarı",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "İzmir yarımadasının (Urla, Çeşme, Karaburun) erkenci, su bardağı biçimli, düz yapraklı sakız enginarı; kasımdan nisana toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "35",
+  "gorsel_id": "urla_enginari",
+  "aktif": true,
+  "enerji_kcal_100g": 47,
+  "enerji_durum": "çiğ (enginar genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Artichokes, (globe or french), raw (FDC ID 169205, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169205/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Bir kaba su doldurup bir limonun suyunu sıkın; kestiğiniz her parçayı hemen bu suya atın, yoksa kararır.",
+    "Sapı 3–4 cm bırakıp kesin, sapın dış lifli kabuğunu soyun.",
+    "Sert dış yaprakları açık renkli, yumuşak yapraklara gelene kadar elle koparın.",
+    "Üst kısmın üçte birini düz kesin; sonra çanağın etrafını bıçakla yontarak yeşil kısımları temizleyin.",
+    "Ortadaki tüylü kısmı (ayva tüyü) bir çay kaşığıyla kazıyarak çıkarın.",
+    "Ellerinizin kararmaması için eldiven giyebilir ya da ellerinizi limonla ovabilirsiniz."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "urla_enginari__35__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "35",
+      "donem_turu": "hasat",
+      "bas": "11-01",
+      "bit": "04-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Urla Sakız Enginarı (No 245)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/245.pdf",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "resmi",
+      "not": "Hasat kasımda başlar, nisan sonuna kadar sürer."
+    }
+  ],
+  "secim_ipuclari": [
+    "Başı sıkı, dolgun ve boyuna göre ağır olsun; yaprakları açılmış enginar sertleşmiştir.",
+    "Dış yapraklar koyu yeşil, içtekiler açık yeşil olmalı; uçları kararmış, kurumuş olanları almayın.",
+    "Sapı taze ve kesik yeri nemli olsun.",
+    "Urla sakız enginarı orta boydadır; çok iri ve basık başlı enginar başka bir çeşit olabilir."
+  ],
+  "besin": [
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat açısından zengindir: 100 g'da 68 µg; günlük başvuru değerine oranı yaklaşık %34.",
+      "kaynak_adi": "USDA FoodData Central — Artichokes, (globe or french), raw (FDC ID 169205, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169205/nutrients"
+    },
+    {
+      "ad": "Bakır",
+      "tur": "mineral",
+      "aciklama": "Bakır kaynağıdır: 100 g'da 0,23 mg; günlük başvuru değerine oranı yaklaşık %23.",
+      "kaynak_adi": "USDA FoodData Central — Artichokes, (globe or french), raw (FDC ID 169205, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169205/nutrients"
+    },
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini kaynağıdır: 100 g'da 14,8 µg; günlük başvuru değerine oranı yaklaşık %19.",
+      "kaynak_adi": "USDA FoodData Central — Artichokes, (globe or french), raw (FDC ID 169205, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169205/nutrients"
+    },
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum kaynağıdır: 100 g'da 370 mg; günlük başvuru değerine oranı yaklaşık %18.",
+      "kaynak_adi": "USDA FoodData Central — Artichokes, (globe or french), raw (FDC ID 169205, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169205/nutrients"
+    },
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif kaynağıdır: 100 g'da 5,4 g.",
+      "kaynak_adi": "USDA FoodData Central — Artichokes, (globe or french), raw (FDC ID 169205, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169205/nutrients"
+    }
+  ],
+  "tarifler": [
+    "zeytinyagli_enginar",
+    "cig_enginar_salatasi"
+  ]
+}

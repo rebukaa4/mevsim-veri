@@ -1,0 +1,80 @@
+{
+  "id": "taze_nane",
+  "ad": "Taze nane",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Ferah kokulu yeşillik; cacıkta, kısırda, salatada.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "taze_nane",
+  "aktif": true,
+  "enerji_kcal_100g": 44,
+  "enerji_durum": "çiğ, yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Spearmint, fresh (FDC ID 173475)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/173475/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Yapraklarını saplarından ayırın, yıkayıp süzün.",
+    "Doğramadan hemen önce kesin; erken doğranırsa kararır."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "taze_nane__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "04-01",
+      "bit": "11-30",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Halde yıl boyu var; en ucuz temmuzda, en pahalı ocak – mart arasında."
+    }
+  ],
+  "secim_ipuclari": [
+    "Yapraklar canlı yeşil ve diri olsun.",
+    "Kararmış lekeli ya da sölpük yaprakları almayın.",
+    "Bir yaprağı ovuşturup koklayın; taze nanenin kokusu hemen yayılır."
+  ],
+  "besin": [
+    {
+      "ad": "Demir",
+      "tur": "mineral",
+      "aciklama": "Demir açısından zengindir (100 g'da 12 mg; günlük başvuru değerine oranı yaklaşık %85).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Spearmint, fresh (FDC ID 173475)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173475/nutrients"
+    },
+    {
+      "ad": "Manganez",
+      "tur": "mineral",
+      "aciklama": "Manganez açısından zengindir (100 g'da 1,1 mg; günlük başvuru değerine oranı yaklaşık %56).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Spearmint, fresh (FDC ID 173475)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173475/nutrients"
+    },
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat açısından zengindir (100 g'da 105 µg; günlük başvuru değerine oranı yaklaşık %52).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Spearmint, fresh (FDC ID 173475)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173475/nutrients"
+    },
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif açısından zengindir (100 g'da 6,8 g).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Spearmint, fresh (FDC ID 173475)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173475/nutrients"
+    }
+  ],
+  "tarifler": [
+    "yayla_corbasi",
+    "cacik",
+    "kisir"
+  ]
+}

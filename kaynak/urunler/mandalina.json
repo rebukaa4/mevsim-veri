@@ -1,0 +1,57 @@
+{
+  "id": "mandalina",
+  "ad": "Mandalina",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Ege kıyısının kış başı meyvesi; Satsuma çeşidi ekimden ocak ortasına kadar toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "mandalina",
+  "aktif": true,
+  "enerji_kcal_100g": 53,
+  "enerji_durum": "çiğ, kabuksuz",
+  "enerji_kaynak_adi": "USDA FoodData Central — Tangerines, (mandarin oranges), raw (FDC ID 169105, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169105/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "mandalina__ege__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "hasat",
+      "bas": "10-01",
+      "bit": "01-15",
+      "kaynak_adi": "Yıldız Kutlar & Şen 2024. Ege Üniv. Ziraat Fak. Derg. 61(1):19–29",
+      "kaynak_link": "https://dergipark.org.tr/en/download/article-file/3407599",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "akademik",
+      "not": "Satsuma mandalina hasadı."
+    }
+  ],
+  "secim_ipuclari": [
+    "Boyuna göre ağır olan mandalina daha sulu olur.",
+    "Kabuk ete hafif oturmuş ve parlak olmalı; kabuğu içinden çok ayrılmış, kabarık olanlar kurumuş olabilir.",
+    "Yumuşamış, küflü ya da çökük bölgesi olan mandalinayı almayın.",
+    "Kabukta biraz yeşillik kalması erkenci Satsuma'da normaldir; tadı yine olgun olabilir."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir: 100 g'da 26,7 mg; günlük başvuru değerine oranı yaklaşık %33.",
+      "kaynak_adi": "USDA FoodData Central — Tangerines, (mandarin oranges), raw (FDC ID 169105, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169105/nutrients"
+    }
+  ],
+  "tarifler": [
+    "meyve_salatasi",
+    "narenciye_salatasi",
+    "mandalina_marmelati"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "incirli_yogurt",
+  "baslik": "Taze incirli yoğurt",
+  "malzemeler": [
+    "4 taze incir",
+    "2 su bardağı süzme yoğurt",
+    "1 yemek kaşığı bal",
+    "2 yemek kaşığı ceviz içi"
+  ],
+  "adimlar": [
+    "İncirleri yıkayıp dörde bölün.",
+    "Yoğurdu kaselere paylaştırın.",
+    "İncirleri üzerine dizin, bal gezdirip cevizi serpin."
+  ],
+  "kaynak_adi": "Mevsim ekibi (özgün tarif)"
+}

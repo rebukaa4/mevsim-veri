@@ -1,0 +1,67 @@
+{
+  "id": "kirmizi_lahana",
+  "ad": "Kırmızı lahana",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Mor renkli, çıtır kış lahanası; salatalara renk katar.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "kirmizi_lahana",
+  "aktif": true,
+  "enerji_kcal_100g": 31,
+  "enerji_durum": "çiğ, yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Cabbage, red, raw (FDC ID 169977)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169977/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Dış yapraklarını ayıklayıp dört parçaya bölün; ortadaki sert sapı kesip çıkarın.",
+    "Salata için çok ince kıyın; tuz ve limonla ovarsanız yumuşar.",
+    "Rengi ellere ve tahtaya geçebilir; doğradıktan sonra tahtayı hemen yıkayın."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "kirmizi_lahana__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "11-01",
+      "bit": "04-30",
+      "kaynak_adi": "GKGM, \"Lahanagiller\" el kitabı; İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
+      "kaynak_link": "https://www.tarimorman.gov.tr/GKGM/Belgeler/Uretici_Bilgi_Kosesi/Dokumanlar/lahanagiller.pdf",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Beyaz lahana gibi kışlık bir üründür."
+    }
+  ],
+  "secim_ipuclari": [
+    "Ağır, sıkı ve parlak mor yapraklı olanı seçin.",
+    "Dış yapraklar diri olmalı, solmuş ya da lekeli olmamalı.",
+    "Sap kesim yeri kurumamış ve kararmamış olsun.",
+    "Çatlak lahanaları almayın; çabuk bozulur."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir (100 g'da 57 mg; günlük başvuru değerine oranı yaklaşık %71).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Cabbage, red, raw (FDC ID 169977)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169977/nutrients"
+    },
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini açısından zengindir (100 g'da 38 µg; günlük başvuru değerine oranı yaklaşık %51).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Cabbage, red, raw (FDC ID 169977)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169977/nutrients"
+    }
+  ],
+  "tarifler": [
+    "yogurtlu_kirmizi_lahana",
+    "lahana_salatasi"
+  ]
+}
