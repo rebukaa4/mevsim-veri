@@ -1,0 +1,63 @@
+{
+  "id": "karpuz",
+  "ad": "Karpuz",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Yazın en serinletici meyvesi; Ege'de açık tarla karpuzu haziran ortasından ekime kadar bulunur.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "karpuz",
+  "aktif": true,
+  "enerji_kcal_100g": 30,
+  "enerji_durum": "çiğ, yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central — Watermelon, raw (FDC ID 167765, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/167765/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "karpuz__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "06-10",
+      "bit": "10-10",
+      "kaynak_adi": "Gazete Vatan/İHA 21.06.2025, Aydın karpuzu; İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
+      "kaynak_link": "https://www.gazetevatan.com/gundem/bu-karpuzu-alabilmek-icin-tarladan-cikmadan-siraya-giriyorlar-cukurovadan-sonra-aydin-geliyor-uretici-taleplere-yetisemiyor-2287297",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Aydın karpuzu haziranda başlar; en ucuz olduğu dönem temmuz – ekim."
+    }
+  ],
+  "secim_ipuclari": [
+    "Toprağa değdiği yerdeki leke beyaz değil, krem-sarı renkte olmalı.",
+    "Boyuna göre ağır olsun.",
+    "Parmakla vurunca boğuk, tok bir ses vermeli; tiz ve dolu ses ham olabilir.",
+    "Sapı kurumuş olan karpuz tarlada olgunlaşmış demektir."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini içerir: 100 g'da 8,1 mg; günlük başvuru değerine oranı yaklaşık %10.",
+      "kaynak_adi": "USDA FoodData Central — Watermelon, raw (FDC ID 167765, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/167765/nutrients"
+    },
+    {
+      "ad": "Su",
+      "tur": "diger",
+      "aciklama": "Su oranı yüksektir: 100 g'ının yaklaşık 91,4 g'ı sudur.",
+      "kaynak_adi": "USDA FoodData Central — Watermelon, raw (FDC ID 167765, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/167765/nutrients"
+    }
+  ],
+  "tarifler": [
+    "kavun_buzlu_tatli",
+    "karpuz_peynir_salatasi"
+  ]
+}

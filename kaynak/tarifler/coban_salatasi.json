@@ -1,0 +1,21 @@
+{
+  "id": "coban_salatasi",
+  "baslik": "Çoban salatası",
+  "malzemeler": [
+    "3 adet domates",
+    "2 adet salatalık",
+    "2 adet sivri biber",
+    "1 adet kuru soğan",
+    "Yarım demet maydanoz",
+    "3 yemek kaşığı zeytinyağı",
+    "1 yemek kaşığı limon suyu ya da sirke",
+    "Tuz, isteğe göre sumak"
+  ],
+  "adimlar": [
+    "Domates, salatalık ve biberi küçük küp doğrayın.",
+    "Soğanı ince doğrayıp biraz tuzla ovun, suyunu sıkın.",
+    "Kıyılmış maydanozu ekleyin.",
+    "Zeytinyağı, limon ve tuzla karıştırıp hemen servis edin."
+  ],
+  "kaynak_adi": "Mevsim"
+}

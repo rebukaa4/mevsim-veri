@@ -1,0 +1,85 @@
+{
+  "id": "midye",
+  "ad": "Midye (kara midye)",
+  "diger_adlar": [],
+  "kategori_id": "balik_deniz",
+  "kisa_tanim": "İzmir'de kabuklu ve ayıklanmış olarak satılan, siyah kabuklu kara midye.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": null,
+  "aktif": true,
+  "enerji_kcal_100g": 86,
+  "enerji_durum": "çiğ",
+  "enerji_kaynak_adi": "USDA FoodData Central — \"Mollusks, mussel, blue, raw\" (FDC ID 174216)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/174216/nutrients",
+  "az_bilinen": false,
+  "tanitim": "Kara midye (Mytilus galloprovincialis), kayalara ve iskelelere tutunarak yaşayan, siyah-mor kabuklu bir kabuklu deniz ürünüdür. İçi turuncu ya da krem renkli, hafif tuzlu ve tatlımsıdır; tava, pilaki, buğulama ya da dolma yapılır. Yasal av yasağı 15 Nisan – 30 Haziran arasıdır (Tebliğ 2024/20).",
+  "hazirlama_adimlari": [
+    "Kabuklu deniz ürünleri suyun temizliğinden doğrudan etkilenir; midyeyi yalnızca güvendiğiniz, kontrollü üretim ya da toplama bölgesinden ürün satan balıkçıdan alın.",
+    "Midyeleri soğuk suda yıkayın; kabuk üzerindeki yosun ve kabuklu tortuları bıçağın sırtıyla kazıyıp fırçalayın.",
+    "Kabuğun arasından çıkan kıl gibi lifleri ('sakal') parmakla tutup kabuğun ucuna doğru sertçe çekerek koparın. Bunu pişirmeden hemen önce yapın; sakalı alınan midye çabuk ölür.",
+    "Açık duran midyelere tezgâha hafifçe vurun ya da parmakla bastırın: kapanmayanları atın. Kırık kabuklu olanları da atın.",
+    "Kapaklı tencerede kabukları açılana kadar pişirin; pişince açılmayanları atın, zorla açmayın.",
+    "Midyeyi alır almaz buzdolabında tutun (kabukluları ağzı kapalı poşette değil, nemli bezle örtülü kapta), aynı gün pişirin. Çiğ yemeyin; iyice pişirerek tüketin."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak ve gıda güvenliği bilgisi; ayrı bir kaynakla doğrulanmadı)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "midye__ege__av__1",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "ege",
+      "donem_turu": "av",
+      "bas": "07-01",
+      "bit": "04-14",
+      "kaynak_adi": "Ticari Amaçlı Su Ürünleri Avcılığı Tebliği (No 2024/20), Resmî Gazete 11.08.2024, madde 28",
+      "kaynak_link": "https://resmigazete.gov.tr/eskiler/2024/08/20240811-3.htm",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "resmi",
+      "not": "Kara midye toplamak 15 Nisan – 30 Haziran arasında yasaktır; bu dönem yasal av dönemidir. En lezzetli dönem için ayrı bir kaynak bulunamadı."
+    }
+  ],
+  "secim_ipuclari": [
+    "Kabuklu alıyorsanız canlı olmalı: kabukları kapalı olmalı, hafif aralıksa dokununca hemen kapanmalı.",
+    "Kabukları kırık, çatlak olanları ve elinizde çok hafif, boş gelenleri almayın.",
+    "Hafif deniz kokmalı; ağır ya da çürük koku varsa almayın.",
+    "Midye içi alıyorsanız buzda bekletilmiş, parlak ve dolgun olmalı; suyu bulanık ya da kokulu olmamalı."
+  ],
+  "besin": [
+    {
+      "ad": "Protein",
+      "tur": "diger",
+      "aciklama": "100 gramında yaklaşık 12 g protein bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Mollusks, mussel, blue, raw\" (FDC ID 174216)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/174216/nutrients"
+    },
+    {
+      "ad": "B12 vitamini",
+      "tur": "vitamin",
+      "aciklama": "100 gramında yaklaşık 12 µg B12 vitamini bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Mollusks, mussel, blue, raw\" (FDC ID 174216)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/174216/nutrients"
+    },
+    {
+      "ad": "Demir",
+      "tur": "mineral",
+      "aciklama": "100 gramında yaklaşık 4 mg demir bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Mollusks, mussel, blue, raw\" (FDC ID 174216)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/174216/nutrients"
+    },
+    {
+      "ad": "Selenyum",
+      "tur": "mineral",
+      "aciklama": "100 gramında yaklaşık 45 µg selenyum bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Mollusks, mussel, blue, raw\" (FDC ID 174216)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/174216/nutrients"
+    }
+  ],
+  "tarifler": [
+    "midye_tava",
+    "midye_pilaki",
+    "midye_bugulama"
+  ]
+}

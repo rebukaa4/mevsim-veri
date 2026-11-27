@@ -1,0 +1,57 @@
+{
+  "id": "greyfurt",
+  "ad": "Greyfurt",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Kışın gelen iri, hafif acımsı ve ekşi-tatlı turunçgil.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "greyfurt",
+  "aktif": true,
+  "enerji_kcal_100g": 42,
+  "enerji_durum": "çiğ, kabuksuz (pembe-kırmızı etli)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Grapefruit, raw, pink and red, all areas (FDC ID 174673, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/174673/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Kabuğunu beyaz kısmıyla birlikte bıçakla soyun, dilimleri zarlarının arasından keserek çıkarın; böylece acılığı azalır."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "greyfurt__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "12-01",
+      "bit": "04-30",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Halde en ucuz olduğu dönem ocak – mart; büyük olasılıkla Akdeniz ürünü."
+    }
+  ],
+  "secim_ipuclari": [
+    "Boyuna göre ağır olsun.",
+    "Kabuğu parlak ve hafif esnek olmalı; yumuşamış ya da buruşmuş olanları almayın.",
+    "Hafif basık greyfurtlar genelde daha sulu çıkar."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir: 100 g'da 31,2 mg; günlük başvuru değerine oranı yaklaşık %39.",
+      "kaynak_adi": "USDA FoodData Central — Grapefruit, raw, pink and red, all areas (FDC ID 174673, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/174673/nutrients"
+    }
+  ],
+  "tarifler": [
+    "narenciye_salatasi",
+    "greyfurtlu_yesil_salata"
+  ]
+}

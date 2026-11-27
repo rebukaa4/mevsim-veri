@@ -1,0 +1,58 @@
+{
+  "id": "visne",
+  "ad": "Vişne",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Kirazın ekşi kardeşi; yaz ortasında çıkar, reçel ve şerbet için aranır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "visne",
+  "aktif": true,
+  "enerji_kcal_100g": 50,
+  "enerji_durum": "çiğ, çekirdeksiz yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central — Cherries, sour, red, raw (FDC ID 173954, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/173954/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Yıkadıktan sonra sapını koparın.",
+    "Çekirdeğini çekirdek çıkarıcıyla ya da bir pipet/ince çubukla sap tarafından iterek çıkarın; suyunu kaybetmemek için bir kasenin üstünde çalışın."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "visne__ege__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "hasat",
+      "bas": "07-01",
+      "bit": "08-31",
+      "kaynak_adi": "Muğla İl Tarım ve Orman Müdürlüğü, Tarım Takvimi; İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
+      "kaynak_link": "https://mugla.tarimorman.gov.tr/Sayfalar/Detay.aspx?TermStoreId=368e785b-af33-487d-a98d-c11d5495130b&TermSetId=6c59163f-a2cc-44d9-bd3b-e5a53766f6f0&TermId=be3c980f-b990-492b-bb38-2feab07411de&UrlSuffix=84%2FTarim-Takvimi",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Vişne hasadı temmuzda başlar; ağustos sonundan sonra halde görülmüyor."
+    }
+  ],
+  "secim_ipuclari": [
+    "Koyu kırmızı, parlak ve sıkı taneleri seçin.",
+    "Sapı yeşil olsun; suyunu salmış, ezik taneler çabuk ekşir.",
+    "Çok çabuk bozulur; aldığınız gün ya da ertesi gün kullanın."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini içerir: 100 g'da 10 mg; günlük başvuru değerine oranı yaklaşık %12.",
+      "kaynak_adi": "USDA FoodData Central — Cherries, sour, red, raw (FDC ID 173954, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173954/nutrients"
+    }
+  ],
+  "tarifler": [
+    "visne_receli",
+    "visne_serbeti"
+  ]
+}

@@ -13,6 +13,7 @@ sys.path.insert(0, str(KOK / "araclar"))
 import derle  # noqa: E402
 
 SEMA = KOK / "sema" / "v1.schema.json"
+ORNEK = KOK / "testler" / "ornek_kaynak"
 
 
 def mevsim(mid, tur="bolge", kid="ege", donem="hasat", bas="03-01", bit="05-31"):
@@ -24,7 +25,12 @@ class DerleTesti(unittest.TestCase):
     def setUp(self):
         self.gecici = Path(tempfile.mkdtemp())
         self.kaynak = self.gecici / "kaynak"
-        shutil.copytree(KOK / "kaynak", self.kaynak)
+        # Testler gerçek veriye değil, kendi örnek kayıtlarına dayanır; ortak tablolar gerçek dosyalardan gelir.
+        shutil.copytree(KOK / "kaynak" / "ortak", self.kaynak / "ortak")
+        for klasor in ("urunler", "tarifler"):
+            shutil.copytree(ORNEK / klasor, self.kaynak / klasor)
+        (self.kaynak / "notlar").mkdir()
+        (self.kaynak / "gorseller.json").write_text("[]", encoding="utf-8")
 
     def tearDown(self):
         shutil.rmtree(self.gecici, ignore_errors=True)
@@ -294,10 +300,25 @@ class DerleTesti(unittest.TestCase):
         return copy.deepcopy(veri)
 
     def test_urun_kaldirilamaz(self):
+        self.urun_yaz(dict(self.urun_oku("ornek_ispanak"), id="ispanak", mevsimler=[mevsim("ispanak__ege__hasat__1")]))
         onceki = self.onceki_veri()
-        (self.kaynak / "urunler" / "ornek_ispanak.json").unlink()
+        (self.kaynak / "urunler" / "ispanak.json").unlink()
         _, hatalar, _ = self.derle(onceki=onceki)
         self.assertTrue(any("kaldırılamaz" in h for h in hatalar), hatalar)
+
+    def test_ornek_kayit_kaldirilabilir(self):
+        onceki = self.onceki_veri()
+        self.urun_yaz(dict(self.urun_oku("ornek_ispanak"), id="ispanak", ad="Ispanak",
+                           mevsimler=[mevsim("ispanak__ege__hasat__1")]))
+        for uid in ("ornek_ispanak", "ornek_hamsi", "ornek_levrek_ciftlik"):
+            (self.kaynak / "urunler" / f"{uid}.json").unlink()
+        (self.kaynak / "tarifler" / "ornek_hamsi_bugulama.json").unlink()
+        _, hatalar, _ = self.derle(onceki=onceki)
+        self.assertEqual(hatalar, [])
+
+    def test_gercek_kaynak_gecerli(self):
+        _, hatalar, _ = derle.derle(KOK / "kaynak", SEMA, 5)
+        self.assertEqual(hatalar, [])
 
     def test_pasif_yapmak_serbest(self):
         onceki = self.onceki_veri()

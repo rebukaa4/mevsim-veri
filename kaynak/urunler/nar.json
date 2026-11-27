@@ -1,0 +1,96 @@
+{
+  "id": "nar",
+  "ad": "Nar",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Sonbaharda olgunlaşan, ekşi-tatlı taneleriyle salatalara renk veren meyve; kışa kadar depodan gelir.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "nar",
+  "aktif": true,
+  "enerji_kcal_100g": 83,
+  "enerji_durum": "çiğ, taneleri",
+  "enerji_kaynak_adi": "USDA FoodData Central — Pomegranates, raw (FDC ID 169134, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169134/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Narın tepesindeki taç kısmını bıçakla daire şeklinde kesip çıkarın.",
+    "Kabuğu, içteki beyaz zarların çizgisi boyunca yukarıdan aşağı 4–6 yerinden yüzeysel olarak çizin.",
+    "Narı büyük bir su kabının içinde elinizle dilimlerine ayırın; taneleri su içinde ayıklayın. Böylece etrafa su sıçramaz.",
+    "Beyaz zarlar suyun üstüne çıkar, taneler dibe çöker; zarları alıp suyu süzün."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "nar__ege__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "hasat",
+      "bas": "09-01",
+      "bit": "10-31",
+      "kaynak_adi": "Kurt & Şahin 2013. Marmara Coğrafya Dergisi 27:551–574; Tarım ve Orman Bakanlığı, iklim ve fenolojik durum istatistikleri (Ekim 2025)",
+      "kaynak_link": "https://dergipark.org.tr/tr/download/article-file/3337",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "akademik",
+      "not": "Nar hasat dönemi; en ucuz olduğu zaman kasım başı."
+    },
+    {
+      "id": "nar__ege__depo__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "depo",
+      "bas": "11-01",
+      "bit": "04-15",
+      "kaynak_adi": "Kurt & Şahin 2013. Marmara Coğrafya Dergisi 27:551–574; İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
+      "kaynak_link": "https://dergipark.org.tr/tr/download/article-file/3337",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Depolanmış nar nisan ortasına kadar bulunur."
+    }
+  ],
+  "secim_ipuclari": [
+    "Boyuna göre ağır olsun; ağır nar daha sulu demektir.",
+    "Kabuğu sert ve gergin olmalı; yumuşak bölge içinin bozulduğunu gösterebilir.",
+    "Kabuktaki küçük çizikler sorun değildir; derin yarık ve çürük almayın.",
+    "Köşeli, hafif köşeleri belirgin narlar genelde iyice olgunlaşmıştır."
+  ],
+  "besin": [
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini kaynağıdır: 100 g'da 16,4 µg; günlük başvuru değerine oranı yaklaşık %21.",
+      "kaynak_adi": "USDA FoodData Central — Pomegranates, raw (FDC ID 169134, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169134/nutrients"
+    },
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat kaynağıdır: 100 g'da 38 µg; günlük başvuru değerine oranı yaklaşık %19.",
+      "kaynak_adi": "USDA FoodData Central — Pomegranates, raw (FDC ID 169134, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169134/nutrients"
+    },
+    {
+      "ad": "Bakır",
+      "tur": "mineral",
+      "aciklama": "Bakır kaynağıdır: 100 g'da 0,16 mg; günlük başvuru değerine oranı yaklaşık %15.",
+      "kaynak_adi": "USDA FoodData Central — Pomegranates, raw (FDC ID 169134, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169134/nutrients"
+    },
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif kaynağıdır: 100 g'da 4 g.",
+      "kaynak_adi": "USDA FoodData Central — Pomegranates, raw (FDC ID 169134, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169134/nutrients"
+    }
+  ],
+  "tarifler": [
+    "narli_coban_salatasi",
+    "narenciye_salatasi",
+    "hurmali_kis_salatasi"
+  ]
+}

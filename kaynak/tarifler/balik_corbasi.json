@@ -1,0 +1,24 @@
+{
+  "id": "balik_corbasi",
+  "baslik": "Balık çorbası",
+  "malzemeler": [
+    "500 g balık (kılçıklı parçalar ve baş da olur; levrek, çipura, berlam vb.)",
+    "1 kuru soğan",
+    "1 havuç",
+    "2 patates",
+    "1 yemek kaşığı un",
+    "1 yumurta sarısı",
+    "1 limon",
+    "2 yemek kaşığı zeytinyağı",
+    "6 su bardağı su",
+    "Tuz, karabiber, maydanoz"
+  ],
+  "adimlar": [
+    "Balığı, yarım soğan ve tuzla birlikte 6 su bardağı suda 15–20 dakika haşlayın.",
+    "Balığı süzgeçle alın, suyunu saklayın; soğuyunca etini kılçık ve derisinden dikkatle ayıklayın.",
+    "Ayrı tencerede zeytinyağında kalan soğanı, küp doğranmış havuç ve patatesi 3–4 dakika çevirin; balık suyunu süzerek ekleyip sebzeler yumuşayana kadar pişirin.",
+    "Unu, yumurta sarısını ve limon suyunu bir kasede çırpın; çorbadan bir kepçe alıp yavaşça karıştırarak ılıştırın, sonra tencereye dökün.",
+    "Balık etini ekleyip 2–3 dakika daha kaynatın; karabiber ve maydanozla servis edin."
+  ],
+  "kaynak_adi": "Mevsim ekibi"
+}

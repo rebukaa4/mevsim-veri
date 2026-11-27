@@ -1,0 +1,82 @@
+{
+  "id": "bakla",
+  "ad": "Bakla (taze)",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Baharın ilk taze baklagili; Ege'de kabuğuyla zeytinyağlısı yapılır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "bakla",
+  "aktif": true,
+  "enerji_kcal_100g": 72,
+  "enerji_durum": "çiğ, olgunlaşmamış iç tane (kabuksuz)",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Broadbeans, immature seeds, raw (FDC ID 170377)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170377/nutrients",
+  "az_bilinen": true,
+  "tanitim": "Bakla, Ege'de genç ve taze haliyle kabuğu ve tanesiyle birlikte yenen bir baklagildir. Kabuk pişince yumuşar, tadı hafif otsu ve tatlıdır; iri baklalarda yalnızca içteki yeşil taneler yenir.",
+  "hazirlama_adimlari": [
+    "Baklaları yıkayın; iki ucunu kesip kenarlarındaki kılçığı çekerek ayıklayın.",
+    "Kabuğuyla pişecekse 3-4 cm boyunda doğrayın; kararmaması için limonlu suda bekletin.",
+    "İri ve sert kabuklu baklalarda kabuğu açıp yalnızca taneleri alın.",
+    "Önemli: 'Favizm' (G6PD enzim eksikliği) olanlar bakla yememeli ve çiğ baklaya dokunmamalıdır; ailede böyle bir durum varsa doktorunuza danışın."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "bakla__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "03-01",
+      "bit": "05-31",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Kıyı Ege'nin bahar hasadı; kış aylarında görülen bakla çoğunlukla Akdeniz'in erken ürünüdür."
+    }
+  ],
+  "secim_ipuclari": [
+    "Kabuklar ince, parlak yeşil ve dolgun olsun; kararmış lekeli olanlar eskidir.",
+    "Kabuğuyla pişirecekseniz küçük, ince ve taneleri belirginleşmemiş baklaları seçin.",
+    "Elde sert ve diri durmalı; yumuşamış kabuk bayatlığın işaretidir.",
+    "İri taneli baklalar kabuğu ayıklanıp içi için kullanılır."
+  ],
+  "besin": [
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat açısından zengindir (100 g'da 96 µg; günlük başvuru değerine oranı yaklaşık %48).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Broadbeans, immature seeds, raw (FDC ID 170377)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170377/nutrients"
+    },
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir (100 g'da 33 mg; günlük başvuru değerine oranı yaklaşık %41).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Broadbeans, immature seeds, raw (FDC ID 170377)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170377/nutrients"
+    },
+    {
+      "ad": "Manganez",
+      "tur": "mineral",
+      "aciklama": "Manganez kaynağıdır (100 g'da 0,3 mg; günlük başvuru değerine oranı yaklaşık %16).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Broadbeans, immature seeds, raw (FDC ID 170377)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170377/nutrients"
+    },
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif kaynağıdır (100 g'da 4,2 g).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Broadbeans, immature seeds, raw (FDC ID 170377)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170377/nutrients"
+    }
+  ],
+  "tarifler": [
+    "zeytinyagli_bakla",
+    "yogurtlu_taze_bakla"
+  ]
+}

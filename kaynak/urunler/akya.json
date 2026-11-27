@@ -1,0 +1,55 @@
+{
+  "id": "akya",
+  "ad": "Akya",
+  "diger_adlar": [],
+  "kategori_id": "balik_deniz",
+  "kisa_tanim": "Yaz sonundan yıl sonuna kadar bulunan, iri ve sıkı etli bir avcı balık.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "akya",
+  "aktif": true,
+  "enerji_kcal_100g": null,
+  "enerji_durum": null,
+  "enerji_kaynak_adi": null,
+  "enerji_kaynak_link": null,
+  "az_bilinen": true,
+  "tanitim": "Büyük boylara ulaşan, gümüşi, sıkı ve beyaz etli bir balıktır; eti az yağlıdır ve kurumaması için genellikle dilimlenip buğulama ya da fırında sebzeyle pişirilir.",
+  "hazirlama_adimlari": [
+    "Akya genellikle iri olduğu için balıkçıya temizletip dilimletin.",
+    "Evde dilimleri soğuk suyla durulayıp kurulayın, kalan pul ve kılçıkları temizleyin.",
+    "Az yağlı olduğu için yüksek ateşte uzun pişirmeyin; kapaklı kapta buğulayarak ya da sebzeyle fırında pişirin.",
+    "Soğuk suyla durulayıp kâğıt havluyla kurulayın. Hemen pişirmeyecekseniz kapalı bir kapta buzdolabının en soğuk rafında tutun ve en geç ertesi gün pişirin.",
+    "Eti ortasına kadar beyazlaşıp çatalla kolayca ayrılana kadar pişirin; çiğ balığa değen tahta ve bıçağı sıcak sabunlu suyla yıkayın."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak ve gıda güvenliği bilgisi; ayrı bir kaynakla doğrulanmadı)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "akya__ege__pazar_yogun__1",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "08-16",
+      "bit": "12-31",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, balık hal fiyatları açık verisi (2019, 2021–2024); Ticari Amaçlı Su Ürünleri Avcılığı Tebliği (No 2024/20), Resmî Gazete 11.08.2024, madde 24",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/balik-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "En düzenli ağustos sonu – aralık arasında; av yasağı 15 Nisan – 15 Mayıs."
+    }
+  ],
+  "secim_ipuclari": [
+    "Gözleri parlak, dolgun ve şeffaf olsun; içe çökmüş, buğulu gözlü balığı almayın.",
+    "Solungaç kapağını kaldırıp bakın: içi canlı kırmızı olmalı; kahverengi ya da griye dönmüşse balık bayattır.",
+    "Dilim alıyorsanız et parlak, sıkı ve nemli olmalı; kenarları kurumuşsa almayın.",
+    "Hafif deniz ve yosun kokmalı; ağır, ekşi ya da amonyak gibi koku bayatlık işaretidir."
+  ],
+  "besin": [],
+  "tarifler": [
+    "sebzeli_balik_bugulama",
+    "firinda_patatesli_balik",
+    "balik_corbasi"
+  ]
+}

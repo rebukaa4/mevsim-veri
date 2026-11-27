@@ -1,0 +1,66 @@
+{
+  "id": "ebegumeci",
+  "ad": "Ebegümeci",
+  "diger_adlar": [],
+  "kategori_id": "ot",
+  "kisa_tanim": "Yuvarlak yapraklı yabani ot; kavurması, böreği ve sarması yapılır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "ebegumeci",
+  "aktif": true,
+  "enerji_kcal_100g": null,
+  "enerji_durum": null,
+  "enerji_kaynak_adi": null,
+  "enerji_kaynak_link": null,
+  "az_bilinen": true,
+  "tanitim": "Ebegümeci, yuvarlak ve hafif dilimli yapraklı yabani bir bitkidir; genç yaprakları ve körpe sapları yenir. Tadı yumuşak ve hafiftir, pişince biraz kaygan bir dokusu olur.",
+  "hazirlama_adimlari": [
+    "Yaprakları uzun saplarından koparın; sert sapları atın.",
+    "Bol suda birkaç kez yıkayın.",
+    "Kavurma için iri doğrayın; sarma için kaynar suda 1 dakika haşlayıp soğuk suya alın.",
+    "Yabani otları, bitkiyi iyi tanıyan pazar satıcılarından alın; tahminle doğadan toplamayın, benzer görünen zehirli bitkiler olabilir."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "ebegumeci__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "10-01",
+      "bit": "05-31",
+      "kaynak_adi": "Ertuğ F. 2004. Wild edible plants of the Bodrum area (Muğla, Turkey). Turk J Bot 28:161–174; Kaya İ., İncekara N., Nemli Y. 2004. YYÜ Tarım Bilimleri Dergisi 14(1):1–6",
+      "kaynak_link": "https://journals.tubitak.gov.tr/botany/vol28/iss1/16",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Kıyı Ege'de yabani otların genel dönemi."
+    },
+    {
+      "id": "ebegumeci__ege_ic__pazar_yogun__1",
+      "kapsam_turu": "alt_bolge",
+      "kapsam_id": "ege_ic",
+      "donem_turu": "pazar_yogun",
+      "bas": "04-01",
+      "bit": "07-31",
+      "kaynak_adi": "Yücel, Yücel Şengün ve Çoban 2012, Afyonkarahisar yabani yenen bitkileri (Biological Diversity and Conservation 5/2)",
+      "kaynak_link": "https://dergipark.org.tr/en/download/article-file/1191843",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "akademik",
+      "not": "Afyonkarahisar halk pazarında nisan – temmuz arasında satılır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Yapraklar genç, yumuşak ve canlı yeşil olsun.",
+    "Delik, paslı (turuncu benekli) ya da sararmış yaprakları almayın.",
+    "Sarma yapacaksanız orta boy, yırtıksız yaprakları seçin."
+  ],
+  "besin": [],
+  "tarifler": [
+    "yumurtali_ot_kavurmasi",
+    "zeytinyagli_pazi_sarmasi",
+    "otlu_borek"
+  ]
+}

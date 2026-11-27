@@ -1,0 +1,18 @@
+{
+  "id": "pazi_kavurmasi",
+  "baslik": "Yumurtalı pazı kavurması",
+  "malzemeler": [
+    "1 demet pazı",
+    "1 adet kuru soğan",
+    "2-3 adet yumurta",
+    "2 yemek kaşığı zeytinyağı",
+    "Tuz, pul biber"
+  ],
+  "adimlar": [
+    "Pazının saplarını ve yapraklarını ayrı ayrı doğrayın.",
+    "Soğanı yağda kavurun, önce sapları ekleyip 5 dakika pişirin.",
+    "Yaprakları ekleyin; sönene kadar çevirin, tuzlayın.",
+    "Yumurtaları kırıp karıştırın, pişince pul biber serpip servis edin."
+  ],
+  "kaynak_adi": "Mevsim"
+}

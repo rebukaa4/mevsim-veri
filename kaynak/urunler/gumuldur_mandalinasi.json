@@ -1,0 +1,57 @@
+{
+  "id": "gumuldur_mandalinasi",
+  "ad": "Gümüldür Mandalinası",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "İzmir Menderes Gümüldür'ün basık, ince kabuklu, erken renk alıp erken olgunlaşan Satsuma mandalinası; ekimde toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "35",
+  "gorsel_id": "mandalina",
+  "aktif": true,
+  "enerji_kcal_100g": 53,
+  "enerji_durum": "çiğ, kabuksuz (mandalina genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Tangerines, (mandarin oranges), raw (FDC ID 169105, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169105/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "gumuldur_mandalinasi__35__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "35",
+      "donem_turu": "hasat",
+      "bas": "10-01",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Gümüldür Mandalinası (No 521)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/ab90338c-8e23-4342-95ad-b13550c29e89.pdf",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "resmi",
+      "not": "Genellikle ekim ayında hasat edilir; kasım ortasına kadar toplanan ürün depolanabilir."
+    }
+  ],
+  "secim_ipuclari": [
+    "Boyuna göre ağır olan mandalina daha sulu olur.",
+    "Kabuk ete hafif oturmuş ve parlak olmalı; kabuğu içinden çok ayrılmış, kabarık olanlar kurumuş olabilir.",
+    "Yumuşamış, küflü ya da çökük bölgesi olan mandalinayı almayın.",
+    "Kabukta biraz yeşillik kalması erkenci Satsuma'da normaldir; tadı yine olgun olabilir."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir: 100 g'da 26,7 mg; günlük başvuru değerine oranı yaklaşık %33.",
+      "kaynak_adi": "USDA FoodData Central — Tangerines, (mandarin oranges), raw (FDC ID 169105, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169105/nutrients"
+    }
+  ],
+  "tarifler": [
+    "meyve_salatasi",
+    "narenciye_salatasi",
+    "mandalina_marmelati"
+  ]
+}

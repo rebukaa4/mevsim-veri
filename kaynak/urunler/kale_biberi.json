@@ -1,0 +1,62 @@
+{
+  "id": "kale_biberi",
+  "ad": "Kale Biberi",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Denizli Kale'nin saman sarısı-yeşilimsi, kalın etli, iri (125–150 g), tatlımsı acılı biberi; taze, közleme, kurutmalık ve pul biber olarak kullanılır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "20",
+  "gorsel_id": "kale_biberi",
+  "aktif": true,
+  "enerji_kcal_100g": 20,
+  "enerji_durum": "çiğ (yeşil tatlı biber genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Peppers, sweet, green, raw (FDC ID 170427, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170427/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "kale_biberi__20__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "20",
+      "donem_turu": "hasat",
+      "bas": "07-24",
+      "bit": "10-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Kale Biberi (No 139)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/2307335e-5e68-4450-82d7-5d034cbc36c8.pdf",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "resmi",
+      "not": "Temmuz sonunda başlar, genelde ekim ortasında biter."
+    }
+  ],
+  "secim_ipuclari": [
+    "Kabuğu parlak, gergin ve et kalınlığı hissedilecek kadar sert olsun.",
+    "Sapı yeşil ve taze olmalı; buruşmuş, yumuşamış biber almayın.",
+    "Közlemek için iri ve düzgün biçimli olanları seçin."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir: 100 g'da 80,4 mg; günlük başvuru değerine oranı yaklaşık %100.",
+      "kaynak_adi": "USDA FoodData Central — Peppers, sweet, green, raw (FDC ID 170427, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170427/nutrients"
+    },
+    {
+      "ad": "B6 vitamini",
+      "tur": "vitamin",
+      "aciklama": "B6 vitamini kaynağıdır: 100 g'da 0,22 mg; günlük başvuru değerine oranı yaklaşık %16.",
+      "kaynak_adi": "USDA FoodData Central — Peppers, sweet, green, raw (FDC ID 170427, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170427/nutrients"
+    }
+  ],
+  "tarifler": [
+    "kozlenmis_biber_salatasi",
+    "zeytinyagli_biber_dolmasi"
+  ]
+}

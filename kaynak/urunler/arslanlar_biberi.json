@@ -1,0 +1,85 @@
+{
+  "id": "arslanlar_biberi",
+  "ad": "Arslanlar Biberi",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "İzmir Torbalı Arslanlar köyünün 'yörük biberi' de denen, 5–9 cm boyunda, ağızda hafif acı bırakan jalapeno tipi yeşil biberi; pul biberi de yapılır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "35",
+  "gorsel_id": "sivri_biber",
+  "aktif": true,
+  "enerji_kcal_100g": 29,
+  "enerji_durum": "çiğ (USDA jalapeno biber değeri; tescil belgesi 27–29 kcal aralığı veriyor)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Peppers, jalapeno, raw (FDC ID 168576, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/168576/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "arslanlar_biberi__35__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "35",
+      "donem_turu": "hasat",
+      "bas": "06-01",
+      "bit": "09-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Arslanlar Biberi (No 1197); Gazete Vatan/DHA 22.07.2026, Arslanlar biberi",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/c583b162-4ea5-480c-921b-661ba7b041ad.pdf",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Hasat haziranda başlar, tescile göre eylüle kadar sürer; bazı yıllar daha uzun."
+    }
+  ],
+  "secim_ipuclari": [
+    "Parlak, gergin kabuklu ve sert biberleri seçin; buruşmuş olanlar bayattır.",
+    "Sapı yeşil ve taze olmalı.",
+    "Yumuşamış, lekeli ya da çürük bölgesi olanları almayın.",
+    "Acılığını azaltmak için iç çekirdeklerini ve beyaz damarlarını çıkarabilirsiniz."
+  ],
+  "besin": [
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Tescil belgesine göre 100 g'da 5–5,9 g diyet lifi bulunur (lif kaynağıdır).",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescil belgesi No 1197 — Arslanlar Biberi",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/c583b162-4ea5-480c-921b-661ba7b041ad.pdf"
+    },
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir: 100 g'da 119 mg; günlük başvuru değerine oranı yaklaşık %148.",
+      "kaynak_adi": "USDA FoodData Central — Peppers, jalapeno, raw (FDC ID 168576, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168576/nutrients"
+    },
+    {
+      "ad": "B6 vitamini",
+      "tur": "vitamin",
+      "aciklama": "B6 vitamini kaynağıdır: 100 g'da 0,42 mg; günlük başvuru değerine oranı yaklaşık %29.",
+      "kaynak_adi": "USDA FoodData Central — Peppers, jalapeno, raw (FDC ID 168576, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168576/nutrients"
+    },
+    {
+      "ad": "E vitamini",
+      "tur": "vitamin",
+      "aciklama": "E vitamini kaynağıdır: 100 g'da 3,58 mg; günlük başvuru değerine oranı yaklaşık %29.",
+      "kaynak_adi": "USDA FoodData Central — Peppers, jalapeno, raw (FDC ID 168576, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168576/nutrients"
+    },
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini kaynağıdır: 100 g'da 18,5 µg; günlük başvuru değerine oranı yaklaşık %24.",
+      "kaynak_adi": "USDA FoodData Central — Peppers, jalapeno, raw (FDC ID 168576, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168576/nutrients"
+    }
+  ],
+  "tarifler": [
+    "narli_coban_salatasi",
+    "yogurtlu_biber_kizartmasi",
+    "menemen"
+  ]
+}

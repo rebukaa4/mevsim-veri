@@ -1,0 +1,90 @@
+{
+  "id": "odemis_patatesi",
+  "ad": "Ödemiş Patatesi",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Ödemiş ovasında ve Bozdağ-Gölcük yaylalarında yılda üç kez taze hasat edilen, çoğunlukla sarı kabuklu ve sarı etli patates.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "35",
+  "gorsel_id": "patates",
+  "aktif": true,
+  "enerji_kcal_100g": 77,
+  "enerji_durum": "çiğ, kabuğuyla (patates genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Potatoes, flesh and skin, raw (FDC ID 170026, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170026/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "odemis_patatesi__35__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "35",
+      "donem_turu": "hasat",
+      "bas": "05-15",
+      "bit": "07-01",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Ödemiş Patatesi (No 45)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/45.pdf",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "resmi",
+      "not": "Ödemiş ovasının ilk ürün patatesi."
+    },
+    {
+      "id": "odemis_patatesi__35__hasat__2",
+      "kapsam_turu": "il",
+      "kapsam_id": "35",
+      "donem_turu": "hasat",
+      "bas": "09-01",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Ödemiş Patatesi (No 45)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/45.pdf",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "resmi",
+      "not": "Bozdağ ve Gölcük yaylalarının patatesi."
+    }
+  ],
+  "secim_ipuclari": [
+    "Sert, pürüzsüz kabuklu ve filizlenmemiş patates seçin.",
+    "Kabuğunda yeşillenme olmamalı; yeşil kısımlar acıdır, kesip atın.",
+    "Taze hasat patatesin ince kabuğu parmakla sıyrılabilir; bu tazelik işaretidir.",
+    "Serin, karanlık ve havadar yerde, soğandan ayrı saklayın."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini kaynağıdır: 100 g'da 19,7 mg; günlük başvuru değerine oranı yaklaşık %24.",
+      "kaynak_adi": "USDA FoodData Central — Potatoes, flesh and skin, raw (FDC ID 170026, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170026/nutrients"
+    },
+    {
+      "ad": "B6 vitamini",
+      "tur": "vitamin",
+      "aciklama": "B6 vitamini kaynağıdır: 100 g'da 0,3 mg; günlük başvuru değerine oranı yaklaşık %21.",
+      "kaynak_adi": "USDA FoodData Central — Potatoes, flesh and skin, raw (FDC ID 170026, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170026/nutrients"
+    },
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum kaynağıdır: 100 g'da 425 mg; günlük başvuru değerine oranı yaklaşık %21.",
+      "kaynak_adi": "USDA FoodData Central — Potatoes, flesh and skin, raw (FDC ID 170026, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170026/nutrients"
+    },
+    {
+      "ad": "Nişasta ve kuru madde",
+      "tur": "diger",
+      "aciklama": "Tescil belgesine göre yumrunun yaklaşık %75'i sudur; nişasta %16–20, kuru madde yaklaşık %24'tür.",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescil belgesi No 45 — Ödemiş Patatesi",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/45.pdf"
+    }
+  ],
+  "tarifler": [
+    "patates_salatasi",
+    "firinda_baharatli_patates"
+  ]
+}

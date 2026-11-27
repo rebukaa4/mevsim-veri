@@ -1,0 +1,74 @@
+{
+  "id": "taze_fasulye",
+  "ad": "Taze fasulye",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Ayşe kadın, çalı ve barbunya çeşitleriyle zeytinyağlıların başı.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "taze_fasulye",
+  "aktif": true,
+  "enerji_kcal_100g": 31,
+  "enerji_durum": "çiğ, yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Beans, snap, green, raw (FDC ID 169961)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169961/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Yıkayın; iki ucunu kesip kenarındaki kılçığı varsa çekerek ayıklayın.",
+    "Boyuna ikiye ya da çaprazına 3-4 cm boyunda doğrayın."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "taze_fasulye__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "06-01",
+      "bit": "11-30",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024); GKGM, \"Yemeklik Baklagiller\" el kitabı; Balkaya A., Odabaş M.S. 2004. Samsun koşullarında ekim zamanının barbunya fasulye yetiştiriciliğinde erkencilik, verim ve bazı kalite özellikleri üzerine etkileri. BAHÇE 33(1-2):7–15",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Bahar ekimi yaz ürününü, yaz ekimi güz ürününü verir; en ucuz olduğu aylar ekim – kasım."
+    }
+  ],
+  "secim_ipuclari": [
+    "Kabuk parlak yeşil olmalı; ikiye kırınca 'çıt' diye kırılmalı.",
+    "Bükünce esneyip kırılmayan fasulye bayatlamıştır.",
+    "İçindeki taneler belirgin şişmemiş olsun; çok iri taneli fasulyenin kabuğu kılçıklı ve serttir.",
+    "Kahverengi lekeli ya da kurumuş uçlu olanları almayın."
+  ],
+  "besin": [
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini açısından zengindir (100 g'da 43 µg; günlük başvuru değerine oranı yaklaşık %57).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Beans, snap, green, raw (FDC ID 169961)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169961/nutrients"
+    },
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat kaynağıdır (100 g'da 33 µg; günlük başvuru değerine oranı yaklaşık %16).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Beans, snap, green, raw (FDC ID 169961)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169961/nutrients"
+    },
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini kaynağıdır (100 g'da 12 mg; günlük başvuru değerine oranı yaklaşık %15).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Beans, snap, green, raw (FDC ID 169961)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169961/nutrients"
+    }
+  ],
+  "tarifler": [
+    "zeytinyagli_taze_fasulye",
+    "taze_fasulye_salatasi",
+    "sebzeli_turlu"
+  ]
+}

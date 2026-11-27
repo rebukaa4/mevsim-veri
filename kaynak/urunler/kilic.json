@@ -1,0 +1,70 @@
+{
+  "id": "kilic",
+  "ad": "Kılıç",
+  "diger_adlar": [],
+  "kategori_id": "balik_deniz",
+  "kisa_tanim": "Kış aylarında bulunan, dilim hâlinde satılan, kemiksiz, sıkı etli iri balık.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "kilic",
+  "aktif": true,
+  "enerji_kcal_100g": 144,
+  "enerji_durum": "çiğ",
+  "enerji_kaynak_adi": "USDA FoodData Central — \"Fish, swordfish, raw\" (FDC ID 173703)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/173703/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "kilic__ege__pazar_yogun__1",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "12-01",
+      "bit": "02-14",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, balık hal fiyatları açık verisi (2019, 2021–2024); Ticari Amaçlı Su Ürünleri Avcılığı Tebliği (No 2024/20), Resmî Gazete 11.08.2024, madde 25",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/balik-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Kılıç avının yasak olmadığı ve halde satıldığı dönem."
+    }
+  ],
+  "secim_ipuclari": [
+    "Dilimlerin eti parlak, nemli ve açık pembe-beyaz olmalı; kahverengi lekeli ya da kurumuş dilimi almayın.",
+    "Dilimin ortasındaki koyu kırmızı bölüm canlı kırmızı olmalı, kahverengiye dönmüş olmamalı.",
+    "Parmakla bastırınca eti hemen eski hâline dönmeli; iz kalıyorsa taze değildir.",
+    "Hafif deniz ve yosun kokmalı; ağır, ekşi ya da amonyak gibi koku bayatlık işaretidir."
+  ],
+  "besin": [
+    {
+      "ad": "Protein",
+      "tur": "diger",
+      "aciklama": "100 gramında yaklaşık 20 g protein bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Fish, swordfish, raw\" (FDC ID 173703)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173703/nutrients"
+    },
+    {
+      "ad": "D vitamini",
+      "tur": "vitamin",
+      "aciklama": "100 gramında yaklaşık 14 µg D vitamini bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Fish, swordfish, raw\" (FDC ID 173703)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173703/nutrients"
+    },
+    {
+      "ad": "Selenyum",
+      "tur": "mineral",
+      "aciklama": "100 gramında yaklaşık 57 µg selenyum bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Fish, swordfish, raw\" (FDC ID 173703)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173703/nutrients"
+    }
+  ],
+  "tarifler": [
+    "kilic_izgara",
+    "firinda_patatesli_balik"
+  ]
+}

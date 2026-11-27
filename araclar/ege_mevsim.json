@@ -1,0 +1,2911 @@
+{
+ "aciklama": "Ege sezon satırları (04_ege_urun_tablosu.md, 3. tur, 27.11.2026) ve kaynak listesi. Elle bakımlıdır; ege_icerik_aktar.py bu dosyayı okur.",
+ "arastirma_tarihi": "2026-11-27",
+ "kaynaklar": {
+  "K-A1": {
+   "ad": "Kınacıgil ve ark. (ed.) 2017, İzmir Balıkçılığı (Akyol, İzmir Körfezi balıklarının av takvimi), İzmir Büyükşehir Belediyesi",
+   "link": "https://www.izmir.bel.tr:443/YuklenenDosyalar/Yayinlar/0_08022018_053047_izmir-balikciligi.pdf"
+  },
+  "K-A10": {
+   "ad": "Geyikçi 2013. CBÜ Sosyal Bilimler Dergisi 11(3)",
+   "link": "https://dergipark.org.tr/tr/download/article-file/45782"
+  },
+  "K-A11": {
+   "ad": "Arısoy & Kaplan 2022. TEAD 8(2):132–143",
+   "link": "https://dergipark.org.tr/tr/download/article-file/1801931"
+  },
+  "K-A12": {
+   "ad": "Ercan & Özkarakaş 2003. ANADOLU J. of AARI 13(2):17–31 (Ege Tarımsal Araştırma Enstitüsü)",
+   "link": "https://dergipark.org.tr/tr/download/article-file/20017"
+  },
+  "K-A13": {
+   "ad": "Kurt & Şahin 2013. Marmara Coğrafya Dergisi 27:551–574",
+   "link": "https://dergipark.org.tr/tr/download/article-file/3337"
+  },
+  "K-A15": {
+   "ad": "Yıldız Kutlar & Şen 2024. Ege Üniv. Ziraat Fak. Derg. 61(1):19–29",
+   "link": "https://dergipark.org.tr/en/download/article-file/3407599"
+  },
+  "K-A17": {
+   "ad": "Yılmaz, Demircan, Erel 2006. SDÜ Ziraat Fak. Derg. 1(1):22–32",
+   "link": "https://dergipark.org.tr/en/download/article-file/308840"
+  },
+  "K-A2": {
+   "ad": "Öztürk ve Öztürk 1996, On the biology of the Turkish straits system (CIESM)",
+   "link": "https://ciesm.org/online/monographs/CSS-2/CSS_2_205_221.pdf"
+  },
+  "K-A20": {
+   "ad": "Ertuğ F. 2004. Wild edible plants of the Bodrum area (Muğla, Turkey). Turk J Bot 28:161–174",
+   "link": "https://journals.tubitak.gov.tr/botany/vol28/iss1/16"
+  },
+  "K-A22": {
+   "ad": "Kaya İ., İncekara N., Nemli Y. 2004. YYÜ Tarım Bilimleri Dergisi 14(1):1–6",
+   "link": "https://dergipark.org.tr/en/download/article-file/204893"
+  },
+  "K-A23": {
+   "ad": "Bilek S.E., Özbey Ü., Yurdagel Ü. 2014. GIDA 39(6):347–354",
+   "link": "https://dergipark.org.tr/en/download/article-file/79226"
+  },
+  "K-A24": {
+   "ad": "Kök A. ve ark. 2020. Ege otlarının yöresel mutfaklarda kullanımı. J. Tourism Intelligence and Smartness 3(2):152–168",
+   "link": "https://dergipark.org.tr/tr/download/article-file/1326267"
+  },
+  "K-A25": {
+   "ad": "Yücel, Yücel Şengün ve Çoban 2012, Afyonkarahisar yabani yenen bitkileri (Biological Diversity and Conservation 5/2)",
+   "link": "https://dergipark.org.tr/en/download/article-file/1191843"
+  },
+  "K-A26": {
+   "ad": "Doğan Y. 2012. Acta Soc Bot Pol 81(4):329–342",
+   "link": "https://bibliotekanauki.pl/articles/58389.pdf"
+  },
+  "K-A27": {
+   "ad": "Balkaya A., Odabaş M.S. 2004. Samsun koşullarında ekim zamanının barbunya fasulye yetiştiriciliğinde erkencilik, verim ve bazı kalite özellikleri üzerine etkileri. BAHÇE 33(1-2):7–15",
+   "link": "https://dergipark.org.tr/tr/download/article-file/39597"
+  },
+  "K-A28": {
+   "ad": "Gürdal B., Kültür Ş. 2014. Marmaris (Muğla) etnobotanik çalışması. İstanbul Ecz. Fak. Derg. 44(1):69–78 (Rubus sanctus \"börtlen, böğürtlen\")",
+   "link": "https://dergipark.org.tr/en/download/article-file/5171"
+  },
+  "K-A3": {
+   "ad": "Akçay ve Egemen 2006, İzmir Körfezinde avlanan bazı balık türlerinin kimyasal değişimleri (Su Ürünleri Dergisi)",
+   "link": "https://www.acarindex.com/su-urunleri-dergisi/izmir-korfezinde-avlanan-bazi-balik-turlerinin-kimyasal-degisimleri-uzerine-bir-arastirma-357217"
+  },
+  "K-A5": {
+   "ad": "Küçükdermenci, Lök ve ark. 2017, Çeşme deniz kestanesi çalışması (Su Ürünleri Dergisi)",
+   "link": "https://acikerisim.comu.edu.tr/items/eb573a79-63a1-45fc-ae13-e2ddef55aa62/full"
+  },
+  "K-A9": {
+   "ad": "Yıldız & Dilli 2018. BAHÇE 47 (Özel Sayı 1):409–416",
+   "link": "https://dergipark.org.tr/en/download/article-file/5464929"
+  },
+  "K-CI-00": {
+   "ad": "Türk Patent coğrafi işaret tescili: Acıpayam Çakır Havucu (No 1897)",
+   "link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/f415bd6c-4d57-49db-a917-35419715e63d.pdf"
+  },
+  "K-CI-01": {
+   "ad": "Türk Patent coğrafi işaret tescili: Acıpayam Kavunu (No 1780)",
+   "link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/b00f2c20-8e88-4ffa-9324-ea19e4ec8f6d.pdf"
+  },
+  "K-CI-02": {
+   "ad": "Türk Patent coğrafi işaret tescili: Alaşehir Çekirdeksiz Üzümü (No 1892)",
+   "link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/54214a80-cb10-481d-8354-1c8098038878.pdf"
+  },
+  "K-CI-03": {
+   "ad": "Türk Patent coğrafi işaret tescili: Aydın Enginarı (No 1688)",
+   "link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/f66c058b-b760-40fd-a4f2-db2796b9b802.pdf"
+  },
+  "K-CI-05": {
+   "ad": "Türk Patent coğrafi işaret tescili: Bornova Kınalı Bamyası (No 581)",
+   "link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/4e6340e8-fe56-4021-96cc-e998312e868f.pdf"
+  },
+  "K-CI-06": {
+   "ad": "Türk Patent coğrafi işaret tescili: Buldan Kestanesi (No 602)",
+   "link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/6687e8ea-6f95-47cf-bf47-71cfb34b527d.pdf"
+  },
+  "K-CI-07": {
+   "ad": "Türk Patent coğrafi işaret tescili: Bornova Misket Üzümü (No 713)",
+   "link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/de056471-b581-4737-81f1-f233165b341a.pdf"
+  },
+  "K-CI-11": {
+   "ad": "Türk Patent coğrafi işaret tescili: Datça Domatesi (No 1571)",
+   "link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/5c1fe343-035e-41e0-93eb-6956ab83b0ba.pdf"
+  },
+  "K-CI-12": {
+   "ad": "Türk Patent coğrafi işaret tescili: Demirci Kirazı (No 1564)",
+   "link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/13257569-742a-41b5-8dd9-afc5fddcfb0a.pdf"
+  },
+  "K-CI-13": {
+   "ad": "Türk Patent coğrafi işaret tescili: Emcelli Biberi (No 1337)",
+   "link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/a1852c7b-8e17-4d17-8f61-d0ea409768ec.pdf"
+  },
+  "K-CI-14": {
+   "ad": "Türk Patent coğrafi işaret tescili: Ege İnciri (No 80)",
+   "link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/d808e2cb-768f-47ed-998b-410a73cac02a.pdf"
+  },
+  "K-CI-15": {
+   "ad": "Türk Patent coğrafi işaret tescili: Fethiye Kuzu Göbeği Mantarı (No 1898)",
+   "link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/abf0186e-5530-4dfe-bf61-2d1afb21a260.pdf"
+  },
+  "K-CI-16": {
+   "ad": "Türk Patent coğrafi işaret tescili: Honaz Kirazı (No 697)",
+   "link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/c2c5ab60-deef-496a-9be4-a6741139bb43.pdf"
+  },
+  "K-CI-17": {
+   "ad": "Türk Patent coğrafi işaret tescili: Karahallı Kavunu (No 1359)",
+   "link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/1043b56d-2fe4-446c-b89b-a7e6232f714a.pdf"
+  },
+  "K-CI-18": {
+   "ad": "Türk Patent coğrafi işaret tescili: Kavaklıdere Cevizi (No 528)",
+   "link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/3c04b492-3528-4379-895b-a0fd4c984dea.pdf"
+  },
+  "K-CI-19": {
+   "ad": "Türk Patent coğrafi işaret tescili: Kemalpaşa Kirazı (No 702)",
+   "link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/49a89368-577d-4230-b394-94d2dd1d0257.pdf"
+  },
+  "K-CI-20": {
+   "ad": "Türk Patent coğrafi işaret tescili: Kırkağaç Kavunu (No 107)",
+   "link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/221bbc0b-0efb-4da7-b752-b17866d89a53.pdf"
+  },
+  "K-CI-21": {
+   "ad": "Türk Patent coğrafi işaret tescili: Köyceğiz Portakalı (No 1124)",
+   "link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/5e652232-1344-494b-8db2-893d47ece95c.pdf"
+  },
+  "K-CI-22": {
+   "ad": "Türk Patent coğrafi işaret tescili: Kuyucak Portakalı (No 1487)",
+   "link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/333e79b1-1b3a-4d6e-8e83-05eb48581fd2.pdf"
+  },
+  "K-CI-23": {
+   "ad": "Türk Patent coğrafi işaret tescili: Köprübaşı Çileği (No 943)",
+   "link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/c5890703-a2b7-44d7-8399-d939fc9c42b7.pdf"
+  },
+  "K-CI-24": {
+   "ad": "Türk Patent coğrafi işaret tescili: Akhisar Domat Zeytini (No 166)",
+   "link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/166.pdf"
+  },
+  "K-CI-25": {
+   "ad": "Türk Patent coğrafi işaret tescili: Kuzey Ege Zeytinyağları (No 392)",
+   "link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/392.pdf"
+  },
+  "K-CI-26": {
+   "ad": "Türk Patent coğrafi işaret tescili: Çeşme Kavunu (No 651)",
+   "link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/726d8747-673b-4b25-82e8-56a219d9df31.pdf"
+  },
+  "K-CI-27": {
+   "ad": "Türk Patent coğrafi işaret tescili: Kütahya Pazarlar Kirazı (No 789)",
+   "link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/f5db2384-31bc-49ef-87ab-e90557fb8e4c.pdf"
+  },
+  "K-CI-28": {
+   "ad": "Türk Patent coğrafi işaret tescili: Manisa Sultani Çekirdeksiz Üzümü (No 418)",
+   "link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/ebd8f25a-18be-496f-be21-1fb24eb2686b.pdf"
+  },
+  "K-CI-29": {
+   "ad": "Türk Patent coğrafi işaret tescili: Ödemiş Patatesi (No 45)",
+   "link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/45.pdf"
+  },
+  "K-CI-30": {
+   "ad": "Türk Patent coğrafi işaret tescili: Gümüldür Mandalinası (No 521)",
+   "link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/ab90338c-8e23-4342-95ad-b13550c29e89.pdf"
+  },
+  "K-CI-31": {
+   "ad": "Türk Patent coğrafi işaret tescili: Kale Biberi (No 139)",
+   "link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/2307335e-5e68-4450-82d7-5d034cbc36c8.pdf"
+  },
+  "K-CI-32": {
+   "ad": "Türk Patent coğrafi işaret tescili: Ödemiş Çekişte Zeytinyağı (No 579)",
+   "link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/cc1c4f3a-c746-403c-b2e4-7dd385862dfb.pdf"
+  },
+  "K-CI-34": {
+   "ad": "Türk Patent coğrafi işaret tescili: Simav Kestanesi (No 1152)",
+   "link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/6f7a20f3-8df0-44d5-8cda-5f4ab7b1b058.pdf"
+  },
+  "K-CI-35": {
+   "ad": "Türk Patent coğrafi işaret tescili: Arslanlar Biberi (No 1197)",
+   "link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/c583b162-4ea5-480c-921b-661ba7b041ad.pdf"
+  },
+  "K-CI-36": {
+   "ad": "Türk Patent coğrafi işaret tescili: Şuhut Patatesi (No 1060)",
+   "link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/cb735443-7068-4298-855a-8a01ec6a4044.pdf"
+  },
+  "K-CI-37": {
+   "ad": "Türk Patent coğrafi işaret tescili: Sultandağı Kirazı (No 644)",
+   "link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/d281e5e3-0443-449a-b5d0-4aff3f206532.pdf"
+  },
+  "K-CI-38": {
+   "ad": "Türk Patent coğrafi işaret tescili: Urla Sakız Enginarı (No 245)",
+   "link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/245.pdf"
+  },
+  "K-H23": {
+   "ad": "Gazete Vatan/İHA 21.06.2025, Aydın karpuzu",
+   "link": "https://www.gazetevatan.com/gundem/bu-karpuzu-alabilmek-icin-tarladan-cikmadan-siraya-giriyorlar-cukurovadan-sonra-aydin-geliyor-uretici-taleplere-yetisemiyor-2287297"
+  },
+  "K-H24": {
+   "ad": "Yeni Asır 10.08.2026, domates",
+   "link": "https://www.yeniasir.com.tr/izmir/2026/08/10/izmirin-domatesi-tarladan-dovize-uzaniyor"
+  },
+  "K-H25": {
+   "ad": "Gazete Vatan/DHA 22.07.2026, Arslanlar biberi",
+   "link": "https://www.gazetevatan.com/galeri/egenin-cografi-isaretli-biberinde-rekor-verim-hasat-sezonu-basladi-italyanlar-sos-yapmak-icin-siraya-girdi-2390483"
+  },
+  "K-H26": {
+   "ad": "Habertürk/İHA 12.11.2025, ıspanak",
+   "link": "https://yerel-haberler.haberturk.com/izmir-haberleri/kis-sebzesi-ispanakta-hasat-bolluguispanagin-kilosu-tarlada-6-pazarda-40-tl-115363222"
+  },
+  "K-H27": {
+   "ad": "Gazete Vatan/İHA 16.10.2025, pırasa",
+   "link": "https://www.gazetevatan.com/galeri/izmirde-100-yillik-tohumlardan-urettiler-hasat-basladi-mayisa-kadar-surecek-tarlada-25-tl-pazarda-70-liraya-satiliyor-ciftci-isyanda-2316888"
+  },
+  "K-H28": {
+   "ad": "Dünya 14.12.2025, brokoli",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/menemen-ovasinda-brokoli-hasadi-basladi-tarlada-1015-tl-olan-yesil-altin-pazara-gelene-kadar-uc-katina-cikiyor-galeri-807331"
+  },
+  "K-H29": {
+   "ad": "Cumhuriyet/AA 11.01.2024, kışlık sebze",
+   "link": "https://www.cumhuriyet.com.tr/yasam/kislik-sebzenin-uretim-ussunde-hasat-suruyor-beklenti-280-bin-tonun-2161750"
+  },
+  "K-H30": {
+   "ad": "Yeni Asır 09.04.2026, enginar",
+   "link": "https://www.yeniasir.com.tr/izmir/2026/04/09/en-cok-izmirde-yetisiyor-enginarin-faydalari-nedir-enginar-nasil-tuketilmeli"
+  },
+  "K-H32": {
+   "ad": "Yeni Asır 21.10.2026, cibez",
+   "link": "https://www.yeniasir.com.tr/yasam/2026/10/21/adini-duyan-sasiriyor-cibez-nedir-nasil-yapilir-izmirin-meshur-cibez-yemegi-nasil-yapilir"
+  },
+  "K-H33": {
+   "ad": "Deniz Haber, \"Balıkçılıkta yeni kurallar Resmi Gazete'de\", 16.09.2026 (Tebliğ 2026/25 özeti)",
+   "link": "https://www.denizhaber.net/balikcilikta-yeni-kurallar-resmi-gazetede-haber-126194.htm"
+  },
+  "K-HAL1": {
+   "ad": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
+   "link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari"
+  },
+  "K-HAL2": {
+   "ad": "İzmir Büyükşehir Belediyesi, balık hal fiyatları açık verisi (2019, 2021–2024)",
+   "link": "https://acikveri.bizizmir.com/dataset/balik-hal-fiyatlari"
+  },
+  "K-R1": {
+   "ad": "Muğla İl Tarım ve Orman Müdürlüğü, Tarım Takvimi",
+   "link": "https://mugla.tarimorman.gov.tr/Sayfalar/Detay.aspx?TermStoreId=368e785b-af33-487d-a98d-c11d5495130b&TermSetId=6c59163f-a2cc-44d9-bd3b-e5a53766f6f0&TermId=be3c980f-b990-492b-bb38-2feab07411de&UrlSuffix=84%2FTarim-Takvimi"
+  },
+  "K-R10": {
+   "ad": "Tarım ve Orman Bakanlığı GKGM, \"Çilek\" el kitabı",
+   "link": "https://www.tarimorman.gov.tr/GKGM/Belgeler/Uretici_Bilgi_Kosesi/Dokumanlar/cilek.pdf"
+  },
+  "K-R11": {
+   "ad": "GKGM, \"Armut-Ayva\" el kitabı",
+   "link": "https://www.tarimorman.gov.tr/GKGM/Belgeler/Uretici_Bilgi_Kosesi/Dokumanlar/armut-ayva.pdf"
+  },
+  "K-R12": {
+   "ad": "GKGM, \"Elma\" el kitabı",
+   "link": "https://www.tarimorman.gov.tr/GKGM/Belgeler/Uretici_Bilgi_Kosesi/Dokumanlar/elma.pdf"
+  },
+  "K-R13": {
+   "ad": "GKGM, \"Yemeklik Baklagiller\" el kitabı",
+   "link": "https://www.tarimorman.gov.tr/GKGM/Belgeler/Uretici_Bilgi_Kosesi/Dokumanlar/yemeklik_baklagil.pdf"
+  },
+  "K-R14": {
+   "ad": "GKGM, \"Lahanagiller\" el kitabı",
+   "link": "https://www.tarimorman.gov.tr/GKGM/Belgeler/Uretici_Bilgi_Kosesi/Dokumanlar/lahanagiller.pdf"
+  },
+  "K-R15": {
+   "ad": "GKGM, \"Havuç\" el kitabı",
+   "link": "https://www.tarimorman.gov.tr/GKGM/Belgeler/Uretici_Bilgi_Kosesi/Dokumanlar/havuc.pdf"
+  },
+  "K-R16": {
+   "ad": "GKGM, \"Kavun-Karpuz\" el kitabı",
+   "link": "https://www.tarimorman.gov.tr/GKGM/Belgeler/Uretici_Bilgi_Kosesi/Dokumanlar/kavun-karpuz.pdf"
+  },
+  "K-R17": {
+   "ad": "GKGM, \"Hıyar-Kabak\" el kitabı",
+   "link": "https://www.tarimorman.gov.tr/GKGM/Belgeler/Uretici_Bilgi_Kosesi/Dokumanlar/hıyar-kabak.pdf"
+  },
+  "K-R18": {
+   "ad": "GKGM, \"Patlıcan\" el kitabı",
+   "link": "https://www.tarimorman.gov.tr/GKGM/Belgeler/Uretici_Bilgi_Kosesi/Dokumanlar/patlican.pdf"
+  },
+  "K-R2": {
+   "ad": "Denizli İl Tarım ve Orman Müdürlüğü, Tarım Takvimi (Mayıs, Haziran, Ekim)",
+   "link": "https://denizli.tarimorman.gov.tr/Sayfalar/Detay.aspx?SayfaId=34"
+  },
+  "K-R3b": {
+   "ad": "Tarım ve Orman Bakanlığı, iklim ve fenolojik durum istatistikleri (Ağustos 2025)",
+   "link": "https://istatistik.tarimorman.gov.tr/Sayfa/Detay/2114"
+  },
+  "K-R3c": {
+   "ad": "Tarım ve Orman Bakanlığı, iklim ve fenolojik durum istatistikleri (Eylül 2025)",
+   "link": "https://istatistik.tarimorman.gov.tr/Sayfa/Detay/2122"
+  },
+  "K-R3d": {
+   "ad": "Tarım ve Orman Bakanlığı, iklim ve fenolojik durum istatistikleri (Ekim 2025)",
+   "link": "https://istatistik.tarimorman.gov.tr/Sayfa/Detay/2167"
+  },
+  "K-R4": {
+   "ad": "Ticari Amaçlı Su Ürünleri Avcılığı Tebliği (No 2024/20), Resmî Gazete 11.08.2024",
+   "link": "https://resmigazete.gov.tr/eskiler/2024/08/20240811-3.htm"
+  },
+  "K-R6": {
+   "ad": "Polat ve Ergün 2008, Karadeniz'in pelajik balıkları (SÜMAE Yunus Araştırma Bülteni)",
+   "link": "https://dergipark.org.tr/en/download/article-file/204324"
+  },
+  "ULA": {
+   "ad": "Türk Patent coğrafi işaret tescili: Ula Sarımsağı",
+   "link": null
+  }
+ },
+ "satirlar": [
+  {
+   "tablo_satiri": 149,
+   "urun_id": "domates",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "hasat",
+   "bas": "07-01",
+   "bit": "10-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1",
+    "K-H24",
+    "K-R1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Açık tarla domatesi; halde en bol ve ucuz olduğu dönem temmuz ortası – eylül ortası. Sera domatesi yıl boyu bulunur."
+  },
+  {
+   "tablo_satiri": 150,
+   "urun_id": "sivri_biber",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "06-01",
+   "bit": "10-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Ege'de tarladan gelen biber dönemi. Mayıs'ta görülen ucuz biber çoğunlukla seradan ya da başka bölgeden gelir."
+  },
+  {
+   "tablo_satiri": 151,
+   "urun_id": "dolmalik_biber",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "06-01",
+   "bit": "10-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Ege'de tarladan gelen biber dönemi; tarla ürünü ilk donlara kadar sürer."
+  },
+  {
+   "tablo_satiri": 152,
+   "urun_id": "kapya_biber",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "07-01",
+   "bit": "10-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Kızarması yeşil biberden uzun sürdüğü için tarladan biraz daha geç gelir."
+  },
+  {
+   "tablo_satiri": 153,
+   "urun_id": "carliston_biber",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "06-01",
+   "bit": "10-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Ege'de tarladan gelen biber dönemi; mayıstaki ürün çoğunlukla seradandır."
+  },
+  {
+   "tablo_satiri": 154,
+   "urun_id": "patlican",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "07-01",
+   "bit": "10-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1",
+    "K-R18"
+   ],
+   "teblig_maddesi": null,
+   "not": "Tarla patlıcanı ilk donlara kadar ürün verir; haziranda görülen ucuz patlıcan çoğunlukla seradandır."
+  },
+  {
+   "tablo_satiri": 155,
+   "urun_id": "sakiz_kabak",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "06-01",
+   "bit": "10-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1",
+    "K-R17"
+   ],
+   "teblig_maddesi": null,
+   "not": "Ege'de tarladan gelen yazlık kabak dönemi."
+  },
+  {
+   "tablo_satiri": 156,
+   "urun_id": "salatalik",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "06-01",
+   "bit": "09-30",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Tarla salatalığı dönemi; turşuluk kornişon ağustos – kasım arasında bulunur."
+  },
+  {
+   "tablo_satiri": 157,
+   "urun_id": "taze_fasulye",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "06-01",
+   "bit": "11-30",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1",
+    "K-R13",
+    "K-A27"
+   ],
+   "teblig_maddesi": null,
+   "not": "Bahar ekimi yaz ürününü, yaz ekimi güz ürününü verir; en ucuz olduğu aylar ekim – kasım."
+  },
+  {
+   "tablo_satiri": 158,
+   "urun_id": "borulce",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "06-01",
+   "bit": "11-15",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Taze börülce yaz başından kasım ortasına kadar tezgâhta."
+  },
+  {
+   "tablo_satiri": 159,
+   "urun_id": "bamya",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "06-16",
+   "bit": "10-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Halde yalnızca bu dönemde satılıyor; Bornova Kınalı Bamyası ile aynı dönem."
+  },
+  {
+   "tablo_satiri": 160,
+   "urun_id": "bezelye",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "03-16",
+   "bit": "05-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Serin mevsim ürünü; kıyıda sıcaklar başlayınca biter. Yaz sonuna kadar görülen bezelye iç bölgelerden gelir."
+  },
+  {
+   "tablo_satiri": 161,
+   "urun_id": "bakla",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "03-01",
+   "bit": "05-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Kıyı Ege'nin bahar hasadı; kış aylarında görülen bakla çoğunlukla Akdeniz'in erken ürünüdür."
+  },
+  {
+   "tablo_satiri": 162,
+   "urun_id": "enginar",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "02-01",
+   "bit": "06-15",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-H30",
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Hasat şubatta başlar, nisanda en yoğun olur. Urla ve Aydın enginarı kasımda başlar."
+  },
+  {
+   "tablo_satiri": 163,
+   "urun_id": "ispanak",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "hasat",
+   "bas": "11-01",
+   "bit": "04-30",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-H26",
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Menemen ovası ıspanağı; en bol ve ucuz olduğu aylar mart – nisan."
+  },
+  {
+   "tablo_satiri": 164,
+   "urun_id": "pazi",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "11-01",
+   "bit": "04-30",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Halde yıl boyu var; kasım – nisan arası daha ucuz. Dönem sinyali zayıf."
+  },
+  {
+   "tablo_satiri": 165,
+   "urun_id": "pirasa",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "hasat",
+   "bas": "12-01",
+   "bit": "05-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-H27",
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Menemen pırasası ekimde başlar; en bol ve ucuz olduğu dönem aralık – mayıs."
+  },
+  {
+   "tablo_satiri": 166,
+   "urun_id": "beyaz_lahana",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "11-01",
+   "bit": "04-30",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-R14",
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Kışlık lahana dönemi; yaz aylarında görülen lahana başka bölgelerden gelir."
+  },
+  {
+   "tablo_satiri": 167,
+   "urun_id": "kirmizi_lahana",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "11-01",
+   "bit": "04-30",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-R14",
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Beyaz lahana gibi kışlık bir üründür."
+  },
+  {
+   "tablo_satiri": 168,
+   "urun_id": "karnabahar",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "12-01",
+   "bit": "04-30",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-H29",
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Kışlık sebze hasadı en çok aralık – şubat arasında yoğundur."
+  },
+  {
+   "tablo_satiri": 169,
+   "urun_id": "brokoli",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "hasat",
+   "bas": "12-01",
+   "bit": "02-28",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-H28",
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Menemen ovası brokolisi; en ucuz olduğu dönem kasım ortası – şubat."
+  },
+  {
+   "tablo_satiri": 170,
+   "urun_id": "kereviz",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "01-01",
+   "bit": "05-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1",
+    "K-H29"
+   ],
+   "teblig_maddesi": null,
+   "not": "Halde en ucuz olduğu dönem ocak – mayıs."
+  },
+  {
+   "tablo_satiri": 171,
+   "urun_id": "havuc",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "10-01",
+   "bit": "03-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1",
+    "K-R15"
+   ],
+   "teblig_maddesi": null,
+   "not": "Halde ekim – mart arası ucuz; kışlık havuç yazın ekilir."
+  },
+  {
+   "tablo_satiri": 172,
+   "urun_id": "turp",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "09-01",
+   "bit": "06-30",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Halde neredeyse yıl boyu var, temmuz – ağustosta azalır. Kara turp daha çok kasım – mart arasında görülür."
+  },
+  {
+   "tablo_satiri": 173,
+   "urun_id": "kirmizi_pancar",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "11-01",
+   "bit": "05-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1",
+    "K-H29"
+   ],
+   "teblig_maddesi": null,
+   "not": "İzmir'in kışlık sebzelerinden; en ucuz olduğu dönem mart ortası – mayıs ortası."
+  },
+  {
+   "tablo_satiri": 174,
+   "urun_id": "marul",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "12-01",
+   "bit": "05-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Serin mevsim ürünü; ağustos – kasım arası pahalıdır."
+  },
+  {
+   "tablo_satiri": 175,
+   "urun_id": "roka",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "01-01",
+   "bit": "12-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Halde yıl boyu satılıyor; belirgin bir mevsimi görülmüyor."
+  },
+  {
+   "tablo_satiri": 176,
+   "urun_id": "tere",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "09-16",
+   "bit": "05-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Yaz aylarında (haziran – eylül başı) tezgâhta azalır."
+  },
+  {
+   "tablo_satiri": 177,
+   "urun_id": "maydanoz",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "01-01",
+   "bit": "12-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Halde yıl boyu satılıyor; belirgin bir mevsimi görülmüyor."
+  },
+  {
+   "tablo_satiri": 178,
+   "urun_id": "dereotu",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "01-01",
+   "bit": "12-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Halde yıl boyu satılıyor; belirgin bir mevsimi görülmüyor."
+  },
+  {
+   "tablo_satiri": 179,
+   "urun_id": "taze_nane",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "04-01",
+   "bit": "11-30",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Halde yıl boyu var; en ucuz temmuzda, en pahalı ocak – mart arasında."
+  },
+  {
+   "tablo_satiri": 180,
+   "urun_id": "taze_sogan",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "03-01",
+   "bit": "05-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Bahar ürünü; en ucuz olduğu dönem nisan ortası – mayıs sonu."
+  },
+  {
+   "tablo_satiri": 181,
+   "urun_id": "kuru_sogan",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "depo",
+   "bas": "01-01",
+   "bit": "12-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Depodan yıl boyu bulunur."
+  },
+  {
+   "tablo_satiri": 182,
+   "urun_id": "taze_sarimsak",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "03-01",
+   "bit": "07-15",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1",
+    "ULA"
+   ],
+   "teblig_maddesi": null,
+   "not": "Taze sarımsak en çok nisan – haziran arasında tezgâhta."
+  },
+  {
+   "tablo_satiri": 183,
+   "urun_id": "kuru_sarimsak",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "depo",
+   "bas": "01-01",
+   "bit": "12-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Depodan yıl boyu bulunur; ithal kuru sarımsak da satılır."
+  },
+  {
+   "tablo_satiri": 184,
+   "urun_id": "patates",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "hasat",
+   "bas": "05-01",
+   "bit": "06-30",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A17"
+   ],
+   "teblig_maddesi": null,
+   "not": "İzmir ovalarının erkenci (taze) patatesi."
+  },
+  {
+   "tablo_satiri": 185,
+   "urun_id": "patates",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "hasat",
+   "bas": "11-01",
+   "bit": "11-30",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A17"
+   ],
+   "teblig_maddesi": null,
+   "not": "İzmir ovalarında ikinci ürün patates hasadı."
+  },
+  {
+   "tablo_satiri": 186,
+   "urun_id": "patates",
+   "kapsam_turu": "alt_bolge",
+   "kapsam_id": "ege_ic",
+   "donem_turu": "hasat",
+   "bas": "09-01",
+   "bit": "10-31",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A17",
+    "K-R3b",
+    "K-R3c"
+   ],
+   "teblig_maddesi": null,
+   "not": "İç Ege yaylalarında (ör. Afyonkarahisar) patates hasadı eylül – ekimdedir."
+  },
+  {
+   "tablo_satiri": 187,
+   "urun_id": "patates",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "depo",
+   "bas": "01-01",
+   "bit": "12-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Depolanmış patates yıl boyu bulunur."
+  },
+  {
+   "tablo_satiri": 188,
+   "urun_id": "semizotu",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "05-01",
+   "bit": "10-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1",
+    "K-A26"
+   ],
+   "teblig_maddesi": null,
+   "not": "Ekili semizotu sıcak mevsim bitkisidir; kışın görülen semizotu çoğunlukla seradan gelir."
+  },
+  {
+   "tablo_satiri": 189,
+   "urun_id": "taze_misir",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "07-01",
+   "bit": "10-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Tarla mısırı dönemi; haziranda görülen mısır çoğunlukla Akdeniz'den gelir."
+  },
+  {
+   "tablo_satiri": 190,
+   "urun_id": "balkabagi",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "09-16",
+   "bit": "02-28",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Depolanarak kış boyu satılır; en ucuz olduğu aylar ekim ve aralık – şubat."
+  },
+  {
+   "tablo_satiri": 191,
+   "urun_id": "yerelmasi",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "11-16",
+   "bit": "04-15",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Halde yalnızca bu dönemde düzenli olarak satılıyor."
+  },
+  {
+   "tablo_satiri": 192,
+   "urun_id": "mantar",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "01-01",
+   "bit": "12-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Kültür mantarı yıl boyu üretilir."
+  },
+  {
+   "tablo_satiri": 198,
+   "urun_id": "cilek",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "hasat",
+   "bas": "04-15",
+   "bit": "06-30",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-R10",
+    "K-CI-23"
+   ],
+   "teblig_maddesi": null,
+   "not": "Ege'de açık tarla çileği nisan ortasında olgunlaşır. Sera çileği kasım sonundan itibaren bulunur."
+  },
+  {
+   "tablo_satiri": 199,
+   "urun_id": "kiraz",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "hasat",
+   "bas": "04-24",
+   "bit": "07-31",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-19",
+    "K-A11"
+   ],
+   "teblig_maddesi": null,
+   "not": "Kıyı ovalarının (ör. Kemalpaşa) erkenci kirazı."
+  },
+  {
+   "tablo_satiri": 200,
+   "urun_id": "kiraz",
+   "kapsam_turu": "alt_bolge",
+   "kapsam_id": "ege_ic",
+   "donem_turu": "hasat",
+   "bas": "06-15",
+   "bit": "08-15",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-12",
+    "K-CI-37",
+    "K-CI-27"
+   ],
+   "teblig_maddesi": null,
+   "not": "İç ve yüksek kesimlerin (Demirci, Sultandağı, Pazarlar) geç kirazı."
+  },
+  {
+   "tablo_satiri": 201,
+   "urun_id": "visne",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "hasat",
+   "bas": "07-01",
+   "bit": "08-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-R1",
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Vişne hasadı temmuzda başlar; ağustos sonundan sonra halde görülmüyor."
+  },
+  {
+   "tablo_satiri": 202,
+   "urun_id": "kayisi",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "hasat",
+   "bas": "06-01",
+   "bit": "07-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1",
+    "K-R1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Ege kayısısı haziran – temmuzda; mayısta Akdeniz'den, ağustos – eylülde Malatya'dan gelir."
+  },
+  {
+   "tablo_satiri": 203,
+   "urun_id": "can_erik",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "04-16",
+   "bit": "05-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1",
+    "K-R2"
+   ],
+   "teblig_maddesi": null,
+   "not": "Can erik halde yalnızca bu dönemde satılıyor."
+  },
+  {
+   "tablo_satiri": 204,
+   "urun_id": "erik",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "hasat",
+   "bas": "06-01",
+   "bit": "09-30",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-R1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Yaz erikleri haziranda başlar; ekim – ocak arasında depodan da gelir."
+  },
+  {
+   "tablo_satiri": 205,
+   "urun_id": "seftali",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "hasat",
+   "bas": "05-15",
+   "bit": "08-15",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A12"
+   ],
+   "teblig_maddesi": null,
+   "not": "Menemen'de şeftali hasadı; geç çeşitler ve iç bölge ürünü ekime kadar gelir."
+  },
+  {
+   "tablo_satiri": 206,
+   "urun_id": "nektarin",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "hasat",
+   "bas": "05-24",
+   "bit": "09-10",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A12"
+   ],
+   "teblig_maddesi": null,
+   "not": "Menemen'de nektarin hasadı."
+  },
+  {
+   "tablo_satiri": 207,
+   "urun_id": "kavun",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "hasat",
+   "bas": "07-01",
+   "bit": "09-30",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-R16",
+    "K-CI-26",
+    "K-CI-20",
+    "K-CI-17",
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Tarla kavunu dönemi; iç kesimde (Karahallı) eylül sonuna kadar sürer."
+  },
+  {
+   "tablo_satiri": 208,
+   "urun_id": "kavun",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "depo",
+   "bas": "10-01",
+   "bit": "01-15",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-CI-20",
+    "K-CI-26",
+    "K-CI-01",
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Kışlık (askı) kavunlar depolanarak yılbaşına, bazıları ocak ortasına kadar bulunur."
+  },
+  {
+   "tablo_satiri": 209,
+   "urun_id": "karpuz",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "06-10",
+   "bit": "10-10",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-H23",
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Aydın karpuzu haziranda başlar; en ucuz olduğu dönem temmuz – ekim."
+  },
+  {
+   "tablo_satiri": 210,
+   "urun_id": "uzum",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "hasat",
+   "bas": "07-12",
+   "bit": "08-25",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A9",
+    "K-A10"
+   ],
+   "teblig_maddesi": null,
+   "not": "Sofralık üzümün ana hasat dönemi."
+  },
+  {
+   "tablo_satiri": 211,
+   "urun_id": "uzum",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "hasat",
+   "bas": "08-26",
+   "bit": "10-15",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A10",
+    "K-R1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Geç olgunlaşan sofralık üzüm çeşitleri."
+  },
+  {
+   "tablo_satiri": 212,
+   "urun_id": "incir",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "hasat",
+   "bas": "07-25",
+   "bit": "09-30",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-14"
+   ],
+   "teblig_maddesi": null,
+   "not": "Taze incir temmuz sonunda başlar; en ucuz olduğu dönem eylülün ilk yarısı."
+  },
+  {
+   "tablo_satiri": 213,
+   "urun_id": "armut",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "hasat",
+   "bas": "08-01",
+   "bit": "09-30",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-R1",
+    "K-R11"
+   ],
+   "teblig_maddesi": null,
+   "not": "Yazlık armut haziran ortasından itibaren; kışlık çeşitler depodan yıl boyu bulunur."
+  },
+  {
+   "tablo_satiri": 214,
+   "urun_id": "elma",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "hasat",
+   "bas": "08-01",
+   "bit": "10-31",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-R1",
+    "K-R3d",
+    "K-R12"
+   ],
+   "teblig_maddesi": null,
+   "not": "Elma hasat dönemi."
+  },
+  {
+   "tablo_satiri": 215,
+   "urun_id": "elma",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "depo",
+   "bas": "11-01",
+   "bit": "07-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Depolanmış elma; en ucuz olduğu aylar mart – nisan."
+  },
+  {
+   "tablo_satiri": 216,
+   "urun_id": "ayva",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "09-16",
+   "bit": "05-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Kış aylarında satılan ayvanın bir kısmı depodan gelir."
+  },
+  {
+   "tablo_satiri": 217,
+   "urun_id": "nar",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "hasat",
+   "bas": "09-01",
+   "bit": "10-31",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A13",
+    "K-R3d"
+   ],
+   "teblig_maddesi": null,
+   "not": "Nar hasat dönemi; en ucuz olduğu zaman kasım başı."
+  },
+  {
+   "tablo_satiri": 218,
+   "urun_id": "nar",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "depo",
+   "bas": "11-01",
+   "bit": "04-15",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-A13",
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Depolanmış nar nisan ortasına kadar bulunur."
+  },
+  {
+   "tablo_satiri": 219,
+   "urun_id": "mandalina",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "hasat",
+   "bas": "10-01",
+   "bit": "01-15",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A15"
+   ],
+   "teblig_maddesi": null,
+   "not": "Satsuma mandalina hasadı."
+  },
+  {
+   "tablo_satiri": 220,
+   "urun_id": "portakal",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "11-01",
+   "bit": "04-30",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Kışlık Washington portakalı; halde satılanın bir kısmı Akdeniz ürünüdür."
+  },
+  {
+   "tablo_satiri": 221,
+   "urun_id": "limon",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "09-16",
+   "bit": "03-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Yeni mevsim (Mayer) limon; en ucuz olduğu ay mart."
+  },
+  {
+   "tablo_satiri": 222,
+   "urun_id": "limon",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "depo",
+   "bas": "02-01",
+   "bit": "09-30",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Lamas limon depodan bahar ve yaz boyunca bulunur; çoğu Akdeniz ürünüdür."
+  },
+  {
+   "tablo_satiri": 223,
+   "urun_id": "greyfurt",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "12-01",
+   "bit": "04-30",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Halde en ucuz olduğu dönem ocak – mart; büyük olasılıkla Akdeniz ürünü."
+  },
+  {
+   "tablo_satiri": 224,
+   "urun_id": "dut",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "05-01",
+   "bit": "06-30",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Dut halde seyrek görülüyor; haziranda da toplandığı kaynakla doğrulanmadı."
+  },
+  {
+   "tablo_satiri": 225,
+   "urun_id": "yenidunya",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "04-16",
+   "bit": "06-15",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Yenidünya halde yalnızca bu dönemde satılıyor."
+  },
+  {
+   "tablo_satiri": 226,
+   "urun_id": "trabzon_hurmasi",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "10-01",
+   "bit": "03-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "En ucuz olduğu aylar ekim – kasım."
+  },
+  {
+   "tablo_satiri": 227,
+   "urun_id": "kivi",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "11-01",
+   "bit": "04-30",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Yerli kivi büyük olasılıkla Karadeniz'den gelir; kasım – nisan arası daha ucuzdur."
+  },
+  {
+   "tablo_satiri": 228,
+   "urun_id": "cagla",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "03-16",
+   "bit": "05-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Çağla halde yalnızca bu dönemde satılıyor."
+  },
+  {
+   "tablo_satiri": 229,
+   "urun_id": "muz",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "01-01",
+   "bit": "12-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Ege'de ticari muz yetişmez; yerli muz Anamur ve Alanya'dan yıl boyu gelir."
+  },
+  {
+   "tablo_satiri": 230,
+   "urun_id": "musmula",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "11-16",
+   "bit": "02-15",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Muşmula halde seyrek görülüyor; dönem bilgisi zayıf."
+  },
+  {
+   "tablo_satiri": 231,
+   "urun_id": "bogurtlen",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "hasat",
+   "bas": "07-01",
+   "bit": "09-30",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-A20",
+    "K-A28"
+   ],
+   "teblig_maddesi": null,
+   "not": "Yabani böğürtlen pazara az miktarda gelir; aylar genel bilgiye dayanıyor."
+  },
+  {
+   "tablo_satiri": 256,
+   "urun_id": "sardalya",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "01-01",
+   "bit": "12-31",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Yıl boyu avlanır; halde en ucuz olduğu dönem eylül – aralık."
+  },
+  {
+   "tablo_satiri": 257,
+   "urun_id": "sardalya",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "av",
+   "bas": "07-01",
+   "bit": "10-31",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A3"
+   ],
+   "teblig_maddesi": null,
+   "not": "Sardalyanın en yağlı ve lezzetli olduğu dönem; kışın yağ oranı düşer."
+  },
+  {
+   "tablo_satiri": 258,
+   "urun_id": "hamsi",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "av",
+   "bas": "09-01",
+   "bit": "03-31",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A1",
+    "K-R4",
+    "K-H33"
+   ],
+   "teblig_maddesi": null,
+   "not": "Ege'de gırgır avı 1 Eylül'de açılır. Yaz aylarında satılan hamsi başka av yönteminden ya da başka denizden gelir."
+  },
+  {
+   "tablo_satiri": 259,
+   "urun_id": "istavrit",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "av",
+   "bas": "09-01",
+   "bit": "04-30",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A1",
+    "K-R4",
+    "K-H33"
+   ],
+   "teblig_maddesi": null,
+   "not": "Ağustos – eylülde ucuzlar; mayıs – haziranda seyrek ve pahalıdır."
+  },
+  {
+   "tablo_satiri": 260,
+   "urun_id": "kolyoz",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "av",
+   "bas": "08-01",
+   "bit": "11-30",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A1",
+    "K-A2"
+   ],
+   "teblig_maddesi": null,
+   "not": "Halde yıl boyu var; en ucuz olduğu aylar temmuz – ağustos."
+  },
+  {
+   "tablo_satiri": 261,
+   "urun_id": "uskumru",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "av",
+   "bas": "07-01",
+   "bit": "09-30",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Taze uskumru halde ağustos ortasından nisana kadar görülüyor; ithal dondurulmuş uskumru yıl boyu satılır."
+  },
+  {
+   "tablo_satiri": 262,
+   "urun_id": "palamut",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "av",
+   "bas": "09-01",
+   "bit": "12-31",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A1",
+    "K-A2",
+    "K-R6",
+    "K-R4"
+   ],
+   "teblig_maddesi": "20",
+   "not": "Palamut avı 1 Nisan – 31 Ağustos arasında yasaktır; sonbahar göçüyle Ege'ye gelir."
+  },
+  {
+   "tablo_satiri": 263,
+   "urun_id": "lufer",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "av",
+   "bas": "09-01",
+   "bit": "03-31",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A1",
+    "K-A2",
+    "K-R6"
+   ],
+   "teblig_maddesi": null,
+   "not": "İri lüfer ekim ortasından nisan ortasına kadar; en ucuz olduğu aylar ekim – aralık."
+  },
+  {
+   "tablo_satiri": 264,
+   "urun_id": "barbunya",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "01-01",
+   "bit": "12-31",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A1",
+    "K-R4"
+   ],
+   "teblig_maddesi": "10",
+   "not": "Yıl boyu bulunur; en ucuz ocak – nisan, en pahalı haziran – ağustos."
+  },
+  {
+   "tablo_satiri": 265,
+   "urun_id": "tekir",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "01-01",
+   "bit": "12-31",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Halde yıl boyu satılıyor."
+  },
+  {
+   "tablo_satiri": 266,
+   "urun_id": "mercan",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "av",
+   "bas": "09-01",
+   "bit": "03-31",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A1"
+   ],
+   "teblig_maddesi": null,
+   "not": "En ucuz olduğu aylar ocak – mayıs; yazın pahalanır."
+  },
+  {
+   "tablo_satiri": 267,
+   "urun_id": "sinarit",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "av",
+   "bas": "09-01",
+   "bit": "12-31",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Halde yıl boyu var; en ucuz olduğu aylar ocak – mayıs."
+  },
+  {
+   "tablo_satiri": 268,
+   "urun_id": "levrek",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "av",
+   "bas": "02-01",
+   "bit": "08-31",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Doğal (deniz) levreği; en ucuz olduğu aylar şubat – nisan. Çiftlik levreği yıl boyu bulunur."
+  },
+  {
+   "tablo_satiri": 270,
+   "urun_id": "cipura",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "av",
+   "bas": "03-01",
+   "bit": "12-31",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Doğal (deniz) çipurası; en ucuz olduğu aylar kasım – aralık. Çiftlik çipurası yıl boyu bulunur."
+  },
+  {
+   "tablo_satiri": 272,
+   "urun_id": "granyoz",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "av",
+   "bas": "06-01",
+   "bit": "12-31",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Doğal granyoz; çiftlik ürünü de aynı adla satılabilir."
+  },
+  {
+   "tablo_satiri": 274,
+   "urun_id": "kefal",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "av",
+   "bas": "07-01",
+   "bit": "10-31",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Yaz kefali temmuz – ağustos, kış kefali ekim – aralık arasında avlanır."
+  },
+  {
+   "tablo_satiri": 275,
+   "urun_id": "izmarit",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "av",
+   "bas": "04-01",
+   "bit": "05-31",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A1"
+   ],
+   "teblig_maddesi": null,
+   "not": "İzmaritin ilkbahar av dönemi; ikinci dönem sonbaharda."
+  },
+  {
+   "tablo_satiri": 276,
+   "urun_id": "izmarit",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "av",
+   "bas": "09-01",
+   "bit": "12-31",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A1"
+   ],
+   "teblig_maddesi": null,
+   "not": "İzmaritin sonbahar av dönemi."
+  },
+  {
+   "tablo_satiri": 277,
+   "urun_id": "kupes",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "01-01",
+   "bit": "12-31",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Halde yıl boyu satılıyor."
+  },
+  {
+   "tablo_satiri": 278,
+   "urun_id": "karagoz",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "01-01",
+   "bit": "12-31",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Yıl boyu bulunur; nisan – haziran arası pahalıdır."
+  },
+  {
+   "tablo_satiri": 279,
+   "urun_id": "sargoz",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "01-01",
+   "bit": "12-31",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Halde yıl boyu, ama her zaman değil, görülüyor."
+  },
+  {
+   "tablo_satiri": 280,
+   "urun_id": "dil",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "av",
+   "bas": "02-16",
+   "bit": "04-30",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A1",
+    "K-R4"
+   ],
+   "teblig_maddesi": "21",
+   "not": "Dil avı 1 Ocak – 15 Şubat arasında yasaktır; bu ilkbahar av dönemidir."
+  },
+  {
+   "tablo_satiri": 281,
+   "urun_id": "dil",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "av",
+   "bas": "09-01",
+   "bit": "11-30",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Dil balığının sonbahar av dönemi."
+  },
+  {
+   "tablo_satiri": 282,
+   "urun_id": "berlam",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "av",
+   "bas": "09-01",
+   "bit": "04-14",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A1",
+    "K-R4"
+   ],
+   "teblig_maddesi": "10",
+   "not": "Trol avının kapalı olduğu mayıs – haziranda pahalanır."
+  },
+  {
+   "tablo_satiri": 283,
+   "urun_id": "kalkan",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "09-16",
+   "bit": "04-14",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL2",
+    "K-R4"
+   ],
+   "teblig_maddesi": "21",
+   "not": "Kalkan avı 15 Nisan – 15 Haziran arasında yasaktır; geldiği deniz kesin değil."
+  },
+  {
+   "tablo_satiri": 284,
+   "urun_id": "mezgit",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "12-01",
+   "bit": "03-15",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL2"
+   ],
+   "teblig_maddesi": null,
+   "not": "Halde en düzenli aralık – mart ortası arasında; Karadeniz'den gelmiş olabilir."
+  },
+  {
+   "tablo_satiri": 285,
+   "urun_id": "akya",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "08-16",
+   "bit": "12-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL2",
+    "K-R4"
+   ],
+   "teblig_maddesi": "24",
+   "not": "En düzenli ağustos sonu – aralık arasında; av yasağı 15 Nisan – 15 Mayıs."
+  },
+  {
+   "tablo_satiri": 286,
+   "urun_id": "kilic",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "12-01",
+   "bit": "02-14",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL2",
+    "K-R4"
+   ],
+   "teblig_maddesi": "25",
+   "not": "Kılıç avının yasak olmadığı ve halde satıldığı dönem."
+  },
+  {
+   "tablo_satiri": 288,
+   "urun_id": "kalamar",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "av",
+   "bas": "05-01",
+   "bit": "11-30",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Halde yıl boyu satılıyor; bu dönem av takvimine göredir."
+  },
+  {
+   "tablo_satiri": 289,
+   "urun_id": "murekkep",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "av",
+   "bas": "11-01",
+   "bit": "03-31",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Sübye (mürekkep balığı) İzmir Körfezi'nde kış aylarında avlanır."
+  },
+  {
+   "tablo_satiri": 290,
+   "urun_id": "ahtapot",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "av",
+   "bas": "11-01",
+   "bit": "04-14",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A1",
+    "K-R4"
+   ],
+   "teblig_maddesi": "31",
+   "not": "Ahtapot avı 15 Nisan – 31 Ekim arasında yasaktır."
+  },
+  {
+   "tablo_satiri": 291,
+   "urun_id": "karides",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "av",
+   "bas": "09-01",
+   "bit": "12-31",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A1",
+    "K-R4"
+   ],
+   "teblig_maddesi": "27",
+   "not": "Yaz aylarında satılan karides Ege'deki av kısıtlaması nedeniyle başka kaynaklıdır."
+  },
+  {
+   "tablo_satiri": 292,
+   "urun_id": "akivades",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "av",
+   "bas": "09-01",
+   "bit": "03-31",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A1",
+    "K-R4"
+   ],
+   "teblig_maddesi": "28",
+   "not": "Halde satılmıyor; doğrudan ihraç edilir ya da toplayıcıdan satılır."
+  },
+  {
+   "tablo_satiri": 293,
+   "urun_id": "deniz_kestanesi",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "av",
+   "bas": "11-01",
+   "bit": "04-30",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-H33",
+    "K-A5"
+   ],
+   "teblig_maddesi": null,
+   "not": "Habere göre 1 Mayıs – 31 Ekim arası toplama yasak; resmî metinden doğrulanmadı."
+  },
+  {
+   "tablo_satiri": 303,
+   "urun_id": "sevketibostan",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "10-01",
+   "bit": "04-30",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A20"
+   ],
+   "teblig_maddesi": null,
+   "not": "Altın dikeni (Scolymus hispanicus); Seferihisar ve Bodrum'da \"kenker\" de denir."
+  },
+  {
+   "tablo_satiri": 304,
+   "urun_id": "radika",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "10-01",
+   "bit": "05-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-A20",
+    "K-A22"
+   ],
+   "teblig_maddesi": null,
+   "not": "Pazarda radika adıyla yabani hindiba ya da karahindiba satılır."
+  },
+  {
+   "tablo_satiri": 305,
+   "urun_id": "radika",
+   "kapsam_turu": "alt_bolge",
+   "kapsam_id": "ege_ic",
+   "donem_turu": "pazar_yogun",
+   "bas": "06-01",
+   "bit": "07-31",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A25"
+   ],
+   "teblig_maddesi": null,
+   "not": "İç Ege'de (Afyonkarahisar) radika haziran – temmuzda toplanır."
+  },
+  {
+   "tablo_satiri": 306,
+   "urun_id": "turp_otu",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "10-01",
+   "bit": "05-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-A24"
+   ],
+   "teblig_maddesi": null,
+   "not": "Yabani turp; Bodrum'da en sık yenen otlardan."
+  },
+  {
+   "tablo_satiri": 307,
+   "urun_id": "isirgan",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "10-01",
+   "bit": "05-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-A20"
+   ],
+   "teblig_maddesi": null,
+   "not": "Bu ota özel ay bilgisi yok; yabani otların genel dönemi alındı."
+  },
+  {
+   "tablo_satiri": 308,
+   "urun_id": "arapsaci",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "10-01",
+   "bit": "05-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-A20",
+    "K-A22"
+   ],
+   "teblig_maddesi": null,
+   "not": "Yabani rezene (Foeniculum vulgare)."
+  },
+  {
+   "tablo_satiri": 309,
+   "urun_id": "ebegumeci",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "10-01",
+   "bit": "05-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-A20",
+    "K-A22"
+   ],
+   "teblig_maddesi": null,
+   "not": "Kıyı Ege'de yabani otların genel dönemi."
+  },
+  {
+   "tablo_satiri": 310,
+   "urun_id": "ebegumeci",
+   "kapsam_turu": "alt_bolge",
+   "kapsam_id": "ege_ic",
+   "donem_turu": "pazar_yogun",
+   "bas": "04-01",
+   "bit": "07-31",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A25"
+   ],
+   "teblig_maddesi": null,
+   "not": "Afyonkarahisar halk pazarında nisan – temmuz arasında satılır."
+  },
+  {
+   "tablo_satiri": 311,
+   "urun_id": "deniz_borulcesi",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "hasat",
+   "bas": "05-01",
+   "bit": "08-31",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A23"
+   ],
+   "teblig_maddesi": null,
+   "not": "Halde yıl boyu görülür (ekili ya da depolanmış olabilir); en ucuz ekim – kasım başı."
+  },
+  {
+   "tablo_satiri": 312,
+   "urun_id": "cibez",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "12-01",
+   "bit": "04-30",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-H32",
+    "K-A20",
+    "K-H29"
+   ],
+   "teblig_maddesi": null,
+   "not": "Kesilen karnabahar ve lahananın yeniden verdiği sürgünlerdir; karnabahar hasadının ardından gelir."
+  },
+  {
+   "tablo_satiri": 313,
+   "urun_id": "hardal_otu",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "10-01",
+   "bit": "05-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-A20"
+   ],
+   "teblig_maddesi": null,
+   "not": "Yabani hardal; Bodrum'da en sık yenen otlardan."
+  },
+  {
+   "tablo_satiri": 314,
+   "urun_id": "kuzukulagi",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "10-01",
+   "bit": "05-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-A20"
+   ],
+   "teblig_maddesi": null,
+   "not": "Bu ota özel ay bilgisi yok; yabani otların genel dönemi alındı."
+  },
+  {
+   "tablo_satiri": 315,
+   "urun_id": "labada",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "pazar_yogun",
+   "bas": "10-01",
+   "bit": "05-31",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-A20"
+   ],
+   "teblig_maddesi": null,
+   "not": "Kıyı Ege'de yabani otların genel dönemi; iç Ege'de haziran – temmuzda toplanır."
+  },
+  {
+   "tablo_satiri": 316,
+   "urun_id": "semizotu_yabani",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "hasat",
+   "bas": "06-01",
+   "bit": "07-31",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A25"
+   ],
+   "teblig_maddesi": null,
+   "not": "İç Ege'de (Afyonkarahisar) yabani semizotu haziran – temmuzda toplanır. Kıyıdaki semizotu çoğunlukla ekilidir."
+  },
+  {
+   "tablo_satiri": 317,
+   "urun_id": "yabani_kuskonmaz",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "hasat",
+   "bas": "01-01",
+   "bit": "05-31",
+   "guven": "akademik",
+   "kaynaklar": [
+    "K-A20"
+   ],
+   "teblig_maddesi": null,
+   "not": "Bodrum'da \"tilkişen\" denir."
+  },
+  {
+   "tablo_satiri": 323,
+   "urun_id": "zeytin",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "hasat",
+   "bas": "10-15",
+   "bit": "02-28",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-25"
+   ],
+   "teblig_maddesi": null,
+   "not": "Kuzey Ege'de zeytin hasadı."
+  },
+  {
+   "tablo_satiri": 324,
+   "urun_id": "zeytinyagi",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "hasat",
+   "bas": "10-15",
+   "bit": "02-28",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-25"
+   ],
+   "teblig_maddesi": null,
+   "not": "Yeni hasat zeytinyağı; zeytin hasattan en geç 48 saat içinde sıkılır."
+  },
+  {
+   "tablo_satiri": 325,
+   "urun_id": "kestane",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "hasat",
+   "bas": "10-01",
+   "bit": "11-30",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-06",
+    "K-CI-34"
+   ],
+   "teblig_maddesi": null,
+   "not": "Buldan ve Simav kestanesi hasadı."
+  },
+  {
+   "tablo_satiri": 326,
+   "urun_id": "kestane",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "depo",
+   "bas": "11-16",
+   "bit": "03-15",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-HAL1"
+   ],
+   "teblig_maddesi": null,
+   "not": "Halde yalnızca bu dönemde satılıyor."
+  },
+  {
+   "tablo_satiri": 327,
+   "urun_id": "ceviz",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "hasat",
+   "bas": "10-01",
+   "bit": "10-31",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-18"
+   ],
+   "teblig_maddesi": null,
+   "not": "Kavaklıdere'de ceviz hasadı."
+  },
+  {
+   "tablo_satiri": 328,
+   "urun_id": "kuzu_gobegi",
+   "kapsam_turu": "bolge",
+   "kapsam_id": "ege",
+   "donem_turu": "hasat",
+   "bas": "02-01",
+   "bit": "05-31",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-15"
+   ],
+   "teblig_maddesi": null,
+   "not": "Yabani kuzu göbeği mantarı Fethiye ve Seydikemer'de toplanır."
+  },
+  {
+   "tablo_satiri": 334,
+   "urun_id": "urla_enginari",
+   "kapsam_turu": "il",
+   "kapsam_id": null,
+   "donem_turu": "hasat",
+   "bas": "11-01",
+   "bit": "04-30",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-38"
+   ],
+   "teblig_maddesi": null,
+   "not": "Hasat kasımda başlar, nisan sonuna kadar sürer."
+  },
+  {
+   "tablo_satiri": 335,
+   "urun_id": "aydin_enginari",
+   "kapsam_turu": "il",
+   "kapsam_id": null,
+   "donem_turu": "hasat",
+   "bas": "11-01",
+   "bit": "05-31",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-03"
+   ],
+   "teblig_maddesi": null,
+   "not": "Hasat kasımda başlar, mayıs sonuna kadar sürer."
+  },
+  {
+   "tablo_satiri": 336,
+   "urun_id": "odemis_patatesi",
+   "kapsam_turu": "il",
+   "kapsam_id": null,
+   "donem_turu": "hasat",
+   "bas": "05-15",
+   "bit": "07-01",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-29"
+   ],
+   "teblig_maddesi": null,
+   "not": "Ödemiş ovasının ilk ürün patatesi."
+  },
+  {
+   "tablo_satiri": 337,
+   "urun_id": "odemis_patatesi",
+   "kapsam_turu": "il",
+   "kapsam_id": null,
+   "donem_turu": "hasat",
+   "bas": "09-01",
+   "bit": "10-31",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-29"
+   ],
+   "teblig_maddesi": null,
+   "not": "Bozdağ ve Gölcük yaylalarının patatesi."
+  },
+  {
+   "tablo_satiri": 338,
+   "urun_id": "suhut_patatesi",
+   "kapsam_turu": "il",
+   "kapsam_id": null,
+   "donem_turu": "hasat",
+   "bas": "09-01",
+   "bit": "10-31",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-36"
+   ],
+   "teblig_maddesi": null,
+   "not": "Hasat çoğunlukla eylül – ekimde; kasıma sarkabilir."
+  },
+  {
+   "tablo_satiri": 339,
+   "urun_id": "kemalpasa_kirazi",
+   "kapsam_turu": "il",
+   "kapsam_id": null,
+   "donem_turu": "hasat",
+   "bas": "04-24",
+   "bit": "07-31",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-19"
+   ],
+   "teblig_maddesi": null,
+   "not": "Kuzey yarımkürenin ilk hasat edilen kirazlarından."
+  },
+  {
+   "tablo_satiri": 340,
+   "urun_id": "honaz_kirazi",
+   "kapsam_turu": "il",
+   "kapsam_id": null,
+   "donem_turu": "hasat",
+   "bas": "05-01",
+   "bit": "06-30",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-16"
+   ],
+   "teblig_maddesi": null,
+   "not": "Hasat mayıs – haziranda yapılır."
+  },
+  {
+   "tablo_satiri": 341,
+   "urun_id": "demirci_kirazi",
+   "kapsam_turu": "il",
+   "kapsam_id": null,
+   "donem_turu": "hasat",
+   "bas": "06-15",
+   "bit": "08-15",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-12"
+   ],
+   "teblig_maddesi": null,
+   "not": null
+  },
+  {
+   "tablo_satiri": 342,
+   "urun_id": "sultandagi_kirazi",
+   "kapsam_turu": "il",
+   "kapsam_id": null,
+   "donem_turu": "hasat",
+   "bas": "06-20",
+   "bit": "07-25",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-37"
+   ],
+   "teblig_maddesi": null,
+   "not": "Tescildeki genel hasat dönemi."
+  },
+  {
+   "tablo_satiri": 343,
+   "urun_id": "koprubasi_cilegi",
+   "kapsam_turu": "il",
+   "kapsam_id": null,
+   "donem_turu": "hasat",
+   "bas": "04-24",
+   "bit": "06-30",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-23"
+   ],
+   "teblig_maddesi": null,
+   "not": "İlk hasat nisanın son haftasında, son hasat haziran sonunda."
+  },
+  {
+   "tablo_satiri": 344,
+   "urun_id": "ege_inciri",
+   "kapsam_turu": "il",
+   "kapsam_id": null,
+   "donem_turu": "hasat",
+   "bas": "07-25",
+   "bit": "09-30",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-14"
+   ],
+   "teblig_maddesi": null,
+   "not": "Taze incir hasadı 40–45 gün sürer; Aydın'da da aynı dönemdir."
+  },
+  {
+   "tablo_satiri": 345,
+   "urun_id": "alasehir_uzumu",
+   "kapsam_turu": "il",
+   "kapsam_id": null,
+   "donem_turu": "hasat",
+   "bas": "07-13",
+   "bit": "09-07",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-02"
+   ],
+   "teblig_maddesi": null,
+   "not": "Açık bağlarda; örtülü bağlarda son hasat eylül sonuna kadar sürer."
+  },
+  {
+   "tablo_satiri": 346,
+   "urun_id": "manisa_sultani",
+   "kapsam_turu": "il",
+   "kapsam_id": null,
+   "donem_turu": "hasat",
+   "bas": "08-15",
+   "bit": "09-07",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-28"
+   ],
+   "teblig_maddesi": null,
+   "not": "Ağustos ortası ile eylül başı arasında hasat edilir."
+  },
+  {
+   "tablo_satiri": 347,
+   "urun_id": "bornova_misket",
+   "kapsam_turu": "il",
+   "kapsam_id": null,
+   "donem_turu": "hasat",
+   "bas": "08-05",
+   "bit": "08-15",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-07"
+   ],
+   "teblig_maddesi": null,
+   "not": "Tescile göre 5–15 Ağustos arasında olgunlaşır."
+  },
+  {
+   "tablo_satiri": 348,
+   "urun_id": "acipayam_kavunu",
+   "kapsam_turu": "il",
+   "kapsam_id": null,
+   "donem_turu": "hasat",
+   "bas": "08-16",
+   "bit": "08-31",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-01"
+   ],
+   "teblig_maddesi": null,
+   "not": "Ağustosun ikinci yarısında hasat edilir."
+  },
+  {
+   "tablo_satiri": 349,
+   "urun_id": "acipayam_kavunu",
+   "kapsam_turu": "il",
+   "kapsam_id": null,
+   "donem_turu": "depo",
+   "bas": "09-01",
+   "bit": "01-15",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-01"
+   ],
+   "teblig_maddesi": null,
+   "not": "Uygun koşullarda ocak ortasına kadar saklanabilir."
+  },
+  {
+   "tablo_satiri": 350,
+   "urun_id": "karahalli_kavunu",
+   "kapsam_turu": "il",
+   "kapsam_id": null,
+   "donem_turu": "hasat",
+   "bas": "08-08",
+   "bit": "09-21",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-17"
+   ],
+   "teblig_maddesi": null,
+   "not": "Ağustosun ikinci haftasından eylülün üçüncü haftasına kadar."
+  },
+  {
+   "tablo_satiri": 351,
+   "urun_id": "arslanlar_biberi",
+   "kapsam_turu": "il",
+   "kapsam_id": null,
+   "donem_turu": "hasat",
+   "bas": "06-01",
+   "bit": "09-30",
+   "guven": "tahmini",
+   "kaynaklar": [
+    "K-CI-35",
+    "K-H25"
+   ],
+   "teblig_maddesi": null,
+   "not": "Hasat haziranda başlar, tescile göre eylüle kadar sürer; bazı yıllar daha uzun."
+  },
+  {
+   "tablo_satiri": 352,
+   "urun_id": "emcelli_biberi",
+   "kapsam_turu": "il",
+   "kapsam_id": null,
+   "donem_turu": "hasat",
+   "bas": "08-15",
+   "bit": "11-30",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-13"
+   ],
+   "teblig_maddesi": null,
+   "not": "Bazı yıllar aralığa sarkar."
+  },
+  {
+   "tablo_satiri": 353,
+   "urun_id": "kale_biberi",
+   "kapsam_turu": "il",
+   "kapsam_id": null,
+   "donem_turu": "hasat",
+   "bas": "07-24",
+   "bit": "10-15",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-31"
+   ],
+   "teblig_maddesi": null,
+   "not": "Temmuz sonunda başlar, genelde ekim ortasında biter."
+  },
+  {
+   "tablo_satiri": 354,
+   "urun_id": "bornova_bamyasi",
+   "kapsam_turu": "il",
+   "kapsam_id": null,
+   "donem_turu": "hasat",
+   "bas": "06-16",
+   "bit": "10-31",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-05"
+   ],
+   "teblig_maddesi": null,
+   "not": "Haziranın ikinci yarısından itibaren; ekimde hava soğuyunca biter."
+  },
+  {
+   "tablo_satiri": 355,
+   "urun_id": "datca_domatesi",
+   "kapsam_turu": "il",
+   "kapsam_id": null,
+   "donem_turu": "hasat",
+   "bas": "10-01",
+   "bit": "01-31",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-11"
+   ],
+   "teblig_maddesi": null,
+   "not": "Yaz sonunda ekilir; ekimde toplanmaya başlanır, ocak sonuna kadar sürer."
+  },
+  {
+   "tablo_satiri": 356,
+   "urun_id": "acipayam_havucu",
+   "kapsam_turu": "il",
+   "kapsam_id": null,
+   "donem_turu": "hasat",
+   "bas": "09-01",
+   "bit": "02-28",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-00"
+   ],
+   "teblig_maddesi": null,
+   "not": "Hasat eylülde başlar, kış boyunca sürer."
+  },
+  {
+   "tablo_satiri": 357,
+   "urun_id": "gumuldur_mandalinasi",
+   "kapsam_turu": "il",
+   "kapsam_id": null,
+   "donem_turu": "hasat",
+   "bas": "10-01",
+   "bit": "10-31",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-30"
+   ],
+   "teblig_maddesi": null,
+   "not": "Genellikle ekim ayında hasat edilir; kasım ortasına kadar toplanan ürün depolanabilir."
+  },
+  {
+   "tablo_satiri": 358,
+   "urun_id": "koycegiz_portakali",
+   "kapsam_turu": "il",
+   "kapsam_id": null,
+   "donem_turu": "hasat",
+   "bas": "09-24",
+   "bit": "11-30",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-21"
+   ],
+   "teblig_maddesi": null,
+   "not": "Eylül sonundan kasım sonuna kadar hasat edilir."
+  },
+  {
+   "tablo_satiri": 359,
+   "urun_id": "kuyucak_portakali",
+   "kapsam_turu": "il",
+   "kapsam_id": null,
+   "donem_turu": "hasat",
+   "bas": "11-24",
+   "bit": "12-15",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-22"
+   ],
+   "teblig_maddesi": null,
+   "not": "Kasımın son haftasında başlar, ilk dondan önce 15 Aralık'ta biter."
+  },
+  {
+   "tablo_satiri": 360,
+   "urun_id": "akhisar_zeytini",
+   "kapsam_turu": "il",
+   "kapsam_id": null,
+   "donem_turu": "hasat",
+   "bas": "10-01",
+   "bit": "10-15",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-24"
+   ],
+   "teblig_maddesi": null,
+   "not": "Yeşil sofralık zeytin hasadı ekimin ilk yarısında."
+  },
+  {
+   "tablo_satiri": 361,
+   "urun_id": "odemis_zeytinyagi",
+   "kapsam_turu": "il",
+   "kapsam_id": null,
+   "donem_turu": "hasat",
+   "bas": "11-01",
+   "bit": "12-31",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-32"
+   ],
+   "teblig_maddesi": null,
+   "not": "Zeytin yeşilken yapılan erken hasat."
+  },
+  {
+   "tablo_satiri": 362,
+   "urun_id": "odemis_zeytinyagi",
+   "kapsam_turu": "il",
+   "kapsam_id": null,
+   "donem_turu": "hasat",
+   "bas": "12-15",
+   "bit": "01-15",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-32"
+   ],
+   "teblig_maddesi": null,
+   "not": "Çakır (alacalı) zeytinle yapılan hasat."
+  },
+  {
+   "tablo_satiri": 363,
+   "urun_id": "simav_kestanesi",
+   "kapsam_turu": "il",
+   "kapsam_id": null,
+   "donem_turu": "hasat",
+   "bas": "10-16",
+   "bit": "10-31",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-34"
+   ],
+   "teblig_maddesi": null,
+   "not": "Hasattan sonra depodan da satılır."
+  },
+  {
+   "tablo_satiri": 364,
+   "urun_id": "buldan_kestanesi",
+   "kapsam_turu": "il",
+   "kapsam_id": null,
+   "donem_turu": "hasat",
+   "bas": "10-01",
+   "bit": "11-30",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-06"
+   ],
+   "teblig_maddesi": null,
+   "not": null
+  },
+  {
+   "tablo_satiri": 365,
+   "urun_id": "kavaklidere_cevizi",
+   "kapsam_turu": "il",
+   "kapsam_id": null,
+   "donem_turu": "hasat",
+   "bas": "10-01",
+   "bit": "10-31",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-18"
+   ],
+   "teblig_maddesi": null,
+   "not": null
+  },
+  {
+   "tablo_satiri": 366,
+   "urun_id": "fethiye_mantari",
+   "kapsam_turu": "il",
+   "kapsam_id": null,
+   "donem_turu": "hasat",
+   "bas": "02-01",
+   "bit": "05-31",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-CI-15"
+   ],
+   "teblig_maddesi": null,
+   "not": "Fethiye ve Seydikemer'de toplanır."
+  },
+  {
+   "tablo_satiri": null,
+   "urun_id": "midye",
+   "kapsam_turu": "deniz",
+   "kapsam_id": "ege",
+   "donem_turu": "av",
+   "bas": "07-01",
+   "bit": "04-14",
+   "guven": "resmi",
+   "kaynaklar": [
+    "K-R4"
+   ],
+   "teblig_maddesi": "28",
+   "not": "Kara midye toplamak 15 Nisan – 30 Haziran arasında yasaktır; bu dönem yasal av dönemidir. En lezzetli dönem için ayrı bir kaynak bulunamadı."
+  }
+ ]
+}

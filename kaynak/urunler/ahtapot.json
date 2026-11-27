@@ -1,0 +1,83 @@
+{
+  "id": "ahtapot",
+  "ad": "Ahtapot",
+  "diger_adlar": [],
+  "kategori_id": "balik_deniz",
+  "kisa_tanim": "Kasım'dan Nisan ortasına kadar avlanabilen, sekiz kollu deniz ürünü.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "ahtapot",
+  "aktif": true,
+  "enerji_kcal_100g": 82,
+  "enerji_durum": "çiğ",
+  "enerji_kaynak_adi": "USDA FoodData Central — \"Mollusks, octopus, common, raw\" (FDC ID 174218)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/174218/nutrients",
+  "az_bilinen": true,
+  "tanitim": "Sekiz kollu bir deniz canlısıdır; kolları ve gövdesi yenir. Eti sıkıdır ve hafif deniz tadındadır; önce kendi suyunda uzun süre yumuşayana kadar haşlanır, sonra salata ya da ızgara yapılır. Yasal av yasağı 15 Nisan–31 Ekim arasıdır.",
+  "hazirlama_adimlari": [
+    "Ahtapotu balıkçıya temizletebilirsiniz. Evde: başın altından keserek gözleri ve ortadaki sert gagayı çıkarın.",
+    "Baş torbasını ters çevirip içindeki iç organları ve mürekkep kesesini alın, yıkayın.",
+    "Yumuşatmak için: temizlenmiş ahtapotu bir gece dondurucuda dondurup buzdolabında çözdürün; donma eti yumuşatır. İsterseniz kollarını tezgâhta tuzla 5–10 dakika ovun, köpüğü durulayın.",
+    "Tencereye su eklemeden koyun; kapağı kapalı, kısık ateşte kendi suyunda 45–60 dakika, kolun kalın yerine çatal kolayca batana kadar pişirin.",
+    "Pişen ahtapotu kendi suyunda soğutun; buzdolabında kapalı kapta 1–2 gün saklayabilirsiniz.",
+    "Deniz ürününü güvendiğiniz bir balıkçıdan alın, eve gelince hemen buzdolabına koyun ve aynı gün pişirin."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak ve gıda güvenliği bilgisi; ayrı bir kaynakla doğrulanmadı)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "ahtapot__ege__av__1",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "ege",
+      "donem_turu": "av",
+      "bas": "11-01",
+      "bit": "04-14",
+      "kaynak_adi": "Kınacıgil ve ark. (ed.) 2017, İzmir Balıkçılığı (Akyol, İzmir Körfezi balıklarının av takvimi), İzmir Büyükşehir Belediyesi; Ticari Amaçlı Su Ürünleri Avcılığı Tebliği (No 2024/20), Resmî Gazete 11.08.2024, madde 31",
+      "kaynak_link": "https://www.izmir.bel.tr:443/YuklenenDosyalar/Yayinlar/0_08022018_053047_izmir-balikciligi.pdf",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "akademik",
+      "not": "Ahtapot avı 15 Nisan – 31 Ekim arasında yasaktır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Derisi parlak, nemli ve kaygan olmalı; kollar diri ve vantuzlar sağlam olmalı.",
+    "Hafif deniz kokmalı; ağır koku varsa almayın.",
+    "Donmuş ahtapot da iyi seçenektir: donma etini yumuşatır; buzdolabında yavaşça çözdürün."
+  ],
+  "besin": [
+    {
+      "ad": "Protein",
+      "tur": "diger",
+      "aciklama": "100 gramında yaklaşık 15 g protein bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Mollusks, octopus, common, raw\" (FDC ID 174218)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/174218/nutrients"
+    },
+    {
+      "ad": "B12 vitamini",
+      "tur": "vitamin",
+      "aciklama": "100 gramında yaklaşık 20 µg B12 vitamini bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Mollusks, octopus, common, raw\" (FDC ID 174218)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/174218/nutrients"
+    },
+    {
+      "ad": "Demir",
+      "tur": "mineral",
+      "aciklama": "100 gramında yaklaşık 5 mg demir bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Mollusks, octopus, common, raw\" (FDC ID 174218)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/174218/nutrients"
+    },
+    {
+      "ad": "Selenyum",
+      "tur": "mineral",
+      "aciklama": "100 gramında yaklaşık 45 µg selenyum bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Mollusks, octopus, common, raw\" (FDC ID 174218)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/174218/nutrients"
+    }
+  ],
+  "tarifler": [
+    "ahtapot_salatasi",
+    "tavada_ahtapot"
+  ]
+}

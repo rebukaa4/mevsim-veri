@@ -1,0 +1,82 @@
+{
+  "id": "borulce",
+  "ad": "Börülce (taze)",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "İnce uzun, taneli taze baklagil; Ege'nin sevilen yaz mezesi.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "borulce",
+  "aktif": true,
+  "enerji_kcal_100g": 44,
+  "enerji_durum": "çiğ, yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Cowpeas, young pods with seeds, raw (FDC ID 168405)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/168405/nutrients",
+  "az_bilinen": true,
+  "tanitim": "Börülce, kuru fasulyeye akraba bir baklagil; taze halinde ince uzun kabukları içindeki küçük tanelerle birlikte yenir. Tadı taze fasulyeye benzer ama daha ince ve hafif tatlıdır.",
+  "hazirlama_adimlari": [
+    "Bol suda yıkayın.",
+    "Uçlarını kesip 4-5 cm boyunda doğrayın; sert ve kılçıklı uçları ayıklayın.",
+    "Kaynar suda 10-15 dakika, yumuşayıp yeşil rengini koruyana kadar haşlayın.",
+    "Süzüp hemen soğuk suya alın; rengi canlı kalır. Salata ya da zeytinyağlı için hazırdır."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "borulce__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "06-01",
+      "bit": "11-15",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Taze börülce yaz başından kasım ortasına kadar tezgâhta."
+    }
+  ],
+  "secim_ipuclari": [
+    "Kabuklar ince, düz ve canlı yeşil olsun; sararmış olanlar sertleşmiştir.",
+    "Ucundan kırınca kolayca kopmalı.",
+    "Taneleri kabuğun dışından çok belirgin görünmemeli; çok şişkin taneler kabuğun sertleştiğini gösterir.",
+    "Kurumuş, kararmış uçlu olanları almayın."
+  ],
+  "besin": [
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini açısından zengindir (100 g'da 32 µg; günlük başvuru değerine oranı yaklaşık %42).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Cowpeas, young pods with seeds, raw (FDC ID 168405)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168405/nutrients"
+    },
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir (100 g'da 33 mg; günlük başvuru değerine oranı yaklaşık %41).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Cowpeas, young pods with seeds, raw (FDC ID 168405)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168405/nutrients"
+    },
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat kaynağıdır (100 g'da 53 µg; günlük başvuru değerine oranı yaklaşık %26).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Cowpeas, young pods with seeds, raw (FDC ID 168405)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168405/nutrients"
+    },
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif kaynağıdır (100 g'da 3,3 g).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Cowpeas, young pods with seeds, raw (FDC ID 168405)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168405/nutrients"
+    }
+  ],
+  "tarifler": [
+    "borulce_salatasi",
+    "zeytinyagli_borulce"
+  ]
+}

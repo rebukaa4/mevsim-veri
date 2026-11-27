@@ -1,0 +1,68 @@
+{
+  "id": "trabzon_hurmasi",
+  "ad": "Trabzon hurması",
+  "diger_adlar": [
+    "cennet elması"
+  ],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Sonbahar ve kışın çıkan, turuncu, iyice yumuşayınca bal gibi tatlanan meyve (cennet elması).",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "trabzon_hurmasi",
+  "aktif": true,
+  "enerji_kcal_100g": 70,
+  "enerji_durum": "çiğ (Japon tipi)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Persimmons, japanese, raw (FDC ID 169941, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169941/nutrients",
+  "az_bilinen": true,
+  "tanitim": "Trabzon hurması, domatese benzeyen turuncu bir sonbahar meyvesidir. Tam olgunlaşmadan yenirse ağzı buruşturur; iyice yumuşayınca tatlı, jöle kıvamında olur. Kaşıkla ya da soyulup dilimlenerek yenir.",
+  "hazirlama_adimlari": [
+    "Sert ve buruk olanları oda sıcaklığında, bir elma ya da muzla aynı poşette 3–7 gün bekletin; iyice yumuşayınca buruk tadı kaybolur.",
+    "Yumuşak olanı yıkayıp sap yapraklarını çıkarın, ikiye bölüp içini kaşıkla yiyin.",
+    "Bazı çeşitler sertken de tatlıdır; bunları elma gibi soyup dilimleyebilirsiniz. Satıcıya hangi çeşit olduğunu sorun."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "trabzon_hurmasi__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "10-01",
+      "bit": "03-31",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "En ucuz olduğu aylar ekim – kasım."
+    }
+  ],
+  "secim_ipuclari": [
+    "Kabuğu parlak, koyu turuncu ve lekesiz olsun; yeşil sap yaprakları taze olmalı.",
+    "Hemen yiyecekseniz dokununca yumuşak olanları alın; sert olanları birkaç gün bekletmeniz gerekir.",
+    "Kabuğu çatlamış ya da sızıntı yapanları almayın."
+  ],
+  "besin": [
+    {
+      "ad": "Manganez",
+      "tur": "mineral",
+      "aciklama": "Manganez kaynağıdır: 100 g'da 0,35 mg; günlük başvuru değerine oranı yaklaşık %17.",
+      "kaynak_adi": "USDA FoodData Central — Persimmons, japanese, raw (FDC ID 169941, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169941/nutrients"
+    },
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif kaynağıdır: 100 g'da 3,6 g.",
+      "kaynak_adi": "USDA FoodData Central — Persimmons, japanese, raw (FDC ID 169941, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169941/nutrients"
+    }
+  ],
+  "tarifler": [
+    "meyveli_yogurt_kasesi",
+    "hurmali_kis_salatasi"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "kalkan",
+  "ad": "Kalkan",
+  "diger_adlar": [],
+  "kategori_id": "balik_deniz",
+  "kisa_tanim": "Sonbahardan bahara kadar bulunan, yuvarlak ve yassı, değerli bir balık.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "kalkan",
+  "aktif": true,
+  "enerji_kcal_100g": 95,
+  "enerji_durum": "çiğ",
+  "enerji_kaynak_adi": "USDA FoodData Central — \"Fish, turbot, european, raw\" (FDC ID 173710)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/173710/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Kalkanı balıkçıya temizletip dilimletmek en kolayıdır.",
+    "Evde yapacaksanız başın altındaki küçük karın boşluğunu açıp iç organları çıkarın.",
+    "Kenar yüzgeçlerini makasla kesin; sırttaki sert yumruları bıçakla kazıyın ya da derisini soyun.",
+    "Ortadan kılçık boyunca ikiye ayırıp dilimleyin, yıkayıp kurulayın; aynı gün pişirin."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak ve gıda güvenliği bilgisi; ayrı bir kaynakla doğrulanmadı)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "kalkan__ege__pazar_yogun__1",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "09-16",
+      "bit": "04-14",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, balık hal fiyatları açık verisi (2019, 2021–2024); Ticari Amaçlı Su Ürünleri Avcılığı Tebliği (No 2024/20), Resmî Gazete 11.08.2024, madde 21",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/balik-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Kalkan avı 15 Nisan – 15 Haziran arasında yasaktır; geldiği deniz kesin değil."
+    }
+  ],
+  "secim_ipuclari": [
+    "Koyu sırt yüzündeki sert kemikli yumrular (pul düğmeleri) parlak olmalı; derisi nemli ve canlı renkli olmalı.",
+    "Beyaz alt yüzü temiz ve parlak olmalı, kırmızı lekeli olmamalı.",
+    "Parmakla bastırınca eti hemen eski hâline dönmeli; iz kalıyorsa taze değildir.",
+    "Hafif deniz ve yosun kokmalı; ağır, ekşi ya da amonyak gibi koku bayatlık işaretidir."
+  ],
+  "besin": [
+    {
+      "ad": "Protein",
+      "tur": "diger",
+      "aciklama": "100 gramında yaklaşık 16 g protein bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Fish, turbot, european, raw\" (FDC ID 173710)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173710/nutrients"
+    },
+    {
+      "ad": "B12 vitamini",
+      "tur": "vitamin",
+      "aciklama": "100 gramında yaklaşık 2,2 µg B12 vitamini bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Fish, turbot, european, raw\" (FDC ID 173710)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173710/nutrients"
+    },
+    {
+      "ad": "Selenyum",
+      "tur": "mineral",
+      "aciklama": "100 gramında yaklaşık 36 µg selenyum bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Fish, turbot, european, raw\" (FDC ID 173710)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173710/nutrients"
+    }
+  ],
+  "tarifler": [
+    "kalkan_tava",
+    "sebzeli_balik_bugulama"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "bornova_bamyasi",
+  "ad": "Bornova Kınalı Bamyası",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "İzmir Bornova'nın sapında ve meyvesinde kına rengi kırmızı lekeler olan, 3,5–4 cm'de toplanan, ince, lifsiz ve az tüylü eski yerel bamyası.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "35",
+  "gorsel_id": "bamya",
+  "aktif": true,
+  "enerji_kcal_100g": 33,
+  "enerji_durum": "çiğ (bamya genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Okra, raw (FDC ID 169260, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169260/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Bamyayı yıkayıp iyice kurulayın; ıslak bamya ayıklanırsa daha çok sümüksü olur.",
+    "Sap kısmını, içini açmadan, kalem açar gibi koni şeklinde yontun.",
+    "Ayıkladığınız bamyaları limon suyu ya da sirke katılmış suda 15–20 dakika bekletin, sonra süzün; pişince daha az salya yapar."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "bornova_bamyasi__35__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "35",
+      "donem_turu": "hasat",
+      "bas": "06-16",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Bornova Kınalı Bamyası (No 581)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/4e6340e8-fe56-4021-96cc-e998312e868f.pdf",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "resmi",
+      "not": "Haziranın ikinci yarısından itibaren; ekimde hava soğuyunca biter."
+    }
+  ],
+  "secim_ipuclari": [
+    "Küçük (3,5–4 cm) ve diri bamyaları seçin; büyüdükçe lifli ve sert olur.",
+    "Ucunu hafifçe bükün: taze bamya çıt diye kırılır, eğiliyorsa bayattır.",
+    "Sapındaki ve kabuğundaki kırmızı (kına rengi) lekeler bu bamyanın doğal özelliğidir, bozulma değildir.",
+    "Kararmış ya da yumuşamış bamya almayın."
+  ],
+  "besin": [
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini açısından zengindir: 100 g'da 31,3 µg; günlük başvuru değerine oranı yaklaşık %41.",
+      "kaynak_adi": "USDA FoodData Central — Okra, raw (FDC ID 169260, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169260/nutrients"
+    },
+    {
+      "ad": "Manganez",
+      "tur": "mineral",
+      "aciklama": "Manganez açısından zengindir: 100 g'da 0,79 mg; günlük başvuru değerine oranı yaklaşık %39.",
+      "kaynak_adi": "USDA FoodData Central — Okra, raw (FDC ID 169260, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169260/nutrients"
+    },
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat açısından zengindir: 100 g'da 60 µg; günlük başvuru değerine oranı yaklaşık %30.",
+      "kaynak_adi": "USDA FoodData Central — Okra, raw (FDC ID 169260, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169260/nutrients"
+    },
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini kaynağıdır: 100 g'da 23 mg; günlük başvuru değerine oranı yaklaşık %28.",
+      "kaynak_adi": "USDA FoodData Central — Okra, raw (FDC ID 169260, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169260/nutrients"
+    },
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif kaynağıdır: 100 g'da 3,2 g.",
+      "kaynak_adi": "USDA FoodData Central — Okra, raw (FDC ID 169260, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169260/nutrients"
+    }
+  ],
+  "tarifler": [
+    "zeytinyagli_bamya",
+    "bamya_corbasi"
+  ]
+}

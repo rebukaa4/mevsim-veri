@@ -1,0 +1,56 @@
+{
+  "id": "armut",
+  "ad": "Armut",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Yaz sonu ve sonbaharda dalından, kışın depodan gelen sulu meyve.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "armut",
+  "aktif": true,
+  "enerji_kcal_100g": 57,
+  "enerji_durum": "çiğ",
+  "enerji_kaynak_adi": "USDA FoodData Central — Pears, raw (FDC ID 169118, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169118/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "armut__ege__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "hasat",
+      "bas": "08-01",
+      "bit": "09-30",
+      "kaynak_adi": "Muğla İl Tarım ve Orman Müdürlüğü, Tarım Takvimi; GKGM, \"Armut-Ayva\" el kitabı",
+      "kaynak_link": "https://mugla.tarimorman.gov.tr/Sayfalar/Detay.aspx?TermStoreId=368e785b-af33-487d-a98d-c11d5495130b&TermSetId=6c59163f-a2cc-44d9-bd3b-e5a53766f6f0&TermId=be3c980f-b990-492b-bb38-2feab07411de&UrlSuffix=84%2FTarim-Takvimi",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "resmi",
+      "not": "Yazlık armut haziran ortasından itibaren; kışlık çeşitler depodan yıl boyu bulunur."
+    }
+  ],
+  "secim_ipuclari": [
+    "Armut ağaçta değil, toplandıktan sonra olgunlaşır; sap dibine (boyun kısmı) hafifçe bastırın, azıcık esniyorsa yemeye hazırdır.",
+    "Sert aldıysanız oda sıcaklığında 2–3 gün bekletin.",
+    "Kabukta ezik, kararmış ya da yumuşamış bölge olmamalı."
+  ],
+  "besin": [
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif kaynağıdır: 100 g'da 3,1 g.",
+      "kaynak_adi": "USDA FoodData Central — Pears, raw (FDC ID 169118, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169118/nutrients"
+    }
+  ],
+  "tarifler": [
+    "meyve_salatasi",
+    "armut_tatlisi",
+    "armutlu_peynirli_salata"
+  ]
+}

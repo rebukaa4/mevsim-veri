@@ -1,0 +1,72 @@
+{
+  "id": "uzum",
+  "ad": "Üzüm",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Manisa ve çevresinin ünlü ürünü; sofralık çeşitler temmuzdan ekime kadar gelir.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "uzum",
+  "aktif": true,
+  "enerji_kcal_100g": 69,
+  "enerji_durum": "çiğ",
+  "enerji_kaynak_adi": "USDA FoodData Central — Grapes, red or green (European type, such as Thompson seedless), raw (FDC ID 174683, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/174683/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Yemeden hemen önce, salkımı bir süzgece koyup akan su altında yıkayın.",
+    "Taneleri sapından ayırmadan buzdolabında saklayın; ayırınca daha çabuk bozulur."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "uzum__ege__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "hasat",
+      "bas": "07-12",
+      "bit": "08-25",
+      "kaynak_adi": "Yıldız & Dilli 2018. BAHÇE 47 (Özel Sayı 1):409–416; Geyikçi 2013. CBÜ Sosyal Bilimler Dergisi 11(3)",
+      "kaynak_link": "https://dergipark.org.tr/en/download/article-file/5464929",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "akademik",
+      "not": "Sofralık üzümün ana hasat dönemi."
+    },
+    {
+      "id": "uzum__ege__hasat__2",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "hasat",
+      "bas": "08-26",
+      "bit": "10-15",
+      "kaynak_adi": "Geyikçi 2013. CBÜ Sosyal Bilimler Dergisi 11(3); Muğla İl Tarım ve Orman Müdürlüğü, Tarım Takvimi",
+      "kaynak_link": "https://dergipark.org.tr/tr/download/article-file/45782",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "akademik",
+      "not": "Geç olgunlaşan sofralık üzüm çeşitleri."
+    }
+  ],
+  "secim_ipuclari": [
+    "Salkım sapı yeşil ve esnek olsun; kahverengi, kuru sap eski üründür.",
+    "Taneler salkıma sıkıca bağlı olmalı; sallayınca dökülüyorsa bekletilmiştir.",
+    "Tanelerde ezik, çatlak ya da kahverengi leke olmamalı.",
+    "Tane üzerindeki ince beyaz pus doğaldır."
+  ],
+  "besin": [
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini kaynağıdır: 100 g'da 14,6 µg; günlük başvuru değerine oranı yaklaşık %19.",
+      "kaynak_adi": "USDA FoodData Central — Grapes, red or green (European type, such as Thompson seedless), raw (FDC ID 174683, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/174683/nutrients"
+    }
+  ],
+  "tarifler": [
+    "meyve_salatasi",
+    "uzum_kompostosu"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "yenidunya",
+  "ad": "Yenidünya",
+  "diger_adlar": [
+    "malta eriği"
+  ],
+  "kategori_id": "meyve",
+  "kisa_tanim": "İlkbaharda çıkan, turuncu kabuklu, iri çekirdekli, sulu ve mayhoş meyve (malta eriği).",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "yenidunya",
+  "aktif": true,
+  "enerji_kcal_100g": 47,
+  "enerji_durum": "çiğ, çekirdeksiz yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central — Loquats, raw (FDC ID 169908, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169908/nutrients",
+  "az_bilinen": true,
+  "tanitim": "Yenidünya, erikten biraz büyük, ince turuncu kabuklu bir ilkbahar meyvesidir. Tadı tatlı-mayhoştur; kabuğu soyulup çekirdekleri çıkarılarak taze yenir, kompostosu ve reçeli de yapılır.",
+  "hazirlama_adimlari": [
+    "Yıkayın, sapını koparın.",
+    "Kabuğu incedir; elle ya da küçük bir bıçakla kolayca soyulur.",
+    "İkiye bölüp içindeki 2–4 iri kahverengi çekirdeği ve çevresindeki ince zarı çıkarın. Çekirdekler yenmez.",
+    "Kesilen meyve çabuk kararır; hemen yiyin ya da biraz limon suyu gezdirin."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "yenidunya__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "04-16",
+      "bit": "06-15",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Yenidünya halde yalnızca bu dönemde satılıyor."
+    }
+  ],
+  "secim_ipuclari": [
+    "Rengi eşit sarı-turuncu olsun; yeşillik kalan yenidünya ekşi ve serttir.",
+    "Hafif yumuşak olanlar tatlıdır; kabuktaki küçük kahverengi benekler olgunluk işaretidir.",
+    "Ezilip kararmış ya da sulanmış olanları almayın; çok çabuk bozulur."
+  ],
+  "besin": [
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum içerir: 100 g'da 266 mg; günlük başvuru değerine oranı yaklaşık %13.",
+      "kaynak_adi": "USDA FoodData Central — Loquats, raw (FDC ID 169908, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169908/nutrients"
+    }
+  ],
+  "tarifler": [
+    "yenidunya_kompostosu",
+    "yenidunya_receli"
+  ]
+}

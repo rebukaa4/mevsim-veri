@@ -1,0 +1,54 @@
+{
+  "id": "kuzukulagi",
+  "ad": "Kuzukulağı",
+  "diger_adlar": [],
+  "kategori_id": "ot",
+  "kisa_tanim": "Mızrak biçimli, ekşi yapraklı ot; çiğ salatada tadı ferahtır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "kuzukulagi",
+  "aktif": true,
+  "enerji_kcal_100g": null,
+  "enerji_durum": null,
+  "enerji_kaynak_adi": null,
+  "enerji_kaynak_link": null,
+  "az_bilinen": true,
+  "tanitim": "Kuzukulağı, mızrak ya da ok biçimli küçük yaprakları olan yabani bir ottur; genç yaprakları çiğ olarak yenir. Tadı limon gibi ekşi ve ferahtır.",
+  "hazirlama_adimlari": [
+    "Kök ve sert sapları ayıklayın.",
+    "Bol suda yıkayıp süzün.",
+    "Çiğ salata için iri doğrayın; ekşi tadı sayesinde salatada limona az ihtiyaç duyulur.",
+    "Tadı çok ekşi olduğu için tek başına bol miktarda değil, salataya karışık ve ölçülü kullanın.",
+    "Yabani otları, bitkiyi iyi tanıyan pazar satıcılarından alın; tahminle doğadan toplamayın, benzer görünen zehirli bitkiler olabilir."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "kuzukulagi__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "10-01",
+      "bit": "05-31",
+      "kaynak_adi": "Ertuğ F. 2004. Wild edible plants of the Bodrum area (Muğla, Turkey). Turk J Bot 28:161–174",
+      "kaynak_link": "https://journals.tubitak.gov.tr/botany/vol28/iss1/16",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Bu ota özel ay bilgisi yok; yabani otların genel dönemi alındı."
+    }
+  ],
+  "secim_ipuclari": [
+    "Yapraklar küçük, genç ve canlı yeşil olsun.",
+    "Bir yaprak tadın: hoş bir limon ekşiliği olmalı.",
+    "Sararmış, kırmızı lekeli ya da çiçek sapı çıkmış bitkileri almayın."
+  ],
+  "besin": [],
+  "tarifler": [
+    "kuzukulagi_salatasi",
+    "yumurtali_ot_kavurmasi",
+    "mevsim_salatasi"
+  ]
+}

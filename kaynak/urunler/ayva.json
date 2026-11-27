@@ -1,0 +1,61 @@
+{
+  "id": "ayva",
+  "ad": "Ayva",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Sonbahar ve kışın sarı, kokulu meyvesi; çiğ de yenir ama en çok tatlısı ve reçeli yapılır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "ayva",
+  "aktif": true,
+  "enerji_kcal_100g": 57,
+  "enerji_durum": "çiğ",
+  "enerji_kaynak_adi": "USDA FoodData Central — Quinces, raw (FDC ID 168163, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/168163/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Kabuğundaki tüyleri ılık su altında bir bezle ovarak temizleyin.",
+    "Ayva serttir: kesme tahtasına sabitleyip büyük ve keskin bir bıçakla ikiye, sonra dörde bölün.",
+    "Çekirdekli sert orta kısmı bir kaşık ya da küçük bıçakla oyun; tatlıda kullanacaksanız çekirdekleri atmayın, pişerken renk ve kıvam verir.",
+    "Kesilen ayva çabuk kararır; hemen limonlu suya atın."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "ayva__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "09-16",
+      "bit": "05-31",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Kış aylarında satılan ayvanın bir kısmı depodan gelir."
+    }
+  ],
+  "secim_ipuclari": [
+    "Kabuğu altın sarısı olsun; yeşil olanlar ham ve buruktur.",
+    "Hoş, yoğun bir kokusu olmalı.",
+    "Kabuğundaki gri tüyler doğaldır, yıkayınca çıkar.",
+    "Ezik, kararmış ya da yumuşamış bölgesi olmamalı."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini kaynağıdır: 100 g'da 15 mg; günlük başvuru değerine oranı yaklaşık %18.",
+      "kaynak_adi": "USDA FoodData Central — Quinces, raw (FDC ID 168163, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168163/nutrients"
+    }
+  ],
+  "tarifler": [
+    "ayva_tatlisi",
+    "ayva_receli"
+  ]
+}

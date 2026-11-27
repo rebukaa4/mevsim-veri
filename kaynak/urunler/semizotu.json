@@ -1,0 +1,74 @@
+{
+  "id": "semizotu",
+  "ad": "Semizotu",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Etli, sulu yapraklı yaz yeşilliği; yoğurtlu salatası bir Ege klasiği.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "semizotu",
+  "aktif": true,
+  "enerji_kcal_100g": 20,
+  "enerji_durum": "çiğ, yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Purslane, raw (FDC ID 169274)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169274/nutrients",
+  "az_bilinen": true,
+  "tanitim": "Semizotu, etli küçük yaprakları ve gevrek saplarıyla yenen bir yaz yeşilliğidir. Tadı hafif ekşimsi ve ferahtır; çiğ salatada da yemekte de kullanılır.",
+  "hazirlama_adimlari": [
+    "Köklerini ve kalın, sert sap uçlarını kesin.",
+    "Yaprakların arasındaki toprak ve kum gitsin diye bol suda 3-4 kez yıkayın.",
+    "Süzüp iri doğrayın; salata için yaprak ve körpe saplar, yemek için kalın saplar da kullanılır."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "semizotu__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "05-01",
+      "bit": "10-31",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024); Doğan Y. 2012. Acta Soc Bot Pol 81(4):329–342",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Ekili semizotu sıcak mevsim bitkisidir; kışın görülen semizotu çoğunlukla seradan gelir."
+    }
+  ],
+  "secim_ipuclari": [
+    "Yapraklar etli, parlak ve dolgun olsun.",
+    "Saplar gevrek olmalı; bükünce kırılmalı.",
+    "Sölpük, sararmış ya da çiçeklenmiş (çok yaşlı) demetleri almayın.",
+    "Kökleri çamurlu olabilir; yaprakların temiz olmasına bakın."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini kaynağıdır (100 g'da 21 mg; günlük başvuru değerine oranı yaklaşık %26).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Purslane, raw (FDC ID 169274)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169274/nutrients"
+    },
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum kaynağıdır (100 g'da 494 mg; günlük başvuru değerine oranı yaklaşık %25).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Purslane, raw (FDC ID 169274)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169274/nutrients"
+    },
+    {
+      "ad": "Magnezyum",
+      "tur": "mineral",
+      "aciklama": "Magnezyum kaynağıdır (100 g'da 68 mg; günlük başvuru değerine oranı yaklaşık %18).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Purslane, raw (FDC ID 169274)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169274/nutrients"
+    }
+  ],
+  "tarifler": [
+    "yogurtlu_semizotu",
+    "zeytinyagli_semizotu"
+  ]
+}

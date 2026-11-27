@@ -1,0 +1,53 @@
+{
+  "id": "turp_otu",
+  "ad": "Turp otu",
+  "diger_adlar": [],
+  "kategori_id": "ot",
+  "kisa_tanim": "Yabani turpun genç yaprakları; Ege'nin en sevilen haşlama otlarından.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": null,
+  "aktif": true,
+  "enerji_kcal_100g": null,
+  "enerji_durum": null,
+  "enerji_kaynak_adi": null,
+  "enerji_kaynak_link": null,
+  "az_bilinen": true,
+  "tanitim": "Turp otu, yabani turpun (Raphanus raphanistrum) çiçeklenmeden önce toplanan genç yaprak ve körpe saplarıdır. Tadı hafif acı ve turpu andıran keskinliktedir; haşlanınca yumuşar.",
+  "hazirlama_adimlari": [
+    "Sert sap uçlarını ve sararmış yaprakları ayıklayın.",
+    "Bol suda birkaç kez yıkayın.",
+    "Kaynar tuzlu suda 5-8 dakika haşlayıp süzün.",
+    "Salata ya da yumurtalı kavurma için kullanın.",
+    "Yabani otları, bitkiyi iyi tanıyan pazar satıcılarından alın; tahminle doğadan toplamayın, benzer görünen zehirli bitkiler olabilir."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "turp_otu__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "10-01",
+      "bit": "05-31",
+      "kaynak_adi": "Kök A. ve ark. 2020. Ege otlarının yöresel mutfaklarda kullanımı. J. Tourism Intelligence and Smartness 3(2):152–168",
+      "kaynak_link": "https://dergipark.org.tr/tr/download/article-file/1326267",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Yabani turp; Bodrum'da en sık yenen otlardan."
+    }
+  ],
+  "secim_ipuclari": [
+    "Yapraklar genç, yumuşak ve canlı yeşil olsun.",
+    "Çiçek açmış ya da sapı sertleşmiş bitkileri almayın.",
+    "Sararmış ve delik yapraklı demetlerden kaçının."
+  ],
+  "besin": [],
+  "tarifler": [
+    "haslanmis_ot_salatasi",
+    "yumurtali_ot_kavurmasi"
+  ]
+}

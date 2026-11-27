@@ -1,0 +1,73 @@
+{
+  "id": "dereotu",
+  "ad": "Dereotu",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "İnce yapraklı, kokusu güçlü yeşillik; zeytinyağlıların ve cacığın dostu.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "dereotu",
+  "aktif": true,
+  "enerji_kcal_100g": 43,
+  "enerji_durum": "çiğ, yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Dill weed, fresh (FDC ID 172233)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/172233/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Kalın saplarını kesin, bol suda yıkayıp süzün.",
+    "Yemeklerin üstüne pişme sonunda ekleyin; kokusu kaybolmaz."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "dereotu__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "01-01",
+      "bit": "12-31",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Halde yıl boyu satılıyor; belirgin bir mevsimi görülmüyor."
+    }
+  ],
+  "secim_ipuclari": [
+    "Yapraklar canlı yeşil, kabarık ve dik olsun.",
+    "Sararmış, kararmış ya da sölpük yapraklı demetleri almayın.",
+    "Koklayın: taze dereotunun kokusu keskin ve hoştur."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir (100 g'da 85 mg; günlük başvuru değerini aşar).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Dill weed, fresh (FDC ID 172233)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/172233/nutrients"
+    },
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat açısından zengindir (100 g'da 150 µg; günlük başvuru değerine oranı yaklaşık %75).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Dill weed, fresh (FDC ID 172233)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/172233/nutrients"
+    },
+    {
+      "ad": "Manganez",
+      "tur": "mineral",
+      "aciklama": "Manganez açısından zengindir (100 g'da 1,3 mg; günlük başvuru değerine oranı yaklaşık %63).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Dill weed, fresh (FDC ID 172233)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/172233/nutrients"
+    }
+  ],
+  "tarifler": [
+    "cacik",
+    "zeytinyagli_bakla",
+    "kabak_mucveri"
+  ]
+}

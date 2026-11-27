@@ -1,0 +1,60 @@
+{
+  "id": "sakiz_kabak",
+  "ad": "Sakız kabak",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Açık yeşil, ince kabuklu yaz kabağı; mücverin yıldızı.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "sakiz_kabak",
+  "aktif": true,
+  "enerji_kcal_100g": 17,
+  "enerji_durum": "çiğ, yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Squash, summer, zucchini, includes skin, raw (FDC ID 169291)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169291/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Yıkayın, iki ucunu kesin; ince kabuklu olduğu için soymanız gerekmez.",
+    "Mücver için rendeleyin, tuzlayıp 10 dakika bekletin ve suyunu iyice sıkın."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "sakiz_kabak__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "06-01",
+      "bit": "10-31",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024); GKGM, \"Hıyar-Kabak\" el kitabı",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Ege'de tarladan gelen yazlık kabak dönemi."
+    }
+  ],
+  "secim_ipuclari": [
+    "Orta boy ve ince olanları seçin; çok iri kabağın çekirdeği sertleşmiştir.",
+    "Kabuk parlak ve sert olmalı, tırnakla kolayca çizilebilmeli.",
+    "Ucunda çiçek kalıntısı olan küçük kabaklar çok tazedir.",
+    "Yumuşak, buruşuk ya da çürük lekeli olanları almayın."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini kaynağıdır (100 g'da 18 mg; günlük başvuru değerine oranı yaklaşık %22).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Squash, summer, zucchini, includes skin, raw (FDC ID 169291)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169291/nutrients"
+    }
+  ],
+  "tarifler": [
+    "kabak_mucveri",
+    "zeytinyagli_kabak",
+    "sebzeli_turlu"
+  ]
+}

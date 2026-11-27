@@ -1,0 +1,18 @@
+{
+  "id": "yogurtlu_taze_bakla",
+  "baslik": "Yoğurtlu taze bakla mezesi",
+  "malzemeler": [
+    "500 g taze bakla",
+    "1 su bardağı yoğurt",
+    "1 diş sarımsak",
+    "Birkaç dal dereotu",
+    "2 yemek kaşığı zeytinyağı",
+    "Tuz"
+  ],
+  "adimlar": [
+    "Baklaları ayıklayıp küçük doğrayın, kaynar suda 15-20 dakika yumuşayana kadar haşlayın.",
+    "Süzüp soğutun.",
+    "Sarımsaklı yoğurt ve dereotuyla karıştırın, üzerine zeytinyağı gezdirin."
+  ],
+  "kaynak_adi": "Mevsim"
+}
