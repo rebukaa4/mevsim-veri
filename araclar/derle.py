@@ -26,6 +26,7 @@ from pathlib import Path
 KOK = Path(__file__).resolve().parent.parent
 SEMA_SURUMU = 1
 UST_SINIR_BAYT = 10 * 1024 * 1024
+ORNEK_ON_EK = "ornek_"
 TSI = timezone(timedelta(hours=3))
 
 # Ay başına gün sınırı; 02-29 her zaman kabul edilir (mimari belge 2.6).
@@ -393,10 +394,13 @@ def kurallari_dogrula(veri: dict, hatalar: list[str], uyarilar: list[str], oncek
     # Önceki yayına göre kontroller (madde 9 ve 10)
     if onceki is not None:
         eski = {u.get("id") for u in onceki.get("urunler", []) if isinstance(u, dict)}
-        for k in sorted(eski - urun, key=str):
+        # "ornek_" ile başlayan kayıtlar yalnızca derleme hattını denemek içindi; kaldırılabilir.
+        for k in sorted({e for e in eski - urun if not str(e).startswith(ORNEK_ON_EK)}, key=str):
             hatalar.append(f"urunler/{k}: yayındaki ürün kaldırılamaz; silmek yerine \"aktif\": false yapın")
-        if eski and len(urun) < 0.9 * len(eski):
-            hatalar.append(f"ürün sayısı {len(urun)}, önceki yayının ({len(eski)}) %90'ından az")
+        eski_gercek = {e for e in eski if not str(e).startswith(ORNEK_ON_EK)}
+        yeni_gercek = {u for u in urun if not str(u).startswith(ORNEK_ON_EK)}
+        if eski_gercek and len(yeni_gercek) < 0.9 * len(eski_gercek):
+            hatalar.append(f"ürün sayısı {len(yeni_gercek)}, önceki yayının ({len(eski_gercek)}) %90'ından az")
         eski_surum = onceki.get("veri_surumu")
         if isinstance(eski_surum, int) and isinstance(veri.get("veri_surumu"), int) and veri["veri_surumu"] <= eski_surum:
             hatalar.append(f"veri_surumu {veri['veri_surumu']} önceki yayından ({eski_surum}) büyük olmalı")

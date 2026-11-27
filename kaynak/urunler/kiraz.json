@@ -1,0 +1,69 @@
+{
+  "id": "kiraz",
+  "ad": "Kiraz",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Ege'nin yaz başı meyvesi; kıyıda nisan sonunda, iç ve yüksek kesimlerde temmuz-ağustosta toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "kiraz",
+  "aktif": true,
+  "enerji_kcal_100g": 63,
+  "enerji_durum": "çiğ, çekirdeksiz yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central — Cherries, sweet, raw (FDC ID 171719, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/171719/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "kiraz__ege__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "hasat",
+      "bas": "04-24",
+      "bit": "07-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Kemalpaşa Kirazı (No 702); Arısoy & Kaplan 2022. TEAD 8(2):132–143",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/49a89368-577d-4230-b394-94d2dd1d0257.pdf",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "resmi",
+      "not": "Kıyı ovalarının (ör. Kemalpaşa) erkenci kirazı."
+    },
+    {
+      "id": "kiraz__ege_ic__hasat__1",
+      "kapsam_turu": "alt_bolge",
+      "kapsam_id": "ege_ic",
+      "donem_turu": "hasat",
+      "bas": "06-15",
+      "bit": "08-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Demirci Kirazı (No 1564); Türk Patent coğrafi işaret tescili: Sultandağı Kirazı (No 644); Türk Patent coğrafi işaret tescili: Kütahya Pazarlar Kirazı (No 789)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/13257569-742a-41b5-8dd9-afc5fddcfb0a.pdf",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "resmi",
+      "not": "İç ve yüksek kesimlerin (Demirci, Sultandağı, Pazarlar) geç kirazı."
+    }
+  ],
+  "secim_ipuclari": [
+    "Sapı yeşil ve esnek olsun; kahverengileşmiş, kurumuş sap kirazın bekletildiğini gösterir.",
+    "Taneler sert, parlak ve dolgun olmalı; yumuşamış ya da buruşmuş tane almayın.",
+    "Çatlak taneler çabuk ekşir; kasada çatlak çoksa başka tezgâha bakın.",
+    "Koyu kırmızı renk genelde daha tatlı ve olgun demektir."
+  ],
+  "besin": [
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum içerir: 100 g'da 222 mg; günlük başvuru değerine oranı yaklaşık %11.",
+      "kaynak_adi": "USDA FoodData Central — Cherries, sweet, raw (FDC ID 171719, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/171719/nutrients"
+    }
+  ],
+  "tarifler": [
+    "kiraz_kompostosu",
+    "kiraz_receli"
+  ]
+}

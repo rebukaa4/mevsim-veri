@@ -15,7 +15,7 @@
     "id": "03",
     "ad": "Afyonkarahisar",
     "bolge_id": "ege",
-    "alt_bolge_id": null
+    "alt_bolge_id": "ege_ic"
   },
   {
     "id": "04",
@@ -255,7 +255,7 @@
     "id": "43",
     "ad": "Kütahya",
     "bolge_id": "ege",
-    "alt_bolge_id": null
+    "alt_bolge_id": "ege_ic"
   },
   {
     "id": "44",
@@ -381,7 +381,7 @@
     "id": "64",
     "ad": "Uşak",
     "bolge_id": "ege",
-    "alt_bolge_id": null
+    "alt_bolge_id": "ege_ic"
   },
   {
     "id": "65",

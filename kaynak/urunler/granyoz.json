@@ -1,0 +1,72 @@
+{
+  "id": "granyoz",
+  "ad": "Granyoz / sarıağız (doğal)",
+  "diger_adlar": [],
+  "kategori_id": "balik_deniz",
+  "kisa_tanim": "Yaz başından yıl sonuna kadar avlanan, iri ve beyaz etli denizden granyoz.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": "granyoz_ciftlik",
+  "yoresel_il_id": null,
+  "gorsel_id": "granyoz",
+  "aktif": true,
+  "enerji_kcal_100g": 121,
+  "enerji_durum": "çiğ — bileşimden hesaplanmıştır (Atwater)",
+  "enerji_kaynak_adi": "Hamzaçebi S., Öztürk F. 2024. Do the nutrient compositions and mineral matter contents of meagre (Argyrosomus regius) vary depending on the rearing environment? Oceanol. Hydrobiol. Stud. 53(1):1-6 (Tablo 2)",
+  "enerji_kaynak_link": "https://doi.org/10.26881/oahs-2024.1.01",
+  "az_bilinen": true,
+  "tanitim": "Sarıağız da denen, çok büyüyebilen bir balıktır; eti beyaz, sıkı ve orta yağlıdır, kılçığı azdır. Genellikle dilimlenerek fırında, buğulama ya da çorba yapılır.",
+  "hazirlama_adimlari": [
+    "İsterseniz temizliği balıkçıya yaptırabilirsiniz; evde yapacaksanız mutfak lavabosunda, soğuk suyla çalışın.",
+    "Pulları kuyruktan başa doğru bıçağın sırtıyla kazıyın; bunu dolu bir leğende ya da poşetin içinde yaparsanız pullar etrafa sıçramaz.",
+    "Karnını kuyruk altındaki delikten başa doğru yarın, iç organları çekip çıkarın; karın içindeki siyah zarı ve pıhtılaşmış kanı parmakla sıyırıp yıkayın.",
+    "Solungaçları makasla kesip atın (pişince acı tat verir).",
+    "Soğuk suyla durulayıp kâğıt havluyla kurulayın. Hemen pişirmeyecekseniz kapalı bir kapta buzdolabının en soğuk rafında tutun ve en geç ertesi gün pişirin.",
+    "Eti ortasına kadar beyazlaşıp çatalla kolayca ayrılana kadar pişirin; çiğ balığa değen tahta ve bıçağı sıcak sabunlu suyla yıkayın.",
+    "İri granyozu balıkçıya dilimletin; başı ve kılçıkları çorba için çok uygundur."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak ve gıda güvenliği bilgisi; ayrı bir kaynakla doğrulanmadı)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "granyoz__ege__av__1",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "ege",
+      "donem_turu": "av",
+      "bas": "06-01",
+      "bit": "12-31",
+      "kaynak_adi": "Kınacıgil ve ark. (ed.) 2017, İzmir Balıkçılığı (Akyol, İzmir Körfezi balıklarının av takvimi), İzmir Büyükşehir Belediyesi",
+      "kaynak_link": "https://www.izmir.bel.tr:443/YuklenenDosyalar/Yayinlar/0_08022018_053047_izmir-balikciligi.pdf",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "akademik",
+      "not": "Doğal granyoz; çiftlik ürünü de aynı adla satılabilir."
+    }
+  ],
+  "secim_ipuclari": [
+    "Gözleri parlak, dolgun ve şeffaf olsun; içe çökmüş, buğulu gözlü balığı almayın.",
+    "Solungaç kapağını kaldırıp bakın: içi canlı kırmızı olmalı; kahverengi ya da griye dönmüşse balık bayattır.",
+    "Dilim alıyorsanız et parlak beyaz ve sıkı olmalı, su salmamalı.",
+    "Hafif deniz ve yosun kokmalı; ağır, ekşi ya da amonyak gibi koku bayatlık işaretidir."
+  ],
+  "besin": [
+    {
+      "ad": "Protein",
+      "tur": "diger",
+      "aciklama": "Pazardan alınan doğal granyozda 100 gramında yaklaşık 16 g protein ölçülmüştür.",
+      "kaynak_adi": "Hamzaçebi S., Öztürk F. 2024. Do the nutrient compositions and mineral matter contents of meagre (Argyrosomus regius) vary depending on the rearing environment? Oceanol. Hydrobiol. Stud. 53(1):1-6 (Tablo 2)",
+      "kaynak_link": "https://doi.org/10.26881/oahs-2024.1.01"
+    },
+    {
+      "ad": "Yağ",
+      "tur": "diger",
+      "aciklama": "Aynı ölçümde 100 gramında yaklaşık 6 g yağ bulunmuştur.",
+      "kaynak_adi": "Hamzaçebi S., Öztürk F. 2024. Do the nutrient compositions and mineral matter contents of meagre (Argyrosomus regius) vary depending on the rearing environment? Oceanol. Hydrobiol. Stud. 53(1):1-6 (Tablo 2)",
+      "kaynak_link": "https://doi.org/10.26881/oahs-2024.1.01"
+    }
+  ],
+  "tarifler": [
+    "sebzeli_balik_bugulama",
+    "balik_corbasi",
+    "firinda_patatesli_balik"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "yerelmasi",
+  "ad": "Yerelması",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Kışın topraktan çıkan, patatese benzeyen tatlımsı yumru.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "yerelmasi",
+  "aktif": true,
+  "enerji_kcal_100g": 73,
+  "enerji_durum": "çiğ, yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Jerusalem-artichokes, raw (FDC ID 169236)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169236/nutrients",
+  "az_bilinen": true,
+  "tanitim": "Yerelması, ayçiçeğinin akrabası bir bitkinin toprak altındaki yumrusudur; kabuğu soyulup ya da iyice fırçalanıp yenir. Patatese benzer ama daha tatlı ve hafif cevizimsi bir tadı vardır; çiğken çıtırdır.",
+  "hazirlama_adimlari": [
+    "Önce bir kaba su ve yarım limonun suyunu koyun; soyulan yumrular kararmasın diye buraya atılacak.",
+    "Yumruları fırçayla toprağı gidene kadar yıkayın.",
+    "Kabuğunu soyacağınızla ince ince soyun; girintileri bıçağın ucuyla temizleyin.",
+    "Doğrayıp hemen limonlu suya bırakın; çiğ salatada ince dilimlenebilir, yemekte patates gibi pişirilir."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "yerelmasi__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "11-16",
+      "bit": "04-15",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Halde yalnızca bu dönemde düzenli olarak satılıyor."
+    }
+  ],
+  "secim_ipuclari": [
+    "Sert, dolgun ve pürüzsüze yakın olanları seçin.",
+    "Buruşmuş, yumuşamış ya da filiz vermiş olanları almayın.",
+    "Az girintili, düzgün yumrular daha kolay soyulur.",
+    "Kabuk açık kahve-pembe renkli ve kuru olmalı."
+  ],
+  "besin": [
+    {
+      "ad": "Demir",
+      "tur": "mineral",
+      "aciklama": "Demir kaynağıdır (100 g'da 3,4 mg; günlük başvuru değerine oranı yaklaşık %24).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Jerusalem-artichokes, raw (FDC ID 169236)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169236/nutrients"
+    },
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum kaynağıdır (100 g'da 429 mg; günlük başvuru değerine oranı yaklaşık %21).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Jerusalem-artichokes, raw (FDC ID 169236)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169236/nutrients"
+    }
+  ],
+  "tarifler": [
+    "zeytinyagli_yerelmasi",
+    "firinda_yerelmasi"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "erik",
+  "ad": "Erik",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Yaz boyunca farklı çeşitleriyle (Anjelika, papaz, mürdüm) pazara gelen sulu meyve.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "erik",
+  "aktif": true,
+  "enerji_kcal_100g": 46,
+  "enerji_durum": "çiğ, çekirdeksiz yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central — Plums, raw (FDC ID 169949, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169949/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "erik__ege__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "hasat",
+      "bas": "06-01",
+      "bit": "09-30",
+      "kaynak_adi": "Muğla İl Tarım ve Orman Müdürlüğü, Tarım Takvimi",
+      "kaynak_link": "https://mugla.tarimorman.gov.tr/Sayfalar/Detay.aspx?TermStoreId=368e785b-af33-487d-a98d-c11d5495130b&TermSetId=6c59163f-a2cc-44d9-bd3b-e5a53766f6f0&TermId=be3c980f-b990-492b-bb38-2feab07411de&UrlSuffix=84%2FTarim-Takvimi",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "resmi",
+      "not": "Yaz erikleri haziranda başlar; ekim – ocak arasında depodan da gelir."
+    }
+  ],
+  "secim_ipuclari": [
+    "Kabuğundaki ince beyaz pus doğaldır ve tazeliği gösterir; silinmiş, parlak erik çok elden geçmiştir.",
+    "Hafifçe bastırınca çok az esneyen erik olgundur; çok yumuşak olanlar çabuk bozulur.",
+    "Çatlak ya da sızıntılı tane almayın."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini içerir: 100 g'da 9,5 mg; günlük başvuru değerine oranı yaklaşık %11.",
+      "kaynak_adi": "USDA FoodData Central — Plums, raw (FDC ID 169949, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169949/nutrients"
+    }
+  ],
+  "tarifler": [
+    "erik_kompostosu",
+    "erik_receli"
+  ]
+}

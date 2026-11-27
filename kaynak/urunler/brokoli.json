@@ -1,0 +1,74 @@
+{
+  "id": "brokoli",
+  "ad": "Brokoli",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Kışın koyu yeşil çiçekli sebzesi; haşlaması bile lezzetlidir.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "brokoli",
+  "aktif": true,
+  "enerji_kcal_100g": 34,
+  "enerji_durum": "çiğ, yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Broccoli, raw (FDC ID 170379)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170379/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Çiçeklerini sapından ayırın; kalın sapın kabuğunu soyup onu da doğrayabilirsiniz.",
+    "Bir kap suda birkaç dakika bekletip yıkayın.",
+    "Kaynar suda 3-4 dakika haşlayıp soğuk suya alın; rengi canlı yeşil kalır."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "brokoli__ege__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "hasat",
+      "bas": "12-01",
+      "bit": "02-28",
+      "kaynak_adi": "Dünya 14.12.2025, brokoli; İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
+      "kaynak_link": "https://www.dunya.com/foto-galeri/ekonomi/menemen-ovasinda-brokoli-hasadi-basladi-tarlada-1015-tl-olan-yesil-altin-pazara-gelene-kadar-uc-katina-cikiyor-galeri-807331",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Menemen ovası brokolisi; en ucuz olduğu dönem kasım ortası – şubat."
+    }
+  ],
+  "secim_ipuclari": [
+    "Çiçekler koyu yeşil, sıkı ve küçük taneli olsun.",
+    "Sararmış ya da çiçeklenmeye başlamış (sarı noktalı) brokoli bayattır.",
+    "Sapı sert olmalı, bükülünce esnememeli.",
+    "Kesik sap ucu kurumamış ve kararmamış olsun."
+  ],
+  "besin": [
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini açısından zengindir (100 g'da 102 µg; günlük başvuru değerini aşar).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Broccoli, raw (FDC ID 170379)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170379/nutrients"
+    },
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir (100 g'da 89 mg; günlük başvuru değerini aşar).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Broccoli, raw (FDC ID 170379)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170379/nutrients"
+    },
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat açısından zengindir (100 g'da 63 µg; günlük başvuru değerine oranı yaklaşık %32).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Broccoli, raw (FDC ID 170379)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170379/nutrients"
+    }
+  ],
+  "tarifler": [
+    "brokoli_corbasi",
+    "firinda_karnabahar_brokoli"
+  ]
+}

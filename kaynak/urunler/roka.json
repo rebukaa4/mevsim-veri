@@ -1,0 +1,72 @@
+{
+  "id": "roka",
+  "ad": "Roka",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Hafif acı, keskin lezzetli yaprak; salataya canlılık katar.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "roka",
+  "aktif": true,
+  "enerji_kcal_100g": 25,
+  "enerji_durum": "çiğ, yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Arugula, raw (FDC ID 169387)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169387/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Kalın sap uçlarını kesin, bol suda yıkayıp süzün."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "roka__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "01-01",
+      "bit": "12-31",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Halde yıl boyu satılıyor; belirgin bir mevsimi görülmüyor."
+    }
+  ],
+  "secim_ipuclari": [
+    "Yapraklar koyu yeşil, diri ve parlak olsun.",
+    "Sararmış ya da sulanmış yapraklı demetleri almayın.",
+    "Küçük yapraklı roka daha yumuşak, iri yapraklı roka daha acıdır.",
+    "Demetin dibinde çürüme olup olmadığına bakın."
+  ],
+  "besin": [
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini açısından zengindir (100 g'da 109 µg; günlük başvuru değerini aşar).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Arugula, raw (FDC ID 169387)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169387/nutrients"
+    },
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat açısından zengindir (100 g'da 97 µg; günlük başvuru değerine oranı yaklaşık %48).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Arugula, raw (FDC ID 169387)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169387/nutrients"
+    },
+    {
+      "ad": "Kalsiyum",
+      "tur": "mineral",
+      "aciklama": "Kalsiyum kaynağıdır (100 g'da 160 mg; günlük başvuru değerine oranı yaklaşık %20).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Arugula, raw (FDC ID 169387)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169387/nutrients"
+    }
+  ],
+  "tarifler": [
+    "roka_salatasi",
+    "mevsim_salatasi"
+  ]
+}

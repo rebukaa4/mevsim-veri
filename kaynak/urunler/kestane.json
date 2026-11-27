@@ -1,0 +1,96 @@
+{
+  "id": "kestane",
+  "ad": "Kestane",
+  "diger_adlar": [],
+  "kategori_id": "diger",
+  "kisa_tanim": "Sonbaharın sokak kokusu; Buldan ve Simav'da ekim-kasımda toplanır, kışın depodan gelir.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "kestane",
+  "aktif": true,
+  "enerji_kcal_100g": 196,
+  "enerji_durum": "çiğ, kabuğu soyulmuş",
+  "enerji_kaynak_adi": "USDA FoodData Central — Nuts, chestnuts, european, raw, peeled (FDC ID 170575, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170575/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Kestaneyi pişirmeden önce mutlaka kabuğunu bıçakla çizin (düz yüzüne çarpı ya da yatay bir yarık açın). Çizilmezse ısınınca içinde buhar birikir ve patlayabilir.",
+    "Haşlamak için: çizilmiş kestaneleri kaynar suda 20–25 dakika pişirin.",
+    "Fırında pişirmek için: çizik yüzü yukarı gelecek şekilde tepsiye dizin, 200 °C fırında kabukları açılana kadar 20–25 dakika pişirin.",
+    "Sıcakken soyun; soğuyunca iç zarı kolay çıkmaz. Pişirdikten sonra üzerini nemli bir bezle 5 dakika örtmek soymayı kolaylaştırır."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "kestane__ege__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "hasat",
+      "bas": "10-01",
+      "bit": "11-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Buldan Kestanesi (No 602); Türk Patent coğrafi işaret tescili: Simav Kestanesi (No 1152)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/6687e8ea-6f95-47cf-bf47-71cfb34b527d.pdf",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "resmi",
+      "not": "Buldan ve Simav kestanesi hasadı."
+    },
+    {
+      "id": "kestane__ege__depo__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "depo",
+      "bas": "11-16",
+      "bit": "03-15",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Halde yalnızca bu dönemde satılıyor."
+    }
+  ],
+  "secim_ipuclari": [
+    "Boyuna göre ağır, sert ve dolgun kestaneyi seçin; hafif ve içi boş gibi olanlar kurumuştur.",
+    "Kabuğu parlak ve gergin olmalı; buruşmuş kabuk eskidiğini gösterir.",
+    "Kabukta küçük delik varsa içi kurtludur; almayın.",
+    "Bir avuç alıp sallayın: içinde tıkırdayan, kabuktan ayrılmış meyve varsa kurumuştur."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir: 100 g'da 40,2 mg; günlük başvuru değerine oranı yaklaşık %50.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, chestnuts, european, raw, peeled (FDC ID 170575, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170575/nutrients"
+    },
+    {
+      "ad": "Bakır",
+      "tur": "mineral",
+      "aciklama": "Bakır açısından zengindir: 100 g'da 0,42 mg; günlük başvuru değerine oranı yaklaşık %41.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, chestnuts, european, raw, peeled (FDC ID 170575, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170575/nutrients"
+    },
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat kaynağıdır: 100 g'da 58 µg; günlük başvuru değerine oranı yaklaşık %28.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, chestnuts, european, raw, peeled (FDC ID 170575, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170575/nutrients"
+    },
+    {
+      "ad": "B6 vitamini",
+      "tur": "vitamin",
+      "aciklama": "B6 vitamini kaynağıdır: 100 g'da 0,35 mg; günlük başvuru değerine oranı yaklaşık %25.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, chestnuts, european, raw, peeled (FDC ID 170575, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170575/nutrients"
+    }
+  ],
+  "tarifler": [
+    "kestane_haslama",
+    "firin_kestane",
+    "kestaneli_pilav"
+  ]
+}

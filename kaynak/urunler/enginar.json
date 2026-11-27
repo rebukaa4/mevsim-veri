@@ -1,0 +1,83 @@
+{
+  "id": "enginar",
+  "ad": "Enginar",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Kışın sonundan yaz başına kadar Ege'nin gözdesi; zeytinyağlısı bir klasik.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "enginar",
+  "aktif": true,
+  "enerji_kcal_100g": 47,
+  "enerji_durum": "çiğ, yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Artichokes, (globe or french), raw (FDC ID 169205)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169205/nutrients",
+  "az_bilinen": true,
+  "tanitim": "Enginar, açmamış bir çiçek tomurcuğudur; dış sert yaprakları ayıklanır ve alttaki etli 'çanak' (kalp) kısmı yenir. Tadı hafif buruk, tatlımsı ve kendine özgüdür.",
+  "hazirlama_adimlari": [
+    "Önce bir kaba su, 1 limonun suyu ve 1 kaşık un koyup karıştırın; temizlenen enginarlar kararmasın diye bu suya atılacak.",
+    "Sapı 2-3 cm bırakarak kesin; dış sert yaprakları elinizle aşağı doğru kırarak, açık sarı-yeşil yumuşak yapraklara gelene kadar koparın.",
+    "Üst kısmı bıçakla düz kesin; çanağın kenarındaki yeşil sert kısımları ve sapın kabuğunu soyun.",
+    "Ortadaki tüylü kısmı (enginar tüyü) bir çay kaşığıyla kazıyarak tamamen çıkarın.",
+    "Kesilen her yere hemen limon sürün ve enginarı limonlu-unlu suya bırakın; ellerinizin kararmaması için eldiven giyebilirsiniz."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "enginar__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "02-01",
+      "bit": "06-15",
+      "kaynak_adi": "Yeni Asır 09.04.2026, enginar; İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
+      "kaynak_link": "https://www.yeniasir.com.tr/izmir/2026/04/09/en-cok-izmirde-yetisiyor-enginarin-faydalari-nedir-enginar-nasil-tuketilmeli",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Hasat şubatta başlar, nisanda en yoğun olur. Urla ve Aydın enginarı kasımda başlar."
+    }
+  ],
+  "secim_ipuclari": [
+    "Baş sıkı kapalı, ağır ve sert olsun; yaprakları açılmış enginar yaşlanmıştır.",
+    "Yaprakları birbirine sürtünce hafif gıcırdıyorsa tazedir.",
+    "Yaprak uçlarında kahverengileşme ve kuruma olmamalı.",
+    "Pazarda temizlenmiş (çanak) enginar alıyorsanız limonlu suyun içinde ve beyaz renkte olanları seçin."
+  ],
+  "besin": [
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat açısından zengindir (100 g'da 68 µg; günlük başvuru değerine oranı yaklaşık %34).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Artichokes, (globe or french), raw (FDC ID 169205)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169205/nutrients"
+    },
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini kaynağıdır (100 g'da 15 µg; günlük başvuru değerine oranı yaklaşık %20).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Artichokes, (globe or french), raw (FDC ID 169205)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169205/nutrients"
+    },
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum kaynağıdır (100 g'da 370 mg; günlük başvuru değerine oranı yaklaşık %18).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Artichokes, (globe or french), raw (FDC ID 169205)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169205/nutrients"
+    },
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif kaynağıdır (100 g'da 5,4 g).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Artichokes, (globe or french), raw (FDC ID 169205)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169205/nutrients"
+    }
+  ],
+  "tarifler": [
+    "zeytinyagli_enginar",
+    "enginar_salatasi"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "labada",
+  "ad": "Labada",
+  "diger_adlar": [],
+  "kategori_id": "ot",
+  "kisa_tanim": "Geniş yapraklı yabani ot; sarması ve kavurması yapılır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "labada",
+  "aktif": true,
+  "enerji_kcal_100g": 22,
+  "enerji_durum": "çiğ, yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Dock, raw (FDC ID 170076)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170076/nutrients",
+  "az_bilinen": true,
+  "tanitim": "Labada, geniş ve uzun yapraklı yabani bir bitkidir (Rumex türleri); genç yaprakları yenir. Tadı ıspanağa benzer ama hafif ekşimsidir; sarma ve kavurmada kullanılır.",
+  "hazirlama_adimlari": [
+    "Yaprakları saplarından ayırın; kalın orta damarı keserek inceltin.",
+    "Bol suda yıkayın.",
+    "Sarma için kaynar suda 1-2 dakika haşlayıp soğuk suya alın; haşlama suyunu dökün, ekşiliği azalır.",
+    "Kavurma için iri doğrayın.",
+    "Yabani otları, bitkiyi iyi tanıyan pazar satıcılarından alın; tahminle doğadan toplamayın, benzer görünen zehirli bitkiler olabilir."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "labada__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "10-01",
+      "bit": "05-31",
+      "kaynak_adi": "Ertuğ F. 2004. Wild edible plants of the Bodrum area (Muğla, Turkey). Turk J Bot 28:161–174",
+      "kaynak_link": "https://journals.tubitak.gov.tr/botany/vol28/iss1/16",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Kıyı Ege'de yabani otların genel dönemi; iç Ege'de haziran – temmuzda toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Genç, orta boy ve yumuşak yaprakları seçin.",
+    "Kırmızı-kahverengi lekeli, sararmış ya da delik yaprakları almayın.",
+    "Çiçek sapı çıkmış bitkilerin yaprakları serttir."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir (100 g'da 48 mg; günlük başvuru değerine oranı yaklaşık %60).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Dock, raw (FDC ID 170076)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170076/nutrients"
+    },
+    {
+      "ad": "Magnezyum",
+      "tur": "mineral",
+      "aciklama": "Magnezyum kaynağıdır (100 g'da 103 mg; günlük başvuru değerine oranı yaklaşık %27).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Dock, raw (FDC ID 170076)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170076/nutrients"
+    },
+    {
+      "ad": "A vitamini",
+      "tur": "vitamin",
+      "aciklama": "A vitamini kaynağıdır (100 g'da 200 µg; günlük başvuru değerine oranı yaklaşık %25).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Dock, raw (FDC ID 170076)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170076/nutrients"
+    }
+  ],
+  "tarifler": [
+    "zeytinyagli_pazi_sarmasi",
+    "yumurtali_ot_kavurmasi"
+  ]
+}

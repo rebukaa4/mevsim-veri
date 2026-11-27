@@ -1,0 +1,82 @@
+{
+  "id": "dil",
+  "ad": "Dil",
+  "diger_adlar": [],
+  "kategori_id": "balik_deniz",
+  "kisa_tanim": "Kış sonu–bahar ve sonbaharda bulunan, ince ve yassı, narin etli balık.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "dil",
+  "aktif": true,
+  "enerji_kcal_100g": 70,
+  "enerji_durum": "çiğ",
+  "enerji_kaynak_adi": "USDA FoodData Central — \"Fish, flatfish (flounder and sole species), raw\" (FDC ID 174196)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/174196/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Başın hemen altından kuyruğa doğru yan yüzgeçleri makasla kesin.",
+    "Kuyruk ucunda koyu deriyi bıçakla biraz kaldırın, tuzlu parmaklarla tutup başa doğru tek hamlede çekerek soyun (balıkçıya da yaptırabilirsiniz).",
+    "Başın arkasındaki küçük karın boşluğunu açıp iç organları çıkarın, yıkayıp kurulayın.",
+    "Hemen pişirmeyecekseniz buzdolabında aynı gün tüketin; eti beyazlaşıp kolayca ayrılana kadar pişirin."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak ve gıda güvenliği bilgisi; ayrı bir kaynakla doğrulanmadı)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "dil__ege__av__1",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "ege",
+      "donem_turu": "av",
+      "bas": "02-16",
+      "bit": "04-30",
+      "kaynak_adi": "Kınacıgil ve ark. (ed.) 2017, İzmir Balıkçılığı (Akyol, İzmir Körfezi balıklarının av takvimi), İzmir Büyükşehir Belediyesi; Ticari Amaçlı Su Ürünleri Avcılığı Tebliği (No 2024/20), Resmî Gazete 11.08.2024, madde 21",
+      "kaynak_link": "https://www.izmir.bel.tr:443/YuklenenDosyalar/Yayinlar/0_08022018_053047_izmir-balikciligi.pdf",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "akademik",
+      "not": "Dil avı 1 Ocak – 15 Şubat arasında yasaktır; bu ilkbahar av dönemidir."
+    },
+    {
+      "id": "dil__ege__av__2",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "ege",
+      "donem_turu": "av",
+      "bas": "09-01",
+      "bit": "11-30",
+      "kaynak_adi": "Kınacıgil ve ark. (ed.) 2017, İzmir Balıkçılığı (Akyol, İzmir Körfezi balıklarının av takvimi), İzmir Büyükşehir Belediyesi",
+      "kaynak_link": "https://www.izmir.bel.tr:443/YuklenenDosyalar/Yayinlar/0_08022018_053047_izmir-balikciligi.pdf",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "akademik",
+      "not": "Dil balığının sonbahar av dönemi."
+    }
+  ],
+  "secim_ipuclari": [
+    "Derisi nemli ve parlak olmalı; kurumuş ya da yapış yapışsa almayın.",
+    "Parmakla bastırınca eti hemen eski hâline dönmeli; iz kalıyorsa taze değildir.",
+    "Hafif deniz ve yosun kokmalı; ağır, ekşi ya da amonyak gibi koku bayatlık işaretidir.",
+    "Alt yüzü (beyaz taraf) temiz beyaz olmalı; sarımsı ya da kırmızı lekeli olmamalı."
+  ],
+  "besin": [
+    {
+      "ad": "Protein",
+      "tur": "diger",
+      "aciklama": "Mersin Körfezi'nde avlanan dil balığında 100 gramında yaklaşık 19 g protein ölçülmüştür.",
+      "kaynak_adi": "Özyılmaz A., Yaprak D., Demirci S. 2022. A study of nutritional properties in European pilchard, Golden grey mullet, and Common sole caught in Mersin Bay, North-east Mediterranean Sea. Marine and Life Sciences 4(1):71-76 (Tablo 1)",
+      "kaynak_link": "https://doi.org/10.51756/marlife.1091081"
+    },
+    {
+      "ad": "Yağ",
+      "tur": "diger",
+      "aciklama": "Çok az yağlı bir balıktır; aynı ölçümde 100 gramında yaklaşık 0,3 g yağ bulunmuştur.",
+      "kaynak_adi": "Özyılmaz A., Yaprak D., Demirci S. 2022. A study of nutritional properties in European pilchard, Golden grey mullet, and Common sole caught in Mersin Bay, North-east Mediterranean Sea. Marine and Life Sciences 4(1):71-76 (Tablo 1)",
+      "kaynak_link": "https://doi.org/10.51756/marlife.1091081"
+    }
+  ],
+  "tarifler": [
+    "kalkan_tava",
+    "sebzeli_balik_bugulama",
+    "izgara_balik"
+  ]
+}

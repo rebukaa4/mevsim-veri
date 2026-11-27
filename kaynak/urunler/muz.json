@@ -1,0 +1,63 @@
+{
+  "id": "muz",
+  "ad": "Muz",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Ege'de yetişmez; Anamur ve Alanya'dan yıl boyu gelen yerli muz.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "muz",
+  "aktif": true,
+  "enerji_kcal_100g": 89,
+  "enerji_durum": "çiğ, kabuksuz",
+  "enerji_kaynak_adi": "USDA FoodData Central — Bananas, raw (FDC ID 173944, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/173944/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "muz__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "01-01",
+      "bit": "12-31",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Ege'de ticari muz yetişmez; yerli muz Anamur ve Alanya'dan yıl boyu gelir."
+    }
+  ],
+  "secim_ipuclari": [
+    "Sarı kabuklu, ezik ve kararmış bölgesi olmayan muz seçin.",
+    "Kabukta küçük kahverengi benekler muzun iyice tatlandığını gösterir.",
+    "Birkaç gün sonra yiyecekseniz uçları hafif yeşil olanları alın."
+  ],
+  "besin": [
+    {
+      "ad": "B6 vitamini",
+      "tur": "vitamin",
+      "aciklama": "B6 vitamini kaynağıdır: 100 g'da 0,37 mg; günlük başvuru değerine oranı yaklaşık %26.",
+      "kaynak_adi": "USDA FoodData Central — Bananas, raw (FDC ID 173944, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173944/nutrients"
+    },
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum kaynağıdır: 100 g'da 358 mg; günlük başvuru değerine oranı yaklaşık %17.",
+      "kaynak_adi": "USDA FoodData Central — Bananas, raw (FDC ID 173944, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173944/nutrients"
+    }
+  ],
+  "tarifler": [
+    "meyveli_yogurt_kasesi",
+    "meyve_salatasi",
+    "muzlu_sut"
+  ]
+}

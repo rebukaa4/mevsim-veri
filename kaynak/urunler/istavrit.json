@@ -1,0 +1,61 @@
+{
+  "id": "istavrit",
+  "ad": "İstavrit",
+  "diger_adlar": [],
+  "kategori_id": "balik_deniz",
+  "kisa_tanim": "Sonbahardan bahara kadar bol bulunan, uygun fiyatlı küçük balık.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "istavrit",
+  "aktif": true,
+  "enerji_kcal_100g": 154,
+  "enerji_durum": "çiğ, fileto",
+  "enerji_kaynak_adi": "Boran G., Karaçam H. 2011. Seasonal Changes in Proximate Composition of Some Fish Species from the Black Sea. Turk. J. Fish. Aquat. Sci. 11:1-5 (Tablo 1)",
+  "enerji_kaynak_link": "https://www.trjfas.org/pdf.php?id=657",
+  "az_bilinen": false,
+  "tanitim": "Tezgâhta 'istavrit' adıyla iki yakın tür satılır: karagöz istavrit (Trachurus trachurus) ve sarıkuyruk istavrit (Trachurus mediterraneus); ikisi de aynı şekilde pişirilir. Yan çizgisi boyunca sert pulları (kalkan pulları) vardır; genellikle tava yapılır.",
+  "hazirlama_adimlari": [
+    "Başını ve iç organlarını çıkarıp karnını yıkayın.",
+    "Kuyruğa yakın, yan çizgi boyunca uzanan sert pulları bıçağı kuyruktan başa doğru kaydırarak kesip alın (küçük istavritte gerekmez).",
+    "Kurulayıp hemen pişirin ya da buzdolabında aynı gün tüketin; eti beyazlaşıp kılçıktan ayrılana kadar pişirin."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak ve gıda güvenliği bilgisi; ayrı bir kaynakla doğrulanmadı)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "istavrit__ege__av__1",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "ege",
+      "donem_turu": "av",
+      "bas": "09-01",
+      "bit": "04-30",
+      "kaynak_adi": "Kınacıgil ve ark. (ed.) 2017, İzmir Balıkçılığı (Akyol, İzmir Körfezi balıklarının av takvimi), İzmir Büyükşehir Belediyesi; Ticari Amaçlı Su Ürünleri Avcılığı Tebliği (No 2024/20), Resmî Gazete 11.08.2024; Deniz Haber, \"Balıkçılıkta yeni kurallar Resmi Gazete'de\", 16.09.2026 (Tebliğ 2026/25 özeti)",
+      "kaynak_link": "https://www.izmir.bel.tr:443/YuklenenDosyalar/Yayinlar/0_08022018_053047_izmir-balikciligi.pdf",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "akademik",
+      "not": "Ağustos – eylülde ucuzlar; mayıs – haziranda seyrek ve pahalıdır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Gözleri parlak, dolgun ve şeffaf olsun; içe çökmüş, buğulu gözlü balığı almayın.",
+    "Solungaç kapağını kaldırıp bakın: içi canlı kırmızı olmalı; kahverengi ya da griye dönmüşse balık bayattır.",
+    "Yan çizgisindeki sert pullar parlak, gövdesi diri ve kaygan olmalı.",
+    "Hafif deniz ve yosun kokmalı; ağır, ekşi ya da amonyak gibi koku bayatlık işaretidir."
+  ],
+  "besin": [
+    {
+      "ad": "Protein",
+      "tur": "diger",
+      "aciklama": "Karadeniz'de yapılan ölçümde 100 gramında ortalama yaklaşık 15 g protein bulunmuştur.",
+      "kaynak_adi": "Boran G., Karaçam H. 2011. Seasonal Changes in Proximate Composition of Some Fish Species from the Black Sea. Turk. J. Fish. Aquat. Sci. 11:1-5 (Tablo 1)",
+      "kaynak_link": "https://www.trjfas.org/pdf.php?id=657"
+    }
+  ],
+  "tarifler": [
+    "unlu_tava_balik",
+    "firinda_domatesli_sardalya",
+    "izgara_balik"
+  ]
+}

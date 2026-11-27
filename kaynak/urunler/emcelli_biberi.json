@@ -1,0 +1,62 @@
+{
+  "id": "emcelli_biberi",
+  "ad": "Emcelli Biberi",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Manisa Sarıgöl'ün Emcelli mahallesinde yetişen, konik, iri, tatlı ve kalın etli kapya tipi biberi; közleme, salça ve tarhana için aranır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "45",
+  "gorsel_id": "kapya_biber",
+  "aktif": true,
+  "enerji_kcal_100g": 20,
+  "enerji_durum": "çiğ (yeşil tatlı biber genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Peppers, sweet, green, raw (FDC ID 170427, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170427/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "emcelli_biberi__45__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "45",
+      "donem_turu": "hasat",
+      "bas": "08-15",
+      "bit": "11-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Emcelli Biberi (No 1337)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/a1852c7b-8e17-4d17-8f61-d0ea409768ec.pdf",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "resmi",
+      "not": "Bazı yıllar aralığa sarkar."
+    }
+  ],
+  "secim_ipuclari": [
+    "Kabuğu parlak, gergin ve et kalınlığı hissedilecek kadar sert olsun.",
+    "Sapı yeşil ve taze olmalı; buruşmuş, yumuşamış biber almayın.",
+    "Közlemek için iri ve düzgün biçimli olanları seçin."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir: 100 g'da 80,4 mg; günlük başvuru değerine oranı yaklaşık %100.",
+      "kaynak_adi": "USDA FoodData Central — Peppers, sweet, green, raw (FDC ID 170427, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170427/nutrients"
+    },
+    {
+      "ad": "B6 vitamini",
+      "tur": "vitamin",
+      "aciklama": "B6 vitamini kaynağıdır: 100 g'da 0,22 mg; günlük başvuru değerine oranı yaklaşık %16.",
+      "kaynak_adi": "USDA FoodData Central — Peppers, sweet, green, raw (FDC ID 170427, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170427/nutrients"
+    }
+  ],
+  "tarifler": [
+    "muhammara",
+    "kozlenmis_biber_salatasi"
+  ]
+}

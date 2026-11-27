@@ -1,0 +1,70 @@
+{
+  "id": "elma",
+  "ad": "Elma",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Ağustostan ekime toplanan, kış boyu depodan gelen her evin meyvesi.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "elma",
+  "aktif": true,
+  "enerji_kcal_100g": 52,
+  "enerji_durum": "çiğ, kabuğuyla",
+  "enerji_kaynak_adi": "USDA FoodData Central — Apples, raw, with skin (Includes foods for USDA's Food Distribution Program) (FDC ID 171688, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/171688/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "elma__ege__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "hasat",
+      "bas": "08-01",
+      "bit": "10-31",
+      "kaynak_adi": "Muğla İl Tarım ve Orman Müdürlüğü, Tarım Takvimi; Tarım ve Orman Bakanlığı, iklim ve fenolojik durum istatistikleri (Ekim 2025); GKGM, \"Elma\" el kitabı",
+      "kaynak_link": "https://mugla.tarimorman.gov.tr/Sayfalar/Detay.aspx?TermStoreId=368e785b-af33-487d-a98d-c11d5495130b&TermSetId=6c59163f-a2cc-44d9-bd3b-e5a53766f6f0&TermId=be3c980f-b990-492b-bb38-2feab07411de&UrlSuffix=84%2FTarim-Takvimi",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "resmi",
+      "not": "Elma hasat dönemi."
+    },
+    {
+      "id": "elma__ege__depo__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "depo",
+      "bas": "11-01",
+      "bit": "07-31",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Depolanmış elma; en ucuz olduğu aylar mart – nisan."
+    }
+  ],
+  "secim_ipuclari": [
+    "Sert ve diri olsun; bastırınca iz kalıyorsa unlu (pamuk gibi) olabilir.",
+    "Kabuğu parlak ve gergin olmalı; buruşmuş kabuk uzun depolama işaretidir.",
+    "Ezik, kararmış ya da delikli (kurtlu) elma almayın.",
+    "Sap çukurunda hoş bir elma kokusu olmalı."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini içerir: 100 g'da 4,6 mg; günlük başvuru değerine oranı yaklaşık %5.",
+      "kaynak_adi": "USDA FoodData Central — Apples, raw, with skin (Includes foods for USDA's Food Distribution Program) (FDC ID 171688, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/171688/nutrients"
+    }
+  ],
+  "tarifler": [
+    "meyve_salatasi",
+    "firin_elma",
+    "elmali_kek"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "taze_sogan",
+  "ad": "Taze soğan",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Baharın yeşil soğanı; salatada, kısırda, yumurtada.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "taze_sogan",
+  "aktif": true,
+  "enerji_kcal_100g": 32,
+  "enerji_durum": "çiğ, yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Onions, spring or scallions (includes tops and bulb), raw (FDC ID 170005)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170005/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Köklerini ve yaprakların kurumuş uçlarını kesin; dış zarı soyun.",
+    "Yıkayıp beyaz ve yeşil kısmıyla birlikte doğrayın."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "taze_sogan__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "03-01",
+      "bit": "05-31",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Bahar ürünü; en ucuz olduğu dönem nisan ortası – mayıs sonu."
+    }
+  ],
+  "secim_ipuclari": [
+    "Yeşil yaprakları dik, parlak ve canlı olsun.",
+    "Beyaz kısmı sert ve temiz olmalı.",
+    "Yaprak uçları sararmış ya da sölpük olanları almayın."
+  ],
+  "besin": [
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini açısından zengindir (100 g'da 207 µg; günlük başvuru değerini aşar).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Onions, spring or scallions (includes tops and bulb), raw (FDC ID 170005)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170005/nutrients"
+    },
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat açısından zengindir (100 g'da 64 µg; günlük başvuru değerine oranı yaklaşık %32).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Onions, spring or scallions (includes tops and bulb), raw (FDC ID 170005)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170005/nutrients"
+    },
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini kaynağıdır (100 g'da 19 mg; günlük başvuru değerine oranı yaklaşık %24).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Onions, spring or scallions (includes tops and bulb), raw (FDC ID 170005)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170005/nutrients"
+    }
+  ],
+  "tarifler": [
+    "kisir",
+    "mevsim_salatasi",
+    "tereli_patates_salatasi"
+  ]
+}

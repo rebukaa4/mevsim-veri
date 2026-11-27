@@ -1,0 +1,56 @@
+{
+  "id": "sevketibostan",
+  "ad": "Şevketibostan",
+  "diger_adlar": [],
+  "kategori_id": "ot",
+  "kisa_tanim": "İzmir'in dikenli kış otu; kökü ve yaprak sapları yenir, zeytinyağlısı ünlüdür.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "sevketibostan",
+  "aktif": true,
+  "enerji_kcal_100g": null,
+  "enerji_durum": null,
+  "enerji_kaynak_adi": null,
+  "enerji_kaynak_link": null,
+  "az_bilinen": true,
+  "tanitim": "Şevketibostan, dikenli yaprakları olan yabani bir bitkidir; dikenli yaprak kısımları atılır, beyaz kalın kökü ile yaprakların beyaz orta damarları yenir. Tadı enginara benzer, hafif tatlı ve çıtırdır.",
+  "hazirlama_adimlari": [
+    "Dikenlere karşı kalın eldiven giyin; bir kaba su ve 1-2 limonun suyunu koyun.",
+    "Her yaprağın dikenli yeşil kısmını bıçakla iki yandan sıyırarak kesip atın; yalnızca beyaz orta damarı (sapı) bırakın.",
+    "Kökün dış kabuğunu bıçakla kazıyarak soyun.",
+    "Kökü boyuna ikiye yarın ve ortasındaki sert, odunsu damarı çekerek ya da keserek çıkarın.",
+    "Kökü ve sapları 4-5 cm boyunda doğrayıp kararmasın diye hemen limonlu suya atın.",
+    "Yabani otları, bitkiyi iyi tanıyan pazar satıcılarından alın; tahminle doğadan toplamayın, benzer görünen zehirli bitkiler olabilir."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "sevketibostan__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "10-01",
+      "bit": "04-30",
+      "kaynak_adi": "Ertuğ F. 2004. Wild edible plants of the Bodrum area (Muğla, Turkey). Turk J Bot 28:161–174",
+      "kaynak_link": "https://journals.tubitak.gov.tr/botany/vol28/iss1/16",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "akademik",
+      "not": "Altın dikeni (Scolymus hispanicus); Seferihisar ve Bodrum'da \"kenker\" de denir."
+    }
+  ],
+  "secim_ipuclari": [
+    "Kökler beyaz, dolgun ve sert olsun; buruşmuş ya da kararmış kök eskidir.",
+    "Çok kalın kökler odunsu olabilir; orta kalınlıktakileri seçin.",
+    "Pazarda dikenleri temizlenmiş halde de satılır; temizlenmiş olanın kesik yerleri beyaz olmalı, kararmamalı.",
+    "Yaprak orta damarları (beyaz saplar) gevrek ve diri olmalı."
+  ],
+  "besin": [],
+  "tarifler": [
+    "zeytinyagli_sevketibostan",
+    "haslanmis_ot_salatasi",
+    "yumurtali_ot_kavurmasi"
+  ]
+}

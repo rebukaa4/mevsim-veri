@@ -1,0 +1,47 @@
+{
+  "id": "can_erik",
+  "ad": "Can erik",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "İlkbaharda pazara gelen, ekşi ve çıtır yeşil erik; tuzla yenir.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "can_erik",
+  "aktif": true,
+  "enerji_kcal_100g": null,
+  "enerji_durum": null,
+  "enerji_kaynak_adi": null,
+  "enerji_kaynak_link": null,
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "can_erik__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "04-16",
+      "bit": "05-31",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024); Denizli İl Tarım ve Orman Müdürlüğü, Tarım Takvimi (Mayıs, Haziran, Ekim)",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Can erik halde yalnızca bu dönemde satılıyor."
+    }
+  ],
+  "secim_ipuclari": [
+    "Parlak yeşil, sert ve çıtır olanları seçin; sararmaya başlamış olanlar yumuşar.",
+    "Kabuğu pürüzsüz olsun; buruşuk, lekeli ya da ezik tane almayın.",
+    "Küçük ve orta boy taneler genelde daha çıtırdır."
+  ],
+  "besin": [],
+  "tarifler": [
+    "tuzlu_can_erik",
+    "can_erikli_salata"
+  ]
+}

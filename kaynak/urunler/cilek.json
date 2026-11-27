@@ -1,0 +1,74 @@
+{
+  "id": "cilek",
+  "ad": "Çilek",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "İlkbaharın ilk kırmızı meyvesi; Ege'de açık tarlada nisan ortasında olgunlaşır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "cilek",
+  "aktif": true,
+  "enerji_kcal_100g": 32,
+  "enerji_durum": "çiğ",
+  "enerji_kaynak_adi": "USDA FoodData Central — Strawberries, raw (FDC ID 167762, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/167762/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Yemeden hemen önce, sapıyla birlikte bol suda kısa süre yıkayın; sapı yıkadıktan sonra koparın (önce koparırsanız içine su çeker).",
+    "Buzdolabında yıkamadan, tek kat halinde saklayın ve 2–3 gün içinde tüketin."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "cilek__ege__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "hasat",
+      "bas": "04-15",
+      "bit": "06-30",
+      "kaynak_adi": "Tarım ve Orman Bakanlığı GKGM, \"Çilek\" el kitabı; Türk Patent coğrafi işaret tescili: Köprübaşı Çileği (No 943)",
+      "kaynak_link": "https://www.tarimorman.gov.tr/GKGM/Belgeler/Uretici_Bilgi_Kosesi/Dokumanlar/cilek.pdf",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "resmi",
+      "not": "Ege'de açık tarla çileği nisan ortasında olgunlaşır. Sera çileği kasım sonundan itibaren bulunur."
+    }
+  ],
+  "secim_ipuclari": [
+    "Yeşil sapı (çanak yaprakları) taze ve dik olsun; kurumuş sap eski üründür.",
+    "Rengi sap dibine kadar parlak kırmızı olmalı; beyaz kalan uçlar tam olgunlaşmamıştır.",
+    "Kabın dibine bakın: ezik, sulanmış ya da küflü tane varsa diğerleri de çabuk bozulur.",
+    "Kokusu belirgin ve tatlı olan çilek daha lezzetlidir."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir: 100 g'da 58,8 mg; günlük başvuru değerine oranı yaklaşık %73.",
+      "kaynak_adi": "USDA FoodData Central — Strawberries, raw (FDC ID 167762, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/167762/nutrients"
+    },
+    {
+      "ad": "Manganez",
+      "tur": "mineral",
+      "aciklama": "Manganez kaynağıdır: 100 g'da 0,39 mg; günlük başvuru değerine oranı yaklaşık %19.",
+      "kaynak_adi": "USDA FoodData Central — Strawberries, raw (FDC ID 167762, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/167762/nutrients"
+    },
+    {
+      "ad": "Su",
+      "tur": "diger",
+      "aciklama": "Su oranı yüksektir: 100 g'ının yaklaşık 91 g'ı sudur.",
+      "kaynak_adi": "USDA FoodData Central — Strawberries, raw (FDC ID 167762, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/167762/nutrients"
+    }
+  ],
+  "tarifler": [
+    "cilek_receli",
+    "cilekli_muhallebi",
+    "meyveli_yogurt_kasesi"
+  ]
+}

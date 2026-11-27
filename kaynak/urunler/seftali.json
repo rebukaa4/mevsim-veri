@@ -1,0 +1,57 @@
+{
+  "id": "seftali",
+  "ad": "Şeftali",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Tüylü kabuklu, sulu ve kokulu yaz meyvesi; Ege'de mayıs ortasından ağustosa kadar toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "seftali",
+  "aktif": true,
+  "enerji_kcal_100g": 39,
+  "enerji_durum": "çiğ, çekirdeksiz yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central — Peaches, yellow, raw (FDC ID 169928, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169928/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "seftali__ege__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "hasat",
+      "bas": "05-15",
+      "bit": "08-15",
+      "kaynak_adi": "Ercan & Özkarakaş 2003. ANADOLU J. of AARI 13(2):17–31 (Ege Tarımsal Araştırma Enstitüsü)",
+      "kaynak_link": "https://dergipark.org.tr/tr/download/article-file/20017",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "akademik",
+      "not": "Menemen'de şeftali hasadı; geç çeşitler ve iç bölge ürünü ekime kadar gelir."
+    }
+  ],
+  "secim_ipuclari": [
+    "Sap dibindeki zemin rengi yeşil değil, sarı-krem olmalı; yeşil zemin erken toplandığını gösterir.",
+    "Güzel, tatlı bir kokusu olmalı.",
+    "Avucunuzda hafifçe sıkınca az esneyen şeftali yemeye hazırdır; parmakla bastırmayın, çabuk ezilir.",
+    "Ezik ve kararmış lekeli olanları almayın."
+  ],
+  "besin": [
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum içerir: 100 g'da 190 mg; günlük başvuru değerine oranı yaklaşık %9.",
+      "kaynak_adi": "USDA FoodData Central — Peaches, yellow, raw (FDC ID 169928, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169928/nutrients"
+    }
+  ],
+  "tarifler": [
+    "meyveli_yogurt_kasesi",
+    "seftali_kompostosu",
+    "seftali_receli"
+  ]
+}

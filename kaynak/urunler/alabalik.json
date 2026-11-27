@@ -1,0 +1,69 @@
+{
+  "id": "alabalik",
+  "ad": "Alabalık (çiftlik)",
+  "diger_adlar": [],
+  "kategori_id": "balik_deniz",
+  "kisa_tanim": "Tatlı su çiftliklerinde yetiştirilen, yıl boyu bulunan çiftlik balığı.",
+  "uretim_sekli": "ciftlik",
+  "yil_boyu": true,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "alabalik",
+  "aktif": true,
+  "enerji_kcal_100g": 141,
+  "enerji_durum": "çiğ",
+  "enerji_kaynak_adi": "USDA FoodData Central — \"Fish, trout, rainbow, farmed, raw\" (FDC ID 173717)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/173717/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Karnını kuyruk altındaki delikten başa doğru yarın, iç organları çekip çıkarın; karın içindeki siyah zarı ve pıhtılaşmış kanı parmakla sıyırıp yıkayın.",
+    "Solungaçları makasla kesip atın (pişince acı tat verir).",
+    "Soğuk suyla durulayıp kâğıt havluyla kurulayın. Hemen pişirmeyecekseniz kapalı bir kapta buzdolabının en soğuk rafında tutun ve en geç ertesi gün pişirin.",
+    "Eti ortasına kadar beyazlaşıp çatalla kolayca ayrılana kadar pişirin; çiğ balığa değen tahta ve bıçağı sıcak sabunlu suyla yıkayın.",
+    "Alabalığın pulları çok incedir, kazımaya gerek yoktur."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak ve gıda güvenliği bilgisi; ayrı bir kaynakla doğrulanmadı)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [],
+  "secim_ipuclari": [
+    "Gözleri parlak, dolgun ve şeffaf olsun; içe çökmüş, buğulu gözlü balığı almayın.",
+    "Solungaç kapağını kaldırıp bakın: içi canlı kırmızı olmalı; kahverengi ya da griye dönmüşse balık bayattır.",
+    "Derisindeki benekler ve yanlarındaki pembe şerit canlı olmalı; deri kaygan ve parlak olmalı.",
+    "Parmakla bastırınca eti hemen eski hâline dönmeli; iz kalıyorsa taze değildir."
+  ],
+  "besin": [
+    {
+      "ad": "Protein",
+      "tur": "diger",
+      "aciklama": "100 gramında yaklaşık 20 g protein bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Fish, trout, rainbow, farmed, raw\" (FDC ID 173717)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173717/nutrients"
+    },
+    {
+      "ad": "D vitamini",
+      "tur": "vitamin",
+      "aciklama": "100 gramında yaklaşık 16 µg D vitamini bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Fish, trout, rainbow, farmed, raw\" (FDC ID 173717)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173717/nutrients"
+    },
+    {
+      "ad": "B12 vitamini",
+      "tur": "vitamin",
+      "aciklama": "100 gramında yaklaşık 4,3 µg B12 vitamini bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Fish, trout, rainbow, farmed, raw\" (FDC ID 173717)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173717/nutrients"
+    },
+    {
+      "ad": "Omega-3 (EPA ve DHA)",
+      "tur": "diger",
+      "aciklama": "100 gramında yaklaşık 0,7 g EPA ve DHA bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Fish, trout, rainbow, farmed, raw\" (FDC ID 173717)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173717/nutrients"
+    }
+  ],
+  "tarifler": [
+    "izgara_balik",
+    "firinda_patatesli_balik"
+  ]
+}

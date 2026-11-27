@@ -1,0 +1,61 @@
+{
+  "id": "mantar",
+  "ad": "Mantar (kültür)",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Yıl boyu bulunan kültür mantarı; sotesi ve fırını pek kolay.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "mantar",
+  "aktif": true,
+  "enerji_kcal_100g": 22,
+  "enerji_durum": "çiğ, yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Mushrooms, white, raw (FDC ID 169251)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169251/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Mantarı suda bekletmeyin; sünger gibi su çeker.",
+    "Nemli bir bezle silin ya da akan su altında hızlıca yıkayıp hemen kurulayın.",
+    "Sapın kurumuş ucunu kesin; büyükse dörde, küçükse ikiye bölün.",
+    "Bu bilgiler kültür mantarı içindir; doğadan toplanan mantarı uzman bilgisi olmadan yemeyin."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "mantar__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "01-01",
+      "bit": "12-31",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Kültür mantarı yıl boyu üretilir."
+    }
+  ],
+  "secim_ipuclari": [
+    "Şapkalar beyaz ya da açık krem, düzgün ve sıkı kapalı olsun.",
+    "Şapkanın altındaki ince yapraklar (lameller) fazla görünmemeli; açılmış ve kararmış mantar eskidir.",
+    "Kaygan, yapışkan ya da kahverengi lekeli olanları almayın.",
+    "Taze mantar hafif toprak kokar; ekşi kokan mantarı almayın."
+  ],
+  "besin": [
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum kaynağıdır (100 g'da 318 mg; günlük başvuru değerine oranı yaklaşık %16).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Mushrooms, white, raw (FDC ID 169251)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169251/nutrients"
+    }
+  ],
+  "tarifler": [
+    "mantar_sote",
+    "firinda_kasarli_mantar"
+  ]
+}

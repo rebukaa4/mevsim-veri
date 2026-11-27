@@ -1,0 +1,63 @@
+{
+  "id": "carliston_biber",
+  "ad": "Çarliston biber",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Açık yeşil, ince kabuklu biber; kızartması ve menemeni pek sevilir.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "carliston_biber",
+  "aktif": true,
+  "enerji_kcal_100g": 20,
+  "enerji_durum": "çiğ, yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Peppers, sweet, green, raw (FDC ID 170427)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170427/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "carliston_biber__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "06-01",
+      "bit": "10-31",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Ege'de tarladan gelen biber dönemi; mayıstaki ürün çoğunlukla seradandır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Açık sarımsı yeşil, parlak ve gergin kabuklu olanı seçin.",
+    "Sapı yeşil ve diri olsun.",
+    "Yumuşamış ya da kahverengi lekeli olanları almayın.",
+    "Acılığı değişebilir; satıcıya tatlı mı acı mı diye sorun."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir (100 g'da 80 mg; günlük başvuru değerini aşar).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Peppers, sweet, green, raw (FDC ID 170427)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170427/nutrients"
+    },
+    {
+      "ad": "B6 vitamini",
+      "tur": "vitamin",
+      "aciklama": "B6 vitamini kaynağıdır (100 g'da 0,2 mg; günlük başvuru değerine oranı yaklaşık %16).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Peppers, sweet, green, raw (FDC ID 170427)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170427/nutrients"
+    }
+  ],
+  "tarifler": [
+    "yogurtlu_biber_kizartmasi",
+    "menemen"
+  ]
+}

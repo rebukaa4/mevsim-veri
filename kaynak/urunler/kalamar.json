@@ -1,0 +1,77 @@
+{
+  "id": "kalamar",
+  "ad": "Kalamar",
+  "diger_adlar": [],
+  "kategori_id": "balik_deniz",
+  "kisa_tanim": "Bahar sonundan sonbahar sonuna kadar avlanan, halka hâlinde kızartılan deniz ürünü.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "kalamar",
+  "aktif": true,
+  "enerji_kcal_100g": 92,
+  "enerji_durum": "çiğ",
+  "enerji_kaynak_adi": "USDA FoodData Central — \"Mollusks, squid, mixed species, raw\" (FDC ID 174223)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/174223/nutrients",
+  "az_bilinen": true,
+  "tanitim": "Torpido biçimli, on kollu bir deniz canlısıdır; gövdesi (torba) ve kolları yenir. Tadı hafif ve tatlımsıdır, yağı çok azdır; ya çok kısa (2–3 dakika) ya da uzun ve kısık ateşte pişirilir, arası lastik gibi sertleştirir.",
+  "hazirlama_adimlari": [
+    "Kafayı ve kolları bir elinizle, gövdeyi öbür elinizle tutup yavaşça çekin; iç organlar kafayla birlikte çıkar.",
+    "Gövdenin içindeki şeffaf, plastik gibi kılçığı (kalem) çekip atın; içte kalan zarları parmakla sıyırıp suyla yıkayın.",
+    "Gövdedeki ince renkli zarı (deriyi) bir ucundan tutup soyun; yan kanatları da çekip soyabilirsiniz.",
+    "Kolları gözlerin hemen önünden kesin; kolların ortasındaki sert gagayı sıkıp çıkarın. Kafa, gözler ve mürekkep kesesi (gümüşi küçük torba) atılır; kese patlarsa mürekkep zararsızdır, sadece leke yapar.",
+    "Gövdeyi halka halka doğrayın, kâğıt havluyla iyice kurulayın.",
+    "Deniz ürününü güvendiğiniz bir balıkçıdan alın, eve gelince hemen buzdolabına koyun ve aynı gün pişirin."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak ve gıda güvenliği bilgisi; ayrı bir kaynakla doğrulanmadı)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "kalamar__ege__av__1",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "ege",
+      "donem_turu": "av",
+      "bas": "05-01",
+      "bit": "11-30",
+      "kaynak_adi": "Kınacıgil ve ark. (ed.) 2017, İzmir Balıkçılığı (Akyol, İzmir Körfezi balıklarının av takvimi), İzmir Büyükşehir Belediyesi",
+      "kaynak_link": "https://www.izmir.bel.tr:443/YuklenenDosyalar/Yayinlar/0_08022018_053047_izmir-balikciligi.pdf",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "akademik",
+      "not": "Halde yıl boyu satılıyor; bu dönem av takvimine göredir."
+    }
+  ],
+  "secim_ipuclari": [
+    "Gövdesi parlak, nemli ve dolgun olmalı; derisindeki benekler canlı olmalı.",
+    "Hafif deniz kokmalı; amonyak kokusu varsa almayın.",
+    "Gözleri parlak ve berrak olmalı.",
+    "Eti dokununca sıkı ve esnek olmalı, sulu ve gevşek olmamalı."
+  ],
+  "besin": [
+    {
+      "ad": "Protein",
+      "tur": "diger",
+      "aciklama": "100 gramında yaklaşık 16 g protein bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Mollusks, squid, mixed species, raw\" (FDC ID 174223)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/174223/nutrients"
+    },
+    {
+      "ad": "Selenyum",
+      "tur": "mineral",
+      "aciklama": "100 gramında yaklaşık 45 µg selenyum bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Mollusks, squid, mixed species, raw\" (FDC ID 174223)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/174223/nutrients"
+    },
+    {
+      "ad": "B12 vitamini",
+      "tur": "vitamin",
+      "aciklama": "100 gramında yaklaşık 1,3 µg B12 vitamini bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Mollusks, squid, mixed species, raw\" (FDC ID 174223)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/174223/nutrients"
+    }
+  ],
+  "tarifler": [
+    "kalamar_tava",
+    "kalamar_sote"
+  ]
+}

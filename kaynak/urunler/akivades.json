@@ -1,0 +1,77 @@
+{
+  "id": "akivades",
+  "ad": "Akivades",
+  "diger_adlar": [],
+  "kategori_id": "balik_deniz",
+  "kisa_tanim": "Eylül'den Mart sonuna kadar avlanan, kalın ve kabarık kabuklu bir midye türü.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "akivades",
+  "aktif": true,
+  "enerji_kcal_100g": 86,
+  "enerji_durum": "çiğ",
+  "enerji_kaynak_adi": "USDA FoodData Central — \"Mollusks, clam, mixed species, raw\" (FDC ID 174214)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/174214/nutrients",
+  "az_bilinen": true,
+  "tanitim": "Kum ve çakıllı dipte yaşayan, kabuğunda halka halka kabartılar olan bir kabuklu deniz ürünüdür; içi küçük, tatlı ve hafif tuzludur. Genellikle sarımsaklı buğulama ya da makarna yapılır. Halde satılmaz; balıkçı ve toplayıcılardan bulunur.",
+  "hazirlama_adimlari": [
+    "Yalnızca güvendiğiniz, kontrollü bölgeden toplanmış ürün satan balıkçıdan alın; kabuklu deniz ürünleri suyun temizliğinden doğrudan etkilenir.",
+    "Kabukları fırçayla ovarak soğuk suda birkaç kez yıkayın.",
+    "İçindeki kumu attırmak için tuzlu soğuk suda (1 litre suya 1 yemek kaşığı tuz) buzdolabında 1–2 saat bekletin, sonra durulayın.",
+    "Açık olup dokununca kapanmayanları ve kırık kabuklu olanları atın.",
+    "Kapaklı tencerede kabukları açılana kadar (6–8 dakika) pişirin; pişince açılmayanları atın, zorla açmayın.",
+    "Çiğ yemek yerine pişirerek tüketin; kabuklu deniz ürününü aynı gün pişirin."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak ve gıda güvenliği bilgisi; ayrı bir kaynakla doğrulanmadı)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "akivades__ege__av__1",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "ege",
+      "donem_turu": "av",
+      "bas": "09-01",
+      "bit": "03-31",
+      "kaynak_adi": "Kınacıgil ve ark. (ed.) 2017, İzmir Balıkçılığı (Akyol, İzmir Körfezi balıklarının av takvimi), İzmir Büyükşehir Belediyesi; Ticari Amaçlı Su Ürünleri Avcılığı Tebliği (No 2024/20), Resmî Gazete 11.08.2024, madde 28",
+      "kaynak_link": "https://www.izmir.bel.tr:443/YuklenenDosyalar/Yayinlar/0_08022018_053047_izmir-balikciligi.pdf",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "akademik",
+      "not": "Halde satılmıyor; doğrudan ihraç edilir ya da toplayıcıdan satılır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Canlı olmalı: kabukları sıkıca kapalı olmalı; hafif aralıksa parmakla dokunun, hemen kapanmalı.",
+    "Kabukları kırık ya da çatlak olanları almayın.",
+    "Elinize aldığınızda ağır ve dolu hissettirmeli; hafif ve boş sesi veriyorsa ölmüş olabilir.",
+    "Hafif deniz kokmalı; ağır koku varsa almayın."
+  ],
+  "besin": [
+    {
+      "ad": "Protein",
+      "tur": "diger",
+      "aciklama": "100 gramında yaklaşık 15 g protein bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Mollusks, clam, mixed species, raw\" (FDC ID 174214)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/174214/nutrients"
+    },
+    {
+      "ad": "B12 vitamini",
+      "tur": "vitamin",
+      "aciklama": "100 gramında yaklaşık 11 µg B12 vitamini bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Mollusks, clam, mixed species, raw\" (FDC ID 174214)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/174214/nutrients"
+    },
+    {
+      "ad": "Selenyum",
+      "tur": "mineral",
+      "aciklama": "100 gramında yaklaşık 31 µg selenyum bulunur.",
+      "kaynak_adi": "USDA FoodData Central — \"Mollusks, clam, mixed species, raw\" (FDC ID 174214)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/174214/nutrients"
+    }
+  ],
+  "tarifler": [
+    "akivades_bugulama",
+    "akivadesli_makarna"
+  ]
+}

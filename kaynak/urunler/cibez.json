@@ -1,0 +1,52 @@
+{
+  "id": "cibez",
+  "ad": "Cibez",
+  "diger_adlar": [],
+  "kategori_id": "ot",
+  "kisa_tanim": "Kesilen karnabahar ve lahananın yeniden verdiği körpe sürgünler; İzmir'e özgü bir kış yeşilliği.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "cibez",
+  "aktif": true,
+  "enerji_kcal_100g": null,
+  "enerji_durum": null,
+  "enerji_kaynak_adi": null,
+  "enerji_kaynak_link": null,
+  "az_bilinen": true,
+  "tanitim": "Cibez, hasattan sonra karnabahar ya da lahana kökünün yeniden verdiği körpe yaprak ve sürgünlerdir; yaprakları ve ince sapları yenir. Tadı lahana ile brokoli arası, hafif tatlı ve yeşil bir lezzettir.",
+  "hazirlama_adimlari": [
+    "Sert sapları ve sararmış yaprakları ayıklayın.",
+    "Bol suda yıkayın.",
+    "Kaynar tuzlu suda 5-8 dakika haşlayıp süzün.",
+    "Zeytinyağı ve limonla salata yapın ya da soğanla kavurun."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "cibez__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "12-01",
+      "bit": "04-30",
+      "kaynak_adi": "Yeni Asır 21.10.2026, cibez; Ertuğ F. 2004. Wild edible plants of the Bodrum area (Muğla, Turkey). Turk J Bot 28:161–174; Cumhuriyet/AA 11.01.2024, kışlık sebze",
+      "kaynak_link": "https://www.yeniasir.com.tr/yasam/2026/10/21/adini-duyan-sasiriyor-cibez-nedir-nasil-yapilir-izmirin-meshur-cibez-yemegi-nasil-yapilir",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Kesilen karnabahar ve lahananın yeniden verdiği sürgünlerdir; karnabahar hasadının ardından gelir."
+    }
+  ],
+  "secim_ipuclari": [
+    "Sürgünler körpe, ince saplı ve canlı yeşil olsun.",
+    "Sararmış, sarı çiçek açmış ya da sapları sertleşmiş olanları almayın.",
+    "Bükünce kırılan saplar tazedir."
+  ],
+  "besin": [],
+  "tarifler": [
+    "haslanmis_ot_salatasi",
+    "yumurtali_ot_kavurmasi"
+  ]
+}

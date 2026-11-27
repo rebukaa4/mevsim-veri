@@ -1,0 +1,74 @@
+{
+  "id": "semizotu_yabani",
+  "ad": "Semizotu (yabani)",
+  "diger_adlar": [],
+  "kategori_id": "ot",
+  "kisa_tanim": "Tarla kenarlarında kendiliğinden biten semizotu; ekili olanından daha küçük yapraklıdır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "semizotu_yabani",
+  "aktif": true,
+  "enerji_kcal_100g": 20,
+  "enerji_durum": "çiğ, yenebilir kısım",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Purslane, raw (FDC ID 169274)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169274/nutrients",
+  "az_bilinen": true,
+  "tanitim": "Yabani semizotu, ekili semizotuyla aynı bitkidir ama yere yayılarak büyür, yaprakları daha küçük ve sapları daha incedir. Etli yaprakları ve körpe sapları yenir; tadı hafif ekşimsi ve ferahtır.",
+  "hazirlama_adimlari": [
+    "Kökleri ve sert sap uçlarını kesin.",
+    "Yere yakın büyüdüğü için toprağı ve kumu çoktur; bol suda 4-5 kez yıkayın.",
+    "Süzüp iri doğrayın; salata ya da yemekte ekili semizotu gibi kullanın.",
+    "Yabani otları, bitkiyi iyi tanıyan pazar satıcılarından alın; tahminle doğadan toplamayın, benzer görünen zehirli bitkiler olabilir."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "semizotu_yabani__ege__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "hasat",
+      "bas": "06-01",
+      "bit": "07-31",
+      "kaynak_adi": "Yücel, Yücel Şengün ve Çoban 2012, Afyonkarahisar yabani yenen bitkileri (Biological Diversity and Conservation 5/2)",
+      "kaynak_link": "https://dergipark.org.tr/en/download/article-file/1191843",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "akademik",
+      "not": "İç Ege'de (Afyonkarahisar) yabani semizotu haziran – temmuzda toplanır. Kıyıdaki semizotu çoğunlukla ekilidir."
+    }
+  ],
+  "secim_ipuclari": [
+    "Yapraklar etli, parlak ve dolgun olsun.",
+    "Saplar gevrek olmalı; sertleşmiş, çiçeklenmiş bitkileri almayın.",
+    "Sölpük ya da sararmış demetleri almayın."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini kaynağıdır (100 g'da 21 mg; günlük başvuru değerine oranı yaklaşık %26).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Purslane, raw (FDC ID 169274)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169274/nutrients"
+    },
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum kaynağıdır (100 g'da 494 mg; günlük başvuru değerine oranı yaklaşık %25).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Purslane, raw (FDC ID 169274)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169274/nutrients"
+    },
+    {
+      "ad": "Magnezyum",
+      "tur": "mineral",
+      "aciklama": "Magnezyum kaynağıdır (100 g'da 68 mg; günlük başvuru değerine oranı yaklaşık %18).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Purslane, raw (FDC ID 169274)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169274/nutrients"
+    }
+  ],
+  "tarifler": [
+    "yogurtlu_semizotu",
+    "zeytinyagli_semizotu"
+  ]
+}

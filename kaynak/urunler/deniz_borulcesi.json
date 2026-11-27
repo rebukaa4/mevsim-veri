@@ -1,0 +1,54 @@
+{
+  "id": "deniz_borulcesi",
+  "ad": "Deniz börülcesi",
+  "diger_adlar": [],
+  "kategori_id": "ot",
+  "kisa_tanim": "Tuzlu kıyılarda yetişen, kendisi tuzlu yeşil filizler; zeytinyağlı mezesi çok sevilir.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "deniz_borulcesi",
+  "aktif": true,
+  "enerji_kcal_100g": null,
+  "enerji_durum": null,
+  "enerji_kaynak_adi": null,
+  "enerji_kaynak_link": null,
+  "az_bilinen": true,
+  "tanitim": "Deniz börülcesi, deniz kıyısındaki tuzlu topraklarda yetişen, yapraksız, boğum boğum yeşil filizleri olan bir bitkidir. Doğal olarak tuzludur ve çıtırdır; haşlandıktan sonra ortadaki sert damardan ayrılan yeşil eti yenir.",
+  "hazirlama_adimlari": [
+    "Kök ve sertleşmiş alt kısımları kesin; bol suda yıkayıp kumunu iyice giderin.",
+    "Kaynar suda tuz atmadan 5-10 dakika haşlayın; kendisi zaten tuzludur.",
+    "Süzüp soğuk suya alın; rengi canlı kalır.",
+    "Her filizi alt ucundan tutup iki parmağınızın arasından yukarı doğru çekin; yeşil et sıyrılır, ortadaki odunsu damar elinizde kalır. Damarı atın.",
+    "Hiç tuz eklemeden sarımsak, zeytinyağı ve limonla tatlandırın."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "deniz_borulcesi__ege__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "hasat",
+      "bas": "05-01",
+      "bit": "08-31",
+      "kaynak_adi": "Bilek S.E., Özbey Ü., Yurdagel Ü. 2014. GIDA 39(6):347–354",
+      "kaynak_link": "https://dergipark.org.tr/en/download/article-file/79226",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "akademik",
+      "not": "Halde yıl boyu görülür (ekili ya da depolanmış olabilir); en ucuz ekim – kasım başı."
+    }
+  ],
+  "secim_ipuclari": [
+    "Filizler canlı yeşil, dolgun ve diri olsun.",
+    "Sararmış, kızarmış ya da sölpük olanları almayın.",
+    "İnce ve körpe filizlerin ortasındaki sert damar daha az gelişmiştir.",
+    "Koklayın: deniz kokusu olmalı, ekşi ya da çürük kokmamalı."
+  ],
+  "besin": [],
+  "tarifler": [
+    "deniz_borulcesi_salatasi",
+    "yogurtlu_deniz_borulcesi"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "yabani_kuskonmaz",
+  "ad": "Yabani kuşkonmaz (tilkişen)",
+  "diger_adlar": [],
+  "kategori_id": "ot",
+  "kisa_tanim": "Baharda çalıların arasından çıkan ince yeşil filizler; yumurtalısı pek meşhurdur.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "yabani_kuskonmaz",
+  "aktif": true,
+  "enerji_kcal_100g": null,
+  "enerji_durum": null,
+  "enerji_kaynak_adi": null,
+  "enerji_kaynak_link": null,
+  "az_bilinen": true,
+  "tanitim": "Yabani kuşkonmaz (tilkişen), dikenli bir çalının baharda verdiği ince, yeşil körpe filizleridir; yalnızca filizlerin kolayca kırılan yumuşak uç kısmı yenir. Tadı kültür kuşkonmazından daha yoğun, hafif acımsı ve otsudur.",
+  "hazirlama_adimlari": [
+    "Her filizi iki elinizle tutup alt ucundan bükün; kendiliğinden kırıldığı yerden aşağısı serttir, atın.",
+    "Kalan körpe uçları yıkayıp 2-3 cm boyunda doğrayın.",
+    "Acılığını azaltmak isterseniz kaynar suda 1-2 dakika haşlayıp süzün.",
+    "Yumurtalı kavurma ya da zeytinyağlı salata için kullanın.",
+    "Yabani otları, bitkiyi iyi tanıyan pazar satıcılarından alın; tahminle doğadan toplamayın, benzer görünen zehirli bitkiler olabilir."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "yabani_kuskonmaz__ege__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "hasat",
+      "bas": "01-01",
+      "bit": "05-31",
+      "kaynak_adi": "Ertuğ F. 2004. Wild edible plants of the Bodrum area (Muğla, Turkey). Turk J Bot 28:161–174",
+      "kaynak_link": "https://journals.tubitak.gov.tr/botany/vol28/iss1/16",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "akademik",
+      "not": "Bodrum'da \"tilkişen\" denir."
+    }
+  ],
+  "secim_ipuclari": [
+    "Filizler ince, koyu yeşil ve diri olsun; uçları sıkı kapalı olmalı.",
+    "Uçları açılmış, dallanmış ya da kurumuş filizleri almayın.",
+    "Bükünce kolayca kırılan filizler körpedir."
+  ],
+  "besin": [],
+  "tarifler": [
+    "kuskonmazli_yumurta",
+    "haslanmis_ot_salatasi"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "firin_elma",
+  "baslik": "Fırında cevizli elma",
+  "malzemeler": [
+    "4 elma",
+    "4 yemek kaşığı kırılmış ceviz",
+    "2 yemek kaşığı toz şeker ya da bal",
+    "1 çay kaşığı tarçın",
+    "1 yemek kaşığı tereyağı",
+    "Yarım su bardağı su"
+  ],
+  "adimlar": [
+    "Elmaları yıkayıp ikiye bölün, çekirdek yatağını kaşıkla oyun.",
+    "Ceviz, şeker ve tarçını karıştırıp oyuklara doldurun, üzerine birer parça tereyağı koyun.",
+    "Fırın kabına dizip dibine suyu dökün.",
+    "180 °C fırında elmalar yumuşayana kadar 25–30 dakika pişirin."
+  ],
+  "kaynak_adi": "Mevsim ekibi (özgün tarif)"
+}

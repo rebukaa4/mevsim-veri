@@ -1,0 +1,63 @@
+{
+  "id": "mezgit",
+  "ad": "Mezgit",
+  "diger_adlar": [],
+  "kategori_id": "balik_deniz",
+  "kisa_tanim": "Kış aylarında bulunan, yumuşak ve çok az yağlı beyaz etli balık.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "mezgit",
+  "aktif": true,
+  "enerji_kcal_100g": 79,
+  "enerji_durum": "çiğ",
+  "enerji_kaynak_adi": "Kocatepe D., Altan C.O., Turan H. 2019. Ukrainian Food Journal 8(3) — Karadeniz mezgidi, Aralık–Mayıs aylık bileşim",
+  "enerji_kaynak_link": "https://doi.org/10.24263/2304-974X-2019-8-3-5",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Pulları kuyruktan başa doğru bıçağın sırtıyla kazıyın; bunu dolu bir leğende ya da poşetin içinde yaparsanız pullar etrafa sıçramaz.",
+    "Karnını kuyruk altındaki delikten başa doğru yarın, iç organları çekip çıkarın; karın içindeki siyah zarı ve pıhtılaşmış kanı parmakla sıyırıp yıkayın.",
+    "Solungaçları makasla kesip atın (pişince acı tat verir).",
+    "Soğuk suyla durulayıp kâğıt havluyla kurulayın. Hemen pişirmeyecekseniz kapalı bir kapta buzdolabının en soğuk rafında tutun ve en geç ertesi gün pişirin.",
+    "Eti ortasına kadar beyazlaşıp çatalla kolayca ayrılana kadar pişirin; çiğ balığa değen tahta ve bıçağı sıcak sabunlu suyla yıkayın."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak ve gıda güvenliği bilgisi; ayrı bir kaynakla doğrulanmadı)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "mezgit__ege__pazar_yogun__1",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "12-01",
+      "bit": "03-15",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, balık hal fiyatları açık verisi (2019, 2021–2024)",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/balik-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Halde en düzenli aralık – mart ortası arasında; Karadeniz'den gelmiş olabilir."
+    }
+  ],
+  "secim_ipuclari": [
+    "Gözleri parlak, dolgun ve şeffaf olsun; içe çökmüş, buğulu gözlü balığı almayın.",
+    "Eti yumuşak bir balıktır ama bastırınca dağılmamalı.",
+    "Solungaç kapağını kaldırıp bakın: içi canlı kırmızı olmalı; kahverengi ya da griye dönmüşse balık bayattır.",
+    "Hafif deniz ve yosun kokmalı; ağır, ekşi ya da amonyak gibi koku bayatlık işaretidir."
+  ],
+  "besin": [
+    {
+      "ad": "Protein",
+      "tur": "diger",
+      "aciklama": "Karadeniz mezgidinde 100 gramında aylara göre yaklaşık 16–19 g protein ölçülmüştür.",
+      "kaynak_adi": "Kocatepe D., Altan C.O., Turan H. 2019. Ukrainian Food Journal 8(3) — Karadeniz mezgidi, Aralık–Mayıs aylık bileşim",
+      "kaynak_link": "https://doi.org/10.24263/2304-974X-2019-8-3-5"
+    }
+  ],
+  "tarifler": [
+    "unlu_tava_balik",
+    "sebzeli_balik_bugulama",
+    "balik_corbasi"
+  ]
+}

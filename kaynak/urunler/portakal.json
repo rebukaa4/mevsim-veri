@@ -1,0 +1,64 @@
+{
+  "id": "portakal",
+  "ad": "Portakal",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Kışın en bilinen meyvesi; Washington (göbekli) portakal kasımdan nisana kadar bulunur.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "portakal",
+  "aktif": true,
+  "enerji_kcal_100g": 47,
+  "enerji_durum": "çiğ, kabuksuz",
+  "enerji_kaynak_adi": "USDA FoodData Central — Oranges, raw, all commercial varieties (FDC ID 169097, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169097/nutrients",
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "portakal__ege__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "pazar_yogun",
+      "bas": "11-01",
+      "bit": "04-30",
+      "kaynak_adi": "İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Kışlık Washington portakalı; halde satılanın bir kısmı Akdeniz ürünüdür."
+    }
+  ],
+  "secim_ipuclari": [
+    "Boyuna göre ağır olsun; ağır portakal daha sulu demektir.",
+    "Kabuğu ince ve pürüzsüz olanlar genelde daha sulu çıkar.",
+    "Yumuşak, küflü ya da buruşmuş bölgesi olmamalı.",
+    "Kabuk rengi olgunluğu her zaman göstermez; biraz yeşillik kalmış portakal da tatlı olabilir."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir: 100 g'da 53,2 mg; günlük başvuru değerine oranı yaklaşık %66.",
+      "kaynak_adi": "USDA FoodData Central — Oranges, raw, all commercial varieties (FDC ID 169097, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169097/nutrients"
+    },
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat kaynağıdır: 100 g'da 30 µg; günlük başvuru değerine oranı yaklaşık %15.",
+      "kaynak_adi": "USDA FoodData Central — Oranges, raw, all commercial varieties (FDC ID 169097, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169097/nutrients"
+    }
+  ],
+  "tarifler": [
+    "narenciye_salatasi",
+    "portakalli_kek",
+    "havuclu_portakalli_salata"
+  ]
+}
