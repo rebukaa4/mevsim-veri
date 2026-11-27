@@ -46,7 +46,7 @@ ENERJI_DUZELT = {
 TARIF_ALANLARI = ("id", "baslik", "malzemeler", "adimlar", "kaynak_adi")
 BESIN_ALANLARI = ("ad", "tur", "aciklama", "kaynak_adi", "kaynak_link")
 KABUL_DURUM = ("kullanılabilir", "geliştirilebilir")
-YASAK_METIN = re.compile(r"K-(?:CI|HAL|R|A|H)\d|Burak|@[a-z0-9-]+\.[a-z]", re.I)
+YASAK_METIN = re.compile(r"K-(?:CI|HAL|R|A|H)\d|[a-z0-9._-]+@[a-z0-9-]+\.[a-z]{2,}", re.I)
 
 
 def json_oku(yol: Path):
