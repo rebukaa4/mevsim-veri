@@ -1,0 +1,26 @@
+# Her Pull Request'te: testler + derle + doğrula. Hata varsa PR kırmızı olur.
+name: PR kontrolü
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  kontrol:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - name: Derleyici testleri
+        run: python -m unittest discover -s testler -v
+      - name: Şu an yayındaki dosyayı al (karşılaştırma için)
+        run: curl -fsSL -o onceki.json https://rebukaa4.github.io/mevsim-veri/v1/mevsim_veri.json || rm -f onceki.json
+      - name: Veriyi doğrula
+        run: python araclar/derle.py --kontrol --veri-surumu "$(git rev-list --count HEAD)" --onceki onceki.json

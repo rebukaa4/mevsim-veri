@@ -1,0 +1,47 @@
+# main'e her birleştirmede: derle + doğrula + GitHub Pages'e yayınla.
+name: Yayınla
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  derle:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - name: Derleyici testleri
+        run: python -m unittest discover -s testler -v
+      - name: Şu an yayındaki dosyayı al (karşılaştırma için)
+        run: curl -fsSL -o onceki.json https://rebukaa4.github.io/mevsim-veri/v1/mevsim_veri.json || rm -f onceki.json
+      - name: Derle ve doğrula
+        run: python araclar/derle.py --cikti yayin --veri-surumu "$(git rev-list --count HEAD)" --onceki onceki.json
+      - uses: actions/configure-pages@v6
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: yayin
+
+  yayinla:
+    needs: derle
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.dagit.outputs.page_url }}
+    steps:
+      - id: dagit
+        uses: actions/deploy-pages@v5
