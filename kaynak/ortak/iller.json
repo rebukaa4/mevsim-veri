@@ -1,0 +1,488 @@
+[
+  {
+    "id": "01",
+    "ad": "Adana",
+    "bolge_id": "akdeniz",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "02",
+    "ad": "Adıyaman",
+    "bolge_id": "guneydogu_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "03",
+    "ad": "Afyonkarahisar",
+    "bolge_id": "ege",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "04",
+    "ad": "Ağrı",
+    "bolge_id": "dogu_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "05",
+    "ad": "Amasya",
+    "bolge_id": "karadeniz",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "06",
+    "ad": "Ankara",
+    "bolge_id": "ic_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "07",
+    "ad": "Antalya",
+    "bolge_id": "akdeniz",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "08",
+    "ad": "Artvin",
+    "bolge_id": "karadeniz",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "09",
+    "ad": "Aydın",
+    "bolge_id": "ege",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "10",
+    "ad": "Balıkesir",
+    "bolge_id": "marmara",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "11",
+    "ad": "Bilecik",
+    "bolge_id": "marmara",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "12",
+    "ad": "Bingöl",
+    "bolge_id": "dogu_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "13",
+    "ad": "Bitlis",
+    "bolge_id": "dogu_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "14",
+    "ad": "Bolu",
+    "bolge_id": "karadeniz",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "15",
+    "ad": "Burdur",
+    "bolge_id": "akdeniz",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "16",
+    "ad": "Bursa",
+    "bolge_id": "marmara",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "17",
+    "ad": "Çanakkale",
+    "bolge_id": "marmara",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "18",
+    "ad": "Çankırı",
+    "bolge_id": "ic_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "19",
+    "ad": "Çorum",
+    "bolge_id": "karadeniz",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "20",
+    "ad": "Denizli",
+    "bolge_id": "ege",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "21",
+    "ad": "Diyarbakır",
+    "bolge_id": "guneydogu_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "22",
+    "ad": "Edirne",
+    "bolge_id": "marmara",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "23",
+    "ad": "Elazığ",
+    "bolge_id": "dogu_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "24",
+    "ad": "Erzincan",
+    "bolge_id": "dogu_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "25",
+    "ad": "Erzurum",
+    "bolge_id": "dogu_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "26",
+    "ad": "Eskişehir",
+    "bolge_id": "ic_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "27",
+    "ad": "Gaziantep",
+    "bolge_id": "guneydogu_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "28",
+    "ad": "Giresun",
+    "bolge_id": "karadeniz",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "29",
+    "ad": "Gümüşhane",
+    "bolge_id": "karadeniz",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "30",
+    "ad": "Hakkari",
+    "bolge_id": "dogu_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "31",
+    "ad": "Hatay",
+    "bolge_id": "akdeniz",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "32",
+    "ad": "Isparta",
+    "bolge_id": "akdeniz",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "33",
+    "ad": "Mersin",
+    "bolge_id": "akdeniz",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "34",
+    "ad": "İstanbul",
+    "bolge_id": "marmara",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "35",
+    "ad": "İzmir",
+    "bolge_id": "ege",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "36",
+    "ad": "Kars",
+    "bolge_id": "dogu_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "37",
+    "ad": "Kastamonu",
+    "bolge_id": "karadeniz",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "38",
+    "ad": "Kayseri",
+    "bolge_id": "ic_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "39",
+    "ad": "Kırklareli",
+    "bolge_id": "marmara",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "40",
+    "ad": "Kırşehir",
+    "bolge_id": "ic_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "41",
+    "ad": "Kocaeli",
+    "bolge_id": "marmara",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "42",
+    "ad": "Konya",
+    "bolge_id": "ic_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "43",
+    "ad": "Kütahya",
+    "bolge_id": "ege",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "44",
+    "ad": "Malatya",
+    "bolge_id": "dogu_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "45",
+    "ad": "Manisa",
+    "bolge_id": "ege",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "46",
+    "ad": "Kahramanmaraş",
+    "bolge_id": "akdeniz",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "47",
+    "ad": "Mardin",
+    "bolge_id": "guneydogu_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "48",
+    "ad": "Muğla",
+    "bolge_id": "ege",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "49",
+    "ad": "Muş",
+    "bolge_id": "dogu_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "50",
+    "ad": "Nevşehir",
+    "bolge_id": "ic_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "51",
+    "ad": "Niğde",
+    "bolge_id": "ic_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "52",
+    "ad": "Ordu",
+    "bolge_id": "karadeniz",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "53",
+    "ad": "Rize",
+    "bolge_id": "karadeniz",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "54",
+    "ad": "Sakarya",
+    "bolge_id": "marmara",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "55",
+    "ad": "Samsun",
+    "bolge_id": "karadeniz",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "56",
+    "ad": "Siirt",
+    "bolge_id": "guneydogu_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "57",
+    "ad": "Sinop",
+    "bolge_id": "karadeniz",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "58",
+    "ad": "Sivas",
+    "bolge_id": "ic_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "59",
+    "ad": "Tekirdağ",
+    "bolge_id": "marmara",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "60",
+    "ad": "Tokat",
+    "bolge_id": "karadeniz",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "61",
+    "ad": "Trabzon",
+    "bolge_id": "karadeniz",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "62",
+    "ad": "Tunceli",
+    "bolge_id": "dogu_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "63",
+    "ad": "Şanlıurfa",
+    "bolge_id": "guneydogu_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "64",
+    "ad": "Uşak",
+    "bolge_id": "ege",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "65",
+    "ad": "Van",
+    "bolge_id": "dogu_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "66",
+    "ad": "Yozgat",
+    "bolge_id": "ic_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "67",
+    "ad": "Zonguldak",
+    "bolge_id": "karadeniz",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "68",
+    "ad": "Aksaray",
+    "bolge_id": "ic_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "69",
+    "ad": "Bayburt",
+    "bolge_id": "karadeniz",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "70",
+    "ad": "Karaman",
+    "bolge_id": "ic_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "71",
+    "ad": "Kırıkkale",
+    "bolge_id": "ic_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "72",
+    "ad": "Batman",
+    "bolge_id": "guneydogu_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "73",
+    "ad": "Şırnak",
+    "bolge_id": "guneydogu_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "74",
+    "ad": "Bartın",
+    "bolge_id": "karadeniz",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "75",
+    "ad": "Ardahan",
+    "bolge_id": "dogu_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "76",
+    "ad": "Iğdır",
+    "bolge_id": "dogu_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "77",
+    "ad": "Yalova",
+    "bolge_id": "marmara",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "78",
+    "ad": "Karabük",
+    "bolge_id": "karadeniz",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "79",
+    "ad": "Kilis",
+    "bolge_id": "guneydogu_anadolu",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "80",
+    "ad": "Osmaniye",
+    "bolge_id": "akdeniz",
+    "alt_bolge_id": null
+  },
+  {
+    "id": "81",
+    "ad": "Düzce",
+    "bolge_id": "karadeniz",
+    "alt_bolge_id": null
+  }
+]

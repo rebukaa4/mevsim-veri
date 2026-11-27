@@ -1,0 +1,32 @@
+[
+  {
+    "bolge_id": "marmara",
+    "deniz_id": "marmara",
+    "oncelik": 1
+  },
+  {
+    "bolge_id": "marmara",
+    "deniz_id": "karadeniz",
+    "oncelik": 2
+  },
+  {
+    "bolge_id": "marmara",
+    "deniz_id": "ege",
+    "oncelik": 3
+  },
+  {
+    "bolge_id": "ege",
+    "deniz_id": "ege",
+    "oncelik": 1
+  },
+  {
+    "bolge_id": "akdeniz",
+    "deniz_id": "akdeniz",
+    "oncelik": 1
+  },
+  {
+    "bolge_id": "karadeniz",
+    "deniz_id": "karadeniz",
+    "oncelik": 1
+  }
+]

@@ -1,0 +1,9 @@
+# Derleme çıktısı (GitHub Actions üretir ve Pages'e yayınlar)
+/yayin/
+onceki.json
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+Thumbs.db

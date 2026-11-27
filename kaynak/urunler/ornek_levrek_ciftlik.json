@@ -1,0 +1,13 @@
+{
+  "id": "ornek_levrek_ciftlik",
+  "ad": "Levrek, çiftlik (ÖRNEK)",
+  "diger_adlar": [],
+  "kategori_id": "balik_deniz",
+  "kisa_tanim": "ÖRNEK KAYIT: çiftlik balığı, yıl boyu bulunur; mevsim kaydı yoktur.",
+  "uretim_sekli": "ciftlik",
+  "yil_boyu": true,
+  "ilgili_urun_id": null,
+  "aktif": true,
+  "mevsimler": [],
+  "tarifler": []
+}

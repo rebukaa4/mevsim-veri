@@ -1,0 +1,37 @@
+[
+  {
+    "id": "marmara",
+    "ad": "Marmara",
+    "sira": 1
+  },
+  {
+    "id": "ege",
+    "ad": "Ege",
+    "sira": 2
+  },
+  {
+    "id": "akdeniz",
+    "ad": "Akdeniz",
+    "sira": 3
+  },
+  {
+    "id": "ic_anadolu",
+    "ad": "İç Anadolu",
+    "sira": 4
+  },
+  {
+    "id": "karadeniz",
+    "ad": "Karadeniz",
+    "sira": 5
+  },
+  {
+    "id": "dogu_anadolu",
+    "ad": "Doğu Anadolu",
+    "sira": 6
+  },
+  {
+    "id": "guneydogu_anadolu",
+    "ad": "Güneydoğu Anadolu",
+    "sira": 7
+  }
+]

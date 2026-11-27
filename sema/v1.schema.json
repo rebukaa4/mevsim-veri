@@ -1,0 +1,177 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://rebukaa4.github.io/mevsim-veri/sema/v1.schema.json",
+  "title": "Mevsim yayın dosyası (şema sürümü 1)",
+  "description": "yayin/v1/mevsim_veri.json biçimi. Yalnızca type, const, enum, required, properties, additionalProperties, items, pattern, minimum, maximum, minLength, minItems ve #/$defs/... başvuruları kullanılır (araclar/derle.py içindeki yalın doğrulayıcı bu alt kümeyi uygular). Başvuru bütünlüğü ve iş kuralları derle.py içindedir.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["sema_surumu", "veri_surumu", "yayin_tarihi", "kategoriler", "bolgeler", "alt_bolgeler", "iller", "denizler", "bolge_deniz", "il_deniz", "gorseller", "urunler", "tarifler", "yil_notlari"],
+  "properties": {
+    "sema_surumu": {"const": 1},
+    "veri_surumu": {"type": "integer", "minimum": 1},
+    "yayin_tarihi": {"type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}[+-]\\d{2}:\\d{2}$"},
+    "kategoriler": {"type": "array", "items": {"$ref": "#/$defs/kategori"}},
+    "bolgeler": {"type": "array", "items": {"$ref": "#/$defs/bolge"}},
+    "alt_bolgeler": {"type": "array", "items": {"$ref": "#/$defs/alt_bolge"}},
+    "iller": {"type": "array", "items": {"$ref": "#/$defs/il"}},
+    "denizler": {"type": "array", "items": {"$ref": "#/$defs/deniz"}},
+    "bolge_deniz": {"type": "array", "items": {"$ref": "#/$defs/bolge_deniz"}},
+    "il_deniz": {"type": "array", "items": {"$ref": "#/$defs/il_deniz"}},
+    "gorseller": {"type": "array", "items": {"$ref": "#/$defs/gorsel"}},
+    "urunler": {"type": "array", "items": {"$ref": "#/$defs/urun"}},
+    "tarifler": {"type": "array", "items": {"$ref": "#/$defs/tarif"}},
+    "yil_notlari": {"type": "array", "items": {"$ref": "#/$defs/yil_notu"}}
+  },
+  "$defs": {
+    "kimlik": {"type": "string", "pattern": "^[a-z0-9_]+$"},
+    "il_kimlik": {"type": "string", "pattern": "^(0[1-9]|[1-7][0-9]|8[01])$"},
+    "metin": {"type": "string", "minLength": 1},
+    "metin_bos": {"type": ["string", "null"], "minLength": 1},
+    "link_bos": {"type": ["string", "null"], "pattern": "^https?://"},
+    "tarih": {"type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$"},
+    "gun_ay": {"type": "string", "pattern": "^(0[1-9]|1[0-2])-(0[1-9]|[12][0-9]|3[01])$"},
+    "kapsam_turu": {"enum": ["bolge", "alt_bolge", "il", "deniz"]},
+    "metin_dizisi": {"type": "array", "items": {"$ref": "#/$defs/metin"}},
+
+    "kategori": {
+      "type": "object", "additionalProperties": false,
+      "required": ["id", "ad", "sira"],
+      "properties": {"id": {"$ref": "#/$defs/kimlik"}, "ad": {"$ref": "#/$defs/metin"}, "sira": {"type": "integer"}}
+    },
+    "bolge": {
+      "type": "object", "additionalProperties": false,
+      "required": ["id", "ad", "sira"],
+      "properties": {"id": {"$ref": "#/$defs/kimlik"}, "ad": {"$ref": "#/$defs/metin"}, "sira": {"type": "integer"}}
+    },
+    "alt_bolge": {
+      "type": "object", "additionalProperties": false,
+      "required": ["id", "bolge_id", "ad", "aciklama"],
+      "properties": {"id": {"$ref": "#/$defs/kimlik"}, "bolge_id": {"$ref": "#/$defs/kimlik"}, "ad": {"$ref": "#/$defs/metin"}, "aciklama": {"$ref": "#/$defs/metin_bos"}}
+    },
+    "il": {
+      "type": "object", "additionalProperties": false,
+      "required": ["id", "ad", "bolge_id", "alt_bolge_id"],
+      "properties": {
+        "id": {"$ref": "#/$defs/il_kimlik"}, "ad": {"$ref": "#/$defs/metin"},
+        "bolge_id": {"$ref": "#/$defs/kimlik"},
+        "alt_bolge_id": {"type": ["string", "null"], "pattern": "^[a-z0-9_]+$"}
+      }
+    },
+    "deniz": {
+      "type": "object", "additionalProperties": false,
+      "required": ["id", "ad", "sira"],
+      "properties": {"id": {"$ref": "#/$defs/kimlik"}, "ad": {"$ref": "#/$defs/metin"}, "sira": {"type": "integer"}}
+    },
+    "bolge_deniz": {
+      "type": "object", "additionalProperties": false,
+      "required": ["bolge_id", "deniz_id", "oncelik"],
+      "properties": {"bolge_id": {"$ref": "#/$defs/kimlik"}, "deniz_id": {"$ref": "#/$defs/kimlik"}, "oncelik": {"type": "integer", "minimum": 1}}
+    },
+    "il_deniz": {
+      "type": "object", "additionalProperties": false,
+      "required": ["il_id", "deniz_id", "oncelik"],
+      "properties": {"il_id": {"$ref": "#/$defs/il_kimlik"}, "deniz_id": {"$ref": "#/$defs/kimlik"}, "oncelik": {"type": "integer", "minimum": 1}}
+    },
+    "gorsel": {
+      "type": "object", "additionalProperties": false,
+      "required": ["id", "kaynak_adi", "kaynak_link", "yazar", "lisans", "lisans_link", "duzenleme_notu"],
+      "properties": {
+        "id": {"$ref": "#/$defs/kimlik"}, "kaynak_adi": {"$ref": "#/$defs/metin"},
+        "kaynak_link": {"$ref": "#/$defs/link_bos"}, "yazar": {"$ref": "#/$defs/metin_bos"},
+        "lisans": {"$ref": "#/$defs/metin"}, "lisans_link": {"$ref": "#/$defs/link_bos"},
+        "duzenleme_notu": {"$ref": "#/$defs/metin_bos"}
+      }
+    },
+    "mevsim": {
+      "type": "object", "additionalProperties": false,
+      "required": ["id", "kapsam_turu", "kapsam_id", "donem_turu", "bas", "bit", "kaynak_adi", "kaynak_link", "arastirma_tarihi", "guven", "not"],
+      "properties": {
+        "id": {"$ref": "#/$defs/kimlik"},
+        "kapsam_turu": {"$ref": "#/$defs/kapsam_turu"},
+        "kapsam_id": {"type": "string", "pattern": "^[a-z0-9_]+$"},
+        "donem_turu": {"enum": ["hasat", "av", "pazar_yogun", "depo"]},
+        "bas": {"$ref": "#/$defs/gun_ay"},
+        "bit": {"$ref": "#/$defs/gun_ay"},
+        "kaynak_adi": {"$ref": "#/$defs/metin"},
+        "kaynak_link": {"$ref": "#/$defs/link_bos"},
+        "arastirma_tarihi": {"$ref": "#/$defs/tarih"},
+        "guven": {"enum": ["resmi", "akademik", "tahmini"]},
+        "not": {"$ref": "#/$defs/metin_bos"}
+      }
+    },
+    "besin": {
+      "type": "object", "additionalProperties": false,
+      "required": ["ad", "tur", "aciklama", "kaynak_adi", "kaynak_link"],
+      "properties": {
+        "ad": {"$ref": "#/$defs/metin"},
+        "tur": {"enum": ["vitamin", "mineral", "diger"]},
+        "aciklama": {"$ref": "#/$defs/metin_bos"},
+        "kaynak_adi": {"$ref": "#/$defs/metin_bos"},
+        "kaynak_link": {"$ref": "#/$defs/link_bos"}
+      }
+    },
+    "urun": {
+      "type": "object", "additionalProperties": false,
+      "required": ["id", "ad", "diger_adlar", "kategori_id", "kisa_tanim", "uretim_sekli", "yil_boyu", "ilgili_urun_id", "yoresel_il_id", "gorsel_id", "aktif",
+                   "enerji_kcal_100g", "enerji_durum", "enerji_kaynak_adi", "enerji_kaynak_link",
+                   "az_bilinen", "tanitim", "hazirlama_adimlari", "hazirlama_kaynak_adi", "hazirlama_kaynak_link",
+                   "mevsimler", "secim_ipuclari", "besin", "tarifler"],
+      "properties": {
+        "id": {"$ref": "#/$defs/kimlik"},
+        "ad": {"$ref": "#/$defs/metin"},
+        "diger_adlar": {"$ref": "#/$defs/metin_dizisi"},
+        "kategori_id": {"$ref": "#/$defs/kimlik"},
+        "kisa_tanim": {"$ref": "#/$defs/metin_bos"},
+        "uretim_sekli": {"enum": ["dogal", "ciftlik"]},
+        "yil_boyu": {"type": "boolean"},
+        "ilgili_urun_id": {"type": ["string", "null"], "pattern": "^[a-z0-9_]+$"},
+        "yoresel_il_id": {"type": ["string", "null"], "pattern": "^(0[1-9]|[1-7][0-9]|8[01])$"},
+        "gorsel_id": {"type": ["string", "null"], "pattern": "^[a-z0-9_]+$"},
+        "aktif": {"type": "boolean"},
+        "enerji_kcal_100g": {"type": ["integer", "null"], "minimum": 0, "maximum": 900},
+        "enerji_durum": {"$ref": "#/$defs/metin_bos"},
+        "enerji_kaynak_adi": {"$ref": "#/$defs/metin_bos"},
+        "enerji_kaynak_link": {"$ref": "#/$defs/link_bos"},
+        "az_bilinen": {"type": "boolean"},
+        "tanitim": {"$ref": "#/$defs/metin_bos"},
+        "hazirlama_adimlari": {"$ref": "#/$defs/metin_dizisi"},
+        "hazirlama_kaynak_adi": {"$ref": "#/$defs/metin_bos"},
+        "hazirlama_kaynak_link": {"$ref": "#/$defs/link_bos"},
+        "mevsimler": {"type": "array", "items": {"$ref": "#/$defs/mevsim"}},
+        "secim_ipuclari": {"$ref": "#/$defs/metin_dizisi"},
+        "besin": {"type": "array", "items": {"$ref": "#/$defs/besin"}},
+        "tarifler": {"type": "array", "items": {"$ref": "#/$defs/kimlik"}}
+      }
+    },
+    "tarif": {
+      "type": "object", "additionalProperties": false,
+      "required": ["id", "baslik", "malzemeler", "adimlar", "kaynak_adi"],
+      "properties": {
+        "id": {"$ref": "#/$defs/kimlik"},
+        "baslik": {"$ref": "#/$defs/metin"},
+        "malzemeler": {"type": "array", "minItems": 1, "items": {"$ref": "#/$defs/metin"}},
+        "adimlar": {"type": "array", "minItems": 1, "items": {"$ref": "#/$defs/metin"}},
+        "kaynak_adi": {"$ref": "#/$defs/metin_bos"}
+      }
+    },
+    "yil_notu": {
+      "type": "object", "additionalProperties": false,
+      "required": ["id", "urun_id", "kapsam_turu", "kapsam_id", "sinyal_turu", "baslik", "metin", "gecerlilik_bas", "gecerlilik_bit", "kaynak_adi", "kaynak_link", "onay_tarihi", "bildirimde_goster"],
+      "properties": {
+        "id": {"$ref": "#/$defs/kimlik"},
+        "urun_id": {"$ref": "#/$defs/kimlik"},
+        "kapsam_turu": {"enum": ["bolge", "alt_bolge", "il", "deniz", null]},
+        "kapsam_id": {"type": ["string", "null"], "pattern": "^[a-z0-9_]+$"},
+        "sinyal_turu": {"enum": ["hal", "hava", "resmi_duyuru", "diger"]},
+        "baslik": {"$ref": "#/$defs/metin"},
+        "metin": {"$ref": "#/$defs/metin"},
+        "gecerlilik_bas": {"$ref": "#/$defs/tarih"},
+        "gecerlilik_bit": {"$ref": "#/$defs/tarih"},
+        "kaynak_adi": {"$ref": "#/$defs/metin"},
+        "kaynak_link": {"$ref": "#/$defs/link_bos"},
+        "onay_tarihi": {"$ref": "#/$defs/tarih"},
+        "bildirimde_goster": {"type": "boolean"}
+      }
+    }
+  }
+}

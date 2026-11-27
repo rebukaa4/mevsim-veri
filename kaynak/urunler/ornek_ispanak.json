@@ -1,0 +1,35 @@
+{
+  "id": "ornek_ispanak",
+  "ad": "Ispanak (ÖRNEK)",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "ÖRNEK KAYIT: yılda iki dönemli sebze; tarihler doğrulanmamıştır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "aktif": true,
+  "mevsimler": [
+    {
+      "id": "ornek_ispanak__ege__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "hasat",
+      "bas": "10-01",
+      "bit": "12-31",
+      "kaynak_adi": "ÖRNEK VERİ: gerçek kaynak değil",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini"
+    },
+    {
+      "id": "ornek_ispanak__ege__hasat__2",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ege",
+      "donem_turu": "hasat",
+      "bas": "02-01",
+      "bit": "04-30",
+      "kaynak_adi": "ÖRNEK VERİ: gerçek kaynak değil",
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini"
+    }
+  ],
+  "secim_ipuclari": ["ÖRNEK: Yaprakları diri ve koyu yeşil olmalı."]
+}

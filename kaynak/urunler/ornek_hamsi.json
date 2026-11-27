@@ -1,0 +1,53 @@
+{
+  "id": "ornek_hamsi",
+  "ad": "Hamsi (ÖRNEK)",
+  "diger_adlar": ["hamsi balığı"],
+  "kategori_id": "balik_deniz",
+  "kisa_tanim": "ÖRNEK KAYIT: derleme hattını denemek için; tarihler doğrulanmamıştır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": null,
+  "aktif": true,
+  "enerji_kcal_100g": null,
+  "enerji_durum": null,
+  "enerji_kaynak_adi": null,
+  "enerji_kaynak_link": null,
+  "az_bilinen": false,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "ornek_hamsi__karadeniz__av__1",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "av",
+      "bas": "09-01",
+      "bit": "04-15",
+      "kaynak_adi": "ÖRNEK VERİ: gerçek kaynak değil",
+      "kaynak_link": null,
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": "Örnek kayıt; yayına hazır veri değildir."
+    },
+    {
+      "id": "ornek_hamsi__karadeniz__pazar_yogun__1",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "11-01",
+      "bit": "02-28",
+      "kaynak_adi": "ÖRNEK VERİ: gerçek kaynak değil",
+      "kaynak_link": null,
+      "arastirma_tarihi": "2026-11-27",
+      "guven": "tahmini",
+      "not": null
+    }
+  ],
+  "secim_ipuclari": ["ÖRNEK: Gözleri parlak olmalı."],
+  "besin": [],
+  "tarifler": ["ornek_hamsi_bugulama"]
+}

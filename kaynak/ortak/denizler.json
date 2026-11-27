@@ -1,0 +1,22 @@
+[
+  {
+    "id": "karadeniz",
+    "ad": "Karadeniz",
+    "sira": 1
+  },
+  {
+    "id": "marmara",
+    "ad": "Marmara Denizi",
+    "sira": 2
+  },
+  {
+    "id": "ege",
+    "ad": "Ege Denizi",
+    "sira": 3
+  },
+  {
+    "id": "akdeniz",
+    "ad": "Akdeniz",
+    "sira": 4
+  }
+]

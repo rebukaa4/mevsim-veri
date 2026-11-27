@@ -1,0 +1,27 @@
+[
+  {
+    "id": "balik_deniz",
+    "ad": "Balıklar ve deniz ürünleri",
+    "sira": 1
+  },
+  {
+    "id": "sebze",
+    "ad": "Sebzeler",
+    "sira": 2
+  },
+  {
+    "id": "meyve",
+    "ad": "Meyveler",
+    "sira": 3
+  },
+  {
+    "id": "ot",
+    "ad": "Otlar",
+    "sira": 4
+  },
+  {
+    "id": "diger",
+    "ad": "Diğer",
+    "sira": 5
+  }
+]
