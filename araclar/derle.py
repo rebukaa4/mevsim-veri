@@ -222,6 +222,14 @@ def _tarih_gecerli(metin) -> bool:
         return False
 
 
+# Uygulamada fiyat gösterilmez; notlar ve kısa tanımlar arz diliyle yazılır ("en bol olduğu dönem").
+FIYAT_DILI = re.compile(r"ucuz|pahal|fiyat|TL|lira", re.IGNORECASE)
+
+
+def _fiyat_dili(metin) -> bool:
+    return isinstance(metin, str) and bool(FIYAT_DILI.search(metin))
+
+
 def _dolu(metin) -> bool:
     return isinstance(metin, str) and metin.strip() != ""
 
@@ -335,6 +343,13 @@ def kurallari_dogrula(veri: dict, hatalar: list[str], uyarilar: list[str], oncek
                 hatalar.append(f"{on}: ot / az bilinen üründe en az bir hazırlama adımı zorunlu")
             if not _dolu(u.get("tanitim")):
                 hatalar.append(f"{on}: ot / az bilinen üründe tanıtım metni zorunlu")
+
+        # Fiyat yok kuralı: kullanıcıya görünen kısa tanım ve mevsim notlarında fiyat dili olmaz
+        if _fiyat_dili(u.get("kisa_tanim")):
+            hatalar.append(f"{on}: kisa_tanim fiyattan söz ediyor (fiyat yok kuralı): {u.get('kisa_tanim')!r}")
+        for m in mevsimler:
+            if _fiyat_dili(m.get("not")):
+                hatalar.append(f"{on}/mevsimler/{m.get('id')}: not fiyattan söz ediyor (fiyat yok kuralı): {m.get('not')!r}")
 
         # Mevsim kayıtları
         bolge_duzeyi = set()  # (bolge_id, donem_turu)

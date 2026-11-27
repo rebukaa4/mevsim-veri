@@ -32,10 +32,10 @@
       "bas": "12-01",
       "bit": "05-31",
       "kaynak_adi": "Gazete Vatan/İHA 16.10.2025, pırasa; İzmir Büyükşehir Belediyesi, sebze-meyve hal fiyatları açık verisi (2019, 2021–2024)",
-      "kaynak_link": "https://www.gazetevatan.com/galeri/izmirde-100-yillik-tohumlardan-urettiler-hasat-basladi-mayisa-kadar-surecek-tarlada-25-tl-pazarda-70-liraya-satiliyor-ciftci-isyanda-2316888",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
       "arastirma_tarihi": "2026-11-27",
       "guven": "tahmini",
-      "not": "Menemen pırasası ekimde başlar; en bol ve ucuz olduğu dönem aralık – mayıs."
+      "not": "Menemen pırasası ekimde başlar; en bol olduğu dönem aralık – mayıs."
     }
   ],
   "secim_ipuclari": [

@@ -228,15 +228,15 @@
   },
   "K-H26": {
    "ad": "Habertürk/İHA 12.11.2025, ıspanak",
-   "link": "https://yerel-haberler.haberturk.com/izmir-haberleri/kis-sebzesi-ispanakta-hasat-bolluguispanagin-kilosu-tarlada-6-pazarda-40-tl-115363222"
+   "link": null
   },
   "K-H27": {
    "ad": "Gazete Vatan/İHA 16.10.2025, pırasa",
-   "link": "https://www.gazetevatan.com/galeri/izmirde-100-yillik-tohumlardan-urettiler-hasat-basladi-mayisa-kadar-surecek-tarlada-25-tl-pazarda-70-liraya-satiliyor-ciftci-isyanda-2316888"
+   "link": null
   },
   "K-H28": {
    "ad": "Dünya 14.12.2025, brokoli",
-   "link": "https://www.dunya.com/foto-galeri/ekonomi/menemen-ovasinda-brokoli-hasadi-basladi-tarlada-1015-tl-olan-yesil-altin-pazara-gelene-kadar-uc-katina-cikiyor-galeri-807331"
+   "link": null
   },
   "K-H29": {
    "ad": "Cumhuriyet/AA 11.01.2024, kışlık sebze",
@@ -347,7 +347,7 @@
     "K-R1"
    ],
    "teblig_maddesi": null,
-   "not": "Açık tarla domatesi; halde en bol ve ucuz olduğu dönem temmuz ortası – eylül ortası. Sera domatesi yıl boyu bulunur."
+   "not": "Açık tarla domatesi; halde en bol olduğu dönem temmuz ortası – eylül ortası. Sera domatesi yıl boyu bulunur."
   },
   {
    "tablo_satiri": 150,
@@ -362,7 +362,7 @@
     "K-HAL1"
    ],
    "teblig_maddesi": null,
-   "not": "Ege'de tarladan gelen biber dönemi. Mayıs'ta görülen ucuz biber çoğunlukla seradan ya da başka bölgeden gelir."
+   "not": "Ege'de tarladan gelen biber dönemi. Mayıs'ta görülen biber çoğunlukla seradan ya da başka bölgeden gelir."
   },
   {
    "tablo_satiri": 151,
@@ -423,7 +423,7 @@
     "K-R18"
    ],
    "teblig_maddesi": null,
-   "not": "Tarla patlıcanı ilk donlara kadar ürün verir; haziranda görülen ucuz patlıcan çoğunlukla seradandır."
+   "not": "Tarla patlıcanı ilk donlara kadar ürün verir; haziranda görülen patlıcan çoğunlukla seradandır."
   },
   {
    "tablo_satiri": 155,
@@ -471,7 +471,7 @@
     "K-A27"
    ],
    "teblig_maddesi": null,
-   "not": "Bahar ekimi yaz ürününü, yaz ekimi güz ürününü verir; en ucuz olduğu aylar ekim – kasım."
+   "not": "Bahar ekimi yaz ürününü, yaz ekimi güz ürününü verir; en bol olduğu aylar ekim – kasım."
   },
   {
    "tablo_satiri": 158,
@@ -563,7 +563,7 @@
     "K-HAL1"
    ],
    "teblig_maddesi": null,
-   "not": "Menemen ovası ıspanağı; en bol ve ucuz olduğu aylar mart – nisan."
+   "not": "Menemen ovası ıspanağı; en bol olduğu aylar mart – nisan."
   },
   {
    "tablo_satiri": 164,
@@ -578,7 +578,7 @@
     "K-HAL1"
    ],
    "teblig_maddesi": null,
-   "not": "Halde yıl boyu var; kasım – nisan arası daha ucuz. Dönem sinyali zayıf."
+   "not": "Halde yıl boyu var; kasım – nisan arası daha bol. Dönem sinyali zayıf."
   },
   {
    "tablo_satiri": 165,
@@ -594,7 +594,7 @@
     "K-HAL1"
    ],
    "teblig_maddesi": null,
-   "not": "Menemen pırasası ekimde başlar; en bol ve ucuz olduğu dönem aralık – mayıs."
+   "not": "Menemen pırasası ekimde başlar; en bol olduğu dönem aralık – mayıs."
   },
   {
    "tablo_satiri": 166,
@@ -658,7 +658,7 @@
     "K-HAL1"
    ],
    "teblig_maddesi": null,
-   "not": "Menemen ovası brokolisi; en ucuz olduğu dönem kasım ortası – şubat."
+   "not": "Menemen ovası brokolisi; en bol olduğu dönem kasım ortası – şubat."
   },
   {
    "tablo_satiri": 170,
@@ -674,7 +674,7 @@
     "K-H29"
    ],
    "teblig_maddesi": null,
-   "not": "Halde en ucuz olduğu dönem ocak – mayıs."
+   "not": "Halde en bol olduğu dönem ocak – mayıs."
   },
   {
    "tablo_satiri": 171,
@@ -690,7 +690,7 @@
     "K-R15"
    ],
    "teblig_maddesi": null,
-   "not": "Halde ekim – mart arası ucuz; kışlık havuç yazın ekilir."
+   "not": "Halde ekim – mart arası bol; kışlık havuç yazın ekilir."
   },
   {
    "tablo_satiri": 172,
@@ -721,7 +721,7 @@
     "K-H29"
    ],
    "teblig_maddesi": null,
-   "not": "İzmir'in kışlık sebzelerinden; en ucuz olduğu dönem mart ortası – mayıs ortası."
+   "not": "İzmir'in kışlık sebzelerinden; en bol olduğu dönem mart ortası – mayıs ortası."
   },
   {
    "tablo_satiri": 174,
@@ -736,7 +736,7 @@
     "K-HAL1"
    ],
    "teblig_maddesi": null,
-   "not": "Serin mevsim ürünü; ağustos – kasım arası pahalıdır."
+   "not": "Serin mevsim ürünü; ağustos – kasım arası tezgâhta azalır."
   },
   {
    "tablo_satiri": 175,
@@ -811,7 +811,7 @@
     "K-HAL1"
    ],
    "teblig_maddesi": null,
-   "not": "Halde yıl boyu var; en ucuz temmuzda, en pahalı ocak – mart arasında."
+   "not": "Halde yıl boyu var; en bol temmuzda, en az ocak – mart arasında."
   },
   {
    "tablo_satiri": 180,
@@ -826,7 +826,7 @@
     "K-HAL1"
    ],
    "teblig_maddesi": null,
-   "not": "Bahar ürünü; en ucuz olduğu dönem nisan ortası – mayıs sonu."
+   "not": "Bahar ürünü; en bol olduğu dönem nisan ortası – mayıs sonu."
   },
   {
    "tablo_satiri": 181,
@@ -980,7 +980,7 @@
     "K-HAL1"
    ],
    "teblig_maddesi": null,
-   "not": "Depolanarak kış boyu satılır; en ucuz olduğu aylar ekim ve aralık – şubat."
+   "not": "Depolanarak kış boyu satılır; tezgâhta en bol olduğu aylar ekim ve aralık – şubat."
   },
   {
    "tablo_satiri": 191,
@@ -1205,7 +1205,7 @@
     "K-HAL1"
    ],
    "teblig_maddesi": null,
-   "not": "Aydın karpuzu haziranda başlar; en ucuz olduğu dönem temmuz – ekim."
+   "not": "Aydın karpuzu haziranda başlar; en bol olduğu dönem temmuz – ekim."
   },
   {
    "tablo_satiri": 210,
@@ -1252,7 +1252,7 @@
     "K-CI-14"
    ],
    "teblig_maddesi": null,
-   "not": "Taze incir temmuz sonunda başlar; en ucuz olduğu dönem eylülün ilk yarısı."
+   "not": "Taze incir temmuz sonunda başlar; en bol olduğu dönem eylülün ilk yarısı."
   },
   {
    "tablo_satiri": 213,
@@ -1300,7 +1300,7 @@
     "K-HAL1"
    ],
    "teblig_maddesi": null,
-   "not": "Depolanmış elma; en ucuz olduğu aylar mart – nisan."
+   "not": "Depolanmış elma; tezgâhta en bol olduğu aylar mart – nisan."
   },
   {
    "tablo_satiri": 216,
@@ -1331,7 +1331,7 @@
     "K-R3d"
    ],
    "teblig_maddesi": null,
-   "not": "Nar hasat dönemi; en ucuz olduğu zaman kasım başı."
+   "not": "Nar hasat dönemi; en bol olduğu zaman kasım başı."
   },
   {
    "tablo_satiri": 218,
@@ -1392,7 +1392,7 @@
     "K-HAL1"
    ],
    "teblig_maddesi": null,
-   "not": "Yeni mevsim (Mayer) limon; en ucuz olduğu ay mart."
+   "not": "Yeni mevsim (Mayer) limon; en bol olduğu ay mart."
   },
   {
    "tablo_satiri": 222,
@@ -1422,7 +1422,7 @@
     "K-HAL1"
    ],
    "teblig_maddesi": null,
-   "not": "Halde en ucuz olduğu dönem ocak – mart; büyük olasılıkla Akdeniz ürünü."
+   "not": "Halde en bol olduğu dönem ocak – mart; büyük olasılıkla Akdeniz ürünü."
   },
   {
    "tablo_satiri": 224,
@@ -1467,7 +1467,7 @@
     "K-HAL1"
    ],
    "teblig_maddesi": null,
-   "not": "En ucuz olduğu aylar ekim – kasım."
+   "not": "En bol olduğu aylar ekim – kasım."
   },
   {
    "tablo_satiri": 227,
@@ -1482,7 +1482,7 @@
     "K-HAL1"
    ],
    "teblig_maddesi": null,
-   "not": "Yerli kivi büyük olasılıkla Karadeniz'den gelir; kasım – nisan arası daha ucuzdur."
+   "not": "Yerli kivi büyük olasılıkla Karadeniz'den gelir; kasım – nisan arası daha bol bulunur."
   },
   {
    "tablo_satiri": 228,
@@ -1558,7 +1558,7 @@
     "K-A1"
    ],
    "teblig_maddesi": null,
-   "not": "Yıl boyu avlanır; halde en ucuz olduğu dönem eylül – aralık."
+   "not": "Yıl boyu avlanır; halde en bol olduğu dönem eylül – aralık."
   },
   {
    "tablo_satiri": 257,
@@ -1607,7 +1607,7 @@
     "K-H33"
    ],
    "teblig_maddesi": null,
-   "not": "Ağustos – eylülde ucuzlar; mayıs – haziranda seyrek ve pahalıdır."
+   "not": "Ağustos – eylülde bollaşır; mayıs – haziranda seyrek bulunur."
   },
   {
    "tablo_satiri": 260,
@@ -1623,7 +1623,7 @@
     "K-A2"
    ],
    "teblig_maddesi": null,
-   "not": "Halde yıl boyu var; en ucuz olduğu aylar temmuz – ağustos."
+   "not": "Halde yıl boyu var; en bol olduğu aylar temmuz – ağustos."
   },
   {
    "tablo_satiri": 261,
@@ -1673,7 +1673,7 @@
     "K-R6"
    ],
    "teblig_maddesi": null,
-   "not": "İri lüfer ekim ortasından nisan ortasına kadar; en ucuz olduğu aylar ekim – aralık."
+   "not": "İri lüfer ekim ortasından nisan ortasına kadar; en bol olduğu aylar ekim – aralık."
   },
   {
    "tablo_satiri": 264,
@@ -1689,7 +1689,7 @@
     "K-R4"
    ],
    "teblig_maddesi": "10",
-   "not": "Yıl boyu bulunur; en ucuz ocak – nisan, en pahalı haziran – ağustos."
+   "not": "Yıl boyu bulunur; en bol ocak – nisan, en az haziran – ağustos."
   },
   {
    "tablo_satiri": 265,
@@ -1719,7 +1719,7 @@
     "K-A1"
    ],
    "teblig_maddesi": null,
-   "not": "En ucuz olduğu aylar ocak – mayıs; yazın pahalanır."
+   "not": "En bol olduğu aylar ocak – mayıs; yazın tezgâhta azalır."
   },
   {
    "tablo_satiri": 267,
@@ -1734,7 +1734,7 @@
     "K-A1"
    ],
    "teblig_maddesi": null,
-   "not": "Halde yıl boyu var; en ucuz olduğu aylar ocak – mayıs."
+   "not": "Halde yıl boyu var; en bol olduğu aylar ocak – mayıs."
   },
   {
    "tablo_satiri": 268,
@@ -1749,7 +1749,7 @@
     "K-A1"
    ],
    "teblig_maddesi": null,
-   "not": "Doğal (deniz) levreği; en ucuz olduğu aylar şubat – nisan. Çiftlik levreği yıl boyu bulunur."
+   "not": "Doğal (deniz) levreği; en bol olduğu aylar şubat – nisan. Çiftlik levreği yıl boyu bulunur."
   },
   {
    "tablo_satiri": 270,
@@ -1764,7 +1764,7 @@
     "K-A1"
    ],
    "teblig_maddesi": null,
-   "not": "Doğal (deniz) çipurası; en ucuz olduğu aylar kasım – aralık. Çiftlik çipurası yıl boyu bulunur."
+   "not": "Doğal (deniz) çipurası; en bol olduğu aylar kasım – aralık. Çiftlik çipurası yıl boyu bulunur."
   },
   {
    "tablo_satiri": 272,
@@ -1854,7 +1854,7 @@
     "K-A1"
    ],
    "teblig_maddesi": null,
-   "not": "Yıl boyu bulunur; nisan – haziran arası pahalıdır."
+   "not": "Yıl boyu bulunur; nisan – haziran arası tezgâhta azalır."
   },
   {
    "tablo_satiri": 279,
@@ -1916,7 +1916,7 @@
     "K-R4"
    ],
    "teblig_maddesi": "10",
-   "not": "Trol avının kapalı olduğu mayıs – haziranda pahalanır."
+   "not": "Trol avının kapalı olduğu mayıs – haziranda tezgâhta azalır."
   },
   {
    "tablo_satiri": 283,
@@ -2211,7 +2211,7 @@
     "K-A23"
    ],
    "teblig_maddesi": null,
-   "not": "Halde yıl boyu görülür (ekili ya da depolanmış olabilir); en ucuz ekim – kasım başı."
+   "not": "Halde yıl boyu görülür (ekili ya da depolanmış olabilir); en bol ekim – kasım başı."
   },
   {
    "tablo_satiri": 312,
