@@ -3,7 +3,7 @@
   "ad": "İstavrit",
   "diger_adlar": [],
   "kategori_id": "balik_deniz",
-  "kisa_tanim": "Sonbahardan bahara kadar bol bulunan, uygun fiyatlı küçük balık.",
+  "kisa_tanim": "Sonbahardan bahara kadar bol bulunan küçük balık.",
   "uretim_sekli": "dogal",
   "yil_boyu": false,
   "ilgili_urun_id": null,
@@ -35,7 +35,7 @@
       "kaynak_link": "https://www.izmir.bel.tr:443/YuklenenDosyalar/Yayinlar/0_08022018_053047_izmir-balikciligi.pdf",
       "arastirma_tarihi": "2026-11-27",
       "guven": "akademik",
-      "not": "Ağustos – eylülde ucuzlar; mayıs – haziranda seyrek ve pahalıdır."
+      "not": "Ağustos – eylülde bollaşır; mayıs – haziranda seyrek bulunur."
     }
   ],
   "secim_ipuclari": [

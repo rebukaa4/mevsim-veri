@@ -159,6 +159,20 @@ class DerleTesti(unittest.TestCase):
         self.urun_degistir("ornek_ispanak", lambda u: u["mevsimler"][1].update(id=u["mevsimler"][0]["id"]))
         self.reddedilmeli("tekrar eden mevsim kimliği")
 
+    # fiyat yok kuralı ------------------------------------------------------
+    def test_notta_fiyat_dili_reddedilir(self):
+        self.urun_degistir("ornek_ispanak", lambda u: u["mevsimler"][0].update(**{"not": "En ucuz olduğu aylar mart – nisan."}))
+        self.reddedilmeli("fiyat yok kuralı")
+
+    def test_kisa_tanimda_fiyat_dili_reddedilir(self):
+        self.urun_degistir("ornek_ispanak", lambda u: u.update(kisa_tanim="Uygun fiyatlı kış sebzesi."))
+        self.reddedilmeli("kisa_tanim fiyattan söz ediyor")
+
+    def test_arz_dili_kabul(self):
+        self.urun_degistir("ornek_ispanak", lambda u: u["mevsimler"][0].update(**{"not": "En bol olduğu aylar mart – nisan."}))
+        _, hatalar, _ = self.derle()
+        self.assertEqual(hatalar, [])
+
     # madde 7: başvuru bütünlüğü ------------------------------------------
     def test_bilinmeyen_kategori(self):
         self.urun_degistir("ornek_ispanak", lambda u: u.update(kategori_id="kuruyemis"))
