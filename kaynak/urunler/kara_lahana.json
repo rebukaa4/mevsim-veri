@@ -1,0 +1,106 @@
+{
+  "id": "kara_lahana",
+  "ad": "Kara lahana",
+  "diger_adlar": [
+    "pancar"
+  ],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Baş bağlamayan, uzun saplı, koyu yeşil yapraklı lahana; kışın çorbası ve sarması yapılır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "kara_lahana",
+  "aktif": true,
+  "enerji_kcal_100g": 35,
+  "enerji_durum": "çiğ yaprak (USDA'daki kale kaydı; kara lahana aynı yaprak lahana grubundandır)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Kale, raw (FDC ID 168421, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/168421/nutrients",
+  "az_bilinen": true,
+  "bilinirlik": 3,
+  "siralama": 60,
+  "tanitim": "Kara lahana, baş bağlamayan, yaprakları tek tek koparılan bir lahanadır. Yaprakları koyu yeşil, kalın damarlı ve serttir; pişince yumuşar ve hafif acımsı bir tat verir. Karadeniz mutfağının temel sebzesidir; çorbası, sarması ve kavurması yapılır. Soğuk havada tadı güzelleşir; Marmara pazarında kasımdan nisana kadar bulunur, bir kısmı Karadeniz'den gelir.",
+  "hazirlama_adimlari": [
+    "Yaprakları tek tek ayırıp bol suda yıkayın.",
+    "Kalın orta damarı bıçakla V biçiminde kesip çıkarın; çorba ve kavurmada damarı ince doğrayıp yaprakla birlikte pişirebilirsiniz.",
+    "Sarma için yaprakları kaynar suda 3–4 dakika haşlayın, soğuk suya alıp süzün; yumuşayınca kolay sarılır.",
+    "Çorba ve kavurma için yaprakları ince şerit doğrayın."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "kara_lahana__marmara__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "pazar_yogun",
+      "bas": "11-01",
+      "bit": "04-30",
+      "kaynak_adi": "İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali)",
+      "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kara lahana Marmara pazarında Kasım–Nisan arasında bol."
+    }
+  ],
+  "secim_ipuclari": [
+    "Yaprakları koyu yeşil, sert ve diri olsun; sararmış, pörsümüş ya da delik delik yaprakları almayın.",
+    "Sapları kırılınca çıtırdamalı; yumuşayıp büzülmüş saplar bayattır.",
+    "Sarma yapacaksanız orta boy, yırtıksız yaprakları seçin; çorba için iri yapraklar da olur."
+  ],
+  "besin": [
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif kaynağıdır: 100 g'da 4,1 g.",
+      "kaynak_adi": "USDA FoodData Central — Kale, raw (FDC ID 168421, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168421/nutrients"
+    },
+    {
+      "ad": "Protein",
+      "tur": "diger",
+      "aciklama": "Protein açısından zengindir: enerjisinin yaklaşık %33'i proteinden gelir (100 g'da 2,92 g).",
+      "kaynak_adi": "USDA FoodData Central — Kale, raw (FDC ID 168421, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168421/nutrients"
+    },
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini açısından zengindir: 100 g'da 390 µg; günlük başvuru değerine oranı yaklaşık %519.",
+      "kaynak_adi": "USDA FoodData Central — Kale, raw (FDC ID 168421, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168421/nutrients"
+    },
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir: 100 g'da 93,4 mg; günlük başvuru değerine oranı yaklaşık %117.",
+      "kaynak_adi": "USDA FoodData Central — Kale, raw (FDC ID 168421, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168421/nutrients"
+    },
+    {
+      "ad": "Manganez",
+      "tur": "mineral",
+      "aciklama": "Manganez açısından zengindir: 100 g'da 0,92 mg; günlük başvuru değerine oranı yaklaşık %46.",
+      "kaynak_adi": "USDA FoodData Central — Kale, raw (FDC ID 168421, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168421/nutrients"
+    },
+    {
+      "ad": "Kalsiyum",
+      "tur": "mineral",
+      "aciklama": "Kalsiyum açısından zengindir: 100 g'da 254 mg; günlük başvuru değerine oranı yaklaşık %32.",
+      "kaynak_adi": "USDA FoodData Central — Kale, raw (FDC ID 168421, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168421/nutrients"
+    },
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat açısından zengindir: 100 g'da 62 µg; günlük başvuru değerine oranı yaklaşık %31.",
+      "kaynak_adi": "USDA FoodData Central — Kale, raw (FDC ID 168421, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168421/nutrients"
+    }
+  ],
+  "tarifler": [
+    "kara_lahana_corbasi",
+    "kara_lahana_kavurmasi"
+  ]
+}

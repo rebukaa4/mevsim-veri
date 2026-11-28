@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169913/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 51,
+  "siralama": 66,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Bir süzgecin içinde, çok kısa süre ve hafif akan suyla yıkayın; ovalamayın.",
@@ -25,6 +25,19 @@
   "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
   "hazirlama_kaynak_link": null,
   "mevsimler": [
+    {
+      "id": "dut__marmara__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "hasat",
+      "bas": "06-01",
+      "bit": "07-15",
+      "kaynak_adi": "İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali) + Mevsim Ege sezon tablosu ve oradaki kaynaklar",
+      "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Marmara dutu Haziran'dan Temmuz ortasına kadar toplanır; Nisan–Mayıs dutu güneyden gelir."
+    },
     {
       "id": "dut__ege__pazar_yogun__1",
       "kapsam_turu": "bolge",

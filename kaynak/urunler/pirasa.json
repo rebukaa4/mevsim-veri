@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169246/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 27,
+  "siralama": 31,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Kökünü ve yaprakların kurumuş uçlarını kesin; dış yaprağı soyun.",
@@ -26,6 +26,19 @@
   "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
   "hazirlama_kaynak_link": null,
   "mevsimler": [
+    {
+      "id": "pirasa__marmara__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "hasat",
+      "bas": "10-01",
+      "bit": "02-28",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: İnegöl Pırasası (No 1884) + Bursa İl Tarım ve Orman Müdürlüğü, İl Yayım Faaliyetleri — aylık yapılacak işler + İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/4c53d53c-b731-4ffb-8ab0-788fd431899e.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Marmara pırasası Ekim'den Şubat sonuna kadar bol; İnegöl pırasası bilinir."
+    },
     {
       "id": "pirasa__ege__hasat__1",
       "kapsam_turu": "bolge",

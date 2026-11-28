@@ -1,0 +1,51 @@
+{
+  "id": "kapidag_mor_sogani",
+  "ad": "Kapıdağ Mor Soğanı",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Balıkesir Erdek'teki Kapıdağ Yarımadası'nın mor soğanı; kabuğu ve eti öteki kırmızı soğanlardan çok daha koyu mordur.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "10",
+  "gorsel_id": "kapidag_mor_sogani",
+  "aktif": true,
+  "enerji_kcal_100g": 40,
+  "enerji_durum": "çiğ, yenebilir kısım (kuru soğan genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Onions, raw (FDC ID 170000)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170000/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 28,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "kapidag_mor_sogani__10__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "10",
+      "donem_turu": "hasat",
+      "bas": "06-24",
+      "bit": "07-10",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Kapıdağ Mor Soğanı (No 362)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/418ebc95-8cec-4d10-923c-5c5f4b4a8733.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Kapıdağ mor soğanı Haziran sonu – Temmuz başında sökülür."
+    }
+  ],
+  "secim_ipuclari": [
+    "Elinizde sert ve ağır olanı seçin.",
+    "Dış kabuk kuru, ince ve kâğıt gibi hışırdamalı.",
+    "Filizlenmiş, yumuşamış ya da kararmış (küflü) olanları almayın.",
+    "Kokusu keskin olmalı ama çürük kokmamalı."
+  ],
+  "besin": [],
+  "tarifler": [
+    "sumakli_sogan",
+    "zeytinyagli_taze_fasulye",
+    "kapuska"
+  ]
+}

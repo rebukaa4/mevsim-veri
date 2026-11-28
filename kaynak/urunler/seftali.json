@@ -23,6 +23,19 @@
   "hazirlama_kaynak_link": null,
   "mevsimler": [
     {
+      "id": "seftali__marmara__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "hasat",
+      "bas": "07-01",
+      "bit": "09-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Bursa Şeftalisi (No 430) + Türk Patent coğrafi işaret tescili: Lapseki Şeftalisi (No 1101) + İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/ff8add42-d47d-476d-bd7a-96194b4e532a.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Marmara şeftalisi Temmuz–Eylül arasında toplanır."
+    },
+    {
       "id": "seftali__ege__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "ege",

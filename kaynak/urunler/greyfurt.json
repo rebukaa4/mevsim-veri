@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/174673/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 50,
+  "siralama": 65,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Kabuğunu beyaz kısmıyla birlikte bıçakla soyun, dilimleri zarlarının arasından keserek çıkarın; böylece acılığı azalır."
@@ -24,6 +24,19 @@
   "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
   "hazirlama_kaynak_link": null,
   "mevsimler": [
+    {
+      "id": "greyfurt__marmara__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "pazar_yogun",
+      "bas": "12-01",
+      "bit": "03-31",
+      "kaynak_adi": "İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali)",
+      "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Greyfurt Aralık–Mart arasında bol; Marmara'ya güneyden gelir."
+    },
     {
       "id": "greyfurt__ege__pazar_yogun__1",
       "kapsam_turu": "bolge",

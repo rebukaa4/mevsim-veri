@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/173946/nutrients",
   "az_bilinen": false,
   "bilinirlik": 3,
-  "siralama": 56,
+  "siralama": 74,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Yemeden hemen önce bir süzgeçte, kısa süre ve hafif suyla yıkayın.",
@@ -25,6 +25,19 @@
   "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
   "hazirlama_kaynak_link": null,
   "mevsimler": [
+    {
+      "id": "bogurtlen__marmara__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "hasat",
+      "bas": "07-15",
+      "bit": "09-30",
+      "kaynak_adi": "Mevsim Ege sezon tablosu ve oradaki kaynaklar; Ertuğ F. 2004, Turk J Bot 28:161–174",
+      "kaynak_link": "https://journals.tubitak.gov.tr/botany/vol28/iss1/16",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Yabani böğürtlen Temmuz ortasından Eylül sonuna kadar toplanır."
+    },
     {
       "id": "bogurtlen__ege__hasat__1",
       "kapsam_turu": "bolge",
@@ -49,7 +62,7 @@
       "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
-      "not": "Akdeniz'de yabani olarak haziran ortasından ağustos sonuna kadar toplanır."
+      "not": "Yabani böğürtlen Akdeniz'de haziran ortasından ağustos sonuna kadar toplanır."
     }
   ],
   "secim_ipuclari": [

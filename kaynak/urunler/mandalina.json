@@ -23,6 +23,19 @@
   "hazirlama_kaynak_link": null,
   "mevsimler": [
     {
+      "id": "mandalina__marmara__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "pazar_yogun",
+      "bas": "10-01",
+      "bit": "01-31",
+      "kaynak_adi": "İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali) + Türk Patent coğrafi işaret tescili: Havran Mandalinası (No 1446)",
+      "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Mandalina Ekim–Ocak arasında bol; çoğu Ege ve Akdeniz'den, bir kısmı Balıkesir Havran'dan gelir."
+    },
+    {
       "id": "mandalina__ege__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "ege",
@@ -46,7 +59,7 @@
       "kaynak_link": "https://ticaret.gov.tr/urun-guvenligi/tarim-urunlerinin-dis-ticaret-denetimleri/hasat-donemi",
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
-      "not": "Akdeniz'de ilk mandalinalar ekim başında toplanır, geç türler mart sonuna kadar sürer."
+      "not": "Akdeniz'de ilk mandalinalar ekim başında toplanır, geç çeşitler mart sonuna kadar sürer."
     }
   ],
   "secim_ipuclari": [

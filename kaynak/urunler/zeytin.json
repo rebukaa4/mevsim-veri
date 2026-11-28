@@ -29,6 +29,19 @@
   "hazirlama_kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/166.pdf",
   "mevsimler": [
     {
+      "id": "zeytin__marmara__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "hasat",
+      "bas": "10-01",
+      "bit": "12-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Gemlik Zeytini (No 76) + Türk Patent coğrafi işaret tescili: Karamürsel Samanlı Zeytini (No 1622) + Türk Patent coğrafi işaret tescili: Edremit Körfezi Yeşil Çizik Zeytini (No 189)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/7467335a-3243-40bf-8d7c-f90de4c7c67e.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Marmara zeytini Ekim–Aralık arasında toplanır; yeşil salamuralık zeytin daha erken."
+    },
+    {
       "id": "zeytin__ege__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "ege",

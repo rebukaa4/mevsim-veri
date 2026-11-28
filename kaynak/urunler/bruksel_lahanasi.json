@@ -1,0 +1,106 @@
+{
+  "id": "bruksel_lahanasi",
+  "ad": "Brüksel lahanası",
+  "diger_adlar": [
+    "Frenk lahanası"
+  ],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Uzun bir sapın üzerinde dizi dizi büyüyen, ceviz iriliğinde minik lahanalar; kışın pazara gelir.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "bruksel_lahanasi",
+  "aktif": true,
+  "enerji_kcal_100g": 43,
+  "enerji_durum": "çiğ",
+  "enerji_kaynak_adi": "USDA FoodData Central — Brussels sprouts, raw (FDC ID 170383, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170383/nutrients",
+  "az_bilinen": true,
+  "bilinirlik": 4,
+  "siralama": 70,
+  "tanitim": "Brüksel lahanası, lahananın bir akrabasıdır: kalın bir sapın boyunca yaprak diplerinde ceviz iriliğinde, sıkı minik başlar oluşur. Tadı lahanadan daha tatlı ve hafif fındıksıdır; fazla pişirilirse acılaşır ve kokusu ağırlaşır. Soğukta tadı güzelleştiği için kasım ortasından mart sonuna kadar pazarda bulunur.",
+  "hazirlama_adimlari": [
+    "Sap ucundaki sert kısmı ince bir dilim kesin, sararmış dış yaprakları ayıklayın.",
+    "Bol suda yıkayın; iriyse ikiye kesin.",
+    "Haşlayacaksanız kaynar tuzlu suda 5–7 dakika, çatal batınca ama dağılmadan pişirin; fazla pişerse acılaşır.",
+    "Fırınlayacaksanız ikiye kesip zeytinyağı ve tuzla harmanlayın, kesik yüzü tepsiye gelecek şekilde dizin."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "bruksel_lahanasi__marmara__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "pazar_yogun",
+      "bas": "11-15",
+      "bit": "03-31",
+      "kaynak_adi": "İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali)",
+      "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Brüksel lahanası Kasım ortasından Mart sonuna kadar pazarda bulunur."
+    }
+  ],
+  "secim_ipuclari": [
+    "Sıkı, sert ve ağır gelenleri seçin; yaprakları gevşemiş, açılmış olanlar bayattır.",
+    "Rengi canlı yeşil olsun; sararmış, kararmış ya da lekeli yapraklıları almayın.",
+    "Boyları birbirine yakın olanları alın, böylece aynı sürede pişer; küçükleri daha tatlıdır."
+  ],
+  "besin": [
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif kaynağıdır: 100 g'da 3,8 g.",
+      "kaynak_adi": "USDA FoodData Central — Brussels sprouts, raw (FDC ID 170383, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170383/nutrients"
+    },
+    {
+      "ad": "Protein",
+      "tur": "diger",
+      "aciklama": "Protein açısından zengindir: enerjisinin yaklaşık %31'i proteinden gelir (100 g'da 3,38 g).",
+      "kaynak_adi": "USDA FoodData Central — Brussels sprouts, raw (FDC ID 170383, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170383/nutrients"
+    },
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini açısından zengindir: 100 g'da 177 µg; günlük başvuru değerine oranı yaklaşık %236.",
+      "kaynak_adi": "USDA FoodData Central — Brussels sprouts, raw (FDC ID 170383, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170383/nutrients"
+    },
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir: 100 g'da 85 mg; günlük başvuru değerine oranı yaklaşık %106.",
+      "kaynak_adi": "USDA FoodData Central — Brussels sprouts, raw (FDC ID 170383, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170383/nutrients"
+    },
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat açısından zengindir: 100 g'da 61 µg; günlük başvuru değerine oranı yaklaşık %30.",
+      "kaynak_adi": "USDA FoodData Central — Brussels sprouts, raw (FDC ID 170383, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170383/nutrients"
+    },
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum kaynağıdır: 100 g'da 389 mg; günlük başvuru değerine oranı yaklaşık %19.",
+      "kaynak_adi": "USDA FoodData Central — Brussels sprouts, raw (FDC ID 170383, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170383/nutrients"
+    },
+    {
+      "ad": "Manganez",
+      "tur": "mineral",
+      "aciklama": "Manganez kaynağıdır: 100 g'da 0,34 mg; günlük başvuru değerine oranı yaklaşık %17.",
+      "kaynak_adi": "USDA FoodData Central — Brussels sprouts, raw (FDC ID 170383, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170383/nutrients"
+    }
+  ],
+  "tarifler": [
+    "firinda_bruksel_lahanasi",
+    "tereyagli_bruksel_lahanasi"
+  ]
+}

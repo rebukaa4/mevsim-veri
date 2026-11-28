@@ -3,7 +3,7 @@
   "ad": "Karamanlı Cevizi",
   "diger_adlar": [],
   "kategori_id": "diger",
-  "kisa_tanim": "Burdur Karamanlı'da Şebin, Kaman 1 ve Yalova 1 türlerinden yetiştirilen ceviz.",
+  "kisa_tanim": "Burdur Karamanlı'da Şebin, Kaman 1 ve Yalova 1 çeşitlerinden yetiştirilen ceviz.",
   "uretim_sekli": "dogal",
   "yil_boyu": false,
   "ilgili_urun_id": null,
@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170187/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 17,
+  "siralama": 23,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Kabuğu kırmak için cevizi sivri uçları yukarı-aşağı gelecek şekilde tutun ve ortadaki birleşme çizgisinden ceviz kıracağıyla ya da çekiçle hafifçe vurun.",

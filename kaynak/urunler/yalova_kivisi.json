@@ -1,0 +1,93 @@
+{
+  "id": "yalova_kivisi",
+  "ad": "Yalova Kivisi",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Yalova'nın Hayward kivisi: kahverengi-yeşilimsi, kısa tüylü kabuk; eti parlak yeşil, mayhoş ve bol sulu, 80–150 g. Soğuk depoda 9 aya kadar dayanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "77",
+  "gorsel_id": "kivi",
+  "aktif": true,
+  "enerji_kcal_100g": 61,
+  "enerji_durum": "çiğ, kabuksuz (yeşil etli) (kivi genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Kiwifruit, green, raw (FDC ID 168153, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/168153/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 2,
+  "siralama": 70,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "İkiye bölüp kaşıkla oyarak ya da kabuğunu bıçakla soyup dilimleyerek yiyin."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "yalova_kivisi__77__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "77",
+      "donem_turu": "hasat",
+      "bas": "10-24",
+      "bit": "11-10",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Yalova Kivisi (No 851)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/d8b0e6ed-ca52-4240-ac96-fee11315ee13.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Yalova kivisi Ekim sonu – Kasım başında toplanır."
+    },
+    {
+      "id": "yalova_kivisi__77__depo__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "77",
+      "donem_turu": "depo",
+      "bas": "11-11",
+      "bit": "05-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Yalova Kivisi (No 851)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/d8b0e6ed-ca52-4240-ac96-fee11315ee13.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Yalova kivisi soğuk depodan Mayıs sonuna kadar bulunur."
+    }
+  ],
+  "secim_ipuclari": [
+    "Parmakla hafifçe bastırınca az esneyen kivi yemeye hazırdır.",
+    "Çok yumuşak, buruşuk ya da ekşi kokan kiviyi almayın.",
+    "Sert aldıysanız oda sıcaklığında birkaç gün bekletin."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir: 100 g'da 92,7 mg; günlük başvuru değerine oranı yaklaşık %115.",
+      "kaynak_adi": "USDA FoodData Central — Kiwifruit, green, raw (FDC ID 168153, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168153/nutrients"
+    },
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini açısından zengindir: 100 g'da 40,3 µg; günlük başvuru değerine oranı yaklaşık %53.",
+      "kaynak_adi": "USDA FoodData Central — Kiwifruit, green, raw (FDC ID 168153, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168153/nutrients"
+    },
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum kaynağıdır: 100 g'da 312 mg; günlük başvuru değerine oranı yaklaşık %15.",
+      "kaynak_adi": "USDA FoodData Central — Kiwifruit, green, raw (FDC ID 168153, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168153/nutrients"
+    },
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif kaynağıdır: 100 g'da 3 g.",
+      "kaynak_adi": "USDA FoodData Central — Kiwifruit, green, raw (FDC ID 168153, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168153/nutrients"
+    }
+  ],
+  "tarifler": [
+    "meyveli_yogurt_kasesi",
+    "meyve_salatasi"
+  ]
+}

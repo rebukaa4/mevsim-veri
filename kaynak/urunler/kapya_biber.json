@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170108/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 25,
+  "siralama": 29,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Közlemek için ocak telinde ya da fırında (220 °C) kabukları kararana kadar çevirerek pişirin.",
@@ -26,6 +26,19 @@
   "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
   "hazirlama_kaynak_link": null,
   "mevsimler": [
+    {
+      "id": "kapya_biber__marmara__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "hasat",
+      "bas": "08-01",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Yenice Kırmızı Biberi (No 692) + Türk Patent coğrafi işaret tescili: Çukurören Biberi (No 520) + İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/578a752a-9e7a-4c01-bf34-32a4a4118487.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kırmızı kapya biber Marmara'da Ağustos'tan ilk dona kadar bol."
+    },
     {
       "id": "kapya_biber__ege__pazar_yogun__1",
       "kapsam_turu": "bolge",

@@ -1,0 +1,72 @@
+{
+  "id": "bayramic_elmasi",
+  "ad": "Bayramiç Elması",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Çanakkale Bayramiç'te Kaz Dağları'nın kuzey yamaçlarında yetişen Golden Delicious elması; ekimin ilk yarısında toplanır, bahara kadar saklanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "17",
+  "gorsel_id": "elma",
+  "aktif": true,
+  "enerji_kcal_100g": 52,
+  "enerji_durum": "çiğ, kabuğuyla (elma genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Apples, raw, with skin (Includes foods for USDA's Food Distribution Program) (FDC ID 171688, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/171688/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 55,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "bayramic_elmasi__17__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "17",
+      "donem_turu": "hasat",
+      "bas": "10-01",
+      "bit": "10-14",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Bayramiç Elması (No 203)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/203.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Bayramiç elması Ekim'in ilk iki haftasında toplanır."
+    },
+    {
+      "id": "bayramic_elmasi__17__depo__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "17",
+      "donem_turu": "depo",
+      "bas": "10-15",
+      "bit": "04-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Bayramiç Elması (No 203)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/203.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Bayramiç elması soğuk depodan Nisan sonuna kadar bulunur."
+    }
+  ],
+  "secim_ipuclari": [
+    "Sert ve diri olsun; bastırınca iz kalıyorsa unlu (pamuk gibi) olabilir.",
+    "Kabuğu parlak ve gergin olmalı; buruşmuş kabuk uzun depolama işaretidir.",
+    "Ezik, kararmış ya da delikli (kurtlu) elma almayın.",
+    "Sap çukurunda hoş bir elma kokusu olmalı."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini içerir: 100 g'da 4,6 mg; günlük başvuru değerine oranı yaklaşık %5.",
+      "kaynak_adi": "USDA FoodData Central — Apples, raw, with skin (Includes foods for USDA's Food Distribution Program) (FDC ID 171688, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/171688/nutrients"
+    }
+  ],
+  "tarifler": [
+    "meyve_salatasi",
+    "firin_elma",
+    "elmali_kek"
+  ]
+}

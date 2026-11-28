@@ -23,6 +23,19 @@
   "hazirlama_kaynak_link": null,
   "mevsimler": [
     {
+      "id": "incir__marmara__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "hasat",
+      "bas": "08-01",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Bursa Siyah İnciri (No 391) + Türk Patent coğrafi işaret tescili: Havran Siyah İnciri (No 1382) + İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/1b688d8a-fc31-4e38-bc63-1b77761e58dc.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Taze incir Marmara'da Ağustos başından Ekim sonuna kadar toplanır."
+    },
+    {
       "id": "incir__ege__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "ege",

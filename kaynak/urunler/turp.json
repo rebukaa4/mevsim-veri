@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169276/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 38,
+  "siralama": 42,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Yapraklarını ve kökünü kesip fırçayla yıkayın.",
@@ -26,6 +26,19 @@
   "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
   "hazirlama_kaynak_link": null,
   "mevsimler": [
+    {
+      "id": "turp__marmara__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "hasat",
+      "bas": "11-01",
+      "bit": "03-31",
+      "kaynak_adi": "Bursa İl Tarım ve Orman Müdürlüğü, İl Yayım Faaliyetleri — aylık yapılacak işler + İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali)",
+      "kaynak_link": "https://bursa.tarimorman.gov.tr/Link/38/Il-Yayim-Faaliyetleri",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Marmara turpu Kasım–Mart arasında bol."
+    },
     {
       "id": "turp__ege__pazar_yogun__1",
       "kapsam_turu": "bolge",

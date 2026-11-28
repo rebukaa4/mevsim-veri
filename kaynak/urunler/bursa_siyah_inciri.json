@@ -1,0 +1,59 @@
+{
+  "id": "bursa_siyah_inciri",
+  "ad": "Bursa Siyah İnciri",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Bursa'nın Bursa Siyahı (Dürdane) inciri: kabuğu koyu mor, eti kırmızı, iri (55–65 mm); taze yenir. AB'de de menşe adıyla korunur.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "16",
+  "gorsel_id": "bursa_siyah_inciri",
+  "aktif": true,
+  "enerji_kcal_100g": 74,
+  "enerji_durum": "taze, çiğ (i̇ncir genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Figs, raw (FDC ID 173021, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/173021/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 52,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "bursa_siyah_inciri__16__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "16",
+      "donem_turu": "hasat",
+      "bas": "08-01",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Bursa Siyah İnciri (No 391)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/1b688d8a-fc31-4e38-bc63-1b77761e58dc.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Bursa siyah inciri Ağustos başından Ekim sonuna kadar toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Olgun incir dokununca yumuşaktır; sert olanlar koparıldıktan sonra pek olgunlaşmaz.",
+    "Sapı sağlam ve meyveye bağlı olsun; boyun kısmı hafif bükülmüş incir olgundur.",
+    "Kabukta hafif çatlaklar olgunluk işaretidir, ama ekşi koku, sızıntı ya da küf varsa almayın.",
+    "Çok çabuk bozulur; 1–2 gün içinde yiyin."
+  ],
+  "besin": [
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum içerir: 100 g'da 232 mg; günlük başvuru değerine oranı yaklaşık %11.",
+      "kaynak_adi": "USDA FoodData Central — Figs, raw (FDC ID 173021, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173021/nutrients"
+    }
+  ],
+  "tarifler": [
+    "incir_receli",
+    "incirli_yogurt",
+    "cevizli_kuru_incir_tatlisi"
+  ]
+}

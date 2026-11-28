@@ -1,0 +1,64 @@
+{
+  "id": "karacabey_sogani",
+  "ad": "Karacabey Soğanı",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Bursa Karacabey'in kuru soğanı; Kantartopu, İmralı ve İmralı Kırması tiplerinden oluşur, İmralı tipi belirgin biçimde eliptiktir.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "16",
+  "gorsel_id": "kuru_sogan",
+  "aktif": true,
+  "enerji_kcal_100g": 40,
+  "enerji_durum": "çiğ, yenebilir kısım (kuru soğan genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Onions, raw (FDC ID 170000)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170000/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 26,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "karacabey_sogani__16__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "16",
+      "donem_turu": "hasat",
+      "bas": "06-01",
+      "bit": "07-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Karacabey Soğanı (No 247)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/247.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Karacabey soğanı Haziran–Temmuz'da sökülür."
+    },
+    {
+      "id": "karacabey_sogani__16__depo__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "16",
+      "donem_turu": "depo",
+      "bas": "08-01",
+      "bit": "03-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Karacabey Soğanı (No 247)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/247.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Karacabey soğanı depoda bahara kadar dayanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Elinizde sert ve ağır olanı seçin.",
+    "Dış kabuk kuru, ince ve kâğıt gibi hışırdamalı.",
+    "Filizlenmiş, yumuşamış ya da kararmış (küflü) olanları almayın.",
+    "Kokusu keskin olmalı ama çürük kokmamalı."
+  ],
+  "besin": [],
+  "tarifler": [
+    "sumakli_sogan",
+    "zeytinyagli_taze_fasulye",
+    "kapuska"
+  ]
+}

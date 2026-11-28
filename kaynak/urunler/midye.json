@@ -30,6 +30,19 @@
   "hazirlama_kaynak_link": null,
   "mevsimler": [
     {
+      "id": "midye__marmara__av__1",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "marmara",
+      "donem_turu": "av",
+      "bas": "07-01",
+      "bit": "04-14",
+      "kaynak_adi": "6/1 Numaralı Tebliğ (No 2024/20), RG 11.08.2024/32629 + Yildirim ve ark. 2024, Eur Zool J (Erdek midyesi; yalnızca arama özeti)",
+      "kaynak_link": "https://resmigazete.gov.tr/eskiler/2024/08/20240811-3.htm",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Kara midye 15 Nisan – 30 Haziran dışında toplanabilir; İstanbul Boğazı'nın bir kısmında toplamak yıl boyu yasaktır."
+    },
+    {
       "id": "midye__ege__av__1",
       "kapsam_turu": "deniz",
       "kapsam_id": "ege",

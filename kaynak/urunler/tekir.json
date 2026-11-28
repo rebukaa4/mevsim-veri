@@ -30,6 +30,19 @@
   "hazirlama_kaynak_link": null,
   "mevsimler": [
     {
+      "id": "tekir__marmara__av__1",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "marmara",
+      "donem_turu": "av",
+      "bas": "11-01",
+      "bit": "12-31",
+      "kaynak_adi": "Yıldız, Ulman & Demirel 2020, Ocean & Coastal Management 198:105353 (İstanbul balık hali 2006–2017 aylık karaya çıkış)",
+      "kaynak_link": "https://acikerisim.istanbul.edu.tr/handle/20.500.12627/2427",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "akademik",
+      "not": "Tekir Marmara'da Kasım–Aralık'ta bol."
+    },
+    {
       "id": "tekir__ege__pazar_yogun__1",
       "kapsam_turu": "deniz",
       "kapsam_id": "ege",

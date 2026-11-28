@@ -18,7 +18,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169908/nutrients",
   "az_bilinen": true,
   "bilinirlik": 3,
-  "siralama": 54,
+  "siralama": 72,
   "tanitim": "Yenidünya, erikten biraz büyük, ince turuncu kabuklu bir ilkbahar meyvesidir. Tadı tatlı-mayhoştur; kabuğu soyulup çekirdekleri çıkarılarak taze yenir, kompostosu ve reçeli de yapılır.",
   "hazirlama_adimlari": [
     "Yıkayın, sapını koparın.",
@@ -29,6 +29,19 @@
   "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
   "hazirlama_kaynak_link": null,
   "mevsimler": [
+    {
+      "id": "yenidunya__marmara__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "pazar_yogun",
+      "bas": "04-15",
+      "bit": "05-31",
+      "kaynak_adi": "İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali)",
+      "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Yenidünya Nisan ortasından Mayıs sonuna kadar bulunur; çoğu güneyden gelir."
+    },
     {
       "id": "yenidunya__ege__pazar_yogun__1",
       "kapsam_turu": "bolge",

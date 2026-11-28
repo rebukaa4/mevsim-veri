@@ -1,0 +1,71 @@
+{
+  "id": "gursu_deveci_armudu",
+  "ad": "Gürsu Deveci Armudu",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Bursa Gürsu'nun kışlık Deveci armudu: iri, basık, altı geniş; sarımtırak zeminli, güneş gören yüzü pembemsi; eti beyaz, gevrek ve bol sulu.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "16",
+  "gorsel_id": "armut",
+  "aktif": true,
+  "enerji_kcal_100g": 57,
+  "enerji_durum": "çiğ (armut genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Pears, raw (FDC ID 169118, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169118/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 54,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "gursu_deveci_armudu__16__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "16",
+      "donem_turu": "hasat",
+      "bas": "09-24",
+      "bit": "10-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Gürsu Deveci Armudu (No 454)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/2848aea5-be59-4c3c-8d6f-ee3ffe82a6c9.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Gürsu Deveci armudu Eylül sonu – Ekim ortasında toplanır."
+    },
+    {
+      "id": "gursu_deveci_armudu__16__depo__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "16",
+      "donem_turu": "depo",
+      "bas": "10-16",
+      "bit": "05-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Gürsu Deveci Armudu (No 454)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/2848aea5-be59-4c3c-8d6f-ee3ffe82a6c9.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Deveci armudu soğuk depodan Mayıs sonuna kadar bulunur."
+    }
+  ],
+  "secim_ipuclari": [
+    "Armut ağaçta değil, toplandıktan sonra olgunlaşır; sap dibine (boyun kısmı) hafifçe bastırın, azıcık esniyorsa yemeye hazırdır.",
+    "Sert aldıysanız oda sıcaklığında 2–3 gün bekletin.",
+    "Kabukta ezik, kararmış ya da yumuşamış bölge olmamalı."
+  ],
+  "besin": [
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif kaynağıdır: 100 g'da 3,1 g.",
+      "kaynak_adi": "USDA FoodData Central — Pears, raw (FDC ID 169118, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169118/nutrients"
+    }
+  ],
+  "tarifler": [
+    "meyve_salatasi",
+    "armut_tatlisi",
+    "armutlu_peynirli_salata"
+  ]
+}

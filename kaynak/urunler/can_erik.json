@@ -16,12 +16,25 @@
   "enerji_kaynak_link": null,
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 45,
+  "siralama": 60,
   "tanitim": null,
   "hazirlama_adimlari": [],
   "hazirlama_kaynak_adi": null,
   "hazirlama_kaynak_link": null,
   "mevsimler": [
+    {
+      "id": "can_erik__marmara__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "pazar_yogun",
+      "bas": "05-01",
+      "bit": "06-15",
+      "kaynak_adi": "İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali) + Mevsim Ege sezon tablosu ve oradaki kaynaklar",
+      "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Can erik Mayıs'tan Haziran ortasına kadar bulunur."
+    },
     {
       "id": "can_erik__ege__pazar_yogun__1",
       "kapsam_turu": "bolge",

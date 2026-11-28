@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/173475/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 32,
+  "siralama": 36,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Yapraklarını saplarından ayırın, yıkayıp süzün.",
@@ -25,6 +25,19 @@
   "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
   "hazirlama_kaynak_link": null,
   "mevsimler": [
+    {
+      "id": "taze_nane__marmara__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "pazar_yogun",
+      "bas": "04-01",
+      "bit": "10-31",
+      "kaynak_adi": "İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali)",
+      "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Taze nane Nisan–Ekim arasında bol."
+    },
     {
       "id": "taze_nane__ege__pazar_yogun__1",
       "kapsam_turu": "bolge",

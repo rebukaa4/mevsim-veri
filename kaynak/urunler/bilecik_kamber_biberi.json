@@ -1,0 +1,56 @@
+{
+  "id": "bilecik_kamber_biberi",
+  "ad": "Bilecik Kamber Biberi (Gavata)",
+  "diger_adlar": [
+    "gavata biberi",
+    "domates biberi"
+  ],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Bilecik'in Osmanlı mutfağından kalan kamber (gavata) biberi: adı biber olsa da patlıcangillerdendir; yuvarlak, hafif basık, 50–70 g, ince ve parlak kabukludur.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "11",
+  "gorsel_id": "bilecik_kamber_biberi",
+  "aktif": true,
+  "enerji_kcal_100g": null,
+  "enerji_durum": null,
+  "enerji_kaynak_adi": null,
+  "enerji_kaynak_link": null,
+  "az_bilinen": true,
+  "bilinirlik": 4,
+  "siralama": 71,
+  "tanitim": "Kamber biberi, yörede gavata ya da domates biberi diye de bilinir. Biber gibi adlandırılsa da biber değil, patlıcanın akrabası olan Afrika patlıcanı türündendir. Küçük, yuvarlak ve hafif basık meyvesi önce parlak yeşildir, olgunlaştıkça koyu kırmızıya döner. Yeşilken hafif acı, kırmızıyken tatlı bir tadı vardır. Bilecik'te temmuz-eylül arasında toplanır; turşusu, dolması ve közlemesi yapılır.",
+  "hazirlama_adimlari": [
+    "Yıkayıp kurulayın, sap kısmını kesin.",
+    "Közlemek için ocak ateşinde ya da fırının ızgarasında kabuğu kararana kadar çevirerek pişirin; ılınınca kabuğunu soyun.",
+    "Dolma yapacaksanız sap tarafından kapak gibi kesip içini kaşıkla oyun; ince kabuğu delinmesin.",
+    "Turşu için bütün ya da çatalla birkaç yerinden delinmiş olarak kavanoza dizin; tuz ve sirke oranı için güvendiğiniz bir turşu tarifine bakın."
+  ],
+  "hazirlama_kaynak_adi": "Bilecik Kamber Biberi / Gavata Biberi coğrafi işaret tescil belgesi (No 1863: turşuluk, dolmalık ve közleme kullanımı) + Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/0340d8e3-c68b-46e7-8933-3f59f282c458.pdf",
+  "mevsimler": [
+    {
+      "id": "bilecik_kamber_biberi__11__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "11",
+      "donem_turu": "hasat",
+      "bas": "07-01",
+      "bit": "09-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Bilecik Kamber Biberi / Gavata Biberi (No 1863)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/0340d8e3-c68b-46e7-8933-3f59f282c458.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Bilecik kamber biberi Temmuz–Eylül arasında toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Sert, dolgun ve parlak kabuklu olanları seçin; buruşmuş ya da yumuşamış olanları almayın.",
+    "Tadını rengine göre seçin: yeşili hafif acı, koyu kırmızısı tatlıdır.",
+    "Kabuğunda çatlak, ezik ya da kararmış leke olmasın; sap ucu taze ve yeşil kalmış olsun."
+  ],
+  "besin": [],
+  "tarifler": [
+    "kozlenmis_kamber_biberi"
+  ]
+}

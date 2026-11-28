@@ -23,6 +23,32 @@
   "hazirlama_kaynak_link": null,
   "mevsimler": [
     {
+      "id": "kuru_sogan__marmara__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "hasat",
+      "bas": "06-01",
+      "bit": "07-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Karacabey Soğanı (No 247) + Türk Patent coğrafi işaret tescili: Tekirdağ Soğanı (No 1228)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/247.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Marmara soğanı Haziran–Temmuz'da sökülür."
+    },
+    {
+      "id": "kuru_sogan__marmara__depo__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "depo",
+      "bas": "08-01",
+      "bit": "03-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Karacabey Soğanı (No 247) + İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/247.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Hasattan sonra depodan bahara kadar yerli soğan bulunur."
+    },
+    {
       "id": "kuru_sogan__ege__depo__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "ege",

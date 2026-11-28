@@ -23,6 +23,32 @@
   "hazirlama_kaynak_link": null,
   "mevsimler": [
     {
+      "id": "elma__marmara__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "hasat",
+      "bas": "09-01",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Bayramiç Elması (No 203) + Bursa İl Tarım ve Orman Müdürlüğü, İl Yayım Faaliyetleri — aylık yapılacak işler",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/203.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kışlık elma Eylül–Ekim'de toplanır; yazlık elma Haziran sonunda başlar."
+    },
+    {
+      "id": "elma__marmara__depo__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "depo",
+      "bas": "11-01",
+      "bit": "05-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Bayramiç Elması (No 203) + İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/203.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Elma soğuk depodan Mayıs sonuna kadar bol bulunur."
+    },
+    {
       "id": "elma__ege__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "ege",

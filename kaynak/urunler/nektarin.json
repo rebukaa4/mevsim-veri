@@ -16,12 +16,25 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169914/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 48,
+  "siralama": 63,
   "tanitim": null,
   "hazirlama_adimlari": [],
   "hazirlama_kaynak_adi": null,
   "hazirlama_kaynak_link": null,
   "mevsimler": [
+    {
+      "id": "nektarin__marmara__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "hasat",
+      "bas": "07-01",
+      "bit": "09-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Bayramiç Beyazı (No 157) + İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/43265cae-07aa-4e47-9b46-b0a39ca6ea75.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Nektarin Marmara'da Temmuz'dan Eylül ortasına kadar bulunur."
+    },
     {
       "id": "nektarin__ege__hasat__1",
       "kapsam_turu": "bolge",

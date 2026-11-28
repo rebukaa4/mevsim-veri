@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/168448/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 36,
+  "siralama": 40,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Kalın kabuğunu keskin bir bıçakla, dilimleri tahtaya yatırarak soyun.",
@@ -26,6 +26,32 @@
   "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
   "hazirlama_kaynak_link": null,
   "mevsimler": [
+    {
+      "id": "balkabagi__marmara__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "hasat",
+      "bas": "09-15",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Kızıldamlar Kestane Kabağı (No 1896) + Türk Patent coğrafi işaret tescili: Adapazarı Beyaz Kestane Kabağı (No 501)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/2b654450-71ac-4e9e-b8b2-dca5ef94508f.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kabak Eylül ortasından Ekim sonuna kadar toplanır."
+    },
+    {
+      "id": "balkabagi__marmara__depo__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "depo",
+      "bas": "11-01",
+      "bit": "03-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Adapazarı Beyaz Kestane Kabağı (No 501) + İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/bfe04830-b1cb-472b-b16b-377a403eab2f.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kabak serin yerde saklanarak kış boyu bulunur."
+    },
     {
       "id": "balkabagi__ege__pazar_yogun__1",
       "kapsam_turu": "bolge",

@@ -1,0 +1,104 @@
+{
+  "id": "degirmendere_findigi",
+  "ad": "Değirmendere Fındığı (taze)",
+  "diger_adlar": [],
+  "kategori_id": "diger",
+  "kisa_tanim": "Kocaeli Gölcük Değirmendere'nin Yassı Badem çeşidi fındığı: parlak kahverengi, basık ve uzun kabuklu; temmuz sonunda toplanıp taze yenir.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "41",
+  "gorsel_id": "degirmendere_findigi",
+  "aktif": true,
+  "enerji_kcal_100g": 628,
+  "enerji_durum": "kuru iç fındık (taze fındık daha nemli olduğundan enerjisi bundan düşüktür)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Nuts, hazelnuts or filberts (FDC ID 170581, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170581/nutrients",
+  "az_bilinen": true,
+  "bilinirlik": 3,
+  "siralama": 27,
+  "tanitim": "Değirmendere fındığı, Gölcük'te deniz kıyısındaki alçak bahçelerde yetişen Yassı Badem çeşidi bir fındıktır. Kabuğu parlak kahverengi, biçimi basık ve uzundur. Kurutulup saklanmaz; temmuzun son haftasında elle toplanıp taze olarak satılır. Taze fındığın içi kurusundan daha nemli ve gevrektir, tadı hafiftir.",
+  "hazirlama_adimlari": [
+    "Yeşil zurufu varsa elle soyup ayırın.",
+    "Kabuğu fındık kıracağıyla ya da iki taş arasında hafifçe vurarak kırın; içini çıkarın.",
+    "Taze fındık çabuk bozulur: kırılmamış hâlde buzdolabının sebzeliğinde birkaç gün saklayın.",
+    "Uzun saklamak isterseniz kabuklu fındığı havadar, gölge bir yerde birkaç hafta kurutun; kurumuş fındığı kavanozda serin yerde tutun."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "degirmendere_findigi__41__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "41",
+      "donem_turu": "hasat",
+      "bas": "07-24",
+      "bit": "07-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Değirmendere Fındığı (No 1704)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/bd6e0143-e0e8-41ff-a68c-56eccb0da181.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Değirmendere fındığı Temmuz'un son haftasında toplanır ve taze satılır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Kabuğu parlak, dolgun ve lekesiz olanları seçin; küflü, delik ya da kararmış kabuklu fındık almayın.",
+    "Birkaç tanesini kırıp bakın: iç dolgun, beyazımsı ve gevrek olmalı; buruşmuş ya da acı tatlı olanı almayın.",
+    "Yeşil zurufu (dış kapçığı) üzerindeyse taze ve canlı yeşil olsun; kuruyup kararmışsa fındık beklemiştir."
+  ],
+  "besin": [
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif açısından zengindir: 100 g'da 9,7 g.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, hazelnuts or filberts (FDC ID 170581, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170581/nutrients"
+    },
+    {
+      "ad": "Manganez",
+      "tur": "mineral",
+      "aciklama": "Manganez açısından zengindir: 100 g'da 6,17 mg; günlük başvuru değerine oranı yaklaşık %309.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, hazelnuts or filberts (FDC ID 170581, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170581/nutrients"
+    },
+    {
+      "ad": "Bakır",
+      "tur": "mineral",
+      "aciklama": "Bakır açısından zengindir: 100 g'da 1,73 mg; günlük başvuru değerine oranı yaklaşık %172.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, hazelnuts or filberts (FDC ID 170581, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170581/nutrients"
+    },
+    {
+      "ad": "E vitamini",
+      "tur": "vitamin",
+      "aciklama": "E vitamini açısından zengindir: 100 g'da 15 mg; günlük başvuru değerine oranı yaklaşık %125.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, hazelnuts or filberts (FDC ID 170581, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170581/nutrients"
+    },
+    {
+      "ad": "B1 vitamini (tiamin)",
+      "tur": "vitamin",
+      "aciklama": "B1 vitamini (tiamin) açısından zengindir: 100 g'da 0,64 mg; günlük başvuru değerine oranı yaklaşık %58.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, hazelnuts or filberts (FDC ID 170581, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170581/nutrients"
+    },
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat açısından zengindir: 100 g'da 113 µg; günlük başvuru değerine oranı yaklaşık %56.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, hazelnuts or filberts (FDC ID 170581, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170581/nutrients"
+    },
+    {
+      "ad": "Magnezyum",
+      "tur": "mineral",
+      "aciklama": "Magnezyum açısından zengindir: 100 g'da 163 mg; günlük başvuru değerine oranı yaklaşık %43.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, hazelnuts or filberts (FDC ID 170581, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170581/nutrients"
+    }
+  ],
+  "tarifler": [
+    "taze_findikli_roka_salatasi",
+    "findikli_ispanak_sote"
+  ]
+}
