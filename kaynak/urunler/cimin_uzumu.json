@@ -1,0 +1,76 @@
+{
+  "id": "cimin_uzumu",
+  "ad": "Cimin Üzümü",
+  "diger_adlar": [
+    "karaerik"
+  ],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Erzincan Üzümlü'nün iri, siyah taneli üzümü (karaerik); Eylül başından Ekim sonuna kadar toplanır, Ağustos–Kasım arası pazarda bulunur.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "24",
+  "gorsel_id": "uzum",
+  "aktif": true,
+  "enerji_kcal_100g": 69,
+  "enerji_durum": "çiğ (üzüm genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Grapes, red or green (European type, such as Thompson seedless), raw (FDC ID 174683, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/174683/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 91,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Yemeden hemen önce, salkımı bir süzgece koyup akan su altında yıkayın.",
+    "Taneleri sapından ayırmadan buzdolabında saklayın; ayırınca daha çabuk bozulur."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "cimin_uzumu__24__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "24",
+      "donem_turu": "hasat",
+      "bas": "09-01",
+      "bit": "10-31",
+      "kaynak_adi": "Özoğul Ü., Küpe M. 2025, Cimin (Karaerik) üzümü çalışması, Erciyes Tarım ve Hayvan Bilimleri Dergisi 8(1):82–92 + Gözener B., Kaya E., Sayılı M. 2014, Erzincan Üzümlü bağcılık işletmeleri araştırması, Bilader (GOP Üniv.) 9:74–80 + Türk Patent coğrafi işaret tescili: Cimin Üzümü (No 37)",
+      "kaynak_link": "https://dergipark.org.tr/en/download/article-file/4802120",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "akademik",
+      "not": "Erzincan'ın Cimin üzümü Eylül başından Ekim sonuna kadar toplanır."
+    },
+    {
+      "id": "cimin_uzumu__24__pazar_yogun__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "24",
+      "donem_turu": "pazar_yogun",
+      "bas": "08-01",
+      "bit": "11-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Cimin Üzümü (No 37)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/37.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Cimin üzümü Ağustos'tan Kasım sonuna kadar pazarda bulunur."
+    }
+  ],
+  "secim_ipuclari": [
+    "Salkım sapı yeşil ve esnek olsun; kahverengi, kuru sap eski üründür.",
+    "Taneler salkıma sıkıca bağlı olmalı; sallayınca dökülüyorsa bekletilmiştir.",
+    "Tanelerde ezik, çatlak ya da kahverengi leke olmamalı.",
+    "Tane üzerindeki ince beyaz pus doğaldır."
+  ],
+  "besin": [
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini kaynağıdır: 100 g'da 14,6 µg; günlük başvuru değerine oranı yaklaşık %19.",
+      "kaynak_adi": "USDA FoodData Central — Grapes, red or green (European type, such as Thompson seedless), raw (FDC ID 174683, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/174683/nutrients"
+    }
+  ],
+  "tarifler": [
+    "meyve_salatasi",
+    "uzum_kompostosu"
+  ]
+}

@@ -79,6 +79,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Yabani kuzukulağı baharda, Nisan–Haziran arasında toplanır; ekili olanı yıl boyu bulunur."
+    },
+    {
+      "id": "kuzukulagi__dogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "dogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "01-01",
+      "bit": "12-31",
+      "kaynak_adi": "Malatya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://www.malatya.bel.tr/sayfa/hal-fiyatlari-2026",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kuzukulağı yıl boyu bulunur."
     }
   ],
   "secim_ipuclari": [

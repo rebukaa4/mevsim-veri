@@ -1,0 +1,56 @@
+{
+  "id": "alic",
+  "ad": "Alıç",
+  "diger_adlar": [
+    "yemişen"
+  ],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Dağ ve yamaçlardaki alıç ağacının küçük, yuvarlak sarı ya da kırmızı meyvesi; mayhoş, unlu bir tadı vardır. Ekimde pazara gelir.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "alic",
+  "aktif": true,
+  "enerji_kcal_100g": null,
+  "enerji_durum": null,
+  "enerji_kaynak_adi": null,
+  "enerji_kaynak_link": null,
+  "az_bilinen": true,
+  "bilinirlik": 4,
+  "siralama": 136,
+  "tanitim": "Alıç (Crataegus türleri), Doğu Anadolu'nun dağ eteklerinde ve bağ kenarlarında kendiliğinden yetişen dikenli bir ağacın meyvesidir. Fındık ile küçük erik arasında iri, yuvarlak meyveleri türe göre sarı, turuncu ya da kırmızı olur. İyice olgunlaşıp hafif yumuşadığında tatlı-mayhoş ve unlu bir tadı vardır. İçinde 1–5 tane sert çekirdek bulunur; çekirdekler yenmez. Taze olarak yenir ya da kaynatılıp süzülerek marmelat ve pestil yapılır.",
+  "hazirlama_adimlari": [
+    "Sapları ve kuru çiçek uçlarını koparın, meyveleri bol suda yıkayıp süzün.",
+    "Taze yerken meyveyi ısırıp etini yiyin; içindeki sert çekirdekleri yemeyin, atın.",
+    "Marmelat ya da komposto için alıçları az suyla yumuşayana kadar 15–20 dakika kaynatın.",
+    "Sıcakken süzgeçten ya da kevgirden kaşıkla bastırarak geçirin; çekirdek ve kabuk süzgeçte kalır, püreyi kullanın."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "alic__dogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "dogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "10-01",
+      "bit": "10-31",
+      "kaynak_adi": "Malatya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://www.malatya.bel.tr/sayfa/hal-fiyatlari-2026",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Alıç Ekim'de pazara gelir."
+    }
+  ],
+  "secim_ipuclari": [
+    "Rengi tam dönmüş (sarı ya da koyu kırmızı), dolgun ve parlak meyveleri seçin.",
+    "Parmakla hafifçe bastırınca azıcık yumuşak olan alıç olgundur; taş gibi sert olan buruk olur.",
+    "Ezilmiş, sulanmış ya da küf kokan meyveleri almayın; buzdolabında 4–5 gün dayanır."
+  ],
+  "besin": [],
+  "tarifler": [
+    "alic_marmelati",
+    "alic_kompostosu"
+  ]
+}

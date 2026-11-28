@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170377/nutrients",
   "az_bilinen": true,
   "bilinirlik": 3,
-  "siralama": 73,
+  "siralama": 78,
   "tanitim": "Bakla, Ege'de genç ve taze haliyle kabuğu ve tanesiyle birlikte yenen bir baklagildir. Kabuk pişince yumuşar, tadı hafif otsu ve tatlıdır; iri baklalarda yalnızca içteki yeşil taneler yenir.",
   "hazirlama_adimlari": [
     "Baklaları yıkayın; iki ucunu kesip kenarlarındaki kılçığı çekerek ayıklayın.",
@@ -91,6 +91,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Yeşil bakla Nisan ortasından Haziran ortasına kadar bulunur."
+    },
+    {
+      "id": "bakla__dogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "dogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "04-01",
+      "bit": "06-15",
+      "kaynak_adi": "Malatya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://www.malatya.bel.tr/sayfa/hal-fiyatlari-2026",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Taze bakla Nisan'dan Haziran ortasına kadar bulunur."
     },
     {
       "id": "bakla__guneydogu_anadolu__pazar_yogun__1",

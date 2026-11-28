@@ -101,6 +101,19 @@
       "not": "Kiraz Haziran'dan Temmuz sonuna kadar; yüksek yerlerde Ağustos'a sarkar."
     },
     {
+      "id": "kiraz__dogu_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "dogu_anadolu",
+      "donem_turu": "hasat",
+      "bas": "06-15",
+      "bit": "07-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Malatya Dalbastı Kirazı (No 267) + Malatya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/93748675-c68c-45cc-9cfa-adffd07e9022.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kiraz Haziran ortasından Temmuz sonuna kadar bol; Malatya'da Haziran ortasında toplanır."
+    },
+    {
       "id": "kiraz__guneydogu_anadolu__pazar_yogun__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "guneydogu_anadolu",

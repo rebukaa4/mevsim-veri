@@ -19,7 +19,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/167758/nutrients",
   "az_bilinen": true,
   "bilinirlik": 5,
-  "siralama": 97,
+  "siralama": 102,
   "tanitim": "Işgın (Rheum ribes), Doğu ve Güneydoğu Anadolu'nun 1500–2000 metrelik taşlık yamaçlarında yetişen yabani bir raventtir. Nisandan haziran sonuna kadar toplanan kalın, sulu sapları Hakkari ve Muş dağlarından Diyarbakır pazarlarına gelir. Sapın dışı kırmızımsı-yeşil ve liflidir; soyulunca içindeki açık yeşil, gevrek ve ekşi kısım tuza batırılarak çiğ yenir. Yörede yemeğe ve turşuya da katılır. Yalnızca sapı yenir; büyük, kırışık yaprakları yenmez.",
   "hazirlama_adimlari": [
     "Yaprakları sapın ucundan kesip atın; yapraklar yenmez.",
@@ -30,6 +30,19 @@
   "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
   "hazirlama_kaynak_link": null,
   "mevsimler": [
+    {
+      "id": "isgin__dogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "dogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "04-01",
+      "bit": "06-30",
+      "kaynak_adi": "Meral R. 2017, Farklı Sıcaklık Derecelerinin Uşkun Bitkisinin Antioksidan Aktivitesi ve Fenolik Profili Üzerine Etkisi, YYÜ Tarım Bilimleri Dergisi 27(1):88–94 + Kadıoğlu S., Kadıoğlu B., Dizikısa T., Karagöz Sezer K. 2021, Doğal Olarak Yetişen ve Halk Tarafından Kullanılan Yabani Bitkilerin Etnobotanik Özellikleri (Erzurum), Muş Alparslan Üniv. Tarımsal Üretim ve Teknolojileri Dergisi 1(1):39–50",
+      "kaynak_link": "https://dergipark.org.tr/en/download/article-file/304961",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "akademik",
+      "not": "Işgın (uçkun) Nisan'dan Haziran sonuna kadar dağlardan toplanır ve pazarda taze satılır."
+    },
     {
       "id": "isgin__guneydogu_anadolu__pazar_yogun__1",
       "kapsam_turu": "bolge",

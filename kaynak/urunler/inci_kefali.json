@@ -1,0 +1,71 @@
+{
+  "id": "inci_kefali",
+  "ad": "İnci kefali",
+  "diger_adlar": [
+    "Van balığı"
+  ],
+  "kategori_id": "balik_deniz",
+  "kisa_tanim": "Yalnızca Van Gölü havzasında yaşayan gümüş renkli küçük balık; Van balığı da denir. 16 Temmuz – 14 Nisan arasında avlanır, tavası ve tuzlaması yapılır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "65",
+  "gorsel_id": "inci_kefali",
+  "aktif": true,
+  "enerji_kcal_100g": null,
+  "enerji_durum": null,
+  "enerji_kaynak_adi": null,
+  "enerji_kaynak_link": null,
+  "az_bilinen": true,
+  "bilinirlik": 5,
+  "siralama": 39,
+  "tanitim": "İnci kefali (Alburnus tarichi), dünyada yalnızca Van Gölü havzasında yaşayan, sazangiller ailesinden küçük bir balıktır; adına rağmen denizdeki kefalle akraba değildir. Gölün sodalı suyunda yaşar, ilkbaharda yumurtlamak için tatlı su derelerine göç eder. Bu üreme döneminde, 15 Nisan – 15 Temmuz arasında avı yasaktır. Boyu genellikle 15–25 cm'dir; eti beyaz, yumuşak ve kılçıklıdır. Van ve Bitlis'te taze olarak tava yapılır; eskiden tuzlanıp kurutularak kışa da saklanırdı.",
+  "hazirlama_adimlari": [
+    "Pulları bıçağın tersiyle kuyruktan başa doğru kazıyarak temizleyin.",
+    "Karnını yarıp içini çıkarın, karın içindeki siyah zarı akan suyun altında ovarak iyice yıkayın.",
+    "Başını kesin; küçük balıkları bütün, büyükleri ortadan ikiye ayırarak pişirin.",
+    "Tuzlayıp una bulayın ve kızgın yağda iki yüzü kızarana kadar 3–4 dakika tava yapın. Kılçıklıdır; yerken dikkat edin."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "inci_kefali__65__av__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "65",
+      "donem_turu": "av",
+      "bas": "07-16",
+      "bit": "04-14",
+      "kaynak_adi": "6/1 Numaralı Ticari Amaçlı Su Ürünleri Avcılığının Düzenlenmesi Hakkında Tebliğ (2024/20), Madde 39, Resmî Gazete 11.08.2024 + Bozaoğlu A.S., Akkuş M., Yeşil 2019, Van Gölü'nde Fanyalı Uzatma Ağları ile İnci Kefali Avcılığı, Commagene Journal of Biology 3(1):27–31",
+      "kaynak_link": "https://resmigazete.gov.tr/eskiler/2024/08/20240811-3.htm",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Van balığı (inci kefali) 16 Temmuz – 14 Nisan arasında ağla avlanır; 15 Nisan – 15 Temmuz üreme dönemi av yasağıdır."
+    },
+    {
+      "id": "inci_kefali__13__av__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "13",
+      "donem_turu": "av",
+      "bas": "07-16",
+      "bit": "04-14",
+      "kaynak_adi": "6/1 Numaralı Ticari Amaçlı Su Ürünleri Avcılığının Düzenlenmesi Hakkında Tebliğ (2024/20), Madde 39, Resmî Gazete 11.08.2024 + Bozaoğlu A.S., Akkuş M., Yeşil 2019, Van Gölü'nde Fanyalı Uzatma Ağları ile İnci Kefali Avcılığı, Commagene Journal of Biology 3(1):27–31",
+      "kaynak_link": "https://resmigazete.gov.tr/eskiler/2024/08/20240811-3.htm",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Van balığı (inci kefali) 16 Temmuz – 14 Nisan arasında ağla avlanır; 15 Nisan – 15 Temmuz üreme dönemi av yasağıdır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Gözleri parlak ve dolgun, solungaçları kırmızı, pulları parlak gümüş olan balığı seçin.",
+    "Parmakla bastırınca eti hemen eski haline dönmeli; yumuşamış ya da ağır kokan balığı almayın.",
+    "15 Nisan – 15 Temmuz arasında av yasaktır; bu dönemde taze inci kefali satın almayın.",
+    "Aldığınız gün temizleyip pişirin; buzdolabında en fazla bir gün bekletin."
+  ],
+  "besin": [],
+  "tarifler": [
+    "inci_kefali_tava",
+    "izgara_balik"
+  ],
+  "ic_su_adi": "Van Gölü"
+}

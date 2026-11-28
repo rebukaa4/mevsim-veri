@@ -92,6 +92,19 @@
       "not": "Karadeniz tarla patlıcanı Temmuz ortasından Ekim ortasına kadar bulunur."
     },
     {
+      "id": "patlican__dogu_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "dogu_anadolu",
+      "donem_turu": "hasat",
+      "bas": "08-01",
+      "bit": "10-07",
+      "kaynak_adi": "Malatya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://www.malatya.bel.tr/sayfa/hal-fiyatlari-2026",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Yerel tarla patlıcanı Ağustos'tan Ekim başına kadar bulunur."
+    },
+    {
       "id": "patlican__guneydogu_anadolu__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "guneydogu_anadolu",

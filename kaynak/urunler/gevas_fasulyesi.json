@@ -1,0 +1,76 @@
+{
+  "id": "gevas_fasulyesi",
+  "ad": "Gevaş Fasulyesi",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Van Gölü kıyısındaki Gevaş'ın kılçıksız, gevrek sırık fasulyesi; Ağustos ortasından Ekim başına kadar taze toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "65",
+  "gorsel_id": "taze_fasulye",
+  "aktif": true,
+  "enerji_kcal_100g": 31,
+  "enerji_durum": "çiğ, yenebilir kısım (taze fasulye genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Beans, snap, green, raw (FDC ID 169961)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169961/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 49,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Yıkayın; iki ucunu kesip kenarındaki kılçığı varsa çekerek ayıklayın.",
+    "Boyuna ikiye ya da çaprazına 3-4 cm boyunda doğrayın."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "gevas_fasulyesi__65__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "65",
+      "donem_turu": "hasat",
+      "bas": "08-15",
+      "bit": "10-10",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Gevaş Fasulyesi (No 1409)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/dbd38cb7-6dd8-4e22-ba46-0abe37717846.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Gevaş fasulyesi Ağustos ortasından Ekim başına kadar taze olarak toplanır; kılçıksızdır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Kabuk parlak yeşil olmalı; ikiye kırınca 'çıt' diye kırılmalı.",
+    "Bükünce esneyip kırılmayan fasulye bayatlamıştır.",
+    "İçindeki taneler belirgin şişmemiş olsun; çok iri taneli fasulyenin kabuğu kılçıklı ve serttir.",
+    "Kahverengi lekeli ya da kurumuş uçlu olanları almayın."
+  ],
+  "besin": [
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini açısından zengindir (100 g'da 43 µg; günlük başvuru değerine oranı yaklaşık %57).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Beans, snap, green, raw (FDC ID 169961)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169961/nutrients"
+    },
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat kaynağıdır (100 g'da 33 µg; günlük başvuru değerine oranı yaklaşık %16).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Beans, snap, green, raw (FDC ID 169961)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169961/nutrients"
+    },
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini kaynağıdır (100 g'da 12 mg; günlük başvuru değerine oranı yaklaşık %15).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Beans, snap, green, raw (FDC ID 169961)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169961/nutrients"
+    }
+  ],
+  "tarifler": [
+    "zeytinyagli_taze_fasulye",
+    "taze_fasulye_salatasi",
+    "sebzeli_turlu"
+  ]
+}

@@ -104,6 +104,19 @@
       "not": "Üzüm Ağustos ortasından Ekim sonuna kadar bulunur; sofralık üzüm çoğunlukla iç kesimden gelir."
     },
     {
+      "id": "uzum__dogu_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "dogu_anadolu",
+      "donem_turu": "hasat",
+      "bas": "07-15",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Elazığ Tahannebi Üzümü (No 1493) + Türk Patent coğrafi işaret tescili: Iğdır Beyaz Üzümü / Miskalı (No 829) + Türk Patent coğrafi işaret tescili: Arapgir Köhnü Üzümü (No 96) + Türk Patent coğrafi işaret tescili: Erciş Üzümü (No 601) + Türk Patent coğrafi işaret tescili: Cimin Üzümü (No 37) + Malatya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/ce632379-7b62-4704-ac6f-968cfa1adb73.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Bölgenin üzümü Temmuz ortasından Ekim sonuna kadar toplanır; Elazığ ve Iğdır'da erken, Erzincan Cimin'de Ekim sonuna kadar sürer."
+    },
+    {
       "id": "uzum__guneydogu_anadolu__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "guneydogu_anadolu",

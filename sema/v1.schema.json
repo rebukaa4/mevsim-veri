@@ -126,6 +126,7 @@
         "yil_boyu": {"type": "boolean"},
         "ilgili_urun_id": {"type": ["string", "null"], "pattern": "^[a-z0-9_]+$"},
         "yoresel_il_id": {"type": ["string", "null"], "pattern": "^(0[1-9]|[1-7][0-9]|8[01])$"},
+        "ic_su_adi": {"$ref": "#/$defs/metin_bos"},
         "gorsel_id": {"type": ["string", "null"], "pattern": "^[a-z0-9_]+$"},
         "aktif": {"type": "boolean"},
         "enerji_kcal_100g": {"type": ["integer", "null"], "minimum": 0, "maximum": 900},

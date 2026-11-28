@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169251/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 48,
+  "siralama": 52,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Mantarı suda bekletmeyin; sünger gibi su çeker.",
@@ -88,6 +88,19 @@
       "bit": "12-31",
       "kaynak_adi": "Mevsim, Marmara ürün tablosu (docs/08_marmara_urun_tablosu.md) ve oradaki İBB hal tonajları",
       "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kültür mantarı yıl boyu bulunur."
+    },
+    {
+      "id": "mantar__dogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "dogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "01-01",
+      "bit": "12-31",
+      "kaynak_adi": "Malatya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://www.malatya.bel.tr/sayfa/hal-fiyatlari-2026",
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Kültür mantarı yıl boyu bulunur."

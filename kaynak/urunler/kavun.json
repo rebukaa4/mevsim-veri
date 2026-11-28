@@ -101,6 +101,19 @@
       "not": "Bafra ve Tokat kavunu Temmuz ortasından Eylül sonuna kadar bulunur."
     },
     {
+      "id": "kavun__dogu_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "dogu_anadolu",
+      "donem_turu": "hasat",
+      "bas": "08-15",
+      "bit": "10-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Sıhke Kavunu (No 1413) + Malatya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/b1c515eb-e84b-4fd4-b9fa-3cb208e11ca0.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Bölgenin kavunu Ağustos ortasından Ekim ortasına kadar bol; Van'ın Sıhke kavunu Ekim sonuna kadar toplanır."
+    },
+    {
       "id": "kavun__guneydogu_anadolu__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "guneydogu_anadolu",

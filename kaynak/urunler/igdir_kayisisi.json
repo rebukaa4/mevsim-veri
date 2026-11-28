@@ -1,0 +1,58 @@
+{
+  "id": "igdir_kayisisi",
+  "ad": "Iğdır Kayısısı",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Aras vadisinin iri, sarı, sofralık kayısısı; çoğu Şalak çeşididir. Haziran sonundan Temmuz sonuna kadar taze toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "76",
+  "gorsel_id": "kayisi",
+  "aktif": true,
+  "enerji_kcal_100g": 48,
+  "enerji_durum": "çiğ, çekirdeksiz yenebilir kısım (kayısı genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Apricots, raw (FDC ID 171697, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/171697/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 2,
+  "siralama": 120,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "igdir_kayisisi__76__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "76",
+      "donem_turu": "hasat",
+      "bas": "06-24",
+      "bit": "07-27",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Iğdır Kayısısı (No 385)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/d058fb7e-ef31-423a-88b4-9884346f2698.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Iğdır kayısısı Haziran sonundan Temmuz'un son haftasına kadar toplanır; taze sofralık satılır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Rengi eşit turuncu olsun; sap dibinde yeşillik kalmışsa erken toplanmıştır.",
+    "Parmakla hafifçe bastırınca azıcık esneyen kayısı yemeye hazırdır.",
+    "Buruşuk, ezik ya da kararmış lekeli kayısıyı almayın.",
+    "Kokusu güzel olan kayısı daha lezzetlidir."
+  ],
+  "besin": [
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum içerir: 100 g'da 259 mg; günlük başvuru değerine oranı yaklaşık %12.",
+      "kaynak_adi": "USDA FoodData Central — Apricots, raw (FDC ID 171697, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/171697/nutrients"
+    }
+  ],
+  "tarifler": [
+    "kayisi_receli",
+    "kayisi_kompostosu"
+  ]
+}

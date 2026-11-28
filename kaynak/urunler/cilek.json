@@ -91,6 +91,19 @@
       "not": "Karadeniz tarla çileği Mayıs ortasından Haziran sonuna kadar toplanır."
     },
     {
+      "id": "cilek__dogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "dogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "04-15",
+      "bit": "07-31",
+      "kaynak_adi": "Malatya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://www.malatya.bel.tr/sayfa/hal-fiyatlari-2026",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Çilek Nisan ortasından Temmuz sonuna kadar bol; erken gelenler sera ve güney ürünüdür."
+    },
+    {
       "id": "cilek__guneydogu_anadolu__pazar_yogun__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "guneydogu_anadolu",

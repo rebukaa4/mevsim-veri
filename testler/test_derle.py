@@ -280,6 +280,35 @@ class DerleTesti(unittest.TestCase):
         _, hatalar, _ = self.derle()
         self.assertEqual(hatalar, [])
 
+    # İç su (göl) balığı: il kaydı alır, deniz kaydı almaz; deniz balığı kuralı gevşemez
+    def _balik(self, uid, mevsimler, **ek):
+        self.urun_yaz({"id": uid, "ad": "Balık (ÖRNEK)", "kategori_id": "balik_deniz", "uretim_sekli": "dogal",
+                       "mevsimler": mevsimler, **ek})
+
+    def test_ic_su_baligi_il_kaydiyla_gecer(self):
+        self._balik("ornek_gol", [mevsim("ornek_gol__65__av__1", tur="il", kid="65", donem="av", bas="07-16", bit="04-14")],
+                    ic_su_adi="Van Gölü", yoresel_il_id="65")
+        _, hatalar, _ = self.derle()
+        self.assertEqual(hatalar, [])
+
+    def test_ic_su_baligina_deniz_kaydi_baglanamaz(self):
+        self._balik("ornek_gol", [mevsim("ornek_gol__ege__av__1", tur="deniz", kid="ege", donem="av")],
+                    ic_su_adi="Van Gölü", yoresel_il_id="65")
+        self.reddedilmeli("iç su balığına")
+
+    def test_deniz_baligi_il_kaydi_alamaz(self):
+        self._balik("ornek_deniz", [mevsim("ornek_deniz__35__av__1", tur="il", kid="35", donem="av")],
+                    yoresel_il_id="35")
+        self.reddedilmeli("deniz balığı yalnızca deniz kaydı alır")
+
+    def test_deniz_baligi_bolge_kaydi_alamaz(self):
+        self._balik("ornek_deniz", [mevsim("ornek_deniz__ege__av__1", donem="av")])
+        self.reddedilmeli("deniz balığı yalnızca deniz kaydı alır")
+
+    def test_ic_su_adi_yalniz_balikta(self):
+        self.urun_degistir("ornek_ispanak", lambda u: u.update(ic_su_adi="Van Gölü"))
+        self.reddedilmeli("ic_su_adi yalnızca balık")
+
     def test_alt_bolge_kaydi_bolge_karsiligi_ister(self):
         self.ortak_degistir("alt_bolgeler.json", lambda v: v.append({"id": "ege_kiyi", "bolge_id": "ege", "ad": "Ege kıyısı"}))
         self.urun_degistir("ornek_ispanak", lambda u: u["mevsimler"].append(
@@ -525,8 +554,13 @@ class DerleTesti(unittest.TestCase):
         veri, hatalar, _ = derle.derle(KOK / "kaynak", SEMA, 5)
         self.assertEqual(hatalar, [])
         for u in veri["urunler"]:
-            if u["kategori_id"] == "balik_deniz":
+            if u["kategori_id"] == "balik_deniz" and not u.get("ic_su_adi"):
                 self.assertTrue(all(m["kapsam_turu"] == "deniz" for m in u["mevsimler"]), u["id"])
+            if u.get("ic_su_adi"):  # iç su balığı (inci kefali): hiç deniz kaydı yok
+                self.assertTrue(u["mevsimler"] and all(m["kapsam_turu"] != "deniz" for m in u["mevsimler"]), u["id"])
+        inci = next(u for u in veri["urunler"] if u["id"] == "inci_kefali")
+        self.assertEqual(inci["ic_su_adi"], "Van Gölü")
+        self.assertEqual({m["kapsam_id"] for m in inci["mevsimler"]}, {"65", "13"})
         akdeniz = [m for u in veri["urunler"] for m in u["mevsimler"] if m["kapsam_turu"] == "bolge" and m["kapsam_id"] == "akdeniz"]
         self.assertTrue(akdeniz, "Akdeniz bölge kaydı yok")
 

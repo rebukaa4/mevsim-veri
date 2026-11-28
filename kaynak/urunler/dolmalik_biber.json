@@ -91,6 +91,19 @@
       "not": "Karadeniz tarla dolmalık biberi Temmuz ortasından Ekim sonuna kadar bulunur."
     },
     {
+      "id": "dolmalik_biber__dogu_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "dogu_anadolu",
+      "donem_turu": "hasat",
+      "bas": "08-01",
+      "bit": "10-15",
+      "kaynak_adi": "Malatya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://www.malatya.bel.tr/sayfa/hal-fiyatlari-2026",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Yerel dolmalık biber Ağustos'tan Ekim ortasına kadar bulunur."
+    },
+    {
       "id": "dolmalik_biber__guneydogu_anadolu__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "guneydogu_anadolu",

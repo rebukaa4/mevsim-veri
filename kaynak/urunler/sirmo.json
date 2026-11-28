@@ -1,0 +1,87 @@
+{
+  "id": "sirmo",
+  "ad": "Sirmo",
+  "diger_adlar": [
+    "sirik",
+    "yabani sarımsak otu",
+    "sîrîk"
+  ],
+  "kategori_id": "ot",
+  "kisa_tanim": "Yabani sarımsak otu; sarımsak kokulu ince yaprakları Nisan–Mayıs'ta toplanır, Van otlu peynirinin en bilinen otudur.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": null,
+  "aktif": true,
+  "enerji_kcal_100g": 30,
+  "enerji_durum": "çiğ yaprak (USDA'daki frenk soğanı kaydı; sirmo aynı cinsten yabani türlerdir, Allium)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Chives, raw (FDC ID 169994, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169994/nutrients",
+  "az_bilinen": true,
+  "bilinirlik": 4,
+  "siralama": 17,
+  "tanitim": "Sirmo, Doğu Anadolu'nun yaylalarında kendiliğinden yetişen birkaç yabani soğan türünün (Allium) ortak adıdır; Van'da sirmo, Hakkari'de sirik de denir. İnce, içi boş ya da yassı yeşil yaprakları sarımsak ile taze soğan arası keskin bir koku taşır. Çiçeklenmeden önce, ilkbaharda toplanır ve pazarda taze demet olarak satılır. En çok Van otlu peynirine katılır; doğranıp yoğurda, yumurtaya ve salataya da eklenir.",
+  "hazirlama_adimlari": [
+    "Sararmış yaprakları ve toprağı bulaşmış dip kısmı kesip atın.",
+    "Bol suda iki kez yıkayıp süzün, kâğıt havluyla kurulayın.",
+    "Taze soğan gibi ince doğrayın; çiğ olarak yoğurda, peynire ya da salataya katın.",
+    "Pişirecekseniz tereyağında 1–2 dakika çevirmek yeter; uzun pişince kokusu kaybolur."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "sirmo__dogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "dogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "04-01",
+      "bit": "05-31",
+      "kaynak_adi": "Fırat M., Aziret A. 2016, Edible Allium L. species sold as fresh vegetables in public bazaars of Hakkâri province, Acta Biologica Turcica 29(1):14–19 + Tunçtürk M., Tunçtürk R. 2020, Van Otlu Peyniri ve Yapımında Kullanılan Bitkiler ile İlgili Genel Bir Değerlendirme, Ziraat Fakültesi Dergisi, Tarla Bitkileri Kongresi Özel Sayısı:238–244 + Şelem E., Nohutçu L., Tunçtürk R., Tunçtürk M. 2020, Geleneksel Otlu Peynirde Kullanılan Allium Türleri, Bahri Dağdaş Bitkisel Araştırma Dergisi 9(2):312–326",
+      "kaynak_link": "https://dergipark.org.tr/en/download/article-file/207949",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Sirmo (yabani sarımsak otu) Nisan–Mayıs'ta toplanır, pazarda taze satılır ve Van otlu peynirine katılır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Yaprakları dik, koyu yeşil ve uçları kurumamış demetleri seçin.",
+    "Kokusu belirgin olmalı; sarımsak kokusu zayıf, pörsümüş demet bayattır.",
+    "Sararmış ya da çiçek sapı çıkmış sirmo serttir; genç yapraklar daha yumuşaktır."
+  ],
+  "besin": [
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini açısından zengindir: 100 g'da 213 µg; günlük başvuru değerine oranı yaklaşık %284. (aynı cinsten frenk soğanı değeri)",
+      "kaynak_adi": "USDA FoodData Central — Chives, raw (FDC ID 169994, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169994/nutrients"
+    },
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir: 100 g'da 58,1 mg; günlük başvuru değerine oranı yaklaşık %73. (aynı cinsten frenk soğanı değeri)",
+      "kaynak_adi": "USDA FoodData Central — Chives, raw (FDC ID 169994, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169994/nutrients"
+    },
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat açısından zengindir: 100 g'da 105 µg; günlük başvuru değerine oranı yaklaşık %52. (aynı cinsten frenk soğanı değeri)",
+      "kaynak_adi": "USDA FoodData Central — Chives, raw (FDC ID 169994, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169994/nutrients"
+    },
+    {
+      "ad": "A vitamini",
+      "tur": "vitamin",
+      "aciklama": "A vitamini kaynağıdır: 100 g'da 218 µg; günlük başvuru değerine oranı yaklaşık %27. (aynı cinsten frenk soğanı değeri)",
+      "kaynak_adi": "USDA FoodData Central — Chives, raw (FDC ID 169994, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169994/nutrients"
+    }
+  ],
+  "tarifler": [
+    "sirmolu_yumurta",
+    "sirmolu_yogurt"
+  ]
+}

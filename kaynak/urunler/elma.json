@@ -153,6 +153,32 @@
       "not": "Elma depodan Nisan sonuna kadar bol bulunur."
     },
     {
+      "id": "elma__dogu_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "dogu_anadolu",
+      "donem_turu": "hasat",
+      "bas": "09-01",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Posof Elması / Badele Elması (No 429) + Türk Patent coğrafi işaret tescili: Kağızman Uzun Elması (No 307) + Malatya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/bcb299b5-4bb5-4911-ac30-17e7fccaeaf9.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Bölgenin elması Eylül–Ekim'de toplanır; Ardahan Posof'ta Ağustos sonunda, Kars Kağızman'da Ekim başında."
+    },
+    {
+      "id": "elma__dogu_anadolu__depo__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "dogu_anadolu",
+      "donem_turu": "depo",
+      "bas": "11-01",
+      "bit": "05-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Kağızman Uzun Elması (No 307) + Malatya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/307.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Yerli elma depodan Mayıs sonuna kadar bulunur."
+    },
+    {
       "id": "elma__guneydogu_anadolu__pazar_yogun__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "guneydogu_anadolu",

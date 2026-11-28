@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169913/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 95,
+  "siralama": 105,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Bir süzgecin içinde, çok kısa süre ve hafif akan suyla yıkayın; ovalamayın.",
@@ -89,6 +89,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Dut Haziran ortasından Temmuz sonuna kadar toplanır."
+    },
+    {
+      "id": "dut__dogu_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "dogu_anadolu",
+      "donem_turu": "hasat",
+      "bas": "06-01",
+      "bit": "08-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Kemaliye Dutu / Eğin Dutu (No 813) + Türk Patent coğrafi işaret tescili: Pütürge Dutu (No 1376) + Türk Patent coğrafi işaret tescili: Çemişgezek Ulukale Dutu (No 423) + Keskin S., Kaya Ö. 2020, dut yetiştiriciliği derlemesi (Erzincan Bahçe Kültürleri Araştırma Enstitüsü), Ziraat Mühendisliği 369:108–121",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/f645b06e-7603-4be6-94c6-b6173aac73f0.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Dut Haziran'dan Ağustos sonuna kadar olgunlaşır; Malatya ve Tunceli'de Mayıs sonunda başlar, çoğu kurutulur."
     },
     {
       "id": "dut__guneydogu_anadolu__hasat__1",

@@ -80,6 +80,32 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Isırganın taze filizleri Mart'tan Mayıs ortasına kadar toplanır."
+    },
+    {
+      "id": "isirgan__25__pazar_yogun__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "25",
+      "donem_turu": "pazar_yogun",
+      "bas": "03-01",
+      "bit": "07-31",
+      "kaynak_adi": "Kadıoğlu S., Kadıoğlu B., Dizikısa T., Karagöz Sezer K. 2021, Doğal Olarak Yetişen ve Halk Tarafından Kullanılan Yabani Bitkilerin Etnobotanik Özellikleri (Erzurum), Muş Alparslan Üniv. Tarımsal Üretim ve Teknolojileri Dergisi 1(1):39–50",
+      "kaynak_link": "https://dergipark.org.tr/en/download/article-file/2393701",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Isırgan bahar ve yaz başında toplanıp Erzurum pazarlarında satılır."
+    },
+    {
+      "id": "isirgan__dogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "dogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "03-01",
+      "bit": "07-31",
+      "kaynak_adi": "Kadıoğlu S., Kadıoğlu B., Dizikısa T., Karagöz Sezer K. 2021, Doğal Olarak Yetişen ve Halk Tarafından Kullanılan Yabani Bitkilerin Etnobotanik Özellikleri (Erzurum), Muş Alparslan Üniv. Tarımsal Üretim ve Teknolojileri Dergisi 1(1):39–50",
+      "kaynak_link": "https://dergipark.org.tr/en/download/article-file/2393701",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Isırgan bahar ve yaz başında toplanıp pazarda satılır; tarih Erzurum kaydından bölgeye genellendi."
     }
   ],
   "secim_ipuclari": [

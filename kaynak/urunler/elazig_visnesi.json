@@ -1,0 +1,60 @@
+{
+  "id": "elazig_visnesi",
+  "ad": "Elazığ Vişnesi",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Elazığ'ın yuvarlak, etli, olgunlukta bordo renkli, çok sulu ve mayhoş vişnesi; Haziran sonu ve Temmuzda toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "23",
+  "gorsel_id": "visne",
+  "aktif": true,
+  "enerji_kcal_100g": 50,
+  "enerji_durum": "çiğ, çekirdeksiz yenebilir kısım (vişne genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Cherries, sour, red, raw (FDC ID 173954, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/173954/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 2,
+  "siralama": 119,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Yıkadıktan sonra sapını koparın.",
+    "Çekirdeğini çekirdek çıkarıcıyla ya da bir pipet/ince çubukla sap tarafından iterek çıkarın; suyunu kaybetmemek için bir kasenin üstünde çalışın."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "elazig_visnesi__23__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "23",
+      "donem_turu": "hasat",
+      "bas": "06-24",
+      "bit": "07-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Elazığ Vişnesi (No 1273)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/a2480784-78fa-4884-898c-2f70f2230368.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Elazığ vişnesi Haziran sonundan Temmuz sonuna kadar toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Koyu kırmızı, parlak ve sıkı taneleri seçin.",
+    "Sapı yeşil olsun; suyunu salmış, ezik taneler çabuk ekşir.",
+    "Çok çabuk bozulur; aldığınız gün ya da ertesi gün kullanın."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini içerir: 100 g'da 10 mg; günlük başvuru değerine oranı yaklaşık %12.",
+      "kaynak_adi": "USDA FoodData Central — Cherries, sour, red, raw (FDC ID 173954, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173954/nutrients"
+    }
+  ],
+  "tarifler": [
+    "visne_receli",
+    "visne_serbeti"
+  ]
+}

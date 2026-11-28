@@ -102,6 +102,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Kuru ceviz kış ve bahar boyunca bulunur."
+    },
+    {
+      "id": "ceviz__dogu_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "dogu_anadolu",
+      "donem_turu": "hasat",
+      "bas": "09-15",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Hekimhan Cevizi (No 432) + Türk Patent coğrafi işaret tescili: Çatak Cevizi (No 823) + Türk Patent coğrafi işaret tescili: Bahçesaray Cevizi (No 1043)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/7be857a4-ce14-4daf-862c-8072748bfce7.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Bölgenin cevizi Eylül ortasından Ekim sonuna kadar toplanır ve kurutularak satılır."
     }
   ],
   "secim_ipuclari": [

@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169260/nutrients",
   "az_bilinen": true,
   "bilinirlik": 3,
-  "siralama": 74,
+  "siralama": 79,
   "tanitim": "Bamya, köşeli kabukları içindeki küçük tohumlarla birlikte bütün olarak yenen bir sebzedir. Pişince yumuşar ve hafif kaygan bir dokusu olur; limon ya da domatesle ekşili pişirilince tadı açılır.",
   "hazirlama_adimlari": [
     "Bamyaları yıkamadan önce sap kısmındaki külahı, sivri bir bıçakla kalem açar gibi çevirerek inceltin; içini açmayın, yoksa salyası çıkar.",
@@ -91,6 +91,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Bamya Temmuz–Eylül arasında bulunur; en çok Amasya ve Tokat tarafından gelir."
+    },
+    {
+      "id": "bamya__dogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "dogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "06-15",
+      "bit": "09-30",
+      "kaynak_adi": "Malatya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://www.malatya.bel.tr/sayfa/hal-fiyatlari-2026",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Bamya Haziran ortasından Eylül sonuna kadar bulunur."
     },
     {
       "id": "bamya__guneydogu_anadolu__hasat__1",

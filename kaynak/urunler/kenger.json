@@ -32,6 +32,19 @@
   "hazirlama_kaynak_link": null,
   "mevsimler": [
     {
+      "id": "kenger__dogu_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "dogu_anadolu",
+      "donem_turu": "hasat",
+      "bas": "04-01",
+      "bit": "05-31",
+      "kaynak_adi": "Okcu Z., Kaplan B. 2018, Doğu Anadolu Bölgesinde Gıda Olarak Kullanılan Yabani Bitkiler, Türk Tarım–Gıda Bilim ve Teknoloji Dergisi 6(3):260–265 + Sırrı M., Sırrı G. 2020, Hakkâri İlinde Gıda Olarak Tüketilen Yabani Bitki ve Yabancı Ot Türlerinin Güncel Durumu, Avrupa Bilim ve Teknoloji Dergisi 19:393–409",
+      "kaynak_link": "https://agrifoodscience.com/index.php/TURJAF/article/download/1580/727",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "akademik",
+      "not": "Kenger Nisan–Mayıs'ta dağlardan toplanır; taze sürgünü yenir."
+    },
+    {
       "id": "kenger__guneydogu_anadolu__pazar_yogun__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "guneydogu_anadolu",

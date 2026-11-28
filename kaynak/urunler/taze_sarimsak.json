@@ -16,7 +16,7 @@
   "enerji_kaynak_link": null,
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 63,
+  "siralama": 67,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Kökünü ve yaprakların kurumuş uçlarını kesin.",
@@ -89,6 +89,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Taze (yeşil) sarımsak Mayıs ortasından Haziran sonuna kadar bulunur."
+    },
+    {
+      "id": "taze_sarimsak__dogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "dogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "04-01",
+      "bit": "06-15",
+      "kaynak_adi": "Malatya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://www.malatya.bel.tr/sayfa/hal-fiyatlari-2026",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Yeşil sarımsak Nisan'dan Haziran ortasına kadar bulunur."
     },
     {
       "id": "taze_sarimsak__guneydogu_anadolu__pazar_yogun__1",

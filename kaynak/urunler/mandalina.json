@@ -88,6 +88,19 @@
       "not": "Mandalina Kasım–Ocak arasında bol; çoğu güneyden, az bir kısmı Rize ve Trabzon bahçelerinden gelir."
     },
     {
+      "id": "mandalina__dogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "dogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "10-15",
+      "bit": "02-28",
+      "kaynak_adi": "Malatya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://www.malatya.bel.tr/sayfa/hal-fiyatlari-2026",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Mandalina Ekim ortasından Şubat sonuna kadar bol."
+    },
+    {
       "id": "mandalina__guneydogu_anadolu__pazar_yogun__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "guneydogu_anadolu",

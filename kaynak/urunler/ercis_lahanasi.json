@@ -1,0 +1,72 @@
+{
+  "id": "ercis_lahanasi",
+  "ad": "Erciş Lahanası",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Van Erciş'in çiftçi tohumundan yetişen büyük, gri-yeşil yapraklı lahanası; sarma, turşu ve kapuska için 15 Ekim – 15 Kasım arasında sökülür.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "65",
+  "gorsel_id": "beyaz_lahana",
+  "aktif": true,
+  "enerji_kcal_100g": 25,
+  "enerji_durum": "çiğ, yenebilir kısım (beyaz lahana genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Cabbage, raw (FDC ID 169975)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169975/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 2,
+  "siralama": 76,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "ercis_lahanasi__65__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "65",
+      "donem_turu": "hasat",
+      "bas": "10-15",
+      "bit": "11-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Erciş Lahanası (No 1658)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/b502bc5f-c056-461c-9997-70f673471f90.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Erciş lahanası 15 Ekim – 15 Kasım arasında sökülür."
+    }
+  ],
+  "secim_ipuclari": [
+    "Elinizde ağır ve sıkı olan lahanayı seçin; hafif olan gevşek yapraklıdır.",
+    "Dış yapraklar parlak ve çıtır olsun, kurumuş ya da delik olmasın.",
+    "Sap kesim yeri beyaz ve taze görünmeli, kararmış ya da çatlamış olmamalı.",
+    "Yarım lahana alıyorsanız kesik yüzü taze ve sararmamış olmalı."
+  ],
+  "besin": [
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini açısından zengindir (100 g'da 76 µg; günlük başvuru değerini aşar).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Cabbage, raw (FDC ID 169975)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169975/nutrients"
+    },
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir (100 g'da 37 mg; günlük başvuru değerine oranı yaklaşık %46).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Cabbage, raw (FDC ID 169975)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169975/nutrients"
+    },
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat kaynağıdır (100 g'da 43 µg; günlük başvuru değerine oranı yaklaşık %22).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Cabbage, raw (FDC ID 169975)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169975/nutrients"
+    }
+  ],
+  "tarifler": [
+    "lahana_salatasi",
+    "kapuska"
+  ]
+}

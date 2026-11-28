@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169977/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 61,
+  "siralama": 65,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Dış yapraklarını ayıklayıp dört parçaya bölün; ortadaki sert sapı kesip çıkarın.",
@@ -90,6 +90,32 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Kırmızı lahana Ekim ortasından Nisan sonuna kadar bulunur."
+    },
+    {
+      "id": "kirmizi_lahana__25__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "25",
+      "donem_turu": "hasat",
+      "bas": "09-15",
+      "bit": "10-31",
+      "kaynak_adi": "Padem H., Güvenç İ. 1997, Erzurum'da kırmızı lahana çeşit ve dikim zamanı denemesi, Atatürk Üniv. Ziraat Fakültesi Dergisi 28(3):405–412",
+      "kaynak_link": "https://dergipark.org.tr/en/download/article-file/35479",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "akademik",
+      "not": "Erzurum'da kırmızı lahana Eylül ortasından Ekim sonuna kadar toplanır."
+    },
+    {
+      "id": "kirmizi_lahana__dogu_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "dogu_anadolu",
+      "donem_turu": "hasat",
+      "bas": "09-15",
+      "bit": "10-31",
+      "kaynak_adi": "Padem H., Güvenç İ. 1997, Erzurum'da kırmızı lahana çeşit ve dikim zamanı denemesi, Atatürk Üniv. Ziraat Fakültesi Dergisi 28(3):405–412",
+      "kaynak_link": "https://dergipark.org.tr/en/download/article-file/35479",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kırmızı lahana Eylül ortasından Ekim sonuna kadar toplanır; tarih Erzurum denemesinden bölgeye genellendi."
     },
     {
       "id": "kirmizi_lahana__guneydogu_anadolu__pazar_yogun__1",

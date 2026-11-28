@@ -1,0 +1,74 @@
+{
+  "id": "tunceli_sarimsagi",
+  "ad": "Tunceli Sarımsağı",
+  "diger_adlar": [
+    "dağ sarımsağı"
+  ],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Tunceli dağlarına özgü Allium tuncelianum'un tarlada yetiştirilen tek dişli başı; dağ sarımsağı da denir. Ağustosta sökülüp gölgede kurutulur.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "62",
+  "gorsel_id": null,
+  "aktif": true,
+  "enerji_kcal_100g": 149,
+  "enerji_durum": "çiğ, yenebilir kısım (kuru sarımsak genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Garlic, raw (FDC ID 169230)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169230/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 50,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "tunceli_sarimsagi__62__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "62",
+      "donem_turu": "hasat",
+      "bas": "08-01",
+      "bit": "08-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Tunceli Sarımsağı (No 471)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/007fdeda-fbe4-4c83-ba83-0f4db91c2334.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Tunceli sarımsağı (dağ sarımsağı) Ağustos'ta sökülür, gölgede kurutulup satılır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Baş sert, dolgun ve ağır olsun.",
+    "Dişler birbirine sıkı yapışık olmalı, kabuk kuru ve sağlam olmalı.",
+    "Yeşil filiz vermiş, yumuşamış ya da küflü olanları almayın."
+  ],
+  "besin": [
+    {
+      "ad": "B6 vitamini",
+      "tur": "vitamin",
+      "aciklama": "B6 vitamini açısından zengindir (100 g'da 1,2 mg; günlük başvuru değerine oranı yaklaşık %89).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Garlic, raw (FDC ID 169230)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169230/nutrients"
+    },
+    {
+      "ad": "Manganez",
+      "tur": "mineral",
+      "aciklama": "Manganez açısından zengindir (100 g'da 1,7 mg; günlük başvuru değerine oranı yaklaşık %84).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Garlic, raw (FDC ID 169230)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169230/nutrients"
+    },
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir (100 g'da 31 mg; günlük başvuru değerine oranı yaklaşık %39).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Garlic, raw (FDC ID 169230)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169230/nutrients"
+    }
+  ],
+  "tarifler": [
+    "cacik",
+    "ispanak_borani",
+    "kozlenmis_patlican_salatasi"
+  ]
+}

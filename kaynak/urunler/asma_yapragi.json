@@ -19,7 +19,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/168575/nutrients",
   "az_bilinen": true,
   "bilinirlik": 3,
-  "siralama": 80,
+  "siralama": 85,
   "tanitim": "Asma yaprağı, üzüm bağlarından mayıs ve haziranda, yapraklar henüz genç, ince ve yumuşakken toplanır. Taze yaprak kısa süre haşlanıp hemen sarma yapılır; yıl boyu kullanmak için de tuzlu suda (salamura) saklanır. Yaz ilerledikçe yaprak kalınlaşır, sertleşir ve sarmaya uygun olmaz.",
   "hazirlama_adimlari": [
     "Yaprakları bol suda tek tek yıkayın, saplarını makasla kesin.",
@@ -82,6 +82,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "resmi",
       "not": "Tokat'ta narince asma yaprağı Mayıs ortasından Ağustos başına kadar toplanır."
+    },
+    {
+      "id": "asma_yapragi__dogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "dogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "05-15",
+      "bit": "07-15",
+      "kaynak_adi": "Malatya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://www.malatya.bel.tr/sayfa/hal-fiyatlari-2026",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Taze asma yaprağı Mayıs ortasından Temmuz ortasına kadar bulunur."
     },
     {
       "id": "asma_yapragi__guneydogu_anadolu__pazar_yogun__1",

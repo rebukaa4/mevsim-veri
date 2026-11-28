@@ -1,0 +1,74 @@
+{
+  "id": "guldar_domatesi",
+  "ad": "Guldar Domatesi",
+  "diger_adlar": [
+    "Güldar domatesi"
+  ],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Bingöl'ün 1500–1600 metrede yetişen iri (270–330 g), kırmızı, dilimli köy domatesi; kabuğu ince, raf ömrü uzundur. Temmuz sonundan Ekim sonuna kadar toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "12",
+  "gorsel_id": "domates",
+  "aktif": true,
+  "enerji_kcal_100g": 18,
+  "enerji_durum": "çiğ, yenebilir kısım (domates genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Tomatoes, red, ripe, raw, year round average (FDC ID 170457)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170457/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 47,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "guldar_domatesi__12__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "12",
+      "donem_turu": "hasat",
+      "bas": "07-24",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Guldar Domatesi (No 1422)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/eba58174-4104-4c98-93d9-3e9e8324d005.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Guldar domatesi Temmuz'un son haftasından Ekim sonuna kadar toplanır."
+    },
+    {
+      "id": "guldar_domatesi__12__depo__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "12",
+      "donem_turu": "depo",
+      "bas": "11-01",
+      "bit": "12-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Guldar Domatesi (No 1422)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/eba58174-4104-4c98-93d9-3e9e8324d005.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Donlardan önce yeşil toplanan Guldar domatesi samanla serin yerde saklanıp Aralık sonuna kadar yenir."
+    }
+  ],
+  "secim_ipuclari": [
+    "Kabuğu parlak, rengi baştan sona eşit kırmızı olsun; yeşil omuzlu olanlar henüz tam olgun değildir.",
+    "Avucunuzda hafifçe sıkın: dolgun ama hafif esneyen domates olgundur, çok yumuşak olan ezilmiştir.",
+    "Sap kısmını koklayın; tarla domatesinde belirgin, hoş bir domates kokusu olur.",
+    "Çatlak, çökük ya da sulanmış lekesi olanları almayın."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini kaynağıdır (100 g'da 14 mg; günlük başvuru değerine oranı yaklaşık %17).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Tomatoes, red, ripe, raw, year round average (FDC ID 170457)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170457/nutrients"
+    }
+  ],
+  "tarifler": [
+    "coban_salatasi",
+    "menemen",
+    "zeytinyagli_taze_fasulye"
+  ]
+}
