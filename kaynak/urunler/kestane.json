@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": "USDA FoodData Central — Nuts, chestnuts, european, raw, peeled (FDC ID 170575, SR Legacy)",
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170575/nutrients",
   "az_bilinen": false,
+  "bilinirlik": 2,
+  "siralama": 6,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Kestaneyi pişirmeden önce mutlaka kabuğunu bıçakla çizin (düz yüzüne çarpı ya da yatay bir yarık açın). Çizilmezse ısınınca içinde buhar birikir ve patlayabilir.",

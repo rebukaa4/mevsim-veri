@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": "USDA FoodData Central — Peppers, jalapeno, raw (FDC ID 168576, SR Legacy)",
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/168576/nutrients",
   "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 20,
   "tanitim": null,
   "hazirlama_adimlari": [],
   "hazirlama_kaynak_adi": null,

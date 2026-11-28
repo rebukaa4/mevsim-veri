@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": null,
   "enerji_kaynak_link": null,
   "az_bilinen": true,
+  "bilinirlik": 3,
+  "siralama": 6,
   "tanitim": "Deniz börülcesi, deniz kıyısındaki tuzlu topraklarda yetişen, yapraksız, boğum boğum yeşil filizleri olan bir bitkidir. Doğal olarak tuzludur ve çıtırdır; haşlandıktan sonra ortadaki sert damardan ayrılan yeşil eti yenir.",
   "hazirlama_adimlari": [
     "Kök ve sertleşmiş alt kısımları kesin; bol suda yıkayıp kumunu iyice giderin.",

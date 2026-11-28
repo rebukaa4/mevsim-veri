@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": "USDA FoodData Central — Apricots, raw (FDC ID 171697, SR Legacy)",
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/171697/nutrients",
   "az_bilinen": false,
+  "bilinirlik": 2,
+  "siralama": 28,
   "tanitim": null,
   "hazirlama_adimlari": [],
   "hazirlama_kaynak_adi": null,

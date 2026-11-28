@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Parsley, fresh (FDC ID 170416)",
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170416/nutrients",
   "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 9,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Kalın saplarını kesin, bol suda yıkayın.",

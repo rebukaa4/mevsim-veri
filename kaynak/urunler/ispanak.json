@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Spinach, raw (FDC ID 168462)",
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/168462/nutrients",
   "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 14,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Köklerini ve kalın saplarını kesin, sararmış yaprakları ayıklayın.",

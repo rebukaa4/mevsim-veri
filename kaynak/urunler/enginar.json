@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Artichokes, (globe or french), raw (FDC ID 169205)",
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169205/nutrients",
   "az_bilinen": true,
+  "bilinirlik": 3,
+  "siralama": 41,
   "tanitim": "Enginar, açmamış bir çiçek tomurcuğudur; dış sert yaprakları ayıklanır ve alttaki etli 'çanak' (kalp) kısmı yenir. Tadı hafif buruk, tatlımsı ve kendine özgüdür.",
   "hazirlama_adimlari": [
     "Önce bir kaba su, 1 limonun suyu ve 1 kaşık un koyup karıştırın; temizlenen enginarlar kararmasın diye bu suya atılacak.",

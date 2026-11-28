@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Corn, sweet, yellow, raw (FDC ID 169998)",
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169998/nutrients",
   "az_bilinen": false,
+  "bilinirlik": 2,
+  "siralama": 35,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Kabuklarını ve püsküllerini soyun; kalan ince püskülleri elle temizleyin.",

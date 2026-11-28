@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Broadbeans, immature seeds, raw (FDC ID 170377)",
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170377/nutrients",
   "az_bilinen": true,
+  "bilinirlik": 3,
+  "siralama": 42,
   "tanitim": "Bakla, Ege'de genç ve taze haliyle kabuğu ve tanesiyle birlikte yenen bir baklagildir. Kabuk pişince yumuşar, tadı hafif otsu ve tatlıdır; iri baklalarda yalnızca içteki yeşil taneler yenir.",
   "hazirlama_adimlari": [
     "Baklaları yıkayın; iki ucunu kesip kenarlarındaki kılçığı çekerek ayıklayın.",

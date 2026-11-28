@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": "USDA FoodData Central — Tangerines, (mandarin oranges), raw (FDC ID 169105, SR Legacy)",
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169105/nutrients",
   "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 15,
   "tanitim": null,
   "hazirlama_adimlari": [],
   "hazirlama_kaynak_adi": null,

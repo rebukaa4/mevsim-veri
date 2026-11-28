@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": "USDA FoodData Central — \"Fish, mackerel, Pacific and jack, mixed species, raw\" (FDC ID 173672)",
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/173672/nutrients",
   "az_bilinen": true,
+  "bilinirlik": 4,
+  "siralama": 26,
   "tanitim": "Uskumrunun yakın akrabasıdır; tadı benzer, eti biraz daha koyu ve yağlıdır, ızgara ya da fırında yapılır. Ayırt etmek için karnına bakın: kolyozun karnında küçük benekler ya da kırık dalgalı çizgiler vardır, uskumrunun karnı ise düz gümüşidir (FAO Scombrids kataloğu, 1983).",
   "hazirlama_adimlari": [
     "Kolyozun pulları çok incedir, kazımaya gerek yoktur; derisini bıçağın sırtıyla hafifçe sıyırmanız yeter.",

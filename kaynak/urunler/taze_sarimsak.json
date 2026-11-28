@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": null,
   "enerji_kaynak_link": null,
   "az_bilinen": false,
+  "bilinirlik": 2,
+  "siralama": 39,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Kökünü ve yaprakların kurumuş uçlarını kesin.",

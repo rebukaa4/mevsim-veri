@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Purslane, raw (FDC ID 169274)",
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169274/nutrients",
   "az_bilinen": true,
+  "bilinirlik": 3,
+  "siralama": 4,
   "tanitim": "Yabani semizotu, ekili semizotuyla aynı bitkidir ama yere yayılarak büyür, yaprakları daha küçük ve sapları daha incedir. Etli yaprakları ve körpe sapları yenir; tadı hafif ekşimsi ve ferahtır.",
   "hazirlama_adimlari": [
     "Kökleri ve sert sap uçlarını kesin.",

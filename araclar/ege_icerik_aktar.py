@@ -11,6 +11,7 @@ Girdiler (--girdi = mevsim_app klasörü):
   assets_kaynak/webp/<id>.webp          (bitmiş fotoğraflar)
 Bu klasördeki elle bakımlı dosya:
   araclar/ege_mevsim.json               (sezon satırları + kaynak listesi; 04_ege_urun_tablosu.md'den)
+  araclar/bilinirlik.json               (kategori içi tanınırlık sırası: bilinirlik + siralama)
 
 Kullanım:  python araclar/ege_icerik_aktar.py --girdi "../mevsim_app"
 Sonra:     python araclar/derle.py --kontrol
@@ -105,6 +106,39 @@ def gorseller_oku(girdi: Path) -> dict:
     return sonuc, esleme
 
 
+def bilinirlik_oku(yol: Path, urunler: dict, kategori: dict, hatalar: list) -> dict:
+    """bilinirlik.json -> {urun_id: (bilinirlik, siralama)}; sıra ve düzey kurallarını denetler."""
+    veri = json_oku(yol)
+    sonuc = {}
+    for kat, liste in veri.items():
+        if kat == "aciklama":
+            continue
+        onceki_duzey, yoresel_goruldu = 0, False
+        for sira, (uid, duzey) in enumerate(liste, start=1):
+            if uid in sonuc:
+                hatalar.append(f"bilinirlik: {uid} iki kez yazılmış")
+            if kategori.get(uid) != kat:
+                hatalar.append(f"bilinirlik: {uid} '{kat}' listesinde ama kategorisi {kategori.get(uid)}")
+            if not isinstance(duzey, int) or not 1 <= duzey <= 5:
+                hatalar.append(f"bilinirlik: {uid} düzeyi 1-5 arası olmalı")
+                continue
+            if duzey < onceki_duzey:
+                hatalar.append(f"bilinirlik: {uid} ({duzey}) daha az bilinen bir üründen sonra yazılmış")
+            if duzey != onceki_duzey:
+                yoresel_goruldu = False
+            yoresel = bool((urunler.get(uid) or {}).get("yoresel_il_id"))
+            if yoresel_goruldu and not yoresel:
+                hatalar.append(f"bilinirlik: genel ürün {uid}, aynı düzeydeki yöresel ürünlerden sonra yazılmış")
+            yoresel_goruldu = yoresel_goruldu or yoresel
+            if (urunler.get(uid) or {}).get("az_bilinen") and duzey < 3:
+                hatalar.append(f"bilinirlik: az bilinen {uid} en az 3 olmalı")
+            onceki_duzey = duzey
+            sonuc[uid] = (duzey, sira)
+    for uid in set(kategori) - set(sonuc):
+        hatalar.append(f"bilinirlik: {uid} sıralama dosyasında yok")
+    return sonuc
+
+
 def mevsimler_kur(uid: str, satirlar: list, kaynaklar: dict, tarih: str, yoresel_il: str | None) -> list:
     sayac = defaultdict(int)
     kayitlar = []
@@ -190,7 +224,7 @@ def main(argv=None) -> int:
             "gorsel_id": gorsel_esi.get(uid) or (uid if uid in gorseller else None), "aktif": True,
             "enerji_kcal_100g": u.get("enerji_kcal_100g"), "enerji_durum": u.get("enerji_durum"),
             "enerji_kaynak_adi": u.get("enerji_kaynak_adi"), "enerji_kaynak_link": u.get("enerji_kaynak_link"),
-            "az_bilinen": bool(u.get("az_bilinen")), "tanitim": u.get("tanitim"),
+            "az_bilinen": bool(u.get("az_bilinen")), "bilinirlik": None, "siralama": None, "tanitim": u.get("tanitim"),
             "hazirlama_adimlari": u.get("hazirlama_adimlari") or [],
             "hazirlama_kaynak_adi": u.get("hazirlama_kaynak_adi"), "hazirlama_kaynak_link": u.get("hazirlama_kaynak_link"),
             "mevsimler": [] if ciftlik else mevsimler_kur(uid, satir_urun.get(uid, []), mevsim_veri["kaynaklar"],
@@ -211,6 +245,14 @@ def main(argv=None) -> int:
         if kayit["enerji_kcal_100g"] is None:
             kcal_yok.append(uid)
         cikti[uid] = kayit
+
+    # Tanınırlık sırası (yöresel ürünün kendi yoresel_il_id'si içerik taslağından gelir)
+    bilinirlik = bilinirlik_oku(Path(__file__).with_name("bilinirlik.json"),
+                                {uid: {**urunler[uid], "az_bilinen": k["az_bilinen"]} for uid, k in cikti.items()},
+                                {uid: k["kategori_id"] for uid, k in cikti.items()}, hatalar)
+    for uid, (duzey, sira) in bilinirlik.items():
+        if uid in cikti:
+            cikti[uid]["bilinirlik"], cikti[uid]["siralama"] = duzey, sira
 
     # Acıpayam Çakır Havucu: tescil No 1897'ye göre turuncu Nantes tipi havuç; mor/siyah ifadesi kalmamalı
     acipayam = json.dumps(cikti.get("acipayam_havucu", {}), ensure_ascii=False).lower()

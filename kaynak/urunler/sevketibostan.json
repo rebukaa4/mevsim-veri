@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": null,
   "enerji_kaynak_link": null,
   "az_bilinen": true,
+  "bilinirlik": 3,
+  "siralama": 5,
   "tanitim": "Şevketibostan, dikenli yaprakları olan yabani bir bitkidir; dikenli yaprak kısımları atılır, beyaz kalın kökü ile yaprakların beyaz orta damarları yenir. Tadı enginara benzer, hafif tatlı ve çıtırdır.",
   "hazirlama_adimlari": [
     "Dikenlere karşı kalın eldiven giyin; bir kaba su ve 1-2 limonun suyunu koyun.",

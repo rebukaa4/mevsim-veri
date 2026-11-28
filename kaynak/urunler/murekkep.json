@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": "USDA FoodData Central — \"Mollusks, cuttlefish, mixed species, raw\" (FDC ID 174215)",
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/174215/nutrients",
   "az_bilinen": true,
+  "bilinirlik": 4,
+  "siralama": 29,
   "tanitim": "Sübye de denir; kalamara benzer ama gövdesi daha geniş ve eti daha kalındır, içinde beyaz, kireçli bir 'kemik' (kalem) taşır. Tadı tatlımsıdır; kalamardan biraz sert olduğu için kısa kızartılır ya da kısık ateşte uzun pişirilir.",
   "hazirlama_adimlari": [
     "Temizliği çok mürekkep sıçrattığı için mümkünse balıkçıya yaptırın; evde yapacaksanız eldiven giyip lavaboda çalışın.",

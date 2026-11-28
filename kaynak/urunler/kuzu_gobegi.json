@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": "USDA FoodData Central — Mushrooms, morel, raw (FDC ID 168423, SR Legacy)",
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/168423/nutrients",
   "az_bilinen": true,
+  "bilinirlik": 4,
+  "siralama": 10,
   "tanitim": "Kuzu göbeği, şapkası bal peteği gibi oyuklu, krem-kahverengi bir yabani mantardır. Kültürü yapılmaz; Muğla'da ilkbaharda ormanlardan toplanır. Tadı yoğun ve topraksıdır; tereyağında sotelenir, pilava ya da çorbaya katılır. Kurutulmuşu yıl boyu bulunur.",
   "hazirlama_adimlari": [
     "Kuzu göbeği asla çiğ yenmez; mutlaka iyice pişirin. ABD Gıda ve İlaç Dairesi (FDA), çiğ ya da az pişmiş kuzu göbeği yüzünden yaşanan zehirlenmelerden sonra pişirmeyi önermiştir.",

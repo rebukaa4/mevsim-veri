@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Cress, garden, raw (FDC ID 168407)",
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/168407/nutrients",
   "az_bilinen": false,
+  "bilinirlik": 2,
+  "siralama": 38,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Kök kısmını kesin, bol suda yıkayın.",
