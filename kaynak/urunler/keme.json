@@ -1,0 +1,58 @@
+{
+  "id": "keme",
+  "ad": "Keme (çöl mantarı)",
+  "diger_adlar": [
+    "domalan",
+    "çöl mantarı"
+  ],
+  "kategori_id": "diger",
+  "kisa_tanim": "Yağmurlu yıllarda baharda kumlu toprağın altında çıkan, patatese benzeyen yumru mantar; Şanlıurfa, Gaziantep ve Diyarbakır pazarlarında mart–mayısta taze satılır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "keme",
+  "aktif": true,
+  "enerji_kcal_100g": null,
+  "enerji_durum": null,
+  "enerji_kaynak_adi": null,
+  "enerji_kaynak_link": null,
+  "az_bilinen": true,
+  "bilinirlik": 5,
+  "siralama": 52,
+  "tanitim": "Keme, toprağın altında yumru gibi gelişen bir çöl mantarıdır (Terfezia türleri); İç Anadolu'da domalan da denir. Görünüşü küçük, yumrulu bir patatesi andırır: kabuğu açık ya da koyu kahverengi, içi beyazımsı-krem renklidir. Mart–mayıs arasında, kış ve bahar yağmurları bol geçtiyse kumlu, kireçli toprakların çatlaklarından bulunup toplanır; kurak yıllarda çok az çıkar. Pazarda taze satılır, çok kumlu olduğu için iyice temizlenir. Kavrulur, pilava ve yemeğe katılır; tadı hafif ve topraksıdır. Kuzu göbeği mantarından farklı bir mantardır.",
+  "hazirlama_adimlari": [
+    "Kemeleri bol suda 10–15 dakika bekletin; kumun bir kısmı yumuşar.",
+    "Her birini yumuşak bir fırçayla, akan su altında girintilerine kadar ovalayarak yıkayın.",
+    "İnce dış kabuğu bıçakla soyun; soyduktan sonra bir kez daha yıkayın ki hiç kum kalmasın.",
+    "Dilimleyin ya da küp doğrayın; çiğ yemeyin, tavada ya da tencerede iyice pişirin."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "keme__guneydogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "03-01",
+      "bit": "05-31",
+      "kaynak_adi": "Atila Ö., Kazankaya A. 2022, Türkiye'de doğal yayılış gösteren Terfezia türleri ve ekolojileri, Mantar Dergisi 13(Özel Sayı):119–130 + Başyiğit B., Karaaslan M., keme mantarı (Terfezia boudieri) çalışması, Harran Üniv. Mühendislik Dergisi",
+      "kaynak_link": "https://dergipark.org.tr/en/download/article-file/2694132",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "akademik",
+      "not": "Keme mantarı yağmurlu yıllarda Mart–Mayıs arasında çıkar ve pazarda taze satılır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Yalnızca kemeyi tanıyan, güvenilir satıcıdan alın; kendiniz toplayacaksanız bilen birine gösterin.",
+    "Sıkı, ağır ve dolgun kemeleri seçin; yumuşamış, süngerleşmiş ya da kötü kokan kemeyi almayın.",
+    "Kesik yüzü beyazımsı-krem olmalı; içi kararmış ya da kurt delikli olanları ayırın.",
+    "Çabuk bozulur; aldığınız gün ya da ertesi gün pişirin."
+  ],
+  "besin": [],
+  "tarifler": [
+    "keme_kavurmasi",
+    "kemeli_bulgur_pilavi"
+  ]
+}

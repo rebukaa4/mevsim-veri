@@ -1,0 +1,61 @@
+{
+  "id": "midyat_inciri",
+  "ad": "Midyat İnciri",
+  "diger_adlar": [
+    "tin"
+  ],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Mardin Midyat'ın susuz yetiştiği için benzerlerinden küçük kalan inciri; yörede 'tin' de denir. Temmuz sonundan eylül sonuna kadar toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "47",
+  "gorsel_id": "incir",
+  "aktif": true,
+  "enerji_kcal_100g": 74,
+  "enerji_durum": "taze, çiğ (i̇ncir genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Figs, raw (FDC ID 173021, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/173021/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 84,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "midyat_inciri__47__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "47",
+      "donem_turu": "hasat",
+      "bas": "07-24",
+      "bit": "09-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Midyat İnciri (No 688)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/dfa950d7-c2ec-4630-bd96-616be6d28db1.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Midyat inciri Temmuz sonundan Eylül sonuna kadar toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Olgun incir dokununca yumuşaktır; sert olanlar koparıldıktan sonra pek olgunlaşmaz.",
+    "Sapı sağlam ve meyveye bağlı olsun; boyun kısmı hafif bükülmüş incir olgundur.",
+    "Kabukta hafif çatlaklar olgunluk işaretidir, ama ekşi koku, sızıntı ya da küf varsa almayın.",
+    "Çok çabuk bozulur; 1–2 gün içinde yiyin."
+  ],
+  "besin": [
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum içerir: 100 g'da 232 mg; günlük başvuru değerine oranı yaklaşık %11.",
+      "kaynak_adi": "USDA FoodData Central — Figs, raw (FDC ID 173021, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173021/nutrients"
+    }
+  ],
+  "tarifler": [
+    "incir_receli",
+    "incirli_yogurt",
+    "cevizli_kuru_incir_tatlisi"
+  ]
+}

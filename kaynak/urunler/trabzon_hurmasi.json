@@ -18,7 +18,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169941/nutrients",
   "az_bilinen": true,
   "bilinirlik": 3,
-  "siralama": 83,
+  "siralama": 110,
   "tanitim": "Trabzon hurması, domatese benzeyen turuncu bir sonbahar meyvesidir. Tam olgunlaşmadan yenirse ağzı buruşturur; iyice yumuşayınca tatlı, jöle kıvamında olur. Kaşıkla ya da soyulup dilimlenerek yenir.",
   "hazirlama_adimlari": [
     "Sert ve buruk olanları oda sıcaklığında, bir elma ya da muzla aynı poşette 3–7 gün bekletin; iyice yumuşayınca buruk tadı kaybolur.",
@@ -79,6 +79,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Trabzon hurması ekimden aralık sonuna kadar bol bulunur."
+    },
+    {
+      "id": "trabzon_hurmasi__ic_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "10-15",
+      "bit": "01-31",
+      "kaynak_adi": "Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026) + Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026)",
+      "kaynak_link": "https://www.konya.bel.tr/hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Trabzon hurması Ekim ortasından Ocak sonuna kadar bulunur."
     },
     {
       "id": "trabzon_hurmasi__karadeniz__hasat__1",

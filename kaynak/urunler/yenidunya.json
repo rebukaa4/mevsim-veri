@@ -18,7 +18,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169908/nutrients",
   "az_bilinen": true,
   "bilinirlik": 3,
-  "siralama": 82,
+  "siralama": 109,
   "tanitim": "Yenidünya, erikten biraz büyük, ince turuncu kabuklu bir ilkbahar meyvesidir. Tadı tatlı-mayhoştur; kabuğu soyulup çekirdekleri çıkarılarak taze yenir, kompostosu ve reçeli de yapılır.",
   "hazirlama_adimlari": [
     "Yıkayın, sapını koparın.",
@@ -69,6 +69,19 @@
       "not": "Türkiye'nin yenidünyası çoğunlukla Mersin'den gelir; açık bahçe hasadı nisan sonunda başlar ve yaklaşık bir buçuk ay sürer."
     },
     {
+      "id": "yenidunya__ic_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "04-15",
+      "bit": "06-15",
+      "kaynak_adi": "Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026) + Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://www.ankara.bel.tr/hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Yenidünya Nisan ortasından Haziran ortasına kadar bulunur; Akdeniz'den gelir."
+    },
+    {
       "id": "yenidunya__karadeniz__pazar_yogun__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "karadeniz",
@@ -80,6 +93,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Yenidünya Mayıs'tan Haziran ortasına kadar bulunur; kıyı bahçelerinde de yetişir."
+    },
+    {
+      "id": "yenidunya__guneydogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "05-01",
+      "bit": "06-15",
+      "kaynak_adi": "Gaziantep Büyükşehir Belediyesi hal rayiç fiyatları (47 tarih, Aralık 2024 – Kasım 2026) + Şanlıurfa Büyükşehir Belediyesi hal fiyatları (19 tarih, Mayıs 2025 ve Mart – Kasım 2026)",
+      "kaynak_link": "https://www.gaziantep.bel.tr/tr/hal-rayic",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Yenidünya Mayıs'tan Haziran ortasına kadar bulunur."
     }
   ],
   "secim_ipuclari": [

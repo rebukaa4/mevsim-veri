@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169205/nutrients",
   "az_bilinen": true,
   "bilinirlik": 3,
-  "siralama": 59,
+  "siralama": 72,
   "tanitim": "Enginar, açmamış bir çiçek tomurcuğudur; dış sert yaprakları ayıklanır ve alttaki etli 'çanak' (kalp) kısmı yenir. Tadı hafif buruk, tatlımsı ve kendine özgüdür.",
   "hazirlama_adimlari": [
     "Önce bir kaba su, 1 limonun suyu ve 1 kaşık un koyup karıştırın; temizlenen enginarlar kararmasın diye bu suya atılacak.",
@@ -66,6 +66,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Akdeniz'de enginar şubattan mayıs ortasına kadar bulunur; bölgede üretim azdır."
+    },
+    {
+      "id": "enginar__ic_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "04-01",
+      "bit": "06-30",
+      "kaynak_adi": "Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026) + Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://www.ankara.bel.tr/hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Taze enginar Nisan–Haziran arasında bulunur; Ege ve Marmara'dan gelir."
     },
     {
       "id": "enginar__karadeniz__pazar_yogun__1",

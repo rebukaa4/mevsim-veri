@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/168448/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 45,
+  "siralama": 58,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Kalın kabuğunu keskin bir bıçakla, dilimleri tahtaya yatırarak soyun.",
@@ -77,6 +77,32 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Balkabağı eylülden şubat sonuna kadar, kışın depodan bulunur."
+    },
+    {
+      "id": "balkabagi__ic_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "hasat",
+      "bas": "09-01",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Kızılinler Bal Kabağı (No 1762) + Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/e9ecd220-dcca-46f2-a350-d7f8768a2573.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Balkabağı Eylül–Ekim'de toplanır."
+    },
+    {
+      "id": "balkabagi__ic_anadolu__depo__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "depo",
+      "bas": "11-01",
+      "bit": "03-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Kızılinler Bal Kabağı (No 1762) + Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026) + Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/e9ecd220-dcca-46f2-a350-d7f8768a2573.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Balkabağı serin depoda saklanarak Mart sonuna kadar bulunur."
     },
     {
       "id": "balkabagi__karadeniz__hasat__1",

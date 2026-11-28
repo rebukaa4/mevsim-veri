@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/173954/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 72,
+  "siralama": 93,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Yıkadıktan sonra sapını koparın.",
@@ -63,6 +63,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Vişne iç kesimlerden haziran ortasından temmuz sonuna kadar gelir."
+    },
+    {
+      "id": "visne__ic_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "hasat",
+      "bas": "07-01",
+      "bit": "08-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Çubuk Vişnesi (No 1087) + Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026) + Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/2d73eea5-351f-46eb-955f-fc41c9b0bfc3.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Vişne Temmuz–Ağustos'ta toplanır."
     },
     {
       "id": "visne__karadeniz__pazar_yogun__1",

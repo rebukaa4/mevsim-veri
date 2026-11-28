@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169913/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 74,
+  "siralama": 95,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Bir süzgecin içinde, çok kısa süre ve hafif akan suyla yıkayın; ovalamayın.",
@@ -65,6 +65,19 @@
       "not": "Dut Akdeniz'de nisan ortasından haziran ortasına kadar bulunur."
     },
     {
+      "id": "dut__ic_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "hasat",
+      "bas": "06-01",
+      "bit": "07-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Ayaş Dutu (No 900) + Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/1b07ab3e-ac62-48d9-ac6e-c0829493082a.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Dut Haziran'dan Temmuz ortasına kadar toplanır."
+    },
+    {
       "id": "dut__karadeniz__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "karadeniz",
@@ -76,6 +89,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Dut Haziran ortasından Temmuz sonuna kadar toplanır."
+    },
+    {
+      "id": "dut__guneydogu_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "hasat",
+      "bas": "05-15",
+      "bit": "06-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Adıyaman Tut Dutu (No 612) + Gaziantep Büyükşehir Belediyesi hal rayiç fiyatları (47 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/72f646c0-2c4d-4c6b-bafd-b0a90d9935e5.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Dut Mayıs ortasından Haziran sonuna kadar olgunlaşır."
     }
   ],
   "secim_ipuclari": [

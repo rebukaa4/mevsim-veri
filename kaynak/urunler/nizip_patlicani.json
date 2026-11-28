@@ -1,0 +1,63 @@
+{
+  "id": "nizip_patlicani",
+  "ad": "Nizip Patlıcanı",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Gaziantep Nizip'in 15–20 cm boyunda, kalın, dikenli saplı patlıcanı: kabuğunda boyuna mor, beyaz ve yeşilimsi çizgiler vardır; eti beyaz, yumuşak ve az çekirdeklidir.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "27",
+  "gorsel_id": "yamula_patlicani",
+  "aktif": true,
+  "enerji_kcal_100g": 25,
+  "enerji_durum": "çiğ, yenebilir kısım (patlıcan genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Eggplant, raw (FDC ID 169228)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169228/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 41,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Yıkayın, sapını kesin; isterseniz kabuğunu alacalı (bir şerit soyup bir şerit bırakarak) soyun.",
+    "Doğradıktan sonra tuzlu suda 20-30 dakika bekletin; acısı ve fazla suyu çıkar.",
+    "Sudan çıkarıp avucunuzla sıkın ya da kâğıt havluyla kurulayın; kızartırken daha az yağ çeker."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "nizip_patlicani__27__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "27",
+      "donem_turu": "hasat",
+      "bas": "06-01",
+      "bit": "11-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Nizip Patlıcanı (No 595)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/9773086e-416f-4460-9dad-3ba4ca871bd5.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Nizip patlıcanı Haziran başından Kasım sonuna kadar toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Kabuğu parlak, koyu ve pürüzsüz olsun; matlaşmış kabuk eskidiğini gösterir.",
+    "Parmakla hafifçe bastırın: iz çabuk geri dönüyorsa tazedir.",
+    "Boyuna göre ağır olanı seçin; hafif olanların içi süngerleşmiş olabilir.",
+    "Sapı ve çanağı yeşil olmalı, kurumamalı."
+  ],
+  "besin": [
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif kaynağıdır (100 g'da 3 g).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Eggplant, raw (FDC ID 169228)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169228/nutrients"
+    }
+  ],
+  "tarifler": [
+    "kozlenmis_patlican_salatasi",
+    "imam_bayildi",
+    "sebzeli_turlu"
+  ]
+}

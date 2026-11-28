@@ -1,0 +1,80 @@
+{
+  "id": "kazan_kavunu",
+  "ad": "Kazan Kavunu",
+  "diger_adlar": [
+    "kışlık kavun"
+  ],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Ankara Kahramankazan'ın kışlık kavunu: kabuğu siyaha yakın koyu yeşil, derin girintili ve kalındır; ekimde toplanır, serin yerde şubata kadar saklanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "06",
+  "gorsel_id": "kavun",
+  "aktif": true,
+  "enerji_kcal_100g": 28,
+  "enerji_durum": "çiğ, yenebilir kısım (kavun genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Melons, casaba, raw (FDC ID 169093, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169093/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 71,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "kazan_kavunu__06__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "06",
+      "donem_turu": "hasat",
+      "bas": "10-01",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Kazan Kavunu (No 763)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/66cbf5c5-a9b5-4497-9fd6-e55bc51d3aba.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kazan kavunu sonbaharda, Ekim'de toplanır."
+    },
+    {
+      "id": "kazan_kavunu__06__depo__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "06",
+      "donem_turu": "depo",
+      "bas": "11-01",
+      "bit": "02-28",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Kazan Kavunu (No 763)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/66cbf5c5-a9b5-4497-9fd6-e55bc51d3aba.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Kazan kavunu saklanarak Şubat sonuna kadar yenir."
+    }
+  ],
+  "secim_ipuclari": [
+    "Sap tarafının karşısındaki uç (çiçek ucu) parmakla bastırınca hafifçe esnemeli.",
+    "Boyuna göre ağır olan kavun daha sulu ve olgundur.",
+    "Çiçek ucu tarafında hoş, tatlı bir koku olmalı; koku yoksa ham olabilir.",
+    "Kabukta yumuşamış, çökük ya da küflü leke olmamalı."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini kaynağıdır: 100 g'da 21,8 mg; günlük başvuru değerine oranı yaklaşık %27.",
+      "kaynak_adi": "USDA FoodData Central — Melons, casaba, raw (FDC ID 169093, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169093/nutrients"
+    },
+    {
+      "ad": "Su",
+      "tur": "diger",
+      "aciklama": "Su oranı yüksektir: 100 g'ının yaklaşık 91,8 g'ı sudur.",
+      "kaynak_adi": "USDA FoodData Central — Melons, casaba, raw (FDC ID 169093, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169093/nutrients"
+    }
+  ],
+  "tarifler": [
+    "kavun_beyaz_peynir",
+    "kavun_buzlu_tatli"
+  ]
+}

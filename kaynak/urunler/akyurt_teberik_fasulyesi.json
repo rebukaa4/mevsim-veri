@@ -1,0 +1,78 @@
+{
+  "id": "akyurt_teberik_fasulyesi",
+  "ad": "Akyurt Teberik Fasulyesi",
+  "diger_adlar": [
+    "teberik"
+  ],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Ankara Akyurt'un sırık fasulyesi: 17–22 cm uzunluğunda yassı baklalar verir; temmuz sonundan ekimin ilk haftalarına kadar haftada bir toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "06",
+  "gorsel_id": "taze_fasulye",
+  "aktif": true,
+  "enerji_kcal_100g": 31,
+  "enerji_durum": "çiğ, yenebilir kısım (taze fasulye genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Beans, snap, green, raw (FDC ID 169961)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169961/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 37,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Yıkayın; iki ucunu kesip kenarındaki kılçığı varsa çekerek ayıklayın.",
+    "Boyuna ikiye ya da çaprazına 3-4 cm boyunda doğrayın."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "akyurt_teberik_fasulyesi__06__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "06",
+      "donem_turu": "hasat",
+      "bas": "07-24",
+      "bit": "10-14",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Akyurt Teberik Fasulyesi (No 1510)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/548b9f99-1e9c-40bc-9c39-809dc5c7ab2b.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Akyurt teberik fasulyesi Temmuz sonundan Ekim'in ilk haftalarına kadar haftada bir toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Kabuk parlak yeşil olmalı; ikiye kırınca 'çıt' diye kırılmalı.",
+    "Bükünce esneyip kırılmayan fasulye bayatlamıştır.",
+    "İçindeki taneler belirgin şişmemiş olsun; çok iri taneli fasulyenin kabuğu kılçıklı ve serttir.",
+    "Kahverengi lekeli ya da kurumuş uçlu olanları almayın."
+  ],
+  "besin": [
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini açısından zengindir (100 g'da 43 µg; günlük başvuru değerine oranı yaklaşık %57).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Beans, snap, green, raw (FDC ID 169961)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169961/nutrients"
+    },
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat kaynağıdır (100 g'da 33 µg; günlük başvuru değerine oranı yaklaşık %16).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Beans, snap, green, raw (FDC ID 169961)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169961/nutrients"
+    },
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini kaynağıdır (100 g'da 12 mg; günlük başvuru değerine oranı yaklaşık %15).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Beans, snap, green, raw (FDC ID 169961)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169961/nutrients"
+    }
+  ],
+  "tarifler": [
+    "zeytinyagli_taze_fasulye",
+    "taze_fasulye_salatasi",
+    "sebzeli_turlu"
+  ]
+}

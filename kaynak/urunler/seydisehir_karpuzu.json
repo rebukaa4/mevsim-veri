@@ -1,0 +1,65 @@
+{
+  "id": "seydisehir_karpuzu",
+  "ad": "Seydişehir Karpuzu",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Konya Seydişehir'in iri, elips biçimli, koyu ve açık yeşil çizgili karpuzu; ortalama 10–16 kg gelir. 25 Temmuz'dan eylül sonuna kadar toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "42",
+  "gorsel_id": "karpuz",
+  "aktif": true,
+  "enerji_kcal_100g": 30,
+  "enerji_durum": "çiğ, yenebilir kısım (karpuz genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Watermelon, raw (FDC ID 167765, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/167765/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 70,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "seydisehir_karpuzu__42__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "42",
+      "donem_turu": "hasat",
+      "bas": "07-25",
+      "bit": "09-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Seydişehir Karpuzu (No 1700)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/295b79cc-28b3-4798-b185-ad3c9a33ecf6.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Seydişehir karpuzu 25 Temmuz'dan Eylül sonuna kadar toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Toprağa değdiği yerdeki leke beyaz değil, krem-sarı renkte olmalı.",
+    "Boyuna göre ağır olsun.",
+    "Parmakla vurunca boğuk, tok bir ses vermeli; tiz ve dolu ses ham olabilir.",
+    "Sapı kurumuş olan karpuz tarlada olgunlaşmış demektir."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini içerir: 100 g'da 8,1 mg; günlük başvuru değerine oranı yaklaşık %10.",
+      "kaynak_adi": "USDA FoodData Central — Watermelon, raw (FDC ID 167765, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/167765/nutrients"
+    },
+    {
+      "ad": "Su",
+      "tur": "diger",
+      "aciklama": "Su oranı yüksektir: 100 g'ının yaklaşık 91,4 g'ı sudur.",
+      "kaynak_adi": "USDA FoodData Central — Watermelon, raw (FDC ID 167765, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/167765/nutrients"
+    }
+  ],
+  "tarifler": [
+    "kavun_buzlu_tatli",
+    "karpuz_peynir_salatasi"
+  ]
+}

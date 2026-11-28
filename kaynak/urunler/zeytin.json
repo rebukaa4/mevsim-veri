@@ -66,6 +66,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "resmi",
       "not": "Akdeniz'de yeşil sofralık zeytin eylülde, yağlık ve siyah zeytin kasım-aralıkta toplanır."
+    },
+    {
+      "id": "zeytin__guneydogu_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "hasat",
+      "bas": "10-01",
+      "bit": "02-07",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Derik Halhalı Zeytinyağı (No 1249) + Türk Patent coğrafi işaret tescili: Nizip Zeytinyağı (No 158)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/1e560307-6409-497d-b9f5-1c095f96c43d.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Güneydoğu zeytini Ekim'de yeşil olarak toplanmaya başlar, yağlık hasat Şubat'ın ilk haftasına kadar sürer."
     }
   ],
   "secim_ipuclari": [

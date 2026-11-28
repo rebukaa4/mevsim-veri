@@ -1,0 +1,55 @@
+{
+  "id": "acur",
+  "ad": "Acur",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Hıyara benzeyen ama kavun türünden olan uzun, kıvrık, açık yeşil ve oluklu sebze; temmuzdan ekim sonuna kadar toplanır. Çiğ yenir, turşusu ve dolması yapılır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "acur",
+  "aktif": true,
+  "enerji_kcal_100g": null,
+  "enerji_durum": null,
+  "enerji_kaynak_adi": null,
+  "enerji_kaynak_link": null,
+  "az_bilinen": true,
+  "bilinirlik": 4,
+  "siralama": 95,
+  "tanitim": "Acur (Cucumis melo var. flexuosus), görünüşü ve tadı hıyara benzeyen ama kavunla aynı türden bir sebzedir. Uzun, çoğu zaman kıvrık, açık yeşil renkli ve boyuna oluklu olur; kabuğu ince, eti sulu ve gevrektir, tadı hıyardan biraz daha tatlımsı ve hafiftir. Güneydoğu'da, özellikle Mardin ve Şanlıurfa'da yazın bol yetişir; Midyat acuru tescillidir. Körpe acur kabuğuyla çiğ yenir, salataya ve cacığa doğranır; iri olanlar dolma yapılır, en çok da turşusu kurulur.",
+  "hazirlama_adimlari": [
+    "Acurları bol suda yıkayın; oluklarının arasını yumuşak bir fırçayla temizleyin.",
+    "Uçlarını kesin; körpe acurun kabuğunu soymanız gerekmez, kalın ve sert olanları soyun.",
+    "Çiğ yemek için halka ya da küp doğrayın; iri acurun ortasındaki çekirdekli kısmı kaşıkla çıkarabilirsiniz.",
+    "Dolma için 8–10 cm'lik parçalara kesip içini oyun; turşu için bütün ya da kalın halkalar hâlinde kullanın.",
+    "Buzdolabının sebzeliğinde 3–4 gün dayanır."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "acur__guneydogu_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "hasat",
+      "bas": "07-08",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Midyat Acuru (No 848) + Gaziantep Büyükşehir Belediyesi hal rayiç fiyatları (47 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/082e5c95-591f-4130-b2af-d82b8ad6ccd3.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Acur Temmuz'un ikinci haftasından Ekim sonuna kadar toplanır; turşusu ve dolması yapılır."
+    }
+  ],
+  "secim_ipuclari": [
+    "İnce, düz ve 30–40 cm'yi geçmeyen körpe acurları seçin; çok kalın ve sertleşmiş olanların çekirdeği iridir.",
+    "Kabuğu açık yeşil, parlak ve sıkı olsun; sararmış, yumuşamış ya da buruşmuş acur bekledi demektir.",
+    "Turşuluk için küçük ve ince acurlar daha çıtır kalır."
+  ],
+  "besin": [],
+  "tarifler": [
+    "acur_tursusu",
+    "acur_cacigi"
+  ]
+}

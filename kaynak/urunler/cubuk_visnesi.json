@@ -1,0 +1,60 @@
+{
+  "id": "cubuk_visnesi",
+  "ad": "Çubuk Vişnesi",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Ankara Çubuk'un koyu kırmızı, parlak, sulu vişnesi; eti ve suyu da koyu kırmızıdır. Temmuz–ekim arasında toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "06",
+  "gorsel_id": "visne",
+  "aktif": true,
+  "enerji_kcal_100g": 50,
+  "enerji_durum": "çiğ, çekirdeksiz yenebilir kısım (vişne genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Cherries, sour, red, raw (FDC ID 173954, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/173954/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 2,
+  "siralama": 103,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Yıkadıktan sonra sapını koparın.",
+    "Çekirdeğini çekirdek çıkarıcıyla ya da bir pipet/ince çubukla sap tarafından iterek çıkarın; suyunu kaybetmemek için bir kasenin üstünde çalışın."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "cubuk_visnesi__06__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "06",
+      "donem_turu": "hasat",
+      "bas": "07-01",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Çubuk Vişnesi (No 1087)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/2d73eea5-351f-46eb-955f-fc41c9b0bfc3.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Çubuk vişnesi Temmuz–Ekim arasında toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Koyu kırmızı, parlak ve sıkı taneleri seçin.",
+    "Sapı yeşil olsun; suyunu salmış, ezik taneler çabuk ekşir.",
+    "Çok çabuk bozulur; aldığınız gün ya da ertesi gün kullanın."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini içerir: 100 g'da 10 mg; günlük başvuru değerine oranı yaklaşık %12.",
+      "kaynak_adi": "USDA FoodData Central — Cherries, sour, red, raw (FDC ID 173954, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173954/nutrients"
+    }
+  ],
+  "tarifler": [
+    "visne_receli",
+    "visne_serbeti"
+  ]
+}

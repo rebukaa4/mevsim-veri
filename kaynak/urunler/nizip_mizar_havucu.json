@@ -1,0 +1,66 @@
+{
+  "id": "nizip_mizar_havucu",
+  "ad": "Nizip Mızar Havucu",
+  "diger_adlar": [
+    "sarı havuç"
+  ],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Gaziantep Nizip Uluyatır'ın (eski adı Mızar) sarı renkli, tatlı, konik havucu; kışın, 20 Aralık – 20 Mart arasında sökülür. Taze, közlenmiş ve turşu olarak yenir.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "27",
+  "gorsel_id": "nizip_mizar_havucu",
+  "aktif": true,
+  "enerji_kcal_100g": 41,
+  "enerji_durum": "çiğ, yenebilir kısım (havuç genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Carrots, raw (FDC ID 170393)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170393/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 3,
+  "siralama": 92,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "nizip_mizar_havucu__27__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "27",
+      "donem_turu": "hasat",
+      "bas": "12-20",
+      "bit": "03-20",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Nizip Mızar Havucu (No 1527)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/69b2764e-5367-477a-adb5-913c185908e9.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Nizip mızar havucu 20 Aralık – 20 Mart arasında sökülür."
+    },
+    {
+      "id": "nizip_mizar_havucu__27__depo__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "27",
+      "donem_turu": "depo",
+      "bas": "03-21",
+      "bit": "08-20",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Nizip Mızar Havucu (No 1527)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/69b2764e-5367-477a-adb5-913c185908e9.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Nizip mızar havucu soğuk depoda Ağustos sonuna yakın zamana kadar saklanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Rengi koyu turuncu ve parlak olsun.",
+    "Sert ve düz olanı seçin; bükülen havuç bayattır.",
+    "Üst kısmı yeşillenmiş ya da filiz vermiş olanları almayın.",
+    "Kılcal köklü ve çatlak havuçlar genelde odunsu olur."
+  ],
+  "besin": [],
+  "tarifler": [
+    "havuc_tarator",
+    "havuclu_mercimek_corbasi",
+    "lahana_salatasi"
+  ]
+}

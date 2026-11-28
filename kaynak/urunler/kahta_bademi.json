@@ -1,0 +1,104 @@
+{
+  "id": "kahta_bademi",
+  "ad": "Kahta Bademi",
+  "diger_adlar": [],
+  "kategori_id": "diger",
+  "kisa_tanim": "Adıyaman Kahta'nın bademi: Ferragnes çeşidi ince uzun (yaklaşık 3 cm), Ferraduel çeşidi yuvarlak ve tombuldur. Eylül ortasından ekimin ilk haftasına kadar toplanır, kurutulup kabuklu ya da iç olarak satılır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "02",
+  "gorsel_id": "kahta_bademi",
+  "aktif": true,
+  "enerji_kcal_100g": 579,
+  "enerji_durum": "kabuksuz kuru iç badem (kavrulmamış)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Nuts, almonds (FDC ID 170567, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170567/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 2,
+  "siralama": 45,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Kabuklu bademi badem ya da ceviz kıracağıyla kırıp içini çıkarın.",
+    "Kabuğunu (zarını) soymak için iç bademi kaynar suda 1–2 dakika bekletin, süzüp soğuk suya alın; zarı parmaklarınızla sıkınca kolayca çıkar.",
+    "Kavurmak için yağsız tavada orta ateşte sürekli karıştırarak 6–8 dakika ya da 170 °C fırında 10 dakika ısıtın.",
+    "Bademi ağzı kapalı kavanozda, serin ve karanlık yerde saklayın; uzun saklamak için buzdolabına koyun."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "kahta_bademi__02__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "02",
+      "donem_turu": "hasat",
+      "bas": "09-15",
+      "bit": "10-07",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Kahta Bademi (No 712)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/a01d799e-8b14-41b1-b89c-8fe4bcfa9b8c.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Kahta bademi Eylül ortasından Ekim'in ilk haftasına kadar toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Kabuklu bademde kabuk temiz, açık renkli ve lekesiz olsun; kararmış, küflü ya da delik kabukluları almayın.",
+    "İç badem dolgun, kuru ve çıtır olmalı; buruşmuş, yağlanmış görünen ya da acı-ekşi kokan badem bayattır.",
+    "Arada acı tadan tek tük badem çıkabilir; acı badem yemeyin, ağzınızdan çıkarın.",
+    "Yeni hasat badem ekimde gelir; kışın aldığınız bademi az az alın."
+  ],
+  "besin": [
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif açısından zengindir: 100 g'da 12,5 g.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, almonds (FDC ID 170567, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170567/nutrients"
+    },
+    {
+      "ad": "Protein",
+      "tur": "diger",
+      "aciklama": "Protein kaynağıdır: enerjisinin yaklaşık %15'i proteinden gelir (100 g'da 21,1 g).",
+      "kaynak_adi": "USDA FoodData Central — Nuts, almonds (FDC ID 170567, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170567/nutrients"
+    },
+    {
+      "ad": "E vitamini",
+      "tur": "vitamin",
+      "aciklama": "E vitamini açısından zengindir: 100 g'da 25,6 mg; günlük başvuru değerine oranı yaklaşık %214.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, almonds (FDC ID 170567, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170567/nutrients"
+    },
+    {
+      "ad": "Manganez",
+      "tur": "mineral",
+      "aciklama": "Manganez açısından zengindir: 100 g'da 2,18 mg; günlük başvuru değerine oranı yaklaşık %109.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, almonds (FDC ID 170567, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170567/nutrients"
+    },
+    {
+      "ad": "Bakır",
+      "tur": "mineral",
+      "aciklama": "Bakır açısından zengindir: 100 g'da 1,03 mg; günlük başvuru değerine oranı yaklaşık %103.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, almonds (FDC ID 170567, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170567/nutrients"
+    },
+    {
+      "ad": "B2 vitamini (riboflavin)",
+      "tur": "vitamin",
+      "aciklama": "B2 vitamini (riboflavin) açısından zengindir: 100 g'da 1,14 mg; günlük başvuru değerine oranı yaklaşık %81.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, almonds (FDC ID 170567, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170567/nutrients"
+    },
+    {
+      "ad": "Magnezyum",
+      "tur": "mineral",
+      "aciklama": "Magnezyum açısından zengindir: 100 g'da 270 mg; günlük başvuru değerine oranı yaklaşık %72.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, almonds (FDC ID 170567, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170567/nutrients"
+    }
+  ],
+  "tarifler": [
+    "firinda_tuzlu_badem"
+  ]
+}

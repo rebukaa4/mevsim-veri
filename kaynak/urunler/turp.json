@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169276/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 47,
+  "siralama": 60,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Yapraklarını ve kökünü kesip fırçayla yıkayın.",
@@ -66,6 +66,19 @@
       "not": "Turp Akdeniz'de kasımdan mart sonuna kadar bol bulunur."
     },
     {
+      "id": "turp__ic_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "10-01",
+      "bit": "04-15",
+      "kaynak_adi": "Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026) + Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://www.ankara.bel.tr/hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Turp Ekim'den Nisan ortasına kadar bol."
+    },
+    {
       "id": "turp__karadeniz__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "karadeniz",
@@ -77,6 +90,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Turp Kasım–Mart arasında bol."
+    },
+    {
+      "id": "turp__guneydogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "10-15",
+      "bit": "04-15",
+      "kaynak_adi": "Gaziantep Büyükşehir Belediyesi hal rayiç fiyatları (47 tarih, Aralık 2024 – Kasım 2026) + Şanlıurfa Büyükşehir Belediyesi hal fiyatları (19 tarih, Mayıs 2025 ve Mart – Kasım 2026)",
+      "kaynak_link": "https://www.gaziantep.bel.tr/tr/hal-rayic",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Turp Ekim ortasından Nisan ortasına kadar bol."
     }
   ],
   "secim_ipuclari": [

@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/174673/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 73,
+  "siralama": 94,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Kabuğunu beyaz kısmıyla birlikte bıçakla soyun, dilimleri zarlarının arasından keserek çıkarın; böylece acılığı azalır."
@@ -64,6 +64,19 @@
       "not": "Akdeniz greyfurtu ekim ortasında başlar ve mart sonuna kadar bulunur."
     },
     {
+      "id": "greyfurt__ic_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "12-01",
+      "bit": "04-30",
+      "kaynak_adi": "Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026) + Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026)",
+      "kaynak_link": "https://www.konya.bel.tr/hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Greyfurt Aralık–Nisan arasında bol; Akdeniz'den gelir."
+    },
+    {
       "id": "greyfurt__karadeniz__pazar_yogun__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "karadeniz",
@@ -75,6 +88,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Greyfurt Aralık–Mart arasında bol; güneyden gelir."
+    },
+    {
+      "id": "greyfurt__guneydogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "12-01",
+      "bit": "03-31",
+      "kaynak_adi": "Gaziantep Büyükşehir Belediyesi hal rayiç fiyatları (47 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://www.gaziantep.bel.tr/tr/hal-rayic",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Greyfurt Aralık–Mart arasında bol; Akdeniz'den gelir."
     }
   ],
   "secim_ipuclari": [

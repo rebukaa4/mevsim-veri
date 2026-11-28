@@ -78,6 +78,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Ebegümeci Hatay'da \"kömeç\" adıyla pazarda satılır ve kasımdan nisan sonuna kadar bulunur."
+    },
+    {
+      "id": "ebegumeci__guneydogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "03-01",
+      "bit": "05-31",
+      "kaynak_adi": "Akan H., Balos M.M. 2023, Karaköprü (Şanlıurfa)'da gıda olarak tüketilen yabani bitkiler, Int. J. Life Sci. Biotechnol. 6(1):61–81",
+      "kaynak_link": "https://dergipark.org.tr/en/download/article-file/2935733",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Ebegümeci (tolık) baharda toplanır ve semt pazarlarında satılır."
     }
   ],
   "secim_ipuclari": [

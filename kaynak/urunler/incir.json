@@ -62,6 +62,19 @@
       "not": "Akdeniz'de taze incir temmuz başından eylül ortasına kadar bulunur."
     },
     {
+      "id": "incir__ic_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "08-01",
+      "bit": "10-15",
+      "kaynak_adi": "Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026) + Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://www.ankara.bel.tr/hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Taze incir Ağustos'tan Ekim ortasına kadar bulunur; Ege ve Bursa'dan gelir."
+    },
+    {
       "id": "incir__karadeniz__pazar_yogun__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "karadeniz",
@@ -73,6 +86,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Taze incir Ağustos ortasından Ekim ortasına kadar bulunur."
+    },
+    {
+      "id": "incir__guneydogu_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "hasat",
+      "bas": "07-15",
+      "bit": "10-10",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Midyat İnciri (No 688) + Türk Patent coğrafi işaret tescili: Silopi Behnat İnciri (No 1587) + Gaziantep Büyükşehir Belediyesi hal rayiç fiyatları (47 tarih, Aralık 2024 – Kasım 2026) + Şanlıurfa Büyükşehir Belediyesi hal fiyatları (19 tarih, Mayıs 2025 ve Mart – Kasım 2026)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/dfa950d7-c2ec-4630-bd96-616be6d28db1.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Mardin ve Şırnak inciri Temmuz ortasından Ekim başına kadar toplanır."
     }
   ],
   "secim_ipuclari": [

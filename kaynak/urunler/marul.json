@@ -66,6 +66,19 @@
       "not": "Akdeniz kıyısında marul kasımdan nisan ortasına kadar tarladan gelir; sıcakta çabuk tohuma kaçar."
     },
     {
+      "id": "marul__ic_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "hasat",
+      "bas": "06-01",
+      "bit": "09-30",
+      "kaynak_adi": "Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026) + Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026)",
+      "kaynak_link": "https://www.konya.bel.tr/hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "İç Anadolu'da yerel marul yazın, Haziran–Eylül arasında bol; kışın gelen marul güneyden ya da seradandır."
+    },
+    {
       "id": "marul__karadeniz__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "karadeniz",
@@ -77,6 +90,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Bafra marulu Ekim ortasından Mayıs sonuna kadar gelir; yazın gelen marul yayladan ya da seradan."
+    },
+    {
+      "id": "marul__guneydogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "11-01",
+      "bit": "05-31",
+      "kaynak_adi": "Gaziantep Büyükşehir Belediyesi hal rayiç fiyatları (47 tarih, Aralık 2024 – Kasım 2026) + Şanlıurfa Büyükşehir Belediyesi hal fiyatları (19 tarih, Mayıs 2025 ve Mart – Kasım 2026)",
+      "kaynak_link": "https://www.gaziantep.bel.tr/tr/hal-rayic",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Marul Kasım'dan Mayıs sonuna kadar bol; yaz sıcağında azalır."
     }
   ],
   "secim_ipuclari": [

@@ -62,6 +62,19 @@
       "not": "Türkiye'nin ilk karpuzu Adana ve Mersin'den mayıs ortasında çıkar ve ağustos sonuna kadar bol bulunur."
     },
     {
+      "id": "karpuz__ic_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "hasat",
+      "bas": "07-25",
+      "bit": "09-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Seydişehir Karpuzu (No 1700) + Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026) + Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/295b79cc-28b3-4798-b185-ad3c9a33ecf6.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Yerel karpuz Temmuz sonundan Eylül sonuna kadar; Haziran karpuzu güneyden gelir."
+    },
+    {
       "id": "karpuz__karadeniz__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "karadeniz",
@@ -73,6 +86,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Karpuz Temmuz ortasından Eylül ortasına kadar bulunur; Haziran karpuzu güneyden gelir."
+    },
+    {
+      "id": "karpuz__guneydogu_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "hasat",
+      "bas": "06-15",
+      "bit": "10-15",
+      "kaynak_adi": "Gaziantep Büyükşehir Belediyesi hal rayiç fiyatları (47 tarih, Aralık 2024 – Kasım 2026) + Şanlıurfa Büyükşehir Belediyesi hal fiyatları (19 tarih, Mayıs 2025 ve Mart – Kasım 2026) + Türk Patent coğrafi işaret tescili: Diyarbakır Karpuzu (No 111) + Türk Patent coğrafi işaret tescili: Karaköprü Tat Karpuzu (No 1096)",
+      "kaynak_link": "https://www.gaziantep.bel.tr/tr/hal-rayic",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Güneydoğu karpuzu Haziran ortasından Ekim ortasına kadar bol; geççi Diyarbakır karpuzu Temmuz sonunda gelir."
     }
   ],
   "secim_ipuclari": [

@@ -6,12 +6,13 @@ kaynak/tarifler/<id>.json ve kaynak/gorseller.json dosyalarını üretir.
 
 Girdiler (--girdi = mevsim_app klasörü):
   veri_taslak/icerik_sebze_ot.json, icerik_meyve_diger_yoresel.json, icerik_balik.json, icerik_akdeniz.json, icerik_marmara.json,
-  icerik_karadeniz.json
+  icerik_karadeniz.json, icerik_ic_anadolu.json, icerik_guneydogu.json
   araclar/katalog_urunler.py            (kanonik ürün kimlikleri ve kategoriler)
   docs/05_gorsel_lisans_kaydi.md        (görsel lisans kaydı)
   assets_kaynak/webp/<id>.webp          (bitmiş fotoğraflar)
 Bu klasördeki elle bakımlı dosyalar:
-  araclar/mevsim/<bolge_id>.json        (bölge başına sezon satırları + kaynak listesi; ör. ege.json, akdeniz.json, marmara.json, karadeniz.json)
+  araclar/mevsim/<bolge_id>.json        (bölge başına sezon satırları + kaynak listesi; ör. ege.json, akdeniz.json, marmara.json, karadeniz.json,
+                                         ic_anadolu.json, guneydogu_anadolu.json)
   araclar/bilinirlik.json               (kategori içi tanınırlık sırası: bilinirlik + siralama)
 
 Bölge dosyası: {"aciklama", "arastirma_tarihi", "kaynaklar": {kod: {ad, link}}, "satirlar": [...]}.
@@ -45,7 +46,7 @@ from pathlib import Path
 KOK = Path(__file__).resolve().parent.parent
 MEVSIM_KLASORU = Path(__file__).resolve().parent / "mevsim"
 ICERIK = ["icerik_sebze_ot.json", "icerik_meyve_diger_yoresel.json", "icerik_balik.json", "icerik_akdeniz.json",
-         "icerik_marmara.json", "icerik_karadeniz.json"]
+         "icerik_marmara.json", "icerik_karadeniz.json", "icerik_ic_anadolu.json", "icerik_guneydogu.json"]
 KATALOG_KATEGORI = {"SEBZE": "sebze", "MEYVE": "meyve", "BALIK": "balik_deniz"}
 DIGER_ALT = {"ot": "ot", "diger": "diger"}
 # Yöresel ürün taslağında hiç yazılmamışsa ana üründen alınan alanlar

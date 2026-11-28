@@ -1,0 +1,105 @@
+{
+  "id": "siirt_fistigi",
+  "ad": "Siirt Fıstığı",
+  "diger_adlar": [],
+  "kategori_id": "diger",
+  "kisa_tanim": "Siirt'in iri, dolgun ve kabuğu kolay açılan fıstık çeşidi; Antep fıstığından birkaç hafta sonra, eylülün son haftasıyla ekimin ilk haftası arasında toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "56",
+  "gorsel_id": "antep_fistigi",
+  "aktif": true,
+  "enerji_kcal_100g": 560,
+  "enerji_durum": "kabuksuz kuru iç fıstık (kavrulmamış); taze (yaş) fıstık daha nemli olduğundan enerjisi bundan düşüktür (antep fıstığı genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Nuts, pistachio nuts, raw (FDC ID 170184, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170184/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 2,
+  "siralama": 44,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Taze (yaş) fıstıkta önce dıştaki yumuşak kırmızı-pembe kabuğu parmaklarınızla soyun; altındaki sert kabuğu kırıp içini çıkarın.",
+    "Taze fıstığı buzdolabında, ağzı açık bir kapta en çok birkaç gün saklayın; uzun saklanmaz.",
+    "Kuru iç fıstığı kavurmak için yağsız tavada orta ateşte sürekli karıştırarak 4–5 dakika ya da 160 °C fırında 8–10 dakika ısıtın; çabuk yanar, başında durun.",
+    "Kuru fıstığı ağzı kapalı kavanozda, serin ve karanlık yerde saklayın; uzun saklamak için buzdolabına koyun."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "siirt_fistigi__56__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "56",
+      "donem_turu": "hasat",
+      "bas": "09-24",
+      "bit": "10-07",
+      "kaynak_adi": "Ilıkçıoğlu E., Atlı H.S., Çelik C. 2021, Iğdır Üniv. Fen Bilimleri Enst. Dergisi 11(1):10–22 (Antep fıstığında boz ve ben hasat tarihleri, Gaziantep) + Polat M., Hayoğlu İ. 2023, Harran Üniv. Mühendislik Dergisi 8(1):9–16 (Antepfıstığı Araştırma Enstitüsü bahçeleri, boz ve ben hasat tarihleri) + Türk Patent coğrafi işaret tescili: Siirt Fıstığı (No 1770)",
+      "kaynak_link": "https://dergipark.org.tr/en/download/article-file/1152473",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Siirt fıstığı Eylül'ün son haftasından Ekim'in ilk haftasına kadar toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Kuru kabuklu fıstıkta kabukların çoğu ağzı açık (çıtlak), temiz ve lekesiz olsun; ağzı kapalı (kapalı) fıstık çok olanları seçmeyin.",
+    "İç fıstık canlı yeşil-mor renkte, dolgun ve kuru olmalı; buruşmuş, yağlanmış ya da acı-ekşi kokan fıstık bayattır.",
+    "Taze fıstığın dış kırmızı-pembe kabuğu canlı ve nemli olmalı; kararmış ya da kuruyup yapışmışsa fıstık beklemiştir.",
+    "Yeni mahsul kuru fıstık eylül sonunda gelir; kışın aldığınız fıstığı az az alın."
+  ],
+  "besin": [
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif açısından zengindir: 100 g'da 10,6 g.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, pistachio nuts, raw (FDC ID 170184, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170184/nutrients"
+    },
+    {
+      "ad": "Protein",
+      "tur": "diger",
+      "aciklama": "Protein kaynağıdır: enerjisinin yaklaşık %14'ü proteinden gelir (100 g'da 20,2 g).",
+      "kaynak_adi": "USDA FoodData Central — Nuts, pistachio nuts, raw (FDC ID 170184, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170184/nutrients"
+    },
+    {
+      "ad": "Bakır",
+      "tur": "mineral",
+      "aciklama": "Bakır açısından zengindir: 100 g'da 1,3 mg; günlük başvuru değerine oranı yaklaşık %130.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, pistachio nuts, raw (FDC ID 170184, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170184/nutrients"
+    },
+    {
+      "ad": "B6 vitamini",
+      "tur": "vitamin",
+      "aciklama": "B6 vitamini açısından zengindir: 100 g'da 1,7 mg; günlük başvuru değerine oranı yaklaşık %121.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, pistachio nuts, raw (FDC ID 170184, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170184/nutrients"
+    },
+    {
+      "ad": "B1 vitamini (tiamin)",
+      "tur": "vitamin",
+      "aciklama": "B1 vitamini (tiamin) açısından zengindir: 100 g'da 0,87 mg; günlük başvuru değerine oranı yaklaşık %79.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, pistachio nuts, raw (FDC ID 170184, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170184/nutrients"
+    },
+    {
+      "ad": "Fosfor",
+      "tur": "mineral",
+      "aciklama": "Fosfor açısından zengindir: 100 g'da 490 mg; günlük başvuru değerine oranı yaklaşık %70.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, pistachio nuts, raw (FDC ID 170184, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170184/nutrients"
+    },
+    {
+      "ad": "Manganez",
+      "tur": "mineral",
+      "aciklama": "Manganez açısından zengindir: 100 g'da 1,2 mg; günlük başvuru değerine oranı yaklaşık %60.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, pistachio nuts, raw (FDC ID 170184, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170184/nutrients"
+    }
+  ],
+  "tarifler": [
+    "fistikli_bulgur_pilavi",
+    "fistikli_muhallebi"
+  ]
+}

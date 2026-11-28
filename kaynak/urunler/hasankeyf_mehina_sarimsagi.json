@@ -1,0 +1,98 @@
+{
+  "id": "hasankeyf_mehina_sarimsagi",
+  "ad": "Hasankeyf Mehina Sarımsağı",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Batman Hasankeyf'in kokusu ve tadı keskin, orta erkenci sarımsağı; mart–nisanda yeşil sarımsak olarak, haziranın ilk yarısında kuru olarak sökülür.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "72",
+  "gorsel_id": "kuru_sarimsak",
+  "aktif": true,
+  "enerji_kcal_100g": 149,
+  "enerji_durum": "çiğ, yenebilir kısım (kuru sarımsak genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Garlic, raw (FDC ID 169230)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169230/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 46,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "hasankeyf_mehina_sarimsagi__72__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "72",
+      "donem_turu": "hasat",
+      "bas": "03-15",
+      "bit": "04-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Hasankeyf Mehina Sarımsağı (No 1573)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/a64f296c-1f72-4a9b-87f5-739fc4723703.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Hasankeyf sarımsağı 15 Mart – 15 Nisan arasında yeşil olarak sökülüp hale gönderilir."
+    },
+    {
+      "id": "hasankeyf_mehina_sarimsagi__72__hasat__2",
+      "kapsam_turu": "il",
+      "kapsam_id": "72",
+      "donem_turu": "hasat",
+      "bas": "06-01",
+      "bit": "06-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Hasankeyf Mehina Sarımsağı (No 1573)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/a64f296c-1f72-4a9b-87f5-739fc4723703.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Kuru Hasankeyf sarımsağı Haziran'ın ilk yarısında sökülür."
+    },
+    {
+      "id": "hasankeyf_mehina_sarimsagi__72__depo__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "72",
+      "donem_turu": "depo",
+      "bas": "06-16",
+      "bit": "01-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Hasankeyf Mehina Sarımsağı (No 1573)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/a64f296c-1f72-4a9b-87f5-739fc4723703.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Kuru Hasankeyf sarımsağı depodan Ocak ortasına kadar bulunur."
+    }
+  ],
+  "secim_ipuclari": [
+    "Baş sert, dolgun ve ağır olsun.",
+    "Dişler birbirine sıkı yapışık olmalı, kabuk kuru ve sağlam olmalı.",
+    "Yeşil filiz vermiş, yumuşamış ya da küflü olanları almayın."
+  ],
+  "besin": [
+    {
+      "ad": "B6 vitamini",
+      "tur": "vitamin",
+      "aciklama": "B6 vitamini açısından zengindir (100 g'da 1,2 mg; günlük başvuru değerine oranı yaklaşık %89).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Garlic, raw (FDC ID 169230)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169230/nutrients"
+    },
+    {
+      "ad": "Manganez",
+      "tur": "mineral",
+      "aciklama": "Manganez açısından zengindir (100 g'da 1,7 mg; günlük başvuru değerine oranı yaklaşık %84).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Garlic, raw (FDC ID 169230)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169230/nutrients"
+    },
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir (100 g'da 31 mg; günlük başvuru değerine oranı yaklaşık %39).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Garlic, raw (FDC ID 169230)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169230/nutrients"
+    }
+  ],
+  "tarifler": [
+    "cacik",
+    "ispanak_borani",
+    "kozlenmis_patlican_salatasi"
+  ]
+}

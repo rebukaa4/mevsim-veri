@@ -65,6 +65,19 @@
       "not": "Akdeniz kıyısında açık tarla biberi hazirandan kasım sonuna kadar bol bulunur; kış ve bahar aylarındaki biber seradandır."
     },
     {
+      "id": "sivri_biber__ic_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "hasat",
+      "bas": "07-24",
+      "bit": "10-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Cemele Biberi (No 956) + Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026) + Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/b4a4e051-71c7-412f-856d-8effafa9618c.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Yerel tarla biberi Temmuz sonundan ilk donlara kadar bol; diğer aylarda gelen biber seradır."
+    },
+    {
       "id": "sivri_biber__karadeniz__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "karadeniz",
@@ -76,6 +89,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Karadeniz tarla biberi Temmuz ortasından Ekim sonuna kadar bulunur; diğer aylarda gelen biber seradır."
+    },
+    {
+      "id": "sivri_biber__guneydogu_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "hasat",
+      "bas": "06-01",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Çermik Biberi (No 717) + Gaziantep Büyükşehir Belediyesi hal rayiç fiyatları (47 tarih, Aralık 2024 – Kasım 2026) + Şanlıurfa Büyükşehir Belediyesi hal fiyatları (19 tarih, Mayıs 2025 ve Mart – Kasım 2026)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/600e5be9-2f0d-4fa3-a6d3-612d24b88547.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Yerel tarla biberi Haziran'dan Ekim sonuna kadar bol; kışın gelen biber seradır."
     }
   ],
   "secim_ipuclari": [

@@ -1,0 +1,59 @@
+{
+  "id": "silopi_behnat_inciri",
+  "ad": "Silopi Behnat İnciri",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Şırnak Silopi'nin sarı renkli, ince kabuklu, yumuşak dokulu, içi pembemsi kırmızı ve çok tatlı inciri; temmuz ortasından ekim başına kadar toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "73",
+  "gorsel_id": "incir",
+  "aktif": true,
+  "enerji_kcal_100g": 74,
+  "enerji_durum": "taze, çiğ (i̇ncir genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Figs, raw (FDC ID 173021, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/173021/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 85,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "silopi_behnat_inciri__73__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "73",
+      "donem_turu": "hasat",
+      "bas": "07-15",
+      "bit": "10-10",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Silopi Behnat İnciri (No 1587)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/9bbde274-1f13-4376-83e4-d63db994ee68.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Silopi behnat inciri Temmuz ortasından Ekim başına kadar toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Olgun incir dokununca yumuşaktır; sert olanlar koparıldıktan sonra pek olgunlaşmaz.",
+    "Sapı sağlam ve meyveye bağlı olsun; boyun kısmı hafif bükülmüş incir olgundur.",
+    "Kabukta hafif çatlaklar olgunluk işaretidir, ama ekşi koku, sızıntı ya da küf varsa almayın.",
+    "Çok çabuk bozulur; 1–2 gün içinde yiyin."
+  ],
+  "besin": [
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum içerir: 100 g'da 232 mg; günlük başvuru değerine oranı yaklaşık %11.",
+      "kaynak_adi": "USDA FoodData Central — Figs, raw (FDC ID 173021, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173021/nutrients"
+    }
+  ],
+  "tarifler": [
+    "incir_receli",
+    "incirli_yogurt",
+    "cevizli_kuru_incir_tatlisi"
+  ]
+}

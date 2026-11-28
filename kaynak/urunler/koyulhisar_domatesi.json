@@ -1,0 +1,59 @@
+{
+  "id": "koyulhisar_domatesi",
+  "ad": "Koyulhisar Domatesi",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Sivas Koyulhisar'ın iri, düzensiz dilimli yerel domatesi; raf ömrü kısa olduğundan taze ve sofralık yenir. Temmuz ortasından kasım sonuna kadar toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "58",
+  "gorsel_id": "domates",
+  "aktif": true,
+  "enerji_kcal_100g": 18,
+  "enerji_durum": "çiğ, yenebilir kısım (domates genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Tomatoes, red, ripe, raw, year round average (FDC ID 170457)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170457/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 35,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "koyulhisar_domatesi__58__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "58",
+      "donem_turu": "hasat",
+      "bas": "07-15",
+      "bit": "11-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Koyulhisar Domatesi (No 653)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/72e27081-4798-4c02-8db2-a81e2563dab4.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Koyulhisar domatesi Temmuz ortasından Kasım sonuna kadar toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Kabuğu parlak, rengi baştan sona eşit kırmızı olsun; yeşil omuzlu olanlar henüz tam olgun değildir.",
+    "Avucunuzda hafifçe sıkın: dolgun ama hafif esneyen domates olgundur, çok yumuşak olan ezilmiştir.",
+    "Sap kısmını koklayın; tarla domatesinde belirgin, hoş bir domates kokusu olur.",
+    "Çatlak, çökük ya da sulanmış lekesi olanları almayın."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini kaynağıdır (100 g'da 14 mg; günlük başvuru değerine oranı yaklaşık %17).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Tomatoes, red, ripe, raw, year round average (FDC ID 170457)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170457/nutrients"
+    }
+  ],
+  "tarifler": [
+    "coban_salatasi",
+    "menemen",
+    "zeytinyagli_taze_fasulye"
+  ]
+}

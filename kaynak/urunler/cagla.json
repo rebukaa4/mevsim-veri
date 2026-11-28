@@ -18,7 +18,7 @@
   "enerji_kaynak_link": null,
   "az_bilinen": true,
   "bilinirlik": 3,
-  "siralama": 85,
+  "siralama": 112,
   "tanitim": "Çağla, bademin kabuğu henüz sertleşmemiş, tüylü yeşil hâlidir. Bütün olarak, kabuğuyla birlikte yenir; tadı ekşi ve çıtırdır. Genelde tuzla çerez gibi yenir ya da salataya katılır.",
   "hazirlama_adimlari": [
     "Tüylerini almak için bir süzgeçte akan su altında avuçlarınızla ovarak yıkayın.",
@@ -67,6 +67,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Çağla Akdeniz'de mart ve nisanda tezgâhtadır."
+    },
+    {
+      "id": "cagla__ic_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "03-15",
+      "bit": "05-15",
+      "kaynak_adi": "Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026) + Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026)",
+      "kaynak_link": "https://www.konya.bel.tr/hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Çağla Mart ortasından Mayıs ortasına kadar bulunur; güneyden gelir."
     }
   ],
   "secim_ipuclari": [

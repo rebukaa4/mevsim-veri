@@ -1,0 +1,76 @@
+{
+  "id": "huyuk_cilegi",
+  "ad": "Hüyük Çileği",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Konya Hüyük'ün yayla çileği: düzgün biçimli, orta-iri (20–26 g), orta sertlikte ve kendine özgü aromalıdır. Haziran–eylülde toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "42",
+  "gorsel_id": "cilek",
+  "aktif": true,
+  "enerji_kcal_100g": 32,
+  "enerji_durum": "çiğ (çilek genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Strawberries, raw (FDC ID 167762, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/167762/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 69,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Yemeden hemen önce, sapıyla birlikte bol suda kısa süre yıkayın; sapı yıkadıktan sonra koparın (önce koparırsanız içine su çeker).",
+    "Buzdolabında yıkamadan, tek kat halinde saklayın ve 2–3 gün içinde tüketin."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "huyuk_cilegi__42__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "42",
+      "donem_turu": "hasat",
+      "bas": "06-01",
+      "bit": "09-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Hüyük Çileği (No 722)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/152f5b4d-633f-436c-adf6-ecf20328c301.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Hüyük çileği Haziran–Eylül arasında toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Yeşil sapı (çanak yaprakları) taze ve dik olsun; kurumuş sap eski üründür.",
+    "Rengi sap dibine kadar parlak kırmızı olmalı; beyaz kalan uçlar tam olgunlaşmamıştır.",
+    "Kabın dibine bakın: ezik, sulanmış ya da küflü tane varsa diğerleri de çabuk bozulur.",
+    "Kokusu belirgin ve tatlı olan çilek daha lezzetlidir."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir: 100 g'da 58,8 mg; günlük başvuru değerine oranı yaklaşık %73.",
+      "kaynak_adi": "USDA FoodData Central — Strawberries, raw (FDC ID 167762, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/167762/nutrients"
+    },
+    {
+      "ad": "Manganez",
+      "tur": "mineral",
+      "aciklama": "Manganez kaynağıdır: 100 g'da 0,39 mg; günlük başvuru değerine oranı yaklaşık %19.",
+      "kaynak_adi": "USDA FoodData Central — Strawberries, raw (FDC ID 167762, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/167762/nutrients"
+    },
+    {
+      "ad": "Su",
+      "tur": "diger",
+      "aciklama": "Su oranı yüksektir: 100 g'ının yaklaşık 91 g'ı sudur.",
+      "kaynak_adi": "USDA FoodData Central — Strawberries, raw (FDC ID 167762, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/167762/nutrients"
+    }
+  ],
+  "tarifler": [
+    "cilek_receli",
+    "cilekli_muhallebi",
+    "meyveli_yogurt_kasesi"
+  ]
+}
