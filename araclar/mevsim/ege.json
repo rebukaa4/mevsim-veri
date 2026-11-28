@@ -1,5 +1,5 @@
 {
- "aciklama": "Ege sezon satırları (04_ege_urun_tablosu.md, 3. tur, 27.11.2026) ve kaynak listesi. Elle bakımlıdır; ege_icerik_aktar.py bu dosyayı okur.",
+ "aciklama": "Ege sezon satırları (04_ege_urun_tablosu.md, 3. tur, 27.11.2026) ve kaynak listesi. Elle bakımlıdır; icerik_aktar.py bu dosyayı okur.",
  "arastirma_tarihi": "2026-11-27",
  "kaynaklar": {
   "K-A1": {

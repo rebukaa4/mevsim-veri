@@ -1,5 +1,5 @@
 {
-  "aciklama": "Elle bakımlı tanınırlık sırası. Her kategori listesi en tanınandan en az tanınana sıralıdır; liste sırası ürünün 'siralama' değeri olur (1, 2, 3...), ikinci sayı 'bilinirlik' (1 = herkes düzenli alır, 2 = yaygın, 3 = bilinir ama ara sıra alınır, 4 = az bilinir, 5 = nadir / uzman işi). Yöresel ürün, ana ürününün düzeyini alır ve o düzeydeki genel ürünlerin hemen arkasına yazılır. az_bilinen işaretli ürün en az 3 olmalıdır. Değiştirdikten sonra: python araclar/ege_icerik_aktar.py --girdi ../mevsim_app",
+  "aciklama": "Elle bakımlı tanınırlık sırası. Her kategori listesi en tanınandan en az tanınana sıralıdır; liste sırası ürünün 'siralama' değeri olur (1, 2, 3...), ikinci sayı 'bilinirlik' (1 = herkes düzenli alır, 2 = yaygın, 3 = bilinir ama ara sıra alınır, 4 = az bilinir, 5 = nadir / uzman işi). Yöresel ürün, ana ürününün düzeyini alır ve o düzeydeki genel ürünlerin hemen arkasına yazılır. az_bilinen işaretli ürün en az 3 olmalıdır. Değiştirdikten sonra: python araclar/icerik_aktar.py --girdi ../mevsim_app",
   "balik_deniz": [
     ["hamsi", 1], ["istavrit", 1], ["sardalya", 1], ["cipura", 1], ["levrek", 1],
     ["cipura_ciftlik", 1], ["levrek_ciftlik", 1],
@@ -15,13 +15,13 @@
     ["sakiz_kabak", 1], ["taze_fasulye", 1], ["maydanoz", 1], ["havuc", 1], ["marul", 1], ["kuru_sarimsak", 1],
     ["taze_sogan", 1], ["ispanak", 1], ["dolmalik_biber", 1], ["carliston_biber", 1],
     ["datca_domatesi", 1], ["odemis_patatesi", 1], ["suhut_patatesi", 1], ["arslanlar_biberi", 1],
-    ["acipayam_havucu", 1], ["kale_biberi", 1],
+    ["acipayam_havucu", 1], ["kale_biberi", 1], ["kirikhan_havucu", 1], ["afsin_kocovasi_sarimsagi", 1],
     ["kapya_biber", 2], ["mantar", 2], ["pirasa", 2], ["karnabahar", 2], ["beyaz_lahana", 2], ["dereotu", 2],
     ["roka", 2], ["taze_nane", 2], ["bezelye", 2], ["brokoli", 2], ["kirmizi_pancar", 2], ["balkabagi", 2],
     ["taze_misir", 2], ["turp", 2], ["kirmizi_lahana", 2], ["tere", 2], ["taze_sarimsak", 2],
-    ["emcelli_biberi", 2],
+    ["emcelli_biberi", 2], ["karaisali_biberi", 2], ["kadirli_turpu", 2],
     ["enginar", 3], ["bakla", 3], ["bamya", 3], ["semizotu", 3], ["pazi", 3], ["kereviz", 3], ["borulce", 3],
-    ["urla_enginari", 3], ["aydin_enginari", 3], ["bornova_bamyasi", 3],
+    ["urla_enginari", 3], ["aydin_enginari", 3], ["bornova_bamyasi", 3], ["kirikhan_siyah_havucu", 3],
     ["yerelmasi", 4]
   ],
   "meyve": [
@@ -31,9 +31,12 @@
     ["alasehir_uzumu", 1], ["ege_inciri", 1], ["koycegiz_portakali", 1], ["kuyucak_portakali", 1],
     ["koprubasi_cilegi", 1], ["honaz_kirazi", 1], ["demirci_kirazi", 1], ["sultandagi_kirazi", 1],
     ["acipayam_kavunu", 1], ["karahalli_kavunu", 1],
+    ["finike_portakali", 1], ["kozan_portakali", 1], ["alanya_muzu", 1], ["anamur_muzu", 1], ["erdemli_lamas_limonu", 1],
+    ["silifke_cilegi", 1], ["uluborlu_kirazi", 1], ["tarsus_beyazi_uzumu", 1], ["kas_margaz_uzumu", 1], ["hatay_barburi_uzumu", 1],
+    ["senirkent_dimrit_uzumu", 1], ["kirikhan_kavunu", 1], ["korkuteli_karyagdi_armudu", 1], ["melli_inciri", 1],
     ["kayisi", 2], ["nar", 2], ["erik", 2], ["can_erik", 2], ["ayva", 2], ["kivi", 2], ["nektarin", 2],
-    ["visne", 2], ["greyfurt", 2], ["dut", 2],
-    ["yenidunya", 3], ["trabzon_hurmasi", 3], ["bogurtlen", 3], ["cagla", 3],
+    ["visne", 2], ["greyfurt", 2], ["dut", 2], ["kuytucak_nari", 2], ["gezende_erigi", 2],
+    ["yenidunya", 3], ["trabzon_hurmasi", 3], ["bogurtlen", 3], ["cagla", 3], ["avokado", 3],
     ["musmula", 4]
   ],
   "ot": [
@@ -44,7 +47,10 @@
   ],
   "diger": [
     ["zeytin", 1], ["zeytinyagi", 1], ["akhisar_zeytini", 1], ["odemis_zeytinyagi", 1],
-    ["ceviz", 2], ["kestane", 2], ["kavaklidere_cevizi", 2], ["simav_kestanesi", 2], ["buldan_kestanesi", 2],
-    ["kuzu_gobegi", 4], ["fethiye_mantari", 4]
+    ["hatay_halhali_zeytini", 1], ["antalya_tavsan_yuregi_zeytini", 1], ["tarsus_sariulak_zeytini", 1],
+    ["mut_zeytinyagi", 1], ["ceyhan_zeytinyagi", 1], ["altinozu_zeytinyagi", 1],
+    ["ceviz", 2], ["kestane", 2], ["kavaklidere_cevizi", 2], ["simav_kestanesi", 2], ["buldan_kestanesi", 2], ["caglayancerit_cevizi", 2], ["karamanli_cevizi", 2],
+    ["yer_fistigi", 3],
+    ["kuzu_gobegi", 4], ["keciboynuzu", 4], ["fethiye_mantari", 4]
   ]
 }

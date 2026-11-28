@@ -16,7 +16,7 @@
   "enerji_kaynak_link": null,
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 31,
+  "siralama": 45,
   "tanitim": null,
   "hazirlama_adimlari": [],
   "hazirlama_kaynak_adi": null,
@@ -34,6 +34,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "tahmini",
       "not": "Can erik halde yalnızca bu dönemde satılıyor."
+    },
+    {
+      "id": "can_erik__akdeniz__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "04-01",
+      "bit": "05-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Gezende Eriği (Tescil No 977); Mevsim Ege sezon tablosu ve İzmir BB hal açık verisi; Akdeniz'e iklim farkıyla uyarlama",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/caa8ae84-1fff-4447-9778-a279cd20f634.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Can erik Akdeniz'de nisan başından mayıs ortasına kadar bulunur."
     }
   ],
   "secim_ipuclari": [

@@ -40,6 +40,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "resmi",
       "not": "Kuzey Ege'de zeytin hasadı."
+    },
+    {
+      "id": "zeytin__akdeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "hasat",
+      "bas": "09-01",
+      "bit": "12-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Hatay Halhalı Zeytini (Tescil No 1353); Türk Patent coğrafi işaret tescili: Tarsus Sarıulak Zeytini (Tescil No 345); Türk Patent coğrafi işaret tescili: Altınözü Zeytinyağı (Tescil No 1486)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/4cad4749-606e-496a-99bc-54e54177fcbe.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Akdeniz'de yeşil sofralık zeytin eylülde, yağlık ve siyah zeytin kasım-aralıkta toplanır."
     }
   ],
   "secim_ipuclari": [

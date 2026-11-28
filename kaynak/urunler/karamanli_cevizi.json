@@ -1,0 +1,97 @@
+{
+  "id": "karamanli_cevizi",
+  "ad": "Karamanlı Cevizi",
+  "diger_adlar": [],
+  "kategori_id": "diger",
+  "kisa_tanim": "Burdur Karamanlı'da Şebin, Kaman 1 ve Yalova 1 türlerinden yetiştirilen ceviz.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "15",
+  "gorsel_id": "ceviz",
+  "aktif": true,
+  "enerji_kcal_100g": 654,
+  "enerji_durum": "ceviz içi (çiğ) (ceviz genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Nuts, walnuts, english (FDC ID 170187, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170187/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 2,
+  "siralama": 17,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Kabuğu kırmak için cevizi sivri uçları yukarı-aşağı gelecek şekilde tutun ve ortadaki birleşme çizgisinden ceviz kıracağıyla ya da çekiçle hafifçe vurun.",
+    "İçteki odunsu ara bölmeleri ayıklayın; tatlıda kullanacaksanız iri parçaları elle bölün."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "karamanli_cevizi__15__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "15",
+      "donem_turu": "hasat",
+      "bas": "09-01",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Karamanlı Cevizi (Tescil No 527)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/23cd21c7-3d00-4b67-bd15-8cf0c569a9f0.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Karamanlı cevizi eylül ve ekim aylarında toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Kabuklu cevizde boyuna göre ağır olanları seçin; hafif ceviz içi kurumuş ya da boş olabilir.",
+    "Kabukta çatlak ve delik olmamalı; delik, kurt işaretidir.",
+    "Salladığınızda içinde tıkırdayan ceviz eskidir.",
+    "Ceviz içi alıyorsanız açık renkli, dolgun ve kokusuz olsun; acı ya da yağ kokusu (ransitlik) varsa bayatlamıştır. Ceviz içini buzdolabında kapalı kapta saklayın."
+  ],
+  "besin": [
+    {
+      "ad": "Manganez",
+      "tur": "mineral",
+      "aciklama": "Manganez açısından zengindir: 100 g'da 3,41 mg; günlük başvuru değerine oranı yaklaşık %170.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, walnuts, english (FDC ID 170187, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170187/nutrients"
+    },
+    {
+      "ad": "Bakır",
+      "tur": "mineral",
+      "aciklama": "Bakır açısından zengindir: 100 g'da 1,59 mg; günlük başvuru değerine oranı yaklaşık %159.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, walnuts, english (FDC ID 170187, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170187/nutrients"
+    },
+    {
+      "ad": "Fosfor",
+      "tur": "mineral",
+      "aciklama": "Fosfor açısından zengindir: 100 g'da 346 mg; günlük başvuru değerine oranı yaklaşık %49.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, walnuts, english (FDC ID 170187, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170187/nutrients"
+    },
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat açısından zengindir: 100 g'da 98 µg; günlük başvuru değerine oranı yaklaşık %49.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, walnuts, english (FDC ID 170187, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170187/nutrients"
+    },
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif açısından zengindir: 100 g'da 6,7 g.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, walnuts, english (FDC ID 170187, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170187/nutrients"
+    },
+    {
+      "ad": "Çoklu doymamış yağ",
+      "tur": "diger",
+      "aciklama": "Çoklu doymamış yağ asidi içeriği yüksektir: 100 g ceviz içinde 47,2 g.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, walnuts, english (FDC ID 170187, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170187/nutrients"
+    }
+  ],
+  "tarifler": [
+    "cevizli_kuru_incir_tatlisi",
+    "firin_elma",
+    "muhammara"
+  ]
+}

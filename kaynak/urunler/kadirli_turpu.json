@@ -1,0 +1,62 @@
+{
+  "id": "kadirli_turpu",
+  "ad": "Kadirli Turpu",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Osmaniye Kadirli'nin parlak kırmızı kabuklu, beyaz içli, yuvarlak (150–200 g) turpu; hafif acı ve gevrektir.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "80",
+  "gorsel_id": "turp",
+  "aktif": true,
+  "enerji_kcal_100g": 16,
+  "enerji_durum": "çiğ, yenebilir kısım (turp genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Radishes, raw (FDC ID 169276)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169276/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 2,
+  "siralama": 44,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Yapraklarını ve kökünü kesip fırçayla yıkayın.",
+    "Kara turpun kalın kabuğunu soyun; kırmızı turp kabuğuyla yenebilir.",
+    "Rendelenmiş turpu 10 dakika tuzlayıp suyunu sıkarsanız acılığı azalır."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "kadirli_turpu__80__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "80",
+      "donem_turu": "hasat",
+      "bas": "11-01",
+      "bit": "03-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Kadirli Turpu (Tescil No 531)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/64040a56-0177-40cb-93da-7b6a671cac41.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Kadirli turpu kasımdan mart sonuna kadar sökülür."
+    }
+  ],
+  "secim_ipuclari": [
+    "Sert, ağır ve pürüzsüz olanı seçin; yumuşak turp bayattır.",
+    "Kesince içi beyaz ve dolu olmalı; içi boşalmış (pamuksu) turp tatsızdır.",
+    "Yaprakları varsa yeşil ve taze olsun.",
+    "Çatlak ve lekeli olanları almayın."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini kaynağıdır (100 g'da 15 mg; günlük başvuru değerine oranı yaklaşık %18).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Radishes, raw (FDC ID 169276)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169276/nutrients"
+    }
+  ],
+  "tarifler": [
+    "turp_salatasi",
+    "mevsim_salatasi"
+  ]
+}

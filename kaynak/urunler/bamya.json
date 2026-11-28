@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169260/nutrients",
   "az_bilinen": true,
   "bilinirlik": 3,
-  "siralama": 43,
+  "siralama": 47,
   "tanitim": "Bamya, köşeli kabukları içindeki küçük tohumlarla birlikte bütün olarak yenen bir sebzedir. Pişince yumuşar ve hafif kaygan bir dokusu olur; limon ya da domatesle ekşili pişirilince tadı açılır.",
   "hazirlama_adimlari": [
     "Bamyaları yıkamadan önce sap kısmındaki külahı, sivri bir bıçakla kalem açar gibi çevirerek inceltin; içini açmayın, yoksa salyası çıkar.",
@@ -39,6 +39,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "tahmini",
       "not": "Halde yalnızca bu dönemde satılıyor; Bornova Kınalı Bamyası ile aynı dönem."
+    },
+    {
+      "id": "bamya__akdeniz__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "06-01",
+      "bit": "10-31",
+      "kaynak_adi": "Mevsim Ege sezon tablosu ve İzmir BB hal açık verisi; Akdeniz'e iklim farkıyla uyarlama",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Bamya Akdeniz'de hazirandan ekim sonuna kadar tezgâhtadır."
     }
   ],
   "secim_ipuclari": [

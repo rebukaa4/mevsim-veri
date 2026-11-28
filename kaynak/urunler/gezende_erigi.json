@@ -1,0 +1,49 @@
+{
+  "id": "gezende_erigi",
+  "ad": "Gezende Eriği",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Mersin'de Gezende Barajı ve Göksu (Ermenek Çayı) kıyısında yetişen erkenci can eriği; parlak yeşil renkli, taneleri 15–21 g.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "33",
+  "gorsel_id": "can_erik",
+  "aktif": true,
+  "enerji_kcal_100g": null,
+  "enerji_durum": null,
+  "enerji_kaynak_adi": null,
+  "enerji_kaynak_link": null,
+  "az_bilinen": false,
+  "bilinirlik": 2,
+  "siralama": 53,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "gezende_erigi__33__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "33",
+      "donem_turu": "hasat",
+      "bas": "04-08",
+      "bit": "06-10",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Gezende Eriği (Tescil No 977)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/caa8ae84-1fff-4447-9778-a279cd20f634.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Gezende eriği nisanın ikinci haftasından haziran başına kadar toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Parlak yeşil, sert ve çıtır olanları seçin; sararmaya başlamış olanlar yumuşar.",
+    "Kabuğu pürüzsüz olsun; buruşuk, lekeli ya da ezik tane almayın.",
+    "Küçük ve orta boy taneler genelde daha çıtırdır."
+  ],
+  "besin": [],
+  "tarifler": [
+    "tuzlu_can_erik",
+    "can_erikli_salata"
+  ]
+}

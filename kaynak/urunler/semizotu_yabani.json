@@ -39,6 +39,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "akademik",
       "not": "İç Ege'de (Afyonkarahisar) yabani semizotu haziran – temmuzda toplanır. Kıyıdaki semizotu çoğunlukla ekilidir."
+    },
+    {
+      "id": "semizotu_yabani__akdeniz__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "05-01",
+      "bit": "09-30",
+      "kaynak_adi": "Altay ve ark. 2015, Biological Diversity and Conservation 8/2:81-91 (Kırıkhan aktar ve semt pazarı bitkileri); Sargın 2019, YYÜ Fen Bilimleri Enstitüsü Dergisi (Bozyazı'da gıda olarak tüketilen yabani bitkiler)",
+      "kaynak_link": "https://dergipark.org.tr/en/download/article-file/1182893",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Yabani semizotu sıcak aylarda, mayıstan eylül sonuna kadar toplanır."
     }
   ],
   "secim_ipuclari": [

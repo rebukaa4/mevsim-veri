@@ -1,0 +1,65 @@
+{
+  "id": "alanya_muzu",
+  "ad": "Alanya Muzu",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Antalya Alanya'da çoğunlukla açık bahçede yetişen, kısa boylu Bodur Cavendish bitkisinin muzu.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "07",
+  "gorsel_id": "muz",
+  "aktif": true,
+  "enerji_kcal_100g": 89,
+  "enerji_durum": "çiğ, kabuksuz (muz genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Bananas, raw (FDC ID 173944, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/173944/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 30,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "alanya_muzu__07__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "07",
+      "donem_turu": "hasat",
+      "bas": "01-01",
+      "bit": "03-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Alanya Muzu (Tescil No 1176)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/a578c370-3060-44cb-8d6c-c9186ae75a63.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Alanya muzunun açık bahçe hasadı ocak-mart, örtü altı hasadı kasım-ocak aylarında yoğundur."
+    }
+  ],
+  "secim_ipuclari": [
+    "Sarı kabuklu, ezik ve kararmış bölgesi olmayan muz seçin.",
+    "Kabukta küçük kahverengi benekler muzun iyice tatlandığını gösterir.",
+    "Birkaç gün sonra yiyecekseniz uçları hafif yeşil olanları alın."
+  ],
+  "besin": [
+    {
+      "ad": "B6 vitamini",
+      "tur": "vitamin",
+      "aciklama": "B6 vitamini kaynağıdır: 100 g'da 0,37 mg; günlük başvuru değerine oranı yaklaşık %26.",
+      "kaynak_adi": "USDA FoodData Central — Bananas, raw (FDC ID 173944, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173944/nutrients"
+    },
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum kaynağıdır: 100 g'da 358 mg; günlük başvuru değerine oranı yaklaşık %17.",
+      "kaynak_adi": "USDA FoodData Central — Bananas, raw (FDC ID 173944, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173944/nutrients"
+    }
+  ],
+  "tarifler": [
+    "meyveli_yogurt_kasesi",
+    "meyve_salatasi",
+    "muzlu_sut"
+  ]
+}

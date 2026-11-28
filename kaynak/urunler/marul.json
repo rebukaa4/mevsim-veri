@@ -38,6 +38,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "tahmini",
       "not": "Serin mevsim ürünü; ağustos – kasım arası tezgâhta azalır."
+    },
+    {
+      "id": "marul__akdeniz__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "11-01",
+      "bit": "04-15",
+      "kaynak_adi": "Mevsim Ege sezon tablosu ve İzmir BB hal açık verisi; Akdeniz'e iklim farkıyla uyarlama",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Akdeniz kıyısında marul kasımdan nisan ortasına kadar tarladan gelir; sıcakta çabuk tohuma kaçar."
     }
   ],
   "secim_ipuclari": [

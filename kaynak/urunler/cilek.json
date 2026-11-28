@@ -37,6 +37,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "resmi",
       "not": "Ege'de açık tarla çileği nisan ortasında olgunlaşır. Sera çileği kasım sonundan itibaren bulunur."
+    },
+    {
+      "id": "cilek__akdeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "hasat",
+      "bas": "03-01",
+      "bit": "06-30",
+      "kaynak_adi": "Tarım ve Orman Bakanlığı GKGM, \"Çilek\" el kitabı; Türk Patent coğrafi işaret tescili: Silifke Çileği (Tescil No 461)",
+      "kaynak_link": "https://www.tarimorman.gov.tr/GKGM/Belgeler/Uretici_Bilgi_Kosesi/Dokumanlar/cilek.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Akdeniz'de açık tarla çileği martta olgunlaşır ve haziran sonuna kadar bol gelir; aralıktan itibaren gelen çilek seradandır."
     }
   ],
   "secim_ipuclari": [

@@ -37,6 +37,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "tahmini",
       "not": "Ege'de tarladan gelen biber dönemi; tarla ürünü ilk donlara kadar sürer."
+    },
+    {
+      "id": "dolmalik_biber__akdeniz__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "06-01",
+      "bit": "11-30",
+      "kaynak_adi": "Mevsim Ege sezon tablosu ve İzmir BB hal açık verisi; Akdeniz'e iklim farkıyla uyarlama; GKGM, \"Patlıcan\" el kitabı",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Akdeniz kıyısında açık tarla biberi hazirandan kasım sonuna kadar bol bulunur; kış ve bahar aylarındaki biber seradandır."
     }
   ],
   "secim_ipuclari": [

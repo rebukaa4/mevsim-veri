@@ -1,0 +1,73 @@
+{
+  "id": "ceyhan_zeytinyagi",
+  "ad": "Ceyhan Zeytinyağı",
+  "diger_adlar": [],
+  "kategori_id": "diger",
+  "kisa_tanim": "Adana Ceyhan'da yağlık zeytinlerden 27 °C'nin altında sıkılan natürel sızma zeytinyağı.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "01",
+  "gorsel_id": "zeytinyagi",
+  "aktif": true,
+  "enerji_kcal_100g": 884,
+  "enerji_durum": "100 g zeytinyağı (zeytinyağı (yeni hasat) genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Oil, olive, salad or cooking (FDC ID 171413, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/171413/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 9,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "ceyhan_zeytinyagi__01__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "01",
+      "donem_turu": "hasat",
+      "bas": "10-01",
+      "bit": "11-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Ceyhan Zeytinyağı (Tescil No 1291)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/54bf3bea-d1bc-4377-bc77-c66be2b9eda2.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Ceyhan zeytinyağı için zeytin ekim ve kasımda toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Etikette 'natürel sızma' yazanı seçin; bu en yüksek sınıftır ve serbest asitliği en fazla %0,8'dir. Asitlik ne kadar düşükse o kadar iyidir.",
+    "Etikette hasat yılı (ör. 2026/2027 hasadı) yazanı tercih edin; yalnızca son kullanma tarihi yazıyorsa yağın ne kadar eski olduğunu bilemezsiniz.",
+    "'Riviera' ya da 'rafine' yazan yağlar sızma değildir; işlemden geçmiş yağ karışımlarıdır.",
+    "Koyu renkli cam şişe ya da teneke kutuda alın; ışıktan, ısıdan ve havadan uzak, ağzı kapalı saklayın ve açtıktan sonra birkaç ay içinde tüketin. Ocağın yanında saklamayın."
+  ],
+  "besin": [
+    {
+      "ad": "E vitamini",
+      "tur": "vitamin",
+      "aciklama": "E vitamini açısından zengindir: 100 g'da 14,4 mg; günlük başvuru değerine oranı yaklaşık %120.",
+      "kaynak_adi": "USDA FoodData Central — Oil, olive, salad or cooking (FDC ID 171413, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/171413/nutrients"
+    },
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini açısından zengindir: 100 g'da 60,2 µg; günlük başvuru değerine oranı yaklaşık %80.",
+      "kaynak_adi": "USDA FoodData Central — Oil, olive, salad or cooking (FDC ID 171413, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/171413/nutrients"
+    },
+    {
+      "ad": "Tekli doymamış yağ",
+      "tur": "diger",
+      "aciklama": "Yağının büyük kısmı tekli doymamış yağ asitlerinden oluşur: 100 g'da 73 g.",
+      "kaynak_adi": "USDA FoodData Central — Oil, olive, salad or cooking (FDC ID 171413, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/171413/nutrients"
+    }
+  ],
+  "tarifler": [
+    "limon_sosu",
+    "zeytinyagli_enginar",
+    "patates_salatasi"
+  ]
+}

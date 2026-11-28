@@ -34,6 +34,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "tahmini",
       "not": "Kışlık Washington portakalı; halde satılanın bir kısmı Akdeniz ürünüdür."
+    },
+    {
+      "id": "portakal__akdeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "hasat",
+      "bas": "11-01",
+      "bit": "03-31",
+      "kaynak_adi": "T.C. Ticaret Bakanlığı, Hasat Dönemi sayfası (Adana-Mersin ve Antalya hasat izin tarihleri 2025, 2026); Türk Patent coğrafi işaret tescili: Kozan Portakalı (Tescil No 534)",
+      "kaynak_link": "https://ticaret.gov.tr/urun-guvenligi/tarim-urunlerinin-dis-ticaret-denetimleri/hasat-donemi",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Akdeniz portakalı kasımda başlar ve mart sonuna kadar dalından taze gelir."
     }
   ],
   "secim_ipuclari": [

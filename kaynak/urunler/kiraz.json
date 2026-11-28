@@ -47,6 +47,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "resmi",
       "not": "İç ve yüksek kesimlerin (Demirci, Sultandağı, Pazarlar) geç kirazı."
+    },
+    {
+      "id": "kiraz__akdeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "hasat",
+      "bas": "06-01",
+      "bit": "07-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Uluborlu Kirazı (Tescil No 577)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/5cf5bd41-67e5-4170-ae43-119c3e6f27fa.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Akdeniz bölgesinin kirazı yayla ve göller yöresinden gelir; haziran ve temmuzda bol bulunur."
     }
   ],
   "secim_ipuclari": [

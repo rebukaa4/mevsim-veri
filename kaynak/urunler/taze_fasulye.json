@@ -37,6 +37,32 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "tahmini",
       "not": "Bahar ekimi yaz ürününü, yaz ekimi güz ürününü verir; en bol olduğu aylar ekim – kasım."
+    },
+    {
+      "id": "taze_fasulye__akdeniz__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "04-24",
+      "bit": "07-15",
+      "kaynak_adi": "GKGM, \"Yemeklik Baklagiller\" el kitabı; Mevsim Ege sezon tablosu ve İzmir BB hal açık verisi; Akdeniz'e iklim farkıyla uyarlama",
+      "kaynak_link": "https://www.tarimorman.gov.tr/GKGM/Belgeler/Uretici_Bilgi_Kosesi/Dokumanlar/yemeklik_baklagil.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Akdeniz'de şubatta ekilen fasulye nisan sonundan temmuz ortasına kadar gelir; en sıcak yaz aylarında yerli fasulye azalır."
+    },
+    {
+      "id": "taze_fasulye__akdeniz__pazar_yogun__2",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "10-01",
+      "bit": "11-30",
+      "kaynak_adi": "GKGM, \"Yemeklik Baklagiller\" el kitabı; Mevsim Ege sezon tablosu ve İzmir BB hal açık verisi; Akdeniz'e iklim farkıyla uyarlama",
+      "kaynak_link": "https://www.tarimorman.gov.tr/GKGM/Belgeler/Uretici_Bilgi_Kosesi/Dokumanlar/yemeklik_baklagil.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Yaz sonunda ekilen güzlük fasulye ekim ve kasım aylarında yeniden bol bulunur."
     }
   ],
   "secim_ipuclari": [

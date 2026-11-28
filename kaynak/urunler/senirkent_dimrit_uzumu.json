@@ -1,0 +1,61 @@
+{
+  "id": "senirkent_dimrit_uzumu",
+  "ad": "Senirkent Dimrit Üzümü",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Isparta Senirkent'in mor-siyah, oval taneli Siyah Dimrit üzümü; sofralık olarak yenir, şıra ve pekmezi de yapılır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "32",
+  "gorsel_id": "senirkent_dimrit_uzumu",
+  "aktif": true,
+  "enerji_kcal_100g": 69,
+  "enerji_durum": "çiğ (üzüm genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Grapes, red or green (European type, such as Thompson seedless), raw (FDC ID 174683, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/174683/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 38,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Yemeden hemen önce, salkımı bir süzgece koyup akan su altında yıkayın.",
+    "Taneleri sapından ayırmadan buzdolabında saklayın; ayırınca daha çabuk bozulur."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "senirkent_dimrit_uzumu__32__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "32",
+      "donem_turu": "hasat",
+      "bas": "08-24",
+      "bit": "09-10",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Senirkent Dimrit Üzümü (Tescil No 1030)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/c0166e44-fb02-4be6-9bec-fc9faefe3ded.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Senirkent dimrit üzümü ağustos sonu ile eylül başında toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Salkım sapı yeşil ve esnek olsun; kahverengi, kuru sap eski üründür.",
+    "Taneler salkıma sıkıca bağlı olmalı; sallayınca dökülüyorsa bekletilmiştir.",
+    "Tanelerde ezik, çatlak ya da kahverengi leke olmamalı.",
+    "Tane üzerindeki ince beyaz pus doğaldır."
+  ],
+  "besin": [
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini kaynağıdır: 100 g'da 14,6 µg; günlük başvuru değerine oranı yaklaşık %19.",
+      "kaynak_adi": "USDA FoodData Central — Grapes, red or green (European type, such as Thompson seedless), raw (FDC ID 174683, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/174683/nutrients"
+    }
+  ],
+  "tarifler": [
+    "meyve_salatasi",
+    "uzum_kompostosu"
+  ]
+}

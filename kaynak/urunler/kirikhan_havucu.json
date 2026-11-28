@@ -1,0 +1,73 @@
+{
+  "id": "kirikhan_havucu",
+  "ad": "Kırıkhan Havucu",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Hatay Kırıkhan'ın düzgün biçimli, parlak turuncu, 14–17 cm boyundaki Nantes tipi havucu.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "31",
+  "gorsel_id": "havuc",
+  "aktif": true,
+  "enerji_kcal_100g": 41,
+  "enerji_durum": "çiğ, yenebilir kısım (havuç genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Carrots, raw (FDC ID 170393)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170393/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 23,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "kirikhan_havucu__31__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "31",
+      "donem_turu": "hasat",
+      "bas": "12-01",
+      "bit": "06-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Kırıkhan Havucu (Tescil No 1701)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/28e2f6ca-cbe8-4128-9f3e-9b0bba1506c2.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Kırıkhan havucu aralık başından haziran ortasına kadar sökülür."
+    }
+  ],
+  "secim_ipuclari": [
+    "Rengi koyu turuncu ve parlak olsun.",
+    "Sert ve düz olanı seçin; bükülen havuç bayattır.",
+    "Üst kısmı yeşillenmiş ya da filiz vermiş olanları almayın.",
+    "Kılcal köklü ve çatlak havuçlar genelde odunsu olur."
+  ],
+  "besin": [
+    {
+      "ad": "A vitamini",
+      "tur": "vitamin",
+      "aciklama": "A vitamini açısından zengindir (100 g'da 835 µg; günlük başvuru değerini aşar).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Carrots, raw (FDC ID 170393)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170393/nutrients"
+    },
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini kaynağıdır (100 g'da 13 µg; günlük başvuru değerine oranı yaklaşık %18).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Carrots, raw (FDC ID 170393)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170393/nutrients"
+    },
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum kaynağıdır (100 g'da 320 mg; günlük başvuru değerine oranı yaklaşık %16).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Carrots, raw (FDC ID 170393)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170393/nutrients"
+    }
+  ],
+  "tarifler": [
+    "havuc_tarator",
+    "havuclu_mercimek_corbasi",
+    "lahana_salatasi"
+  ]
+}

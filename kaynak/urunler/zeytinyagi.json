@@ -34,6 +34,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "resmi",
       "not": "Yeni hasat zeytinyağı; zeytin hasattan en geç 48 saat içinde sıkılır."
+    },
+    {
+      "id": "zeytinyagi__akdeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "hasat",
+      "bas": "10-01",
+      "bit": "01-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Ceyhan Zeytinyağı (Tescil No 1291); Türk Patent coğrafi işaret tescili: Tarsus Sarıulak Zeytinyağı (Tescil No 767); Türk Patent coğrafi işaret tescili: Mut Zeytinyağı (Tescil No 367)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/54bf3bea-d1bc-4377-bc77-c66be2b9eda2.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Akdeniz'de yeni hasat zeytinyağı ekimden ocak sonuna kadar sıkılır."
     }
   ],
   "secim_ipuclari": [

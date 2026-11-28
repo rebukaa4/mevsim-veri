@@ -16,7 +16,7 @@
   "enerji_kaynak_link": null,
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 39,
+  "siralama": 41,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Kökünü ve yaprakların kurumuş uçlarını kesin.",
@@ -37,6 +37,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "tahmini",
       "not": "Taze sarımsak en çok nisan – haziran arasında tezgâhta."
+    },
+    {
+      "id": "taze_sarimsak__akdeniz__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "03-01",
+      "bit": "05-31",
+      "kaynak_adi": "Mevsim Ege sezon tablosu ve İzmir BB hal açık verisi; Akdeniz'e iklim farkıyla uyarlama",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Taze sarımsak Akdeniz kıyısında marttan mayıs sonuna kadar bulunur."
     }
   ],
   "secim_ipuclari": [

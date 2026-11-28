@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169246/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 25,
+  "siralama": 27,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Kökünü ve yaprakların kurumuş uçlarını kesin; dış yaprağı soyun.",
@@ -38,6 +38,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "tahmini",
       "not": "Menemen pırasası ekimde başlar; en bol olduğu dönem aralık – mayıs."
+    },
+    {
+      "id": "pirasa__akdeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "hasat",
+      "bas": "11-01",
+      "bit": "04-30",
+      "kaynak_adi": "Mevsim Ege sezon tablosu ve İzmir BB hal açık verisi; Akdeniz'e iklim farkıyla uyarlama",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Akdeniz'de pırasa kasımdan nisan sonuna kadar tarladan gelir."
     }
   ],
   "secim_ipuclari": [

@@ -18,7 +18,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169908/nutrients",
   "az_bilinen": true,
   "bilinirlik": 3,
-  "siralama": 38,
+  "siralama": 54,
   "tanitim": "Yenidünya, erikten biraz büyük, ince turuncu kabuklu bir ilkbahar meyvesidir. Tadı tatlı-mayhoştur; kabuğu soyulup çekirdekleri çıkarılarak taze yenir, kompostosu ve reçeli de yapılır.",
   "hazirlama_adimlari": [
     "Yıkayın, sapını koparın.",
@@ -41,6 +41,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "tahmini",
       "not": "Yenidünya halde yalnızca bu dönemde satılıyor."
+    },
+    {
+      "id": "yenidunya__akdeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "hasat",
+      "bas": "04-24",
+      "bit": "06-10",
+      "kaynak_adi": "NTV, Mersin'de açık bahçede yenidünya hasadı (29.04.2026)",
+      "kaynak_link": "https://www.ntv.com.tr/yerel-haberler/galeri-acik-bahcelerde-hasat-basladi-en-kalitelisi-100-liraya-satiliyor-mersinden-dunyaya-gonderiliyor-1722100",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Türkiye'nin yenidünyası çoğunlukla Mersin'den gelir; açık bahçe hasadı nisan sonunda başlar ve yaklaşık bir buçuk ay sürer."
     }
   ],
   "secim_ipuclari": [

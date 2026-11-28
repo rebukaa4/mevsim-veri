@@ -47,6 +47,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "tahmini",
       "not": "Kışlık (askı) kavunlar depolanarak yılbaşına, bazıları ocak ortasına kadar bulunur."
+    },
+    {
+      "id": "kavun__akdeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "hasat",
+      "bas": "06-01",
+      "bit": "09-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Kırıkhan Kavunu (Tescil No 886); GKGM, \"Kavun-Karpuz\" el kitabı",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/11349876-9f6b-4fa8-a2e6-def723e49a26.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Akdeniz kavunu hazirandan eylül sonuna kadar tarladan gelir."
     }
   ],
   "secim_ipuclari": [

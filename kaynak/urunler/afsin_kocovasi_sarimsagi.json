@@ -1,0 +1,72 @@
+{
+  "id": "afsin_kocovasi_sarimsagi",
+  "ad": "Afşin Koçovası Sarımsağı",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Kahramanmaraş Afşin'in iri başlı, beyaz-mor kabuklu sarımsağı; bağ halinde kurutularak satılır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "46",
+  "gorsel_id": "kuru_sarimsak",
+  "aktif": true,
+  "enerji_kcal_100g": 149,
+  "enerji_durum": "çiğ, yenebilir kısım (kuru sarımsak genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Garlic, raw (FDC ID 169230)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169230/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 24,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "afsin_kocovasi_sarimsagi__46__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "46",
+      "donem_turu": "hasat",
+      "bas": "06-24",
+      "bit": "07-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Afşin Koçovası Sarımsağı (Tescil No 787)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/866572b4-7dd0-4037-948f-efe00c80a772.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Afşin Koçovası sarımsağı haziran sonu ile temmuz ayında sökülür."
+    }
+  ],
+  "secim_ipuclari": [
+    "Baş sert, dolgun ve ağır olsun.",
+    "Dişler birbirine sıkı yapışık olmalı, kabuk kuru ve sağlam olmalı.",
+    "Yeşil filiz vermiş, yumuşamış ya da küflü olanları almayın."
+  ],
+  "besin": [
+    {
+      "ad": "B6 vitamini",
+      "tur": "vitamin",
+      "aciklama": "B6 vitamini açısından zengindir (100 g'da 1,2 mg; günlük başvuru değerine oranı yaklaşık %89).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Garlic, raw (FDC ID 169230)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169230/nutrients"
+    },
+    {
+      "ad": "Manganez",
+      "tur": "mineral",
+      "aciklama": "Manganez açısından zengindir (100 g'da 1,7 mg; günlük başvuru değerine oranı yaklaşık %84).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Garlic, raw (FDC ID 169230)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169230/nutrients"
+    },
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir (100 g'da 31 mg; günlük başvuru değerine oranı yaklaşık %39).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Garlic, raw (FDC ID 169230)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169230/nutrients"
+    }
+  ],
+  "tarifler": [
+    "cacik",
+    "ispanak_borani",
+    "kozlenmis_patlican_salatasi"
+  ]
+}

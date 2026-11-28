@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169134/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 29,
+  "siralama": 43,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Narın tepesindeki taç kısmını bıçakla daire şeklinde kesip çıkarın.",
@@ -52,6 +52,32 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "tahmini",
       "not": "Depolanmış nar nisan ortasına kadar bulunur."
+    },
+    {
+      "id": "nar__akdeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "hasat",
+      "bas": "09-01",
+      "bit": "11-30",
+      "kaynak_adi": "Kurt & Şahin 2013, Marmara Coğrafya Dergisi 27:551-574 (Türkiye'de nar tarımı); Türk Patent coğrafi işaret tescili: Kuytucak Narı (Tescil No 675)",
+      "kaynak_link": "https://dergipark.org.tr/tr/download/article-file/3337",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "akademik",
+      "not": "Akdeniz Türkiye'nin en çok nar üreten bölgesidir; hasat eylülde başlar, geç türlerde kasım sonuna kadar sürer."
+    },
+    {
+      "id": "nar__akdeniz__depo__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "depo",
+      "bas": "12-01",
+      "bit": "03-31",
+      "kaynak_adi": "Kurt & Şahin 2013, Marmara Coğrafya Dergisi 27:551-574 (Türkiye'de nar tarımı)",
+      "kaynak_link": "https://dergipark.org.tr/tr/download/article-file/3337",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "akademik",
+      "not": "Akdeniz Türkiye'nin en çok nar üreten bölgesidir; hasat eylülde başlar, geç türlerde kasım sonuna kadar sürer."
     }
   ],
   "secim_ipuclari": [

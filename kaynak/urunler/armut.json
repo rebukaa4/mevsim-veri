@@ -34,6 +34,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "resmi",
       "not": "Yazlık armut haziran ortasından itibaren; kışlık çeşitler depodan yıl boyu bulunur."
+    },
+    {
+      "id": "armut__akdeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "hasat",
+      "bas": "08-01",
+      "bit": "10-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Korkuteli Karyağdı Armudu (Tescil No 369)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/369.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Armut Akdeniz'in yayla ve göller yöresinden ağustostan ekim ortasına kadar gelir."
     }
   ],
   "secim_ipuclari": [

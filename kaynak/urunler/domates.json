@@ -34,6 +34,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "tahmini",
       "not": "Açık tarla domatesi; halde en bol olduğu dönem temmuz ortası – eylül ortası. Sera domatesi yıl boyu bulunur."
+    },
+    {
+      "id": "domates__akdeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "hasat",
+      "bas": "06-01",
+      "bit": "11-30",
+      "kaynak_adi": "Mevsim Ege sezon tablosu ve İzmir BB hal açık verisi; Akdeniz'e iklim farkıyla uyarlama",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Akdeniz kıyısında açık tarla domatesi haziranda gelmeye başlar ve don olmadığı için kasım sonuna kadar sürer; sera domatesi yıl boyu bulunur."
     }
   ],
   "secim_ipuclari": [
