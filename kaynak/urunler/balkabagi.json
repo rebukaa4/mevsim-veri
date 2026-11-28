@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/168448/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 58,
+  "siralama": 62,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Kalın kabuğunu keskin bir bıçakla, dilimleri tahtaya yatırarak soyun.",
@@ -129,6 +129,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Kabak serin yerde saklanarak kış boyu bulunur."
+    },
+    {
+      "id": "balkabagi__dogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "dogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "11-01",
+      "bit": "01-31",
+      "kaynak_adi": "Malatya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://www.malatya.bel.tr/sayfa/hal-fiyatlari-2026",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Balkabağı Kasım'dan Ocak sonuna kadar bulunur."
     }
   ],
   "secim_ipuclari": [

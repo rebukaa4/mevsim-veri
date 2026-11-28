@@ -1,0 +1,60 @@
+{
+  "id": "cemisgezek_ulukale_dutu",
+  "ad": "Çemişgezek Ulukale Dutu",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Tunceli Çemişgezek'in çekirdeksiz beyaz dutu; kurusu beyazımsı sarıdır. Mayıs'ın üçüncü haftasından Temmuz ortasına kadar toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "62",
+  "gorsel_id": "kemaliye_dutu",
+  "aktif": true,
+  "enerji_kcal_100g": 43,
+  "enerji_durum": "çiğ (dut genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Mulberries, raw (FDC ID 169913, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169913/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 2,
+  "siralama": 123,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Bir süzgecin içinde, çok kısa süre ve hafif akan suyla yıkayın; ovalamayın.",
+    "Kara dut elleri ve giysiyi boyar; önlük kullanın, lekeyi hemen limonla ovun."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "cemisgezek_ulukale_dutu__62__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "62",
+      "donem_turu": "hasat",
+      "bas": "05-15",
+      "bit": "07-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Çemişgezek Ulukale Dutu (No 423)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/7368908a-e0e7-476d-b95b-38926cfbfc31.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Çemişgezek Ulukale dutu Mayıs'ın üçüncü haftasından Temmuz ortasına kadar toplanır; çoğu kurutulur."
+    }
+  ],
+  "secim_ipuclari": [
+    "Taneler dolgun ve kuru olsun; suyunu salmış, yapışmış dut çabuk ekşir.",
+    "Kabın dibinde ezilmiş ya da küflenmiş tane olmamalı.",
+    "Çok çabuk bozulur; aldığınız gün yiyin."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir: 100 g'da 36,4 mg; günlük başvuru değerine oranı yaklaşık %45.",
+      "kaynak_adi": "USDA FoodData Central — Mulberries, raw (FDC ID 169913, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169913/nutrients"
+    }
+  ],
+  "tarifler": [
+    "meyveli_yogurt_kasesi",
+    "dut_receli"
+  ]
+}

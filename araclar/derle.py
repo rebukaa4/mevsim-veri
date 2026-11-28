@@ -323,6 +323,11 @@ def kurallari_dogrula(veri: dict, hatalar: list[str], uyarilar: list[str], oncek
         if len(set(map(str, tarifler))) != len(tarifler):
             hatalar.append(f"{on}: aynı tarif birden çok kez bağlanmış")
 
+        # İç su balığı (ör. Van Gölü'nün inci kefali): suyun adı yazılır, yalnızca balıkta kullanılır.
+        ic_su = u.get("ic_su_adi")
+        if ic_su is not None and u.get("kategori_id") != "balik_deniz":
+            hatalar.append(f"{on}: ic_su_adi yalnızca balık ürünlerinde kullanılır")
+
         mevsimler = [m for m in (u.get("mevsimler") or []) if isinstance(m, dict)]
         # Çiftlik ürünü ya yıl boyudur (yil_boyu: true, mevsim kaydı yok) ya da mevsimlidir
         # (yil_boyu: false; ör. denizde yalnızca kış-bahar yetiştirilen Türk somonu): en az bir kayıt, yalnızca "hasat".
@@ -382,6 +387,12 @@ def kurallari_dogrula(veri: dict, hatalar: list[str], uyarilar: list[str], oncek
                 hatalar.append(f"{mon}: bilinmeyen {tur} kapsamı: {kid}")
             if tur == "deniz" and u.get("kategori_id") != "balik_deniz":
                 hatalar.append(f"{mon}: deniz kapsamı yalnızca balık/deniz ürünlerinde kullanılır")
+            # Deniz balığı yalnızca deniz kaydı alır; iç su (göl/akarsu) balığı ise hiç deniz kaydı almaz.
+            if u.get("kategori_id") == "balik_deniz":
+                if ic_su and tur == "deniz":
+                    hatalar.append(f"{mon}: iç su balığına ({ic_su}) deniz kaydı bağlanamaz")
+                elif not ic_su and tur != "deniz":
+                    hatalar.append(f"{mon}: deniz balığı yalnızca deniz kaydı alır (iç su balığıysa ic_su_adi yazılmalı)")
             if u.get("yoresel_il_id") is None:
                 ust = None
                 if tur == "il" and kid in il_bilgi:

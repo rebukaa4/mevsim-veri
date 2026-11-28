@@ -91,6 +91,19 @@
       "not": "Karadeniz tarla biberi Temmuz ortasından Ekim sonuna kadar bulunur; diğer aylarda gelen biber seradır."
     },
     {
+      "id": "sivri_biber__dogu_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "dogu_anadolu",
+      "donem_turu": "hasat",
+      "bas": "07-15",
+      "bit": "10-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Keban Biberi (No 1657) + Malatya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/b8a8e876-ba26-4495-bf29-5c3914a28281.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Yerel tarla biberi Temmuz ortasından Ekim ortasına kadar bol; Elazığ Keban'da Haziran sonunda başlar."
+    },
+    {
       "id": "sivri_biber__guneydogu_anadolu__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "guneydogu_anadolu",

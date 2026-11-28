@@ -88,6 +88,19 @@
       "not": "Tarla hıyarı Temmuz–Eylül arasında bulunur; diğer aylarda sera hıyarı var."
     },
     {
+      "id": "salatalik__dogu_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "dogu_anadolu",
+      "donem_turu": "hasat",
+      "bas": "07-15",
+      "bit": "09-30",
+      "kaynak_adi": "Malatya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://www.malatya.bel.tr/sayfa/hal-fiyatlari-2026",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Tarla hıyarı Temmuz ortasından Eylül sonuna kadar bol; Eylül–Ekim'de turşuluk kornişon da gelir."
+    },
+    {
       "id": "salatalik__guneydogu_anadolu__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "guneydogu_anadolu",

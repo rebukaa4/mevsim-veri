@@ -1,0 +1,58 @@
+{
+  "id": "akcadag_armudu",
+  "ad": "Akçadağ Armudu",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Malatya Akçadağ'ın küçük, uzun boyunlu, yeşilimsi sarı armudu; Ekim ortasında toplanır, taze ve kurutmalık satılır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "44",
+  "gorsel_id": "armut",
+  "aktif": true,
+  "enerji_kcal_100g": 57,
+  "enerji_durum": "çiğ (armut genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Pears, raw (FDC ID 169118, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169118/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 95,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "akcadag_armudu__44__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "44",
+      "donem_turu": "hasat",
+      "bas": "10-15",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Akçadağ Armudu (No 1609)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/d4d5344a-919b-4f62-994c-749d5640849f.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Akçadağ armudu Ekim ortasında toplanır; taze ve kurutulmuş satılır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Armut ağaçta değil, toplandıktan sonra olgunlaşır; sap dibine (boyun kısmı) hafifçe bastırın, azıcık esniyorsa yemeye hazırdır.",
+    "Sert aldıysanız oda sıcaklığında 2–3 gün bekletin.",
+    "Kabukta ezik, kararmış ya da yumuşamış bölge olmamalı."
+  ],
+  "besin": [
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif kaynağıdır: 100 g'da 3,1 g.",
+      "kaynak_adi": "USDA FoodData Central — Pears, raw (FDC ID 169118, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169118/nutrients"
+    }
+  ],
+  "tarifler": [
+    "meyve_salatasi",
+    "armut_tatlisi",
+    "armutlu_peynirli_salata"
+  ]
+}

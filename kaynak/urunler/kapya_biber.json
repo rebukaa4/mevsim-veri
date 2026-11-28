@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170108/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 47,
+  "siralama": 51,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Közlemek için ocak telinde ya da fırında (220 °C) kabukları kararana kadar çevirerek pişirin.",
@@ -90,6 +90,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Bafra Ovası'nın kırmızı kapya biberi Ağustos sonundan Ekim sonuna kadar toplanır."
+    },
+    {
+      "id": "kapya_biber__dogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "dogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "07-01",
+      "bit": "10-31",
+      "kaynak_adi": "Malatya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://www.malatya.bel.tr/sayfa/hal-fiyatlari-2026",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kırmızı kapya biber Temmuz'dan Ekim sonuna kadar bol."
     },
     {
       "id": "kapya_biber__guneydogu_anadolu__pazar_yogun__1",

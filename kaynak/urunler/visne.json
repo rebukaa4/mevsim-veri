@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/173954/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 93,
+  "siralama": 103,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Yıkadıktan sonra sapını koparın.",
@@ -89,6 +89,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Vişne Temmuz ayında bol."
+    },
+    {
+      "id": "visne__dogu_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "dogu_anadolu",
+      "donem_turu": "hasat",
+      "bas": "06-24",
+      "bit": "07-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Elazığ Vişnesi (No 1273) + Malatya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/a2480784-78fa-4884-898c-2f70f2230368.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Vişne Haziran sonundan Temmuz sonuna kadar toplanır."
     }
   ],
   "secim_ipuclari": [

@@ -45,6 +45,15 @@
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {
+    "id": "alic",
+    "kaynak_adi": "Wikimedia Commons: Crataegus orientalis fruit a PG.jpg",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Crataegus_orientalis_fruit_a_PG.jpg",
+    "yazar": "Melburnian",
+    "lisans": "CC BY-SA 3.0",
+    "lisans_link": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
     "id": "antep_fistigi",
     "kaynak_adi": "Wikimedia Commons: Pistachios (39799740255).jpg",
     "kaynak_link": "https://commons.wikimedia.org/wiki/File:Pistachios_(39799740255).jpg",
@@ -279,6 +288,15 @@
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {
+    "id": "ciris",
+    "kaynak_adi": "iNaturalist: iNaturalist foto 277754041 (gözlem 160722146, Eremurus spectabilis)",
+    "kaynak_link": "https://www.inaturalist.org/photos/277754041",
+    "yazar": "Илья Руденко",
+    "lisans": "CC BY 4.0",
+    "lisans_link": "https://creativecommons.org/licenses/by/4.0/",
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
     "id": "deniz_borulcesi",
     "kaynak_adi": "Flickr: Flickr 3824945873 (salicorne / pickleweed)",
     "kaynak_link": "https://www.flickr.com/photos/47757737@N00/3824945873",
@@ -465,6 +483,15 @@
     "yazar": "Evan-Amos",
     "lisans": "Public domain",
     "lisans_link": null,
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
+    "id": "inci_kefali",
+    "kaynak_adi": "Wikimedia Commons: Inci kefali 1.jpg",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Inci_kefali_1.jpg",
+    "yazar": "Rotadefterim",
+    "lisans": "CC BY-SA 4.0",
+    "lisans_link": "https://creativecommons.org/licenses/by-sa/4.0/",
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {
@@ -681,6 +708,15 @@
     "yazar": "ABD Gıda ve İlaç Dairesi (FDA)",
     "lisans": "Public domain",
     "lisans_link": null,
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
+    "id": "kemaliye_dutu",
+    "kaynak_adi": "Wikimedia Commons: Morus alba (white mulberry), fruit (SaatPilot).jpg",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Morus_alba_(white_mulberry),_fruit_(SaatPilot).jpg",
+    "yazar": "Steffen Bauer (www.saatpilot.de)",
+    "lisans": "CC BY 4.0",
+    "lisans_link": "https://creativecommons.org/licenses/by/4.0/",
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {

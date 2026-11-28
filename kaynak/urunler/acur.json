@@ -16,7 +16,7 @@
   "enerji_kaynak_link": null,
   "az_bilinen": true,
   "bilinirlik": 4,
-  "siralama": 95,
+  "siralama": 100,
   "tanitim": "Acur (Cucumis melo var. flexuosus), görünüşü ve tadı hıyara benzeyen ama kavunla aynı türden bir sebzedir. Uzun, çoğu zaman kıvrık, açık yeşil renkli ve boyuna oluklu olur; kabuğu ince, eti sulu ve gevrektir, tadı hıyardan biraz daha tatlımsı ve hafiftir. Güneydoğu'da, özellikle Mardin ve Şanlıurfa'da yazın bol yetişir; Midyat acuru tescillidir. Körpe acur kabuğuyla çiğ yenir, salataya ve cacığa doğranır; iri olanlar dolma yapılır, en çok da turşusu kurulur.",
   "hazirlama_adimlari": [
     "Acurları bol suda yıkayın; oluklarının arasını yumuşak bir fırçayla temizleyin.",
@@ -28,6 +28,19 @@
   "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
   "hazirlama_kaynak_link": null,
   "mevsimler": [
+    {
+      "id": "acur__dogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "dogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "09-01",
+      "bit": "10-31",
+      "kaynak_adi": "Malatya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://www.malatya.bel.tr/sayfa/hal-fiyatlari-2026",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Acur Eylül–Ekim'de bulunur; turşusu yapılır."
+    },
     {
       "id": "acur__guneydogu_anadolu__hasat__1",
       "kapsam_turu": "bolge",

@@ -1,0 +1,58 @@
+{
+  "id": "ciris",
+  "ad": "Çiriş",
+  "diger_adlar": [
+    "yabani pırasa",
+    "çiriş otu"
+  ],
+  "kategori_id": "ot",
+  "kisa_tanim": "Yabani pırasa da denen çirişin taze yaprakları; Mayıs–Haziran'da demet demet pazara gelir, pırasa ya da ıspanak gibi pişirilir ve otlu peynire katılır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "ciris",
+  "aktif": true,
+  "enerji_kcal_100g": null,
+  "enerji_durum": null,
+  "enerji_kaynak_adi": null,
+  "enerji_kaynak_link": null,
+  "az_bilinen": true,
+  "bilinirlik": 4,
+  "siralama": 16,
+  "tanitim": "Çiriş (Eremurus spectabilis), Doğu Anadolu'nun yayla ve dağ yamaçlarında yetişen çok yıllık bir bitkidir. İlkbahar sonunda topraktan çıkan uzun, şerit gibi yeşil yaprakları toplanır; Erzurum, Van ve Muş pazarlarında demet halinde satılır. Hafif pırasayı andıran yumuşak bir tadı vardır. Doğranıp soğanla kavrulur, yumurtayla ya da pilavda pişirilir; Van otlu peynirine katılan otlardan biridir. Yalnızca genç, taze yaprakları kullanılır.",
+  "hazirlama_adimlari": [
+    "Demeti çözün; kök tarafındaki sert, toprak bulaşmış uçları ve sararmış yaprakları kesip atın.",
+    "Yaprakları bol suda 2–3 kez yıkayın; dipte kum kalmayana kadar suyu değiştirin.",
+    "Süzdüğünüz yaprakları pırasa gibi 1–2 cm boyunda doğrayın.",
+    "Soğanla birlikte tavada 8–10 dakika kavurun ya da ıspanak gibi yemeğe, pilava veya yumurtaya katın."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "ciris__dogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "dogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "05-01",
+      "bit": "06-30",
+      "kaynak_adi": "Kadıoğlu S., Kadıoğlu B., Dizikısa T., Karagöz Sezer K. 2021, Doğal Olarak Yetişen ve Halk Tarafından Kullanılan Yabani Bitkilerin Etnobotanik Özellikleri (Erzurum), Muş Alparslan Üniv. Tarımsal Üretim ve Teknolojileri Dergisi 1(1):39–50 + Tunçtürk M., Tunçtürk R. 2020, Van Otlu Peyniri ve Yapımında Kullanılan Bitkiler ile İlgili Genel Bir Değerlendirme, Ziraat Fakültesi Dergisi, Tarla Bitkileri Kongresi Özel Sayısı:238–244",
+      "kaynak_link": "https://dergipark.org.tr/en/download/article-file/2393701",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "akademik",
+      "not": "Çiriş (yabani pırasa) Mayıs–Haziran'da toplanır ve pazarda satılır; otlu peynire de katılır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Yaprakları dik, parlak yeşil ve gevrek demetleri seçin.",
+    "Sararmış, lekeli ya da sümüksü yaprakları olan demeti almayın.",
+    "Kısa ve ince yapraklar daha yumuşak pişer; çok uzun, sert yapraklar liflidir.",
+    "Nemli bir beze sarıp buzdolabında 2–3 gün saklayın."
+  ],
+  "besin": [],
+  "tarifler": [
+    "cirisli_yumurta",
+    "cirisli_pilav"
+  ]
+}

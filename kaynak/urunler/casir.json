@@ -1,0 +1,71 @@
+{
+  "id": "casir",
+  "ad": "Çaşır",
+  "diger_adlar": [
+    "çakşır",
+    "çaşur"
+  ],
+  "kategori_id": "ot",
+  "kisa_tanim": "Erzurum'un yabani otu çaşırın taze gövdesi; Mayıs–Haziran'da toplanır, çiğ yenmez, haşlanıp kavurması ve salamurası yapılır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": null,
+  "aktif": true,
+  "enerji_kcal_100g": null,
+  "enerji_durum": null,
+  "enerji_kaynak_adi": null,
+  "enerji_kaynak_link": null,
+  "az_bilinen": true,
+  "bilinirlik": 5,
+  "siralama": 21,
+  "tanitim": "Çaşır (Prangos ferulacea), maydanozgiller ailesinden, Doğu Anadolu'nun taşlık yamaçlarında yetişen yabani bir bitkidir; çakşır ve çaşur da denir. Mayıs ve haziranda bitkinin 10–20 santimlik taze gövdesi toplanır. Açık yeşil renklidir, kesilince biraz koyulaşır; çiğken acı ve buruk bir tadı vardır. Bu yüzden geleneksel olarak önce haşlanır, suyu dökülür ve uzun süre soğuk suda bekletilir. Sonra soğanla kavrulur ya da tuzlu suda salamura yapılır; Erzurum Çaşır Salamurası coğrafi işaretlidir.",
+  "hazirlama_adimlari": [
+    "Çiğ yenmez: mutlaka haşlanır, haşlama suyu dökülür ve soğuk suda bekletilir.",
+    "Yaprak uçlarını ayıklayıp yalnızca taze gövde kısmını alın, bol suda iyice yıkayın.",
+    "Bol kaynar suda yumuşayana kadar haşlayın; haşlama suyunu dökün.",
+    "Acılığının gitmesi için çaşırı soğuk suya koyun; suyu her 2 saatte bir değiştirerek toplam 6–8 saat bekletin.",
+    "Süzüp doğrayın; soğanla kavurun ya da kaya tuzlu suda salamura yapın. Salamurayı yemeden önce ılık suda yıkayarak tuzunu alın."
+  ],
+  "hazirlama_kaynak_adi": "Türk Patent coğrafi işaret tescil belgesi No 1213 — Erzurum Çaşır Salamurası (üretim metodu)",
+  "hazirlama_kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/299c3015-db90-4440-8237-71f3f5119919.pdf",
+  "mevsimler": [
+    {
+      "id": "casir__25__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "25",
+      "donem_turu": "hasat",
+      "bas": "05-01",
+      "bit": "06-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Erzurum Çaşır Salamurası (No 1213) + Kadıoğlu S., Kadıoğlu B., Dizikısa T., Karagöz Sezer K. 2021, Doğal Olarak Yetişen ve Halk Tarafından Kullanılan Yabani Bitkilerin Etnobotanik Özellikleri (Erzurum), Muş Alparslan Üniv. Tarımsal Üretim ve Teknolojileri Dergisi 1(1):39–50",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/299c3015-db90-4440-8237-71f3f5119919.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Çaşır Mayıs–Haziran'da toplanır; taze sürgünü haşlanarak kavurması ve salamurası yapılır."
+    },
+    {
+      "id": "casir__dogu_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "dogu_anadolu",
+      "donem_turu": "hasat",
+      "bas": "05-01",
+      "bit": "06-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Erzurum Çaşır Salamurası (No 1213) + Kadıoğlu S., Kadıoğlu B., Dizikısa T., Karagöz Sezer K. 2021, Doğal Olarak Yetişen ve Halk Tarafından Kullanılan Yabani Bitkilerin Etnobotanik Özellikleri (Erzurum), Muş Alparslan Üniv. Tarımsal Üretim ve Teknolojileri Dergisi 1(1):39–50",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/299c3015-db90-4440-8237-71f3f5119919.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Çaşır Mayıs–Haziran'da yaylalardan toplanır; çiğ yenmez, haşlanarak kullanılır. Tarih Erzurum kaydından bölgeye genellendi."
+    }
+  ],
+  "secim_ipuclari": [
+    "Gövdesi taze, açık yeşil ve kırınca çıtırdayan çaşırı seçin.",
+    "Kısa (10–20 cm), genç sürgünler daha yumuşak pişer; kalın ve odunsu gövde serttir.",
+    "Kesik uçları kararmış ya da pörsümüş demetleri almayın; aldığınız gün haşlayın."
+  ],
+  "besin": [],
+  "tarifler": [
+    "casir_kavurmasi",
+    "yogurtlu_casir"
+  ]
+}

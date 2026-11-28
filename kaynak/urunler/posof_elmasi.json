@@ -1,0 +1,61 @@
+{
+  "id": "posof_elmasi",
+  "ad": "Posof Elması",
+  "diger_adlar": [
+    "badele elması"
+  ],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Ardahan Posof'un içi de kırmızı olan elması (badele); olgununda kabuğu şarap kırmızısı, eti kırmızı ve tatlıdır. Ağustos sonu – Eylül başında toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "75",
+  "gorsel_id": "elma",
+  "aktif": true,
+  "enerji_kcal_100g": 52,
+  "enerji_durum": "çiğ, kabuğuyla (elma genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Apples, raw, with skin (Includes foods for USDA's Food Distribution Program) (FDC ID 171688, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/171688/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 93,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "posof_elmasi__75__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "75",
+      "donem_turu": "hasat",
+      "bas": "08-24",
+      "bit": "09-10",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Posof Elması / Badele Elması (No 429)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/bcb299b5-4bb5-4911-ac30-17e7fccaeaf9.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Posof (badele) elması Ağustos sonu – Eylül başında toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Sert ve diri olsun; bastırınca iz kalıyorsa unlu (pamuk gibi) olabilir.",
+    "Kabuğu parlak ve gergin olmalı; buruşmuş kabuk uzun depolama işaretidir.",
+    "Ezik, kararmış ya da delikli (kurtlu) elma almayın.",
+    "Sap çukurunda hoş bir elma kokusu olmalı."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini içerir: 100 g'da 4,6 mg; günlük başvuru değerine oranı yaklaşık %5.",
+      "kaynak_adi": "USDA FoodData Central — Apples, raw, with skin (Includes foods for USDA's Food Distribution Program) (FDC ID 171688, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/171688/nutrients"
+    }
+  ],
+  "tarifler": [
+    "meyve_salatasi",
+    "firin_elma",
+    "elmali_kek"
+  ]
+}

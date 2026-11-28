@@ -1,0 +1,63 @@
+{
+  "id": "igdir_beyaz_uzumu",
+  "ad": "Iğdır Beyaz Üzümü",
+  "diger_adlar": [
+    "miskalı"
+  ],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Iğdır ovasının sarı taneli, sulu, konik salkımlı beyaz üzümü (miskalı); 18 Temmuz'dan Eylül'ün üçüncü haftasına kadar toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "76",
+  "gorsel_id": "uzum",
+  "aktif": true,
+  "enerji_kcal_100g": 69,
+  "enerji_durum": "çiğ (üzüm genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Grapes, red or green (European type, such as Thompson seedless), raw (FDC ID 174683, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/174683/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 88,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Yemeden hemen önce, salkımı bir süzgece koyup akan su altında yıkayın.",
+    "Taneleri sapından ayırmadan buzdolabında saklayın; ayırınca daha çabuk bozulur."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "igdir_beyaz_uzumu__76__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "76",
+      "donem_turu": "hasat",
+      "bas": "07-18",
+      "bit": "09-21",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Iğdır Beyaz Üzümü / Miskalı (No 829)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/a1adc030-f2a6-45b7-8c0c-b0d5d60a1520.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Iğdır beyaz üzümü (miskalı) 18 Temmuz'dan Eylül'ün üçüncü haftasına kadar toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Salkım sapı yeşil ve esnek olsun; kahverengi, kuru sap eski üründür.",
+    "Taneler salkıma sıkıca bağlı olmalı; sallayınca dökülüyorsa bekletilmiştir.",
+    "Tanelerde ezik, çatlak ya da kahverengi leke olmamalı.",
+    "Tane üzerindeki ince beyaz pus doğaldır."
+  ],
+  "besin": [
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini kaynağıdır: 100 g'da 14,6 µg; günlük başvuru değerine oranı yaklaşık %19.",
+      "kaynak_adi": "USDA FoodData Central — Grapes, red or green (European type, such as Thompson seedless), raw (FDC ID 174683, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/174683/nutrients"
+    }
+  ],
+  "tarifler": [
+    "meyve_salatasi",
+    "uzum_kompostosu"
+  ]
+}

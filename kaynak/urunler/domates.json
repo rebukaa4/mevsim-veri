@@ -88,6 +88,19 @@
       "not": "Karadeniz tarla domatesi Temmuz ortasında gelmeye başlar, Ekim sonuna kadar sürer; kışın gelen domates seradır."
     },
     {
+      "id": "domates__dogu_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "dogu_anadolu",
+      "donem_turu": "hasat",
+      "bas": "08-01",
+      "bit": "10-15",
+      "kaynak_adi": "Malatya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026) + Türk Patent coğrafi işaret tescili: Guldar Domatesi (No 1422)",
+      "kaynak_link": "https://www.malatya.bel.tr/sayfa/hal-fiyatlari-2026",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Bölgenin tarla domatesi Ağustos başından Ekim ortasına kadar bol; Erzurum–Kars yaylasında sezon daha kısadır, kışın gelen domates seradır."
+    },
+    {
       "id": "domates__guneydogu_anadolu__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "guneydogu_anadolu",

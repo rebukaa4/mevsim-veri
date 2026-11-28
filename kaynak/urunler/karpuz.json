@@ -88,6 +88,19 @@
       "not": "Karpuz Temmuz ortasından Eylül ortasına kadar bulunur; Haziran karpuzu güneyden gelir."
     },
     {
+      "id": "karpuz__dogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "dogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "07-15",
+      "bit": "09-30",
+      "kaynak_adi": "Malatya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://www.malatya.bel.tr/sayfa/hal-fiyatlari-2026",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Karpuz Temmuz ortasından Eylül sonuna kadar bol."
+    },
+    {
       "id": "karpuz__guneydogu_anadolu__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "guneydogu_anadolu",

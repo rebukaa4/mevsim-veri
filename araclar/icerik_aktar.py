@@ -6,20 +6,21 @@ kaynak/tarifler/<id>.json ve kaynak/gorseller.json dosyalarını üretir.
 
 Girdiler (--girdi = mevsim_app klasörü):
   veri_taslak/icerik_sebze_ot.json, icerik_meyve_diger_yoresel.json, icerik_balik.json, icerik_akdeniz.json, icerik_marmara.json,
-  icerik_karadeniz.json, icerik_ic_anadolu.json, icerik_guneydogu.json
+  icerik_karadeniz.json, icerik_ic_anadolu.json, icerik_guneydogu.json, icerik_dogu_anadolu.json
   araclar/katalog_urunler.py            (kanonik ürün kimlikleri ve kategoriler)
   docs/05_gorsel_lisans_kaydi.md        (görsel lisans kaydı)
   assets_kaynak/webp/<id>.webp          (bitmiş fotoğraflar)
 Bu klasördeki elle bakımlı dosyalar:
   araclar/mevsim/<bolge_id>.json        (bölge başına sezon satırları + kaynak listesi; ör. ege.json, akdeniz.json, marmara.json, karadeniz.json,
-                                         ic_anadolu.json, guneydogu_anadolu.json)
+                                         ic_anadolu.json, guneydogu_anadolu.json, dogu_anadolu.json)
   araclar/bilinirlik.json               (kategori içi tanınırlık sırası: bilinirlik + siralama)
 
 Bölge dosyası: {"aciklama", "arastirma_tarihi", "kaynaklar": {kod: {ad, link}}, "satirlar": [...]}.
 Satırın kaynağı ya "kaynaklar" (kod listesi) ya da doğrudan "kaynak_adi" + "kaynak_link" ile yazılır.
 Bir dosyadaki satırlar yalnızca o bölgeyi (bölge, alt bölge, bölgenin illeri) ya da bölgenin
 kıyısındaki denizi kapsayabilir. Balık ve deniz ürünleri yalnızca deniz satırı alır; başka denizin
-balığı bir bölgenin pazarına gelse de o denizin kendi kaydıyla görünür.
+balığı bir bölgenin pazarına gelse de o denizin kendi kaydıyla görünür. İstisna iç su (göl/akarsu)
+balığıdır: taslakta "ic_su_adi" (ör. "Van Gölü") yazılır, deniz satırı almaz, il/bölge satırı alır.
 
 Yöresel ürün taslağında "besin", "enerji_*", "secim_ipuclari", "hazirlama_*" ya da "tarifler"
 alanı hiç yazılmamışsa ana ürününden (ana_urun_id) alınır; tarifler kopyalanmaz, ana ürünün
@@ -46,7 +47,8 @@ from pathlib import Path
 KOK = Path(__file__).resolve().parent.parent
 MEVSIM_KLASORU = Path(__file__).resolve().parent / "mevsim"
 ICERIK = ["icerik_sebze_ot.json", "icerik_meyve_diger_yoresel.json", "icerik_balik.json", "icerik_akdeniz.json",
-         "icerik_marmara.json", "icerik_karadeniz.json", "icerik_ic_anadolu.json", "icerik_guneydogu.json"]
+         "icerik_marmara.json", "icerik_karadeniz.json", "icerik_ic_anadolu.json", "icerik_guneydogu.json",
+         "icerik_dogu_anadolu.json"]
 KATALOG_KATEGORI = {"SEBZE": "sebze", "MEYVE": "meyve", "BALIK": "balik_deniz"}
 DIGER_ALT = {"ot": "ot", "diger": "diger"}
 # Yöresel ürün taslağında hiç yazılmamışsa ana üründen alınan alanlar
@@ -325,7 +327,14 @@ def main(argv=None) -> int:
             hatalar.append(f"{'mevsimli çiftlik' if ciftlik else 'doğal'} ürünün sezon satırı yok: {uid}")
         if ciftlik and any(m["donem_turu"] != "hasat" for m in kayit["mevsimler"]):
             hatalar.append(f"mevsimli çiftlik ürünü yalnızca hasat satırı alır: {uid}")
-        if kat == "balik_deniz" and any(m["kapsam_turu"] != "deniz" for m in kayit["mevsimler"]):
+        ic_su = u.get("ic_su_adi")
+        if ic_su:
+            if kat != "balik_deniz":
+                hatalar.append(f"ic_su_adi yalnızca balıkta yazılır: {uid}")
+            if any(m["kapsam_turu"] == "deniz" for m in kayit["mevsimler"]):
+                hatalar.append(f"iç su balığı deniz satırı alamaz: {uid}")
+            kayit["ic_su_adi"] = ic_su
+        elif kat == "balik_deniz" and any(m["kapsam_turu"] != "deniz" for m in kayit["mevsimler"]):
             hatalar.append(f"balık / deniz ürünü yalnızca deniz satırı alır (bölge satırı var): {uid}")
         if kayit["gorsel_id"] is None:
             gorselsiz.append(uid)
