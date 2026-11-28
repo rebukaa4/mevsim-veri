@@ -1,0 +1,65 @@
+{
+  "id": "osmaneli_karpuzu",
+  "ad": "Osmaneli Karpuzu",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Bilecik Osmaneli'nin Crimson Sweet tipi karpuzu: oval, 5–15 kg, kabuğu açık ve koyu yeşil alacalı, eti koyu kırmızı.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "11",
+  "gorsel_id": "karpuz",
+  "aktif": true,
+  "enerji_kcal_100g": 30,
+  "enerji_durum": "çiğ, yenebilir kısım (karpuz genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Watermelon, raw (FDC ID 167765, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/167765/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 49,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "osmaneli_karpuzu__11__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "11",
+      "donem_turu": "hasat",
+      "bas": "08-01",
+      "bit": "09-14",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Osmaneli Karpuzu (No 1261)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/d141ccef-1b50-4b96-b688-b0f93864ed87.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Osmaneli karpuzu Ağustos başından Eylül ortasına kadar toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Toprağa değdiği yerdeki leke beyaz değil, krem-sarı renkte olmalı.",
+    "Boyuna göre ağır olsun.",
+    "Parmakla vurunca boğuk, tok bir ses vermeli; tiz ve dolu ses ham olabilir.",
+    "Sapı kurumuş olan karpuz tarlada olgunlaşmış demektir."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini içerir: 100 g'da 8,1 mg; günlük başvuru değerine oranı yaklaşık %10.",
+      "kaynak_adi": "USDA FoodData Central — Watermelon, raw (FDC ID 167765, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/167765/nutrients"
+    },
+    {
+      "ad": "Su",
+      "tur": "diger",
+      "aciklama": "Su oranı yüksektir: 100 g'ının yaklaşık 91,4 g'ı sudur.",
+      "kaynak_adi": "USDA FoodData Central — Watermelon, raw (FDC ID 167765, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/167765/nutrients"
+    }
+  ],
+  "tarifler": [
+    "kavun_buzlu_tatli",
+    "karpuz_peynir_salatasi"
+  ]
+}

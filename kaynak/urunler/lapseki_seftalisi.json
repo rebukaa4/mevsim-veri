@@ -1,0 +1,59 @@
+{
+  "id": "lapseki_seftalisi",
+  "ad": "Lapseki Şeftalisi",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Çanakkale Lapseki'nin şeftalisi; erkenciden geççiye on altı çeşitle haziran ortasından ekim başına kadar toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "17",
+  "gorsel_id": "seftali",
+  "aktif": true,
+  "enerji_kcal_100g": 39,
+  "enerji_durum": "çiğ, çekirdeksiz yenebilir kısım (şeftali genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Peaches, yellow, raw (FDC ID 169928, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169928/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 45,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "lapseki_seftalisi__17__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "17",
+      "donem_turu": "hasat",
+      "bas": "06-15",
+      "bit": "10-10",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Lapseki Şeftalisi (No 1101)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/b4a62e25-788e-46c9-b461-f200e07fee13.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Lapseki şeftalisi çeşidine göre Haziran ortasından Ekim başına kadar toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Sap dibindeki zemin rengi yeşil değil, sarı-krem olmalı; yeşil zemin erken toplandığını gösterir.",
+    "Güzel, tatlı bir kokusu olmalı.",
+    "Avucunuzda hafifçe sıkınca az esneyen şeftali yemeye hazırdır; parmakla bastırmayın, çabuk ezilir.",
+    "Ezik ve kararmış lekeli olanları almayın."
+  ],
+  "besin": [
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum içerir: 100 g'da 190 mg; günlük başvuru değerine oranı yaklaşık %9.",
+      "kaynak_adi": "USDA FoodData Central — Peaches, yellow, raw (FDC ID 169928, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169928/nutrients"
+    }
+  ],
+  "tarifler": [
+    "meyveli_yogurt_kasesi",
+    "seftali_kompostosu",
+    "seftali_receli"
+  ]
+}

@@ -168,6 +168,26 @@ class DerleTesti(unittest.TestCase):
         self.urun_degistir("ornek_ispanak", lambda u: u.update(kisa_tanim="Uygun fiyatlı kış sebzesi."))
         self.reddedilmeli("kisa_tanim fiyattan söz ediyor")
 
+    def test_fiyat_dili_tam_kelime(self):
+        for metin in ("Kilosu 40 TL civarındadır.", "Tezgâhta 25 liraya iner.", "Kasada ₺30.", "TL 15 ile satılır.",
+                      "En ucuzu martta.", "Pahalılaşır.", "Fiyatı düşer."):
+            self.assertTrue(derle._fiyat_dili(metin), metin)
+        for metin in ("Tatlı ve etli.", "Patlıcan ve böğürtlen.", "Geç çeşitler hasatla gelir.",
+                      "En bereketli aylar.", "Kaplumbağa değil; mantlı sofralık.", "Lirik bir ad."):
+            self.assertFalse(derle._fiyat_dili(metin), metin)
+
+    def test_icinde_tl_gecen_kelimeler_kabul(self):
+        # "tatlı", "etli", "patlıcan", "çeşitler", "bereketli", "hasatla" fiyat sözü değildir
+        self.urun_degistir("ornek_ispanak", lambda u: (
+            u.update(kisa_tanim="Tatlı, etli yapraklı; patlıcan gibi bereketli, çeşitleri bol."),
+            u["mevsimler"][0].update(**{"not": "Geç çeşitler hasatla birlikte gelir; böğürtlen gibi tatlıdır."})))
+        _, hatalar, _ = self.derle()
+        self.assertEqual(hatalar, [])
+
+    def test_sayili_tl_notta_reddedilir(self):
+        self.urun_degistir("ornek_ispanak", lambda u: u["mevsimler"][0].update(**{"not": "Martta kilosu 20 TL olur."}))
+        self.reddedilmeli("fiyat yok kuralı")
+
     def test_arz_dili_kabul(self):
         self.urun_degistir("ornek_ispanak", lambda u: u["mevsimler"][0].update(**{"not": "En bol olduğu aylar mart – nisan."}))
         _, hatalar, _ = self.derle()

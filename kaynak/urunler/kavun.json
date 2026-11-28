@@ -23,6 +23,19 @@
   "hazirlama_kaynak_link": null,
   "mevsimler": [
     {
+      "id": "kavun__marmara__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "hasat",
+      "bas": "07-15",
+      "bit": "09-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Pamukova Kavunu (No 810) + Türk Patent coğrafi işaret tescili: Sındırgı Çıtır Kavun (No 1491) + Türk Patent coğrafi işaret tescili: Seymen Kavunu (No 1388) + İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/1c99a6a1-5c64-4315-bfd1-8ce397b8fea8.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Marmara kavunu Temmuz ortasından Eylül sonuna kadar toplanır; kışlık Seymen kavunu saklanır."
+    },
+    {
       "id": "kavun__ege__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "ege",

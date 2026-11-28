@@ -26,6 +26,19 @@
   "hazirlama_kaynak_link": null,
   "mevsimler": [
     {
+      "id": "sivri_biber__marmara__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "hasat",
+      "bas": "07-01",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Yenişehir Biberi (No 1263) + Türk Patent coğrafi işaret tescili: Bilecik Kamber Biberi / Gavata Biberi (No 1863) + Bursa İl Tarım ve Orman Müdürlüğü, İl Yayım Faaliyetleri — aylık yapılacak işler + İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/729e2dd7-3c8c-4166-85cc-d5b3d7259c6d.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Marmara tarla biberi Temmuz başından ilk dona kadar bol; diğer aylarda gelen biber seradır."
+    },
+    {
       "id": "sivri_biber__ege__pazar_yogun__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "ege",

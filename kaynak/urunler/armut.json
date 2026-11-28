@@ -23,6 +23,32 @@
   "hazirlama_kaynak_link": null,
   "mevsimler": [
     {
+      "id": "armut__marmara__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "hasat",
+      "bas": "07-15",
+      "bit": "10-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Bursa Santa Maria Armudu (No 1290) + Türk Patent coğrafi işaret tescili: Gürsu Deveci Armudu (No 454)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/b58572ba-42fc-43c2-9d8f-dc1764f0d081.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Marmara armudu Temmuz ortasından (Santa Maria) Ekim ortasına kadar (Deveci) toplanır."
+    },
+    {
+      "id": "armut__marmara__depo__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "depo",
+      "bas": "10-16",
+      "bit": "05-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Gürsu Deveci Armudu (No 454) + Türk Patent coğrafi işaret tescili: Bursa Santa Maria Armudu (No 1290) + İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/2848aea5-be59-4c3c-8d6f-ee3ffe82a6c9.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Deveci armudu soğuk depodan Mayıs sonuna kadar bulunur."
+    },
+    {
       "id": "armut__ege__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "ege",

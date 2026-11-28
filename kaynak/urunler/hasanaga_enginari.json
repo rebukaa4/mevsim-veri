@@ -1,0 +1,85 @@
+{
+  "id": "hasanaga_enginari",
+  "ad": "Hasanağa Enginarı",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Bursa Hasanağa'nın Bayrampaşa tipi enginarı; iri ve basık başlı, yenen göbeği (çiçek tablası) iridir.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "16",
+  "gorsel_id": "enginar",
+  "aktif": true,
+  "enerji_kcal_100g": 47,
+  "enerji_durum": "çiğ, yenebilir kısım (enginar genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Artichokes, (globe or french), raw (FDC ID 169205)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169205/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 3,
+  "siralama": 66,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Önce bir kaba su, 1 limonun suyu ve 1 kaşık un koyup karıştırın; temizlenen enginarlar kararmasın diye bu suya atılacak.",
+    "Sapı 2-3 cm bırakarak kesin; dış sert yaprakları elinizle aşağı doğru kırarak, açık sarı-yeşil yumuşak yapraklara gelene kadar koparın.",
+    "Üst kısmı bıçakla düz kesin; çanağın kenarındaki yeşil sert kısımları ve sapın kabuğunu soyun.",
+    "Ortadaki tüylü kısmı (enginar tüyü) bir çay kaşığıyla kazıyarak tamamen çıkarın.",
+    "Kesilen her yere hemen limon sürün ve enginarı limonlu-unlu suya bırakın; ellerinizin kararmaması için eldiven giyebilirsiniz."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "hasanaga_enginari__16__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "16",
+      "donem_turu": "hasat",
+      "bas": "04-01",
+      "bit": "05-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Hasanağa Enginarı (No 533)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/c8df8716-c855-460f-bada-28286b182818.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Hasanağa enginarı Nisan–Mayıs'ta toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Baş sıkı kapalı, ağır ve sert olsun; yaprakları açılmış enginar yaşlanmıştır.",
+    "Yaprakları birbirine sürtünce hafif gıcırdıyorsa tazedir.",
+    "Yaprak uçlarında kahverengileşme ve kuruma olmamalı.",
+    "Pazarda temizlenmiş (çanak) enginar alıyorsanız limonlu suyun içinde ve beyaz renkte olanları seçin."
+  ],
+  "besin": [
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat açısından zengindir (100 g'da 68 µg; günlük başvuru değerine oranı yaklaşık %34).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Artichokes, (globe or french), raw (FDC ID 169205)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169205/nutrients"
+    },
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini kaynağıdır (100 g'da 15 µg; günlük başvuru değerine oranı yaklaşık %20).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Artichokes, (globe or french), raw (FDC ID 169205)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169205/nutrients"
+    },
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum kaynağıdır (100 g'da 370 mg; günlük başvuru değerine oranı yaklaşık %18).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Artichokes, (globe or french), raw (FDC ID 169205)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169205/nutrients"
+    },
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif kaynağıdır (100 g'da 5,4 g).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Artichokes, (globe or french), raw (FDC ID 169205)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169205/nutrients"
+    }
+  ],
+  "tarifler": [
+    "zeytinyagli_enginar",
+    "enginar_salatasi"
+  ]
+}

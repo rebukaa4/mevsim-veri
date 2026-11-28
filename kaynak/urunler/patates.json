@@ -27,6 +27,32 @@
   "hazirlama_kaynak_link": null,
   "mevsimler": [
     {
+      "id": "patates__marmara__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "hasat",
+      "bas": "06-01",
+      "bit": "08-31",
+      "kaynak_adi": "Bursa İl Tarım ve Orman Müdürlüğü, İl Yayım Faaliyetleri — aylık yapılacak işler",
+      "kaynak_link": "https://bursa.tarimorman.gov.tr/Link/38/Il-Yayim-Faaliyetleri",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Marmara'nın taze patatesi Haziran–Ağustos arasında sökülür; patatesin çoğu iç bölgelerden gelir."
+    },
+    {
+      "id": "patates__marmara__depo__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "depo",
+      "bas": "01-01",
+      "bit": "12-31",
+      "kaynak_adi": "İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali)",
+      "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Patates depodan yıl boyu bulunur."
+    },
+    {
       "id": "patates__ege__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "ege",

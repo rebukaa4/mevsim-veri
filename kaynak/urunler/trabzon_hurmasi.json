@@ -18,7 +18,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169941/nutrients",
   "az_bilinen": true,
   "bilinirlik": 3,
-  "siralama": 55,
+  "siralama": 73,
   "tanitim": "Trabzon hurması, domatese benzeyen turuncu bir sonbahar meyvesidir. Tam olgunlaşmadan yenirse ağzı buruşturur; iyice yumuşayınca tatlı, jöle kıvamında olur. Kaşıkla ya da soyulup dilimlenerek yenir.",
   "hazirlama_adimlari": [
     "Sert ve buruk olanları oda sıcaklığında, bir elma ya da muzla aynı poşette 3–7 gün bekletin; iyice yumuşayınca buruk tadı kaybolur.",
@@ -28,6 +28,32 @@
   "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
   "hazirlama_kaynak_link": null,
   "mevsimler": [
+    {
+      "id": "trabzon_hurmasi__marmara__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "hasat",
+      "bas": "10-15",
+      "bit": "11-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Kocaali Hurma Kurusu (No 815) + Türk Patent coğrafi işaret tescili: Karapürçek Cennet Hurması Pekmezi (No 1354) + İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/143a37b5-4e7b-429b-b8d3-ecfb891609c9.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Trabzon hurması Ekim ortasından Kasım ortasına kadar toplanır."
+    },
+    {
+      "id": "trabzon_hurmasi__marmara__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "pazar_yogun",
+      "bas": "11-16",
+      "bit": "01-31",
+      "kaynak_adi": "İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali)",
+      "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Toplanan hurma Ocak sonuna kadar pazarda bulunur."
+    },
     {
       "id": "trabzon_hurmasi__ege__pazar_yogun__1",
       "kapsam_turu": "bolge",

@@ -30,6 +30,19 @@
   "hazirlama_kaynak_link": null,
   "mevsimler": [
     {
+      "id": "isirgan__marmara__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "pazar_yogun",
+      "bas": "02-15",
+      "bit": "05-15",
+      "kaynak_adi": "Ertuğ 2004, Turk J Bot 28:161–174 + Bursa İl Tarım ve Orman Müdürlüğü, İl Yayım Faaliyetleri — aylık yapılacak işler",
+      "kaynak_link": "https://journals.tubitak.gov.tr/botany/vol28/iss1/16",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Isırganın taze filizleri Şubat ortasından Mayıs ortasına kadar toplanır."
+    },
+    {
       "id": "isirgan__ege__pazar_yogun__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "ege",

@@ -18,7 +18,7 @@
   "enerji_kaynak_link": null,
   "az_bilinen": true,
   "bilinirlik": 3,
-  "siralama": 57,
+  "siralama": 75,
   "tanitim": "Çağla, bademin kabuğu henüz sertleşmemiş, tüylü yeşil hâlidir. Bütün olarak, kabuğuyla birlikte yenir; tadı ekşi ve çıtırdır. Genelde tuzla çerez gibi yenir ya da salataya katılır.",
   "hazirlama_adimlari": [
     "Tüylerini almak için bir süzgeçte akan su altında avuçlarınızla ovarak yıkayın.",
@@ -29,6 +29,19 @@
   "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
   "hazirlama_kaynak_link": null,
   "mevsimler": [
+    {
+      "id": "cagla__marmara__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "pazar_yogun",
+      "bas": "03-15",
+      "bit": "04-30",
+      "kaynak_adi": "İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali)",
+      "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Çağla Mart ortasından Nisan sonuna kadar bulunur; çoğu güneyden gelir."
+    },
     {
       "id": "cagla__ege__pazar_yogun__1",
       "kapsam_turu": "bolge",

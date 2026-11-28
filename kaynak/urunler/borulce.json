@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/168405/nutrients",
   "az_bilinen": true,
   "bilinirlik": 3,
-  "siralama": 51,
+  "siralama": 59,
   "tanitim": "Börülce, kuru fasulyeye akraba bir baklagil; taze halinde ince uzun kabukları içindeki küçük tanelerle birlikte yenir. Tadı taze fasulyeye benzer ama daha ince ve hafif tatlıdır.",
   "hazirlama_adimlari": [
     "Bol suda yıkayın.",
@@ -27,6 +27,19 @@
   "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
   "hazirlama_kaynak_link": null,
   "mevsimler": [
+    {
+      "id": "borulce__marmara__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "hasat",
+      "bas": "07-01",
+      "bit": "10-15",
+      "kaynak_adi": "Mevsim Ege sezon tablosu ve oradaki kaynaklar + Bursa İl Tarım ve Orman Müdürlüğü, İl Yayım Faaliyetleri — aylık yapılacak işler",
+      "kaynak_link": "https://bursa.tarimorman.gov.tr/Link/38/Il-Yayim-Faaliyetleri",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Taze börülce Marmara'da Temmuz–Ekim ortası arasında bulunur; bir kısmı Ege'den gelir."
+    },
     {
       "id": "borulce__ege__pazar_yogun__1",
       "kapsam_turu": "bolge",

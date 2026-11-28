@@ -25,6 +25,19 @@
   "hazirlama_kaynak_link": null,
   "mevsimler": [
     {
+      "id": "limon__marmara__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "pazar_yogun",
+      "bas": "01-01",
+      "bit": "12-31",
+      "kaynak_adi": "İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali)",
+      "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Limon yıl boyu bulunur; Marmara'ya güneyden gelir."
+    },
+    {
       "id": "limon__ege__pazar_yogun__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "ege",

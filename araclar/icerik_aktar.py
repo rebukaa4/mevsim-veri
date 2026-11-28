@@ -5,12 +5,12 @@ Uygulama klasöründeki onaylı taslaklardan kaynak/urunler/<id>.json,
 kaynak/tarifler/<id>.json ve kaynak/gorseller.json dosyalarını üretir.
 
 Girdiler (--girdi = mevsim_app klasörü):
-  veri_taslak/icerik_sebze_ot.json, icerik_meyve_diger_yoresel.json, icerik_balik.json, icerik_akdeniz.json
+  veri_taslak/icerik_sebze_ot.json, icerik_meyve_diger_yoresel.json, icerik_balik.json, icerik_akdeniz.json, icerik_marmara.json
   araclar/katalog_urunler.py            (kanonik ürün kimlikleri ve kategoriler)
   docs/05_gorsel_lisans_kaydi.md        (görsel lisans kaydı)
   assets_kaynak/webp/<id>.webp          (bitmiş fotoğraflar)
 Bu klasördeki elle bakımlı dosyalar:
-  araclar/mevsim/<bolge_id>.json        (bölge başına sezon satırları + kaynak listesi; ör. ege.json, akdeniz.json)
+  araclar/mevsim/<bolge_id>.json        (bölge başına sezon satırları + kaynak listesi; ör. ege.json, akdeniz.json, marmara.json)
   araclar/bilinirlik.json               (kategori içi tanınırlık sırası: bilinirlik + siralama)
 
 Bölge dosyası: {"aciklama", "arastirma_tarihi", "kaynaklar": {kod: {ad, link}}, "satirlar": [...]}.
@@ -21,7 +21,7 @@ balığı bir bölgenin pazarına gelse de o denizin kendi kaydıyla görünür.
 
 Yöresel ürün taslağında "besin", "enerji_*", "secim_ipuclari", "hazirlama_*" ya da "tarifler"
 alanı hiç yazılmamışsa ana ürününden (ana_urun_id) alınır; tarifler kopyalanmaz, ana ürünün
-tariflerine bağlanır.
+tariflerine bağlanır. Ana ürünü katalogda olmayan yöresel ürün (ana_urun_id boş) bu alanları kendisi yazar.
 
 Kullanım:  python araclar/icerik_aktar.py --girdi "../mevsim_app"
 Sonra:     python araclar/derle.py --kontrol
@@ -39,7 +39,8 @@ from pathlib import Path
 
 KOK = Path(__file__).resolve().parent.parent
 MEVSIM_KLASORU = Path(__file__).resolve().parent / "mevsim"
-ICERIK = ["icerik_sebze_ot.json", "icerik_meyve_diger_yoresel.json", "icerik_balik.json", "icerik_akdeniz.json"]
+ICERIK = ["icerik_sebze_ot.json", "icerik_meyve_diger_yoresel.json", "icerik_balik.json", "icerik_akdeniz.json",
+         "icerik_marmara.json"]
 KATALOG_KATEGORI = {"SEBZE": "sebze", "MEYVE": "meyve", "BALIK": "balik_deniz"}
 DIGER_ALT = {"ot": "ot", "diger": "diger"}
 # Yöresel ürün taslağında hiç yazılmamışsa ana üründen alınan alanlar
@@ -279,7 +280,8 @@ def main(argv=None) -> int:
         if uid in katalog:
             kat = katalog[uid]["kategori"]
             if katalog[uid]["yoresel"]:
-                kat = katalog[u["ana_urun_id"]]["kategori"]
+                # Ana ürünü katalogda olmayan yöresel ürün (ör. Değirmendere fındığı) "diğer"e girer
+                kat = (katalog.get(u.get("ana_urun_id")) or {}).get("kategori") or "diger"
         elif ciftlik or uid == "midye":  # çiftlik eşleri ve midye katalogda ayrı satır değil
             kat = "balik_deniz"
         else:

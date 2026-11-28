@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/173954/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 49,
+  "siralama": 64,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Yıkadıktan sonra sapını koparın.",
@@ -25,6 +25,19 @@
   "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
   "hazirlama_kaynak_link": null,
   "mevsimler": [
+    {
+      "id": "visne__marmara__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "pazar_yogun",
+      "bas": "06-24",
+      "bit": "07-31",
+      "kaynak_adi": "İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali)",
+      "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Vişne Haziran sonundan Temmuz sonuna kadar bol."
+    },
     {
       "id": "visne__ege__hasat__1",
       "kapsam_turu": "bolge",

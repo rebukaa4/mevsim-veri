@@ -26,6 +26,19 @@
   "hazirlama_kaynak_link": null,
   "mevsimler": [
     {
+      "id": "uzum__marmara__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "hasat",
+      "bas": "08-01",
+      "bit": "10-31",
+      "kaynak_adi": "Bursa İl Tarım ve Orman Müdürlüğü, İl Yayım Faaliyetleri — aylık yapılacak işler + İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali)",
+      "kaynak_link": "https://bursa.tarimorman.gov.tr/Link/38/Il-Yayim-Faaliyetleri",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Marmara üzümü Ağustos'tan Ekim sonuna kadar toplanır."
+    },
+    {
       "id": "uzum__ege__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "ege",

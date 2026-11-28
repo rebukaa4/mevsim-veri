@@ -1,0 +1,108 @@
+{
+  "id": "asma_yapragi",
+  "ad": "Asma yaprağı (taze)",
+  "diger_adlar": [
+    "yaprak",
+    "bağ yaprağı"
+  ],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Bağlardan baharda toplanan genç, ince asma yaprakları; taze haşlanarak ya da salamuraya yatırılarak sarma yapılır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "asma_yapragi",
+  "aktif": true,
+  "enerji_kcal_100g": 93,
+  "enerji_durum": "çiğ yaprak",
+  "enerji_kaynak_adi": "USDA FoodData Central — Grape leaves, raw (FDC ID 168575, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/168575/nutrients",
+  "az_bilinen": true,
+  "bilinirlik": 3,
+  "siralama": 61,
+  "tanitim": "Asma yaprağı, üzüm bağlarından mayıs ve haziranda, yapraklar henüz genç, ince ve yumuşakken toplanır. Taze yaprak kısa süre haşlanıp hemen sarma yapılır; yıl boyu kullanmak için de tuzlu suda (salamura) saklanır. Yaz ilerledikçe yaprak kalınlaşır, sertleşir ve sarmaya uygun olmaz.",
+  "hazirlama_adimlari": [
+    "Yaprakları bol suda tek tek yıkayın, saplarını makasla kesin.",
+    "Taze kullanacaksanız kaynar suda 1–2 dakika, rengi koyulaşana kadar haşlayın; soğuk suya alıp süzün.",
+    "Salamura için haşlanan yaprakları 10–15'lik desteler hâlinde rulo yapıp kavanoza sıkıca dizin, üzerini tuzlu suyla tamamen kapatın; tuz oranı için güvendiğiniz bir salamura tarifine bakın.",
+    "Salamura yaprağı kullanmadan önce birkaç kez suyunu değiştirerek ya da kısa süre haşlayarak tuzunu alın.",
+    "Sararken yaprağın parlak yüzü dışta kalsın; harcı damarlı yüze, sap tarafına koyun."
+  ],
+  "hazirlama_kaynak_adi": "Tekirdağ Yapıncak Salamura Asma Yaprağı coğrafi işaret tescil belgesi (No 584: mayıs-haziran yaprak hasadı) + Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/c40981b1-9695-4c47-b632-aab6a08c8ce3.pdf",
+  "mevsimler": [
+    {
+      "id": "asma_yapragi__marmara__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "hasat",
+      "bas": "05-01",
+      "bit": "06-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Tekirdağ Yapıncak Salamura Asma Yaprağı (No 584) + İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/c40981b1-9695-4c47-b632-aab6a08c8ce3.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Taze asma yaprağı Mayıs–Haziran'da toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Açık yeşil, ince ve yumuşak, avuç içi büyüklüğünde genç yaprakları seçin; kalın, sert ve koyu yapraklar pişince de sert kalır.",
+    "Yaprağın arkası çok tüylü olmasın; tüysüze yakın olanlar daha yumuşak pişer.",
+    "Yırtık, delik ya da lekeli yaprakları ayırın; ilaçlanmadığını bildiğiniz bağdan almaya çalışın."
+  ],
+  "besin": [
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif açısından zengindir: 100 g'da 11 g.",
+      "kaynak_adi": "USDA FoodData Central — Grape leaves, raw (FDC ID 168575, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168575/nutrients"
+    },
+    {
+      "ad": "Protein",
+      "tur": "diger",
+      "aciklama": "Protein açısından zengindir: enerjisinin yaklaşık %24'i proteinden gelir (100 g'da 5,6 g).",
+      "kaynak_adi": "USDA FoodData Central — Grape leaves, raw (FDC ID 168575, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168575/nutrients"
+    },
+    {
+      "ad": "A vitamini",
+      "tur": "vitamin",
+      "aciklama": "A vitamini açısından zengindir: 100 g'da 1376 µg; günlük başvuru değerine oranı yaklaşık %172.",
+      "kaynak_adi": "USDA FoodData Central — Grape leaves, raw (FDC ID 168575, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168575/nutrients"
+    },
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini açısından zengindir: 100 g'da 109 µg; günlük başvuru değerine oranı yaklaşık %145.",
+      "kaynak_adi": "USDA FoodData Central — Grape leaves, raw (FDC ID 168575, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168575/nutrients"
+    },
+    {
+      "ad": "Manganez",
+      "tur": "mineral",
+      "aciklama": "Manganez açısından zengindir: 100 g'da 2,85 mg; günlük başvuru değerine oranı yaklaşık %143.",
+      "kaynak_adi": "USDA FoodData Central — Grape leaves, raw (FDC ID 168575, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168575/nutrients"
+    },
+    {
+      "ad": "Kalsiyum",
+      "tur": "mineral",
+      "aciklama": "Kalsiyum açısından zengindir: 100 g'da 363 mg; günlük başvuru değerine oranı yaklaşık %45.",
+      "kaynak_adi": "USDA FoodData Central — Grape leaves, raw (FDC ID 168575, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168575/nutrients"
+    },
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat açısından zengindir: 100 g'da 83 µg; günlük başvuru değerine oranı yaklaşık %42.",
+      "kaynak_adi": "USDA FoodData Central — Grape leaves, raw (FDC ID 168575, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168575/nutrients"
+    }
+  ],
+  "tarifler": [
+    "zeytinyagli_yaprak_sarma",
+    "etli_yaprak_sarma"
+  ]
+}

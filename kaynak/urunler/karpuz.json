@@ -23,6 +23,19 @@
   "hazirlama_kaynak_link": null,
   "mevsimler": [
     {
+      "id": "karpuz__marmara__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "hasat",
+      "bas": "07-15",
+      "bit": "09-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Osmaneli Karpuzu (No 1261) + İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/d141ccef-1b50-4b96-b688-b0f93864ed87.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Marmara karpuzu Temmuz ortasından Eylül ortasına kadar; Haziran karpuzu güneyden gelir."
+    },
+    {
       "id": "karpuz__ege__pazar_yogun__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "ege",

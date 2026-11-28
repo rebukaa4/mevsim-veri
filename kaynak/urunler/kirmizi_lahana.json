@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169977/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 39,
+  "siralama": 43,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Dış yapraklarını ayıklayıp dört parçaya bölün; ortadaki sert sapı kesip çıkarın.",
@@ -26,6 +26,19 @@
   "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
   "hazirlama_kaynak_link": null,
   "mevsimler": [
+    {
+      "id": "kirmizi_lahana__marmara__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "hasat",
+      "bas": "10-01",
+      "bit": "02-28",
+      "kaynak_adi": "Bursa İl Tarım ve Orman Müdürlüğü, İl Yayım Faaliyetleri — aylık yapılacak işler + Tarım ve Orman Bakanlığı GKGM, Lahanagiller el kitabı + İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali)",
+      "kaynak_link": "https://bursa.tarimorman.gov.tr/Link/38/Il-Yayim-Faaliyetleri",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kırmızı lahana Marmara'da Ekim–Şubat arasında bol."
+    },
     {
       "id": "kirmizi_lahana__ege__pazar_yogun__1",
       "kapsam_turu": "bolge",

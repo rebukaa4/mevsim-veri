@@ -29,6 +29,19 @@
   "hazirlama_kaynak_link": null,
   "mevsimler": [
     {
+      "id": "deniz_borulcesi__marmara__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "hasat",
+      "bas": "05-01",
+      "bit": "08-31",
+      "kaynak_adi": "Bilek, Özbey, Yurdagel 2014, GIDA 39(6):347–354",
+      "kaynak_link": "https://dergipark.org.tr/en/download/article-file/79226",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "akademik",
+      "not": "Deniz börülcesi Mayıs–Ağustos arasında toplanır."
+    },
+    {
       "id": "deniz_borulcesi__ege__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "ege",

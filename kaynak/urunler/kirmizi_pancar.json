@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169145/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 35,
+  "siralama": 39,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Yapraklarını 2-3 cm sap bırakarak kesin; kökü kesmeyin, yoksa pişerken rengi suya akar.",
@@ -26,6 +26,19 @@
   "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
   "hazirlama_kaynak_link": null,
   "mevsimler": [
+    {
+      "id": "kirmizi_pancar__marmara__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "pazar_yogun",
+      "bas": "10-01",
+      "bit": "03-31",
+      "kaynak_adi": "İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali)",
+      "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kırmızı pancar Marmara pazarında Ekim–Mart arasında bol."
+    },
     {
       "id": "kirmizi_pancar__ege__pazar_yogun__1",
       "kapsam_turu": "bolge",

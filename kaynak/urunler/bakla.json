@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170377/nutrients",
   "az_bilinen": true,
   "bilinirlik": 3,
-  "siralama": 46,
+  "siralama": 54,
   "tanitim": "Bakla, Ege'de genç ve taze haliyle kabuğu ve tanesiyle birlikte yenen bir baklagildir. Kabuk pişince yumuşar, tadı hafif otsu ve tatlıdır; iri baklalarda yalnızca içteki yeşil taneler yenir.",
   "hazirlama_adimlari": [
     "Baklaları yıkayın; iki ucunu kesip kenarlarındaki kılçığı çekerek ayıklayın.",
@@ -27,6 +27,19 @@
   "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
   "hazirlama_kaynak_link": null,
   "mevsimler": [
+    {
+      "id": "bakla__marmara__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "hasat",
+      "bas": "04-01",
+      "bit": "05-31",
+      "kaynak_adi": "Bursa İl Tarım ve Orman Müdürlüğü, İl Yayım Faaliyetleri — aylık yapılacak işler + İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali)",
+      "kaynak_link": "https://bursa.tarimorman.gov.tr/Link/38/Il-Yayim-Faaliyetleri",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Yeşil bakla Marmara'da Nisan–Mayıs aylarında toplanır."
+    },
     {
       "id": "bakla__ege__pazar_yogun__1",
       "kapsam_turu": "bolge",

@@ -1,0 +1,59 @@
+{
+  "id": "bursa_seftalisi",
+  "ad": "Bursa Şeftalisi",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Bursa'nın J.H. Hale ve Glohaven çeşidi şeftalisi; Osmanlı arşivlerinde 1848'den beri lezzetiyle anılır, saraya hediye gönderilirdi.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "16",
+  "gorsel_id": "seftali",
+  "aktif": true,
+  "enerji_kcal_100g": 39,
+  "enerji_durum": "çiğ, çekirdeksiz yenebilir kısım (şeftali genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Peaches, yellow, raw (FDC ID 169928, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169928/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 44,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "bursa_seftalisi__16__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "16",
+      "donem_turu": "hasat",
+      "bas": "07-01",
+      "bit": "09-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Bursa Şeftalisi (No 430)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/ff8add42-d47d-476d-bd7a-96194b4e532a.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Bursa şeftalisi Temmuz–Eylül arasında toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Sap dibindeki zemin rengi yeşil değil, sarı-krem olmalı; yeşil zemin erken toplandığını gösterir.",
+    "Güzel, tatlı bir kokusu olmalı.",
+    "Avucunuzda hafifçe sıkınca az esneyen şeftali yemeye hazırdır; parmakla bastırmayın, çabuk ezilir.",
+    "Ezik ve kararmış lekeli olanları almayın."
+  ],
+  "besin": [
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum içerir: 100 g'da 190 mg; günlük başvuru değerine oranı yaklaşık %9.",
+      "kaynak_adi": "USDA FoodData Central — Peaches, yellow, raw (FDC ID 169928, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169928/nutrients"
+    }
+  ],
+  "tarifler": [
+    "meyveli_yogurt_kasesi",
+    "seftali_kompostosu",
+    "seftali_receli"
+  ]
+}

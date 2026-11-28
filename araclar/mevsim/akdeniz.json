@@ -79,7 +79,7 @@
    "kesinlik": "ay düzeyi",
    "kaynak_adi": "GKGM, \"Patlıcan\" el kitabı; Mevsim Ege sezon tablosu ve İzmir BB hal açık verisi; Akdeniz'e iklim farkıyla uyarlama",
    "kaynak_link": "https://www.tarimorman.gov.tr/GKGM/Belgeler/Uretici_Bilgi_Kosesi/Dokumanlar/patlican.pdf",
-   "not": "Akdeniz kıyısında tarla ürünü hazirandan kasım sonuna kadar bol bulunur; kışın gelen ürün seradandır."
+   "not": "Akdeniz kıyısında tarla patlıcanı hazirandan kasım sonuna kadar bol bulunur; kışın gelen patlıcan seradandır."
   },
   {
    "urun_id": "sakiz_kabak",
@@ -807,7 +807,7 @@
    "kesinlik": "ay düzeyi",
    "kaynak_adi": "Kurt & Şahin 2013, Marmara Coğrafya Dergisi 27:551-574 (Türkiye'de nar tarımı); Türk Patent coğrafi işaret tescili: Kuytucak Narı (Tescil No 675)",
    "kaynak_link": "https://dergipark.org.tr/tr/download/article-file/3337",
-   "not": "Akdeniz Türkiye'nin en çok nar üreten bölgesidir; hasat eylülde başlar, geç türlerde kasım sonuna kadar sürer."
+   "not": "Akdeniz Türkiye'nin en çok nar üreten bölgesidir; hasat eylülde başlar, geç çeşitlerde kasım sonuna kadar sürer."
   },
   {
    "urun_id": "nar",
@@ -820,7 +820,7 @@
    "kesinlik": "ay düzeyi",
    "kaynak_adi": "Kurt & Şahin 2013, Marmara Coğrafya Dergisi 27:551-574 (Türkiye'de nar tarımı)",
    "kaynak_link": "https://dergipark.org.tr/tr/download/article-file/3337",
-   "not": "Akdeniz Türkiye'nin en çok nar üreten bölgesidir; hasat eylülde başlar, geç türlerde kasım sonuna kadar sürer."
+   "not": "Nar depodan mart sonuna kadar bulunur."
   },
   {
    "urun_id": "mandalina",
@@ -833,7 +833,7 @@
    "kesinlik": "ay düzeyi",
    "kaynak_adi": "T.C. Ticaret Bakanlığı, Hasat Dönemi sayfası (Adana-Mersin ve Antalya hasat izin tarihleri 2025, 2026)",
    "kaynak_link": "https://ticaret.gov.tr/urun-guvenligi/tarim-urunlerinin-dis-ticaret-denetimleri/hasat-donemi",
-   "not": "Akdeniz'de ilk mandalinalar ekim başında toplanır, geç türler mart sonuna kadar sürer."
+   "not": "Akdeniz'de ilk mandalinalar ekim başında toplanır, geç çeşitler mart sonuna kadar sürer."
   },
   {
    "urun_id": "portakal",
@@ -989,7 +989,7 @@
    "kesinlik": "ay düzeyi",
    "kaynak_adi": "Mevsim Ege sezon tablosu ve İzmir BB hal açık verisi; Akdeniz'e iklim farkıyla uyarlama",
    "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
-   "not": "Akdeniz'de yabani olarak haziran ortasından ağustos sonuna kadar toplanır."
+   "not": "Yabani böğürtlen Akdeniz'de haziran ortasından ağustos sonuna kadar toplanır."
   },
   {
    "urun_id": "avokado",
@@ -1171,7 +1171,7 @@
    "kesinlik": "gün düzeyi (yasal)",
    "kaynak_adi": "6/1 Numaralı Ticari Amaçlı Su Ürünleri Avcılığı Tebliği (No 2024/20), RG 11.08.2024/32629; Ekonomim, 27.09.2024, Mersin balık tezgâhları; Memurlar.net, 13.10.2025, Mersin Balıkçılar Derneği Başkanı",
    "kaynak_link": "https://www.resmigazete.gov.tr/eskiler/2024/08/20240811-3.htm",
-   "not": "Akdeniz barbunyası trol avının açıldığı eylül ortasından nisan ortasına kadar bol gelir; en bol aylar eylül-kasımdır."
+   "not": "Akdeniz barbunyası trol avının açıldığı eylül ortasından nisan ortasına kadar bol gelir, en bereketli aylar eylül-kasımdır."
   },
   {
    "urun_id": "tekir",
@@ -1457,7 +1457,7 @@
    "kesinlik": "ay düzeyi",
    "kaynak_adi": "Türk Patent coğrafi işaret tescili: Mut Zeytinyağı (Tescil No 367)",
    "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/c6552087-a373-47db-9982-d8caa4dfd849.pdf",
-   "not": "Mut zeytinyağı ekimde erken hasat ile başlar, aralık sonuna kadar sıkılır."
+   "not": "Mut zeytinyağı ekimde erken hasatla başlar, aralık sonuna kadar sıkılır."
   },
   {
    "urun_id": "kozan_portakali",

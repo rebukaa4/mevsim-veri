@@ -223,7 +223,12 @@ def _tarih_gecerli(metin) -> bool:
 
 
 # Uygulamada fiyat gösterilmez; notlar ve kısa tanımlar arz diliyle yazılır ("en bol olduğu dönem").
-FIYAT_DILI = re.compile(r"ucuz|pahal|fiyat|TL|lira", re.IGNORECASE)
+# Yalnızca tam kelimeler: "tatlı", "patlıcan", "çeşitler" gibi içinde "tl" geçen sözcükler takılmaz.
+# "TL" ve "lira" yanında bir sayı varsa fiyat sayılır ("40 TL", "TL 15", "25 liraya"); ₺ her zaman.
+FIYAT_DILI = re.compile(
+    r"\bucuz\w*|\bpahal\w*|\bfiyat\w*|₺"
+    r"|\d[\d.,]*\s*(?:TL|lira\w*)\b|\b(?:TL|lira)\s*\d",
+    re.IGNORECASE)
 
 
 def _fiyat_dili(metin) -> bool:

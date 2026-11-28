@@ -1,0 +1,76 @@
+{
+  "id": "geyve_ayvasi",
+  "ad": "Geyve Ayvası",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Sakarya Geyve'nin parlak ayva sarısı, iri (ortalama 390 g) ayvası; eti sulu, ağızda kekremsi tıkanıklık hissi bırakmaz.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "54",
+  "gorsel_id": "ayva",
+  "aktif": true,
+  "enerji_kcal_100g": 57,
+  "enerji_durum": "çiğ (ayva genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Quinces, raw (FDC ID 168163, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/168163/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 2,
+  "siralama": 69,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Kabuğundaki tüyleri ılık su altında bir bezle ovarak temizleyin.",
+    "Ayva serttir: kesme tahtasına sabitleyip büyük ve keskin bir bıçakla ikiye, sonra dörde bölün.",
+    "Çekirdekli sert orta kısmı bir kaşık ya da küçük bıçakla oyun; tatlıda kullanacaksanız çekirdekleri atmayın, pişerken renk ve kıvam verir.",
+    "Kesilen ayva çabuk kararır; hemen limonlu suya atın."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "geyve_ayvasi__54__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "54",
+      "donem_turu": "hasat",
+      "bas": "10-01",
+      "bit": "11-10",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Geyve Ayvası (No 500)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/9fa4ec0e-ac17-476a-b5ab-976058b07c01.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Geyve ayvası Ekim başından 10 Kasım'a kadar toplanır."
+    },
+    {
+      "id": "geyve_ayvasi__54__depo__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "54",
+      "donem_turu": "depo",
+      "bas": "11-11",
+      "bit": "03-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Geyve Ayvası (No 500)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/9fa4ec0e-ac17-476a-b5ab-976058b07c01.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Geyve ayvası soğuk depodan Mart sonuna kadar bulunur."
+    }
+  ],
+  "secim_ipuclari": [
+    "Kabuğu altın sarısı olsun; yeşil olanlar ham ve buruktur.",
+    "Hoş, yoğun bir kokusu olmalı.",
+    "Kabuğundaki gri tüyler doğaldır, yıkayınca çıkar.",
+    "Ezik, kararmış ya da yumuşamış bölgesi olmamalı."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini kaynağıdır: 100 g'da 15 mg; günlük başvuru değerine oranı yaklaşık %18.",
+      "kaynak_adi": "USDA FoodData Central — Quinces, raw (FDC ID 168163, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168163/nutrients"
+    }
+  ],
+  "tarifler": [
+    "ayva_tatlisi",
+    "ayva_receli"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "bayramic_beyazi",
+  "ad": "Bayramiç Beyazı",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Çanakkale Bayramiç'in yerel beyaz nektarini; ağaçları çekirdekten yetiştirilir, kendine özgü kokusu vardır, öteki nektarinlerden uzun dayanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "17",
+  "gorsel_id": "nektarin",
+  "aktif": true,
+  "enerji_kcal_100g": 44,
+  "enerji_durum": "çiğ, çekirdeksiz yenebilir kısım (nektarin genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Nectarines, raw (FDC ID 169914, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169914/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 2,
+  "siralama": 71,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "bayramic_beyazi__17__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "17",
+      "donem_turu": "hasat",
+      "bas": "07-15",
+      "bit": "08-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Bayramiç Beyazı (No 157)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/43265cae-07aa-4e47-9b46-b0a39ca6ea75.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Bayramiç beyazı 15 Temmuz – 15 Ağustos arasında toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Kabuğu parlak ve gergin olsun; buruşmuşsa suyunu kaybetmiştir.",
+    "Sap dibinde yeşillik kalmamış, sarı-turuncu zeminli olanları seçin.",
+    "Hafifçe esneyen ama yumuşamamış olanlar en lezzetlisidir."
+  ],
+  "besin": [
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum içerir: 100 g'da 201 mg; günlük başvuru değerine oranı yaklaşık %10.",
+      "kaynak_adi": "USDA FoodData Central — Nectarines, raw (FDC ID 169914, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169914/nutrients"
+    }
+  ],
+  "tarifler": [
+    "meyveli_yogurt_kasesi",
+    "seftali_kompostosu",
+    "seftali_receli"
+  ]
+}

@@ -23,6 +23,32 @@
   "hazirlama_kaynak_link": null,
   "mevsimler": [
     {
+      "id": "kuru_sarimsak__marmara__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "hasat",
+      "bas": "06-15",
+      "bit": "07-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Babaeski Sarımsağı (No 1384)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/bc3b4735-4e34-415e-af8d-49a9e81dc633.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Trakya sarımsağı Haziran ortasından Temmuz sonuna kadar sökülür."
+    },
+    {
+      "id": "kuru_sarimsak__marmara__depo__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "depo",
+      "bas": "08-01",
+      "bit": "04-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Babaeski Sarımsağı (No 1384) + İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/bc3b4735-4e34-415e-af8d-49a9e81dc633.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Yerli kuru sarımsak depodan Nisan sonuna kadar bulunur."
+    },
+    {
       "id": "kuru_sarimsak__ege__depo__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "ege",

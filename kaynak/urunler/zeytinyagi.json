@@ -23,6 +23,19 @@
   "hazirlama_kaynak_link": null,
   "mevsimler": [
     {
+      "id": "zeytinyagi__marmara__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "hasat",
+      "bas": "10-15",
+      "bit": "02-28",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Edremit Zeytinyağı (No 273) + Türk Patent coğrafi işaret tescili: Şarköy Zeytinyağı (No 1912)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/1d589d10-c776-4042-8cff-5c8ca1775b90.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Yeni hasat zeytinyağı Ekim ortasından Şubat sonuna kadar sıkılır."
+    },
+    {
       "id": "zeytinyagi__ege__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "ege",

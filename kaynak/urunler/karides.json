@@ -30,6 +30,32 @@
   "hazirlama_kaynak_link": null,
   "mevsimler": [
     {
+      "id": "karides__marmara__av__1",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "marmara",
+      "donem_turu": "av",
+      "bas": "09-01",
+      "bit": "12-31",
+      "kaynak_adi": "6/1 Numaralı Tebliğ (No 2024/20), RG 11.08.2024/32629",
+      "kaynak_link": "https://resmigazete.gov.tr/eskiler/2024/08/20240811-3.htm",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Marmara karidesi Eylül–Aralık arasında avlanır; Ocak ve 15 Nisan – 31 Ağustos av yasak."
+    },
+    {
+      "id": "karides__marmara__av__2",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "marmara",
+      "donem_turu": "av",
+      "bas": "02-01",
+      "bit": "04-14",
+      "kaynak_adi": "6/1 Numaralı Tebliğ (No 2024/20), RG 11.08.2024/32629",
+      "kaynak_link": "https://resmigazete.gov.tr/eskiler/2024/08/20240811-3.htm",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Marmara karidesi Şubat – Nisan ortasında da avlanır."
+    },
+    {
       "id": "karides__ege__av__1",
       "kapsam_turu": "deniz",
       "kapsam_id": "ege",

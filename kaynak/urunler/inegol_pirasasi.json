@@ -1,0 +1,89 @@
+{
+  "id": "inegol_pirasasi",
+  "ad": "İnegöl Pırasası",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Bursa İnegöl'ün İnegöl-92 pırasası: beyaz gövdesi 60 cm'yi bulabilir, dibinde soğan başı oluşmaz; dokusu yumuşak, tadı hafif, çiğ de yenir.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "16",
+  "gorsel_id": "pirasa",
+  "aktif": true,
+  "enerji_kcal_100g": 61,
+  "enerji_durum": "çiğ, yenebilir kısım (pırasa genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Leeks, (bulb and lower leaf-portion), raw (FDC ID 169246)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169246/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 2,
+  "siralama": 51,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Kökünü ve yaprakların kurumuş uçlarını kesin; dış yaprağı soyun.",
+    "Boyuna ikiye yarıp yaprak aralarındaki toprağı akan su altında yaprakları aralayarak yıkayın.",
+    "1-2 cm kalınlığında halka ya da çapraz doğrayın."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "inegol_pirasasi__16__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "16",
+      "donem_turu": "hasat",
+      "bas": "10-01",
+      "bit": "11-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: İnegöl Pırasası (No 1884)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/4c53d53c-b731-4ffb-8ab0-788fd431899e.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "İnegöl pırasası Ekim–Kasım'da sökülür."
+    },
+    {
+      "id": "inegol_pirasasi__16__depo__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "16",
+      "donem_turu": "depo",
+      "bas": "12-01",
+      "bit": "03-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: İnegöl Pırasası (No 1884)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/4c53d53c-b731-4ffb-8ab0-788fd431899e.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Toprakta saklanan İnegöl pırasası bahara kadar bulunur."
+    }
+  ],
+  "secim_ipuclari": [
+    "Beyaz kısmı uzun, sert ve parlak olsun.",
+    "Yeşil yaprakları canlı olmalı, sararmış ve kurumuş olmamalı.",
+    "Orta kalınlıktakileri seçin; çok kalın pırasanın ortası sertleşmiş olabilir.",
+    "Ortadan çiçek sapı çıkmış (sertleşmiş göbekli) pırasaları almayın."
+  ],
+  "besin": [
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini açısından zengindir (100 g'da 47 µg; günlük başvuru değerine oranı yaklaşık %63).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Leeks, (bulb and lower leaf-portion), raw (FDC ID 169246)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169246/nutrients"
+    },
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat açısından zengindir (100 g'da 64 µg; günlük başvuru değerine oranı yaklaşık %32).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Leeks, (bulb and lower leaf-portion), raw (FDC ID 169246)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169246/nutrients"
+    },
+    {
+      "ad": "Manganez",
+      "tur": "mineral",
+      "aciklama": "Manganez kaynağıdır (100 g'da 0,5 mg; günlük başvuru değerine oranı yaklaşık %24).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Leeks, (bulb and lower leaf-portion), raw (FDC ID 169246)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169246/nutrients"
+    }
+  ],
+  "tarifler": [
+    "zeytinyagli_pirasa",
+    "pirasa_corbasi"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "keles_kirazi",
+  "ad": "Keles Kirazı",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Bursa Keles'in 0900 Ziraat çeşidi kirazı; Uludağ eteğindeki yüksek bahçelerde yetiştiği için ovadan geç, ağustosa kadar toplanır; iri ve eti serttir.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "16",
+  "gorsel_id": "kiraz",
+  "aktif": true,
+  "enerji_kcal_100g": 63,
+  "enerji_durum": "çiğ, çekirdeksiz yenebilir kısım (kiraz genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Cherries, sweet, raw (FDC ID 171719, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/171719/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 42,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "keles_kirazi__16__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "16",
+      "donem_turu": "hasat",
+      "bas": "06-01",
+      "bit": "08-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Keles Kirazı (No 1394)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/0f887d5c-c04d-4a20-91ed-16e76d2a616e.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Keles kirazı Haziran–Ağustos arasında toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Sapı yeşil ve esnek olsun; kahverengileşmiş, kurumuş sap kirazın bekletildiğini gösterir.",
+    "Taneler sert, parlak ve dolgun olmalı; yumuşamış ya da buruşmuş tane almayın.",
+    "Çatlak taneler çabuk ekşir; kasada çatlak çoksa başka tezgâha bakın.",
+    "Koyu kırmızı renk genelde daha tatlı ve olgun demektir."
+  ],
+  "besin": [
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum içerir: 100 g'da 222 mg; günlük başvuru değerine oranı yaklaşık %11.",
+      "kaynak_adi": "USDA FoodData Central — Cherries, sweet, raw (FDC ID 171719, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/171719/nutrients"
+    }
+  ],
+  "tarifler": [
+    "kiraz_kompostosu",
+    "kiraz_receli"
+  ]
+}

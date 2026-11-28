@@ -1,0 +1,61 @@
+{
+  "id": "iznik_muskule",
+  "ad": "İznik Müşküle Üzümü",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Bursa İznik'in geç olgunlaşan Müşküle üzümü: taneleri çok iri (5 g), hafif eliptik, kehribar sarısı-yeşil; eti sert ve sulu, uzun saklanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "16",
+  "gorsel_id": "uzum",
+  "aktif": true,
+  "enerji_kcal_100g": 69,
+  "enerji_durum": "çiğ (üzüm genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Grapes, red or green (European type, such as Thompson seedless), raw (FDC ID 174683, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/174683/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 50,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Yemeden hemen önce, salkımı bir süzgece koyup akan su altında yıkayın.",
+    "Taneleri sapından ayırmadan buzdolabında saklayın; ayırınca daha çabuk bozulur."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "iznik_muskule__16__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "16",
+      "donem_turu": "hasat",
+      "bas": "10-24",
+      "bit": "11-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: İznik Müşküle Üzümü (No 869)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/3595c954-afba-47ab-b14b-9b47218aa561.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "İznik müşkülesi Ekim sonundan Kasım sonuna kadar toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Salkım sapı yeşil ve esnek olsun; kahverengi, kuru sap eski üründür.",
+    "Taneler salkıma sıkıca bağlı olmalı; sallayınca dökülüyorsa bekletilmiştir.",
+    "Tanelerde ezik, çatlak ya da kahverengi leke olmamalı.",
+    "Tane üzerindeki ince beyaz pus doğaldır."
+  ],
+  "besin": [
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini kaynağıdır: 100 g'da 14,6 µg; günlük başvuru değerine oranı yaklaşık %19.",
+      "kaynak_adi": "USDA FoodData Central — Grapes, red or green (European type, such as Thompson seedless), raw (FDC ID 174683, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/174683/nutrients"
+    }
+  ],
+  "tarifler": [
+    "meyve_salatasi",
+    "uzum_kompostosu"
+  ]
+}

@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170187/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 11,
+  "siralama": 17,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Kabuğu kırmak için cevizi sivri uçları yukarı-aşağı gelecek şekilde tutun ve ortadaki birleşme çizgisinden ceviz kıracağıyla ya da çekiçle hafifçe vurun.",
@@ -25,6 +25,19 @@
   "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
   "hazirlama_kaynak_link": null,
   "mevsimler": [
+    {
+      "id": "ceviz__marmara__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "hasat",
+      "bas": "09-15",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Sapanca Cevizi (No 1670) + Mevsim Ege sezon tablosu ve oradaki kaynaklar",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/a05f2b23-7818-4cc6-8f73-180f8bb57027.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kuru ceviz Eylül ortasından Ekim sonuna kadar toplanır; yaş ceviz Temmuz'da başlar."
+    },
     {
       "id": "ceviz__ege__hasat__1",
       "kapsam_turu": "bolge",

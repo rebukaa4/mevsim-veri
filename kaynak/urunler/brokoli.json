@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170379/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 34,
+  "siralama": 38,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Çiçeklerini sapından ayırın; kalın sapın kabuğunu soyup onu da doğrayabilirsiniz.",
@@ -26,6 +26,19 @@
   "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
   "hazirlama_kaynak_link": null,
   "mevsimler": [
+    {
+      "id": "brokoli__marmara__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "pazar_yogun",
+      "bas": "11-01",
+      "bit": "03-15",
+      "kaynak_adi": "İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali) + Bursa İl Tarım ve Orman Müdürlüğü, İl Yayım Faaliyetleri — aylık yapılacak işler",
+      "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Brokoli Marmara pazarında Kasım'dan Mart ortasına kadar bol."
+    },
     {
       "id": "brokoli__ege__hasat__1",
       "kapsam_turu": "bolge",

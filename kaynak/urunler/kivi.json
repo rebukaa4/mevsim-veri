@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/168153/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 47,
+  "siralama": 62,
   "tanitim": null,
   "hazirlama_adimlari": [
     "İkiye bölüp kaşıkla oyarak ya da kabuğunu bıçakla soyup dilimleyerek yiyin."
@@ -24,6 +24,32 @@
   "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
   "hazirlama_kaynak_link": null,
   "mevsimler": [
+    {
+      "id": "kivi__marmara__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "hasat",
+      "bas": "10-24",
+      "bit": "11-10",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Yalova Kivisi (No 851)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/d8b0e6ed-ca52-4240-ac96-fee11315ee13.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Yalova kivisi Ekim sonu – Kasım başında toplanır."
+    },
+    {
+      "id": "kivi__marmara__depo__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "depo",
+      "bas": "11-11",
+      "bit": "05-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Yalova Kivisi (No 851) + İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/d8b0e6ed-ca52-4240-ac96-fee11315ee13.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Kivi soğuk depodan Mayıs sonuna kadar bol bulunur."
+    },
     {
       "id": "kivi__ege__pazar_yogun__1",
       "kapsam_turu": "bolge",

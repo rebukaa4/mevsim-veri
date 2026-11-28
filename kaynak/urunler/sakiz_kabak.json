@@ -26,6 +26,19 @@
   "hazirlama_kaynak_link": null,
   "mevsimler": [
     {
+      "id": "sakiz_kabak__marmara__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "hasat",
+      "bas": "06-15",
+      "bit": "10-15",
+      "kaynak_adi": "Bursa İl Tarım ve Orman Müdürlüğü, İl Yayım Faaliyetleri — aylık yapılacak işler + İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali) + Mevsim Ege sezon tablosu ve oradaki kaynaklar",
+      "kaynak_link": "https://bursa.tarimorman.gov.tr/Link/38/Il-Yayim-Faaliyetleri",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Marmara tarla kabağı Haziran ortasından Ekim ortasına kadar bol."
+    },
+    {
       "id": "sakiz_kabak__ege__pazar_yogun__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "ege",

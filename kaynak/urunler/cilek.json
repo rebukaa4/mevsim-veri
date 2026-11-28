@@ -26,6 +26,19 @@
   "hazirlama_kaynak_link": null,
   "mevsimler": [
     {
+      "id": "cilek__marmara__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "marmara",
+      "donem_turu": "hasat",
+      "bas": "05-01",
+      "bit": "06-30",
+      "kaynak_adi": "Tarım ve Orman Bakanlığı GKGM, Çilek el kitabı + İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali)",
+      "kaynak_link": "https://www.tarimorman.gov.tr/GKGM/Belgeler/Uretici_Bilgi_Kosesi/Dokumanlar/cilek.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Marmara tarla çileği Mayıs başında olgunlaşır, Haziran sonuna kadar sürer; erken gelen çilek güney ve seradandır."
+    },
+    {
       "id": "cilek__ege__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "ege",

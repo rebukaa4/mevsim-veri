@@ -1,0 +1,76 @@
+{
+  "id": "yenice_kirmizi_biberi",
+  "ad": "Yenice Kırmızı Biberi",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Çanakkale Yenice'nin Kaz Dağları arasında yetişen kapya tipi, konik kırmızı biberi; eti kalın, rengi parlak ve koyu kırmızı. Taze, salçalık ve konservelik kullanılır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "17",
+  "gorsel_id": "kapya_biber",
+  "aktif": true,
+  "enerji_kcal_100g": 26,
+  "enerji_durum": "çiğ, yenebilir kısım (kapya biber genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Peppers, sweet, red, raw (FDC ID 170108)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170108/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 2,
+  "siralama": 50,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Közlemek için ocak telinde ya da fırında (220 °C) kabukları kararana kadar çevirerek pişirin.",
+    "Sıcakken kapalı bir kaba ya da poşete koyup 10 dakika bekletin; kabuklar kolayca soyulur.",
+    "Kabuğunu, sapını ve çekirdeklerini ayıklayın."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "yenice_kirmizi_biberi__17__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "17",
+      "donem_turu": "hasat",
+      "bas": "09-08",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Yenice Kırmızı Biberi (No 692)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/578a752a-9e7a-4c01-bf34-32a4a4118487.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Yenice kırmızı biberi Eylül'ün ikinci haftasından Ekim sonuna kadar toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Rengi koyu ve eşit kırmızı olsun; yeşil lekeliler tam kızarmamıştır.",
+    "Kabuk parlak ve gergin olmalı, buruşuk olmamalı.",
+    "Elde sert ve ağır hissettirmeli.",
+    "Sapın dibinde çürüme ya da küf olmamasına bakın."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir (100 g'da 128 mg; günlük başvuru değerini aşar).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Peppers, sweet, red, raw (FDC ID 170108)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170108/nutrients"
+    },
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat kaynağıdır (100 g'da 46 µg; günlük başvuru değerine oranı yaklaşık %23).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Peppers, sweet, red, raw (FDC ID 170108)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170108/nutrients"
+    },
+    {
+      "ad": "B6 vitamini",
+      "tur": "vitamin",
+      "aciklama": "B6 vitamini kaynağıdır (100 g'da 0,3 mg; günlük başvuru değerine oranı yaklaşık %21).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Peppers, sweet, red, raw (FDC ID 170108)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170108/nutrients"
+    }
+  ],
+  "tarifler": [
+    "kozlenmis_biber_salatasi",
+    "misirli_salata"
+  ]
+}

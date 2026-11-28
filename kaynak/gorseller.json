@@ -54,6 +54,15 @@
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {
+    "id": "asma_yapragi",
+    "kaynak_adi": "Wikimedia Commons: Crimean Tatar sarma Stage 1.jpg",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Crimean_Tatar_sarma_Stage_1.jpg",
+    "yazar": "Oksana Makarenko (UA-Lora)",
+    "lisans": "CC BY-SA 4.0",
+    "lisans_link": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
     "id": "avokado",
     "kaynak_adi": "Wikimedia Commons: Avocado Hass - single and halved.jpg",
     "kaynak_link": "https://commons.wikimedia.org/wiki/File:Avocado_Hass_-_single_and_halved.jpg",
@@ -126,6 +135,15 @@
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {
+    "id": "bilecik_kamber_biberi",
+    "kaynak_adi": "Wikimedia Commons: Solanum aethiopicum MS 2264.JPG",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Solanum_aethiopicum_MS_2264.JPG",
+    "yazar": "Marco Schmidt [1]",
+    "lisans": "CC BY-SA 2.5",
+    "lisans_link": "https://creativecommons.org/licenses/by-sa/2.5/",
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
     "id": "bogurtlen",
     "kaynak_adi": "Wikimedia Commons: Blackberry (Rubus fruticosus).jpg",
     "kaynak_link": "https://commons.wikimedia.org/wiki/File:Blackberry_(Rubus_fruticosus).jpg",
@@ -150,6 +168,24 @@
     "yazar": "Renee Comet (Photographer)",
     "lisans": "Public domain",
     "lisans_link": null,
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
+    "id": "bruksel_lahanasi",
+    "kaynak_adi": "Wikimedia Commons: Brussels sprouts on white background 5849.jpg",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Brussels_sprouts_on_white_background_5849.jpg",
+    "yazar": "Amada44",
+    "lisans": "CC BY-SA 3.0",
+    "lisans_link": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
+    "id": "bursa_siyah_inciri",
+    "kaynak_adi": "Wikimedia Commons: Fig fruit. Ficus carica. Purple fig variety (52335020972).jpg",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Fig_fruit._Ficus_carica._Purple_fig_variety_(52335020972).jpg",
+    "yazar": "TopTropicals.com",
+    "lisans": "CC BY-SA 2.0",
+    "lisans_link": "https://creativecommons.org/licenses/by-sa/2.0/",
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {
@@ -213,6 +249,15 @@
     "yazar": "ABD Gıda ve İlaç Dairesi (FDA)",
     "lisans": "Public domain",
     "lisans_link": null,
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
+    "id": "degirmendere_findigi",
+    "kaynak_adi": "Wikimedia Commons: Hazelnuts (Corylus avellana).jpg",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Hazelnuts_(Corylus_avellana).jpg",
+    "yazar": "Ivar Leidus",
+    "lisans": "CC BY-SA 4.0",
+    "lisans_link": "https://creativecommons.org/licenses/by-sa/4.0/",
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {
@@ -321,6 +366,15 @@
     "yazar": "Evan-Amos",
     "lisans": "CC0",
     "lisans_link": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
+    "id": "gemlik_zeytini",
+    "kaynak_adi": "Wikimedia Commons: Olives in bowl.jpg",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Olives_in_bowl.jpg",
+    "yazar": "Gphoto",
+    "lisans": "CC BY-SA 3.0",
+    "lisans_link": "http://creativecommons.org/licenses/by-sa/3.0/",
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {
@@ -441,12 +495,30 @@
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {
+    "id": "kapidag_mor_sogani",
+    "kaynak_adi": "Wikimedia Commons: Red onion cross section 02.jpg",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Red_onion_cross_section_02.jpg",
+    "yazar": "Amada44",
+    "lisans": "CC BY-SA 3.0",
+    "lisans_link": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
     "id": "kapya_biber",
     "kaynak_adi": "Wikimedia Commons: Spitzpaprika rot.JPG",
     "kaynak_link": "https://commons.wikimedia.org/wiki/File:Spitzpaprika_rot.JPG",
     "yazar": "Erkaha",
     "lisans": "CC BY-SA 4.0",
     "lisans_link": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
+    "id": "kara_lahana",
+    "kaynak_adi": "Wikimedia Commons: Cavolo Nero Cabbage (4386389265).jpg",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Cavolo_Nero_Cabbage_(4386389265).jpg",
+    "yazar": "THOR",
+    "lisans": "CC BY 2.0",
+    "lisans_link": "https://creativecommons.org/licenses/by/2.0/",
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {
@@ -591,6 +663,24 @@
     "yazar": "Luc Viatour",
     "lisans": "CC BY-SA 2.5",
     "lisans_link": "https://creativecommons.org/licenses/by-sa/2.5/",
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
+    "id": "kizilcik",
+    "kaynak_adi": "Wikimedia Commons: Bowl of ripe Cornelian Cherries 01.jpg",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Bowl_of_ripe_Cornelian_Cherries_01.jpg",
+    "yazar": "Joe Mabel",
+    "lisans": "CC BY-SA 3.0",
+    "lisans_link": "http://www.gnu.org/copyleft/fdl.html/",
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
+    "id": "kizildamlar_kestane_kabagi",
+    "kaynak_adi": "Wikimedia Commons: Hopi Pale Grey Squash.jpg",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Hopi_Pale_Grey_Squash.jpg",
+    "yazar": "Peter J. Baer",
+    "lisans": "CC BY 2.0",
+    "lisans_link": "https://creativecommons.org/licenses/by/2.0/",
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {
@@ -1095,6 +1185,15 @@
     "yazar": "Kati zunkovic at Slovenian Wikipedia",
     "lisans": "CC BY-SA 3.0",
     "lisans_link": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
+    "id": "zargana",
+    "kaynak_adi": "Wikimedia Commons: Belona.JPG",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Belona.JPG",
+    "yazar": "TomiUSM",
+    "lisans": "Public domain",
+    "lisans_link": null,
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {
