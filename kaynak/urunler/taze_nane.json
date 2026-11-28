@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/173475/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 41,
+  "siralama": 54,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Yapraklarını saplarından ayırın, yıkayıp süzün.",
@@ -65,6 +65,19 @@
       "not": "Taze nane Akdeniz'de marttan kasım sonuna kadar bol bulunur."
     },
     {
+      "id": "taze_nane__ic_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "01-01",
+      "bit": "12-31",
+      "kaynak_adi": "Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026) + Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026)",
+      "kaynak_link": "https://www.konya.bel.tr/hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Taze nane yıl boyu bulunur; yazın yerel bahçelerden de gelir."
+    },
+    {
       "id": "taze_nane__karadeniz__pazar_yogun__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "karadeniz",
@@ -76,6 +89,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Taze nane Mayıs–Ekim arasında bol."
+    },
+    {
+      "id": "taze_nane__guneydogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "01-01",
+      "bit": "12-31",
+      "kaynak_adi": "Şanlıurfa Büyükşehir Belediyesi hal fiyatları (19 tarih, Mayıs 2025 ve Mart – Kasım 2026)",
+      "kaynak_link": "https://halfiyatlari.sanliurfa.bel.tr/",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Taze nane yıl boyu bulunur; yazın en bol."
     }
   ],
   "secim_ipuclari": [

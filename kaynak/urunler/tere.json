@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/168407/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 49,
+  "siralama": 62,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Kök kısmını kesin, bol suda yıkayın.",
@@ -65,6 +65,19 @@
       "not": "Tere Akdeniz'de ekimden nisan sonuna kadar bulunur."
     },
     {
+      "id": "tere__ic_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "03-15",
+      "bit": "06-30",
+      "kaynak_adi": "Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026) + Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026)",
+      "kaynak_link": "https://www.konya.bel.tr/hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Tere baharda, Mart ortasından Haziran sonuna kadar bol."
+    },
+    {
       "id": "tere__karadeniz__pazar_yogun__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "karadeniz",
@@ -76,6 +89,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Tere Ekim–Nisan arasında bol."
+    },
+    {
+      "id": "tere__guneydogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "03-01",
+      "bit": "08-31",
+      "kaynak_adi": "Şanlıurfa Büyükşehir Belediyesi hal fiyatları (19 tarih, Mayıs 2025 ve Mart – Kasım 2026)",
+      "kaynak_link": "https://halfiyatlari.sanliurfa.bel.tr/",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Tere Mart'tan Ağustos sonuna kadar bulunur."
     }
   ],
   "secim_ipuclari": [

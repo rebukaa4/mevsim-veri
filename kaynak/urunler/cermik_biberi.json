@@ -1,0 +1,76 @@
+{
+  "id": "cermik_biberi",
+  "ad": "Çermik Biberi",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Diyarbakır Çermik'in yerel biberi: acıdır ama acılığı rahatsız etmeyecek düzeydedir. Haziranda turfanda çıkar, temmuz ortasından ekim ortasına kadar pazarda boldur.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "21",
+  "gorsel_id": "sivri_biber",
+  "aktif": true,
+  "enerji_kcal_100g": 40,
+  "enerji_durum": "çiğ, yenebilir kısım (sivri biber genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Peppers, hot chili, green, raw (FDC ID 170497)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170497/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 40,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Yıkayın, sapını kesin.",
+    "Acısını azaltmak isterseniz boyuna yarıp içindeki çekirdekleri ve beyaz damarları sıyırın."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "cermik_biberi__21__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "21",
+      "donem_turu": "hasat",
+      "bas": "06-01",
+      "bit": "10-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Çermik Biberi (No 717)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/600e5be9-2f0d-4fa3-a6d3-612d24b88547.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Çermik biberi Haziran'dan Ekim ortasına kadar haftada bir toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Kabuğu parlak, gergin ve kırışıksız olsun.",
+    "Sapı yeşil ve taze görünmeli; kararmış ya da kurumuş saplılar eskidir.",
+    "Elde sert ve diri durmalı, bükülünce yumuşamamalı.",
+    "Acı mı tatlı mı olduğunu satıcıya sorun; aynı görünen biberlerin acılığı değişebilir."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir (100 g'da 242 mg; günlük başvuru değerini aşar).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Peppers, hot chili, green, raw (FDC ID 170497)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170497/nutrients"
+    },
+    {
+      "ad": "B6 vitamini",
+      "tur": "vitamin",
+      "aciklama": "B6 vitamini kaynağıdır (100 g'da 0,3 mg; günlük başvuru değerine oranı yaklaşık %20).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Peppers, hot chili, green, raw (FDC ID 170497)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170497/nutrients"
+    },
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini kaynağıdır (100 g'da 14 µg; günlük başvuru değerine oranı yaklaşık %19).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Peppers, hot chili, green, raw (FDC ID 170497)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170497/nutrients"
+    }
+  ],
+  "tarifler": [
+    "menemen",
+    "yogurtlu_biber_kizartmasi",
+    "mantar_sote"
+  ]
+}

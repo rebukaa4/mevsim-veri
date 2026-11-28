@@ -1,0 +1,63 @@
+{
+  "id": "birecik_patlicani",
+  "ad": "Birecik Patlıcanı",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Şanlıurfa Birecik'in yerel patlıcanı: kabuğu düz ve orta mor, eti beyazımsı, yumuşak ve çok az çekirdeklidir. 25 Temmuz'dan ekim sonuna kadar toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "63",
+  "gorsel_id": "patlican",
+  "aktif": true,
+  "enerji_kcal_100g": 25,
+  "enerji_durum": "çiğ, yenebilir kısım (patlıcan genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Eggplant, raw (FDC ID 169228)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169228/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 42,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Yıkayın, sapını kesin; isterseniz kabuğunu alacalı (bir şerit soyup bir şerit bırakarak) soyun.",
+    "Doğradıktan sonra tuzlu suda 20-30 dakika bekletin; acısı ve fazla suyu çıkar.",
+    "Sudan çıkarıp avucunuzla sıkın ya da kâğıt havluyla kurulayın; kızartırken daha az yağ çeker."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "birecik_patlicani__63__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "63",
+      "donem_turu": "hasat",
+      "bas": "07-25",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Birecik Patlıcanı (No 217)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/217.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Birecik patlıcanı 25 Temmuz'dan Ekim sonuna kadar toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Kabuğu parlak, koyu ve pürüzsüz olsun; matlaşmış kabuk eskidiğini gösterir.",
+    "Parmakla hafifçe bastırın: iz çabuk geri dönüyorsa tazedir.",
+    "Boyuna göre ağır olanı seçin; hafif olanların içi süngerleşmiş olabilir.",
+    "Sapı ve çanağı yeşil olmalı, kurumamalı."
+  ],
+  "besin": [
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif kaynağıdır (100 g'da 3 g).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Eggplant, raw (FDC ID 169228)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169228/nutrients"
+    }
+  ],
+  "tarifler": [
+    "kozlenmis_patlican_salatasi",
+    "imam_bayildi",
+    "sebzeli_turlu"
+  ]
+}

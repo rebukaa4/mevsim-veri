@@ -65,6 +65,19 @@
       "not": "Maydanoz Akdeniz'de yıl boyu bulunur; en bol olduğu dönem serin aylardır."
     },
     {
+      "id": "maydanoz__ic_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "01-01",
+      "bit": "12-31",
+      "kaynak_adi": "Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026) + Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026)",
+      "kaynak_link": "https://www.konya.bel.tr/hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Maydanoz yıl boyu bulunur."
+    },
+    {
       "id": "maydanoz__karadeniz__pazar_yogun__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "karadeniz",
@@ -73,6 +86,19 @@
       "bit": "12-31",
       "kaynak_adi": "Mevsim, Marmara ürün tablosu (docs/08_marmara_urun_tablosu.md) ve oradaki İBB hal tonajları",
       "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Maydanoz yıl boyu bulunur."
+    },
+    {
+      "id": "maydanoz__guneydogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "01-01",
+      "bit": "12-31",
+      "kaynak_adi": "Gaziantep Büyükşehir Belediyesi hal rayiç fiyatları (47 tarih, Aralık 2024 – Kasım 2026) + Şanlıurfa Büyükşehir Belediyesi hal fiyatları (19 tarih, Mayıs 2025 ve Mart – Kasım 2026)",
+      "kaynak_link": "https://www.gaziantep.bel.tr/tr/hal-rayic",
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Maydanoz yıl boyu bulunur."

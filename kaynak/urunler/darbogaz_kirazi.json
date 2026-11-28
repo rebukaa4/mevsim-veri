@@ -1,0 +1,58 @@
+{
+  "id": "darbogaz_kirazi",
+  "ad": "Darboğaz Kirazı",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Niğde Ulukışla'nın Toros yaylalarında yetişen geççi kirazı ('0900 Ziraat'): çok iri, kalp biçimli, sert ve gevrek; temmuzun ikinci haftasından ağustos ortasına kadar toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "51",
+  "gorsel_id": "kiraz",
+  "aktif": true,
+  "enerji_kcal_100g": 63,
+  "enerji_durum": "çiğ, çekirdeksiz yenebilir kısım (kiraz genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Cherries, sweet, raw (FDC ID 171719, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/171719/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 68,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "darbogaz_kirazi__51__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "51",
+      "donem_turu": "hasat",
+      "bas": "07-08",
+      "bit": "08-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Darboğaz Kirazı (No 550)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/fdbe7655-7d0e-415d-8c4a-6f648231f603.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Darboğaz kirazı Temmuz'un ikinci haftasından Ağustos ortasına kadar toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Sapı yeşil ve esnek olsun; kahverengileşmiş, kurumuş sap kirazın bekletildiğini gösterir.",
+    "Taneler sert, parlak ve dolgun olmalı; yumuşamış ya da buruşmuş tane almayın.",
+    "Çatlak taneler çabuk ekşir; kasada çatlak çoksa başka tezgâha bakın.",
+    "Koyu kırmızı renk genelde daha tatlı ve olgun demektir."
+  ],
+  "besin": [
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum içerir: 100 g'da 222 mg; günlük başvuru değerine oranı yaklaşık %11.",
+      "kaynak_adi": "USDA FoodData Central — Cherries, sweet, raw (FDC ID 171719, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/171719/nutrients"
+    }
+  ],
+  "tarifler": [
+    "kiraz_kompostosu",
+    "kiraz_receli"
+  ]
+}

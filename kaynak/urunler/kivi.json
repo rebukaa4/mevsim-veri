@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/168153/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 70,
+  "siralama": 91,
   "tanitim": null,
   "hazirlama_adimlari": [
     "İkiye bölüp kaşıkla oyarak ya da kabuğunu bıçakla soyup dilimleyerek yiyin."
@@ -77,6 +77,19 @@
       "not": "Yerli kivi kasımdan nisan sonuna kadar, kışın depodan bulunur."
     },
     {
+      "id": "kivi__ic_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "11-01",
+      "bit": "05-31",
+      "kaynak_adi": "Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026)",
+      "kaynak_link": "https://www.ankara.bel.tr/hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Yerli kivi Kasım'dan Mayıs sonuna kadar bulunur; Yalova ve Ordu'dan gelir."
+    },
+    {
       "id": "kivi__karadeniz__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "karadeniz",
@@ -101,6 +114,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Kivi soğuk depodan Nisan sonuna kadar bulunur."
+    },
+    {
+      "id": "kivi__guneydogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "10-15",
+      "bit": "05-31",
+      "kaynak_adi": "Şanlıurfa Büyükşehir Belediyesi hal fiyatları (19 tarih, Mayıs 2025 ve Mart – Kasım 2026) + Gaziantep Büyükşehir Belediyesi hal rayiç fiyatları (47 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://halfiyatlari.sanliurfa.bel.tr/",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kivi Ekim ortasından Mayıs sonuna kadar bol."
     }
   ],
   "secim_ipuclari": [

@@ -1,0 +1,88 @@
+{
+  "id": "isot_biberi",
+  "ad": "İsot biberi (taze)",
+  "diger_adlar": [
+    "Urfa biberi",
+    "salçalık kırmızı biber"
+  ],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Şanlıurfa ve Gaziantep'in salçalık ve isotluk acı kırmızı biberi; ağustos ortasından ekim sonuna kadar toplanır. Taze yenir, çoğu kurutulup isot ve pul biber yapılır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "isot_biberi",
+  "aktif": true,
+  "enerji_kcal_100g": 40,
+  "enerji_durum": "çiğ (USDA'daki kırmızı acı biber kaydı)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Peppers, hot chili, red, raw (FDC ID 170106, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170106/nutrients",
+  "az_bilinen": true,
+  "bilinirlik": 3,
+  "siralama": 81,
+  "tanitim": "İsot biberi, Güneydoğu'da yaz sonunda tarlalardan toplanan, olgunlaşınca koyu kırmızıya dönen acı biberdir (Capsicum annuum). Yaz boyunca yeşilken sivri biber gibi de yenir; ağustos ortasından ekim sonuna kadar kırmızısı bol bulunur. Pazarlarda kasa kasa satılır ve evlerde salça, pul biber ve isot yapılır: isot, biberin güneşte kurutulup gece örtülerek terletilmesiyle elde edilen koyu, yağlı görünen pul biberdir. Taze kırmızı isot biberi ezmelere, kebap yanına ve salatalara katılır; acılığı orta ile yüksek arasındadır.",
+  "hazirlama_adimlari": [
+    "Acı biberi keserken eldiven takın; elinizle gözünüze ve yüzünüze dokunmayın, işiniz bitince elinizi sabunla yıkayın.",
+    "Biberleri yıkayıp kurulayın; sap kısmını kesin.",
+    "Acılığın çoğu iç zarlarda ve çekirdeklerdedir; daha az acı isterseniz biberi boyuna ikiye bölüp çekirdeklerini ve beyaz zarlarını çıkarın.",
+    "Ezme ve salata için çok ince doğrayın ya da rondoda çekin; közleyecekseniz bütün olarak ateşte ya da fırında kabuğu kararana kadar çevirin, sonra kabuğunu soyun.",
+    "Buzdolabında kâğıt havluya sarılı olarak bir haftaya kadar saklayabilirsiniz."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "isot_biberi__guneydogu_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "hasat",
+      "bas": "08-15",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: İslahiye Biberi (No 991) + Gaziantep Büyükşehir Belediyesi hal rayiç fiyatları (47 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/6f4fbfb7-860c-4199-9aa6-90d3d1e7f95a.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Salçalık ve isotluk kırmızı biber Ağustos ortasından Ekim sonuna kadar toplanır; bu dönemde evlerde salça ve isot yapılır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Parlak, koyu kırmızı ve sert biberleri seçin; buruşmuş, yumuşamış ya da üzerinde siyah leke olanları almayın.",
+    "Sapı yeşil ve taze görünmeli; sapı kurumuş ya da kararmış biber beklemiştir.",
+    "Salça ya da kurutmalık alacaksanız kabuğu kalın, etli biberler daha çok verim verir."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir: 100 g'da 144 mg; günlük başvuru değerine oranı yaklaşık %180.",
+      "kaynak_adi": "USDA FoodData Central — Peppers, hot chili, red, raw (FDC ID 170106, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170106/nutrients"
+    },
+    {
+      "ad": "B6 vitamini",
+      "tur": "vitamin",
+      "aciklama": "B6 vitamini açısından zengindir: 100 g'da 0,51 mg; günlük başvuru değerine oranı yaklaşık %36.",
+      "kaynak_adi": "USDA FoodData Central — Peppers, hot chili, red, raw (FDC ID 170106, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170106/nutrients"
+    },
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini kaynağıdır: 100 g'da 14 µg; günlük başvuru değerine oranı yaklaşık %19.",
+      "kaynak_adi": "USDA FoodData Central — Peppers, hot chili, red, raw (FDC ID 170106, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170106/nutrients"
+    },
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum kaynağıdır: 100 g'da 322 mg; günlük başvuru değerine oranı yaklaşık %16.",
+      "kaynak_adi": "USDA FoodData Central — Peppers, hot chili, red, raw (FDC ID 170106, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170106/nutrients"
+    }
+  ],
+  "tarifler": [
+    "isotlu_ezme",
+    "muhammara",
+    "kozlenmis_biber_salatasi"
+  ]
+}

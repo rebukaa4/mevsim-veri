@@ -75,6 +75,19 @@
       "not": "Kuru sarımsak depodan yıl boyu bulunur."
     },
     {
+      "id": "kuru_sarimsak__ic_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "08-01",
+      "bit": "11-30",
+      "kaynak_adi": "Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026) + Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026)",
+      "kaynak_link": "https://www.konya.bel.tr/hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Yeni hasat kuru sarımsak Ağustos–Kasım arasında bol; Kastamonu ve Kahramanmaraş'tan gelir."
+    },
+    {
       "id": "kuru_sarimsak__karadeniz__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "karadeniz",
@@ -99,6 +112,32 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "resmi",
       "not": "Yerli kuru sarımsak depodan Nisan sonuna kadar bulunur."
+    },
+    {
+      "id": "kuru_sarimsak__guneydogu_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "hasat",
+      "bas": "05-01",
+      "bit": "06-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Araban Sarımsağı (No 529) + Türk Patent coğrafi işaret tescili: Hasankeyf Mehina Sarımsağı (No 1573)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/cd6681f6-b94a-4ed7-bec7-eaf80a6db7b4.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Güneydoğu sarımsağı Mayıs'tan Haziran ortasına kadar sökülür; erken sarımsaktır."
+    },
+    {
+      "id": "kuru_sarimsak__guneydogu_anadolu__depo__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "depo",
+      "bas": "06-16",
+      "bit": "01-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Hasankeyf Mehina Sarımsağı (No 1573) + Türk Patent coğrafi işaret tescili: Araban Sarımsağı (No 529) + Gaziantep Büyükşehir Belediyesi hal rayiç fiyatları (47 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/a64f296c-1f72-4a9b-87f5-739fc4723703.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Yerli kuru sarımsak depodan Ocak ortasına kadar bulunur."
     }
   ],
   "secim_ipuclari": [

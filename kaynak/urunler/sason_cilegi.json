@@ -1,0 +1,76 @@
+{
+  "id": "sason_cilegi",
+  "ad": "Sason Çileği",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Batman Sason'un Sason Çayı çevresinde yetişen, hafif ekşimtrak aromalı çileği; açık tarlada mayıstan eylül sonuna kadar toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "72",
+  "gorsel_id": "cilek",
+  "aktif": true,
+  "enerji_kcal_100g": 32,
+  "enerji_durum": "çiğ (çilek genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Strawberries, raw (FDC ID 167762, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/167762/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 76,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Yemeden hemen önce, sapıyla birlikte bol suda kısa süre yıkayın; sapı yıkadıktan sonra koparın (önce koparırsanız içine su çeker).",
+    "Buzdolabında yıkamadan, tek kat halinde saklayın ve 2–3 gün içinde tüketin."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "sason_cilegi__72__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "72",
+      "donem_turu": "hasat",
+      "bas": "05-01",
+      "bit": "09-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Sason Çileği (No 667)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/7e3f1b9b-9233-4872-821f-ca3a689a4a4c.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Açık tarla Sason çileği Mayıs'tan Eylül sonuna kadar toplanır; örtü altında Ocak'ta başlar."
+    }
+  ],
+  "secim_ipuclari": [
+    "Yeşil sapı (çanak yaprakları) taze ve dik olsun; kurumuş sap eski üründür.",
+    "Rengi sap dibine kadar parlak kırmızı olmalı; beyaz kalan uçlar tam olgunlaşmamıştır.",
+    "Kabın dibine bakın: ezik, sulanmış ya da küflü tane varsa diğerleri de çabuk bozulur.",
+    "Kokusu belirgin ve tatlı olan çilek daha lezzetlidir."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir: 100 g'da 58,8 mg; günlük başvuru değerine oranı yaklaşık %73.",
+      "kaynak_adi": "USDA FoodData Central — Strawberries, raw (FDC ID 167762, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/167762/nutrients"
+    },
+    {
+      "ad": "Manganez",
+      "tur": "mineral",
+      "aciklama": "Manganez kaynağıdır: 100 g'da 0,39 mg; günlük başvuru değerine oranı yaklaşık %19.",
+      "kaynak_adi": "USDA FoodData Central — Strawberries, raw (FDC ID 167762, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/167762/nutrients"
+    },
+    {
+      "ad": "Su",
+      "tur": "diger",
+      "aciklama": "Su oranı yüksektir: 100 g'ının yaklaşık 91 g'ı sudur.",
+      "kaynak_adi": "USDA FoodData Central — Strawberries, raw (FDC ID 167762, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/167762/nutrients"
+    }
+  ],
+  "tarifler": [
+    "cilek_receli",
+    "cilekli_muhallebi",
+    "meyveli_yogurt_kasesi"
+  ]
+}

@@ -62,6 +62,19 @@
       "not": "Akdeniz kıyısında tarla salatalığı mayıs ikinci yarısından ekim sonuna kadar bulunur; kış salatalığı seradandır."
     },
     {
+      "id": "salatalik__ic_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "hasat",
+      "bas": "07-01",
+      "bit": "09-15",
+      "kaynak_adi": "Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026) + Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026) + Atalay İ., Türkiye'de Vejetasyon Sürelerinin Dağılışı",
+      "kaynak_link": "https://www.konya.bel.tr/hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Yerel tarla hıyarı Temmuz'dan Eylül ortasına kadar bol; diğer aylarda sera hıyarı var."
+    },
+    {
       "id": "salatalik__karadeniz__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "karadeniz",
@@ -73,6 +86,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Tarla hıyarı Temmuz–Eylül arasında bulunur; diğer aylarda sera hıyarı var."
+    },
+    {
+      "id": "salatalik__guneydogu_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "hasat",
+      "bas": "05-15",
+      "bit": "10-31",
+      "kaynak_adi": "Gaziantep Büyükşehir Belediyesi hal rayiç fiyatları (47 tarih, Aralık 2024 – Kasım 2026) + Şanlıurfa Büyükşehir Belediyesi hal fiyatları (19 tarih, Mayıs 2025 ve Mart – Kasım 2026)",
+      "kaynak_link": "https://www.gaziantep.bel.tr/tr/hal-rayic",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Tarla hıyarı Mayıs ortasından Ekim sonuna kadar bol; Ekim–Aralık'ta turşuluk kornişon da gelir."
     }
   ],
   "secim_ipuclari": [

@@ -1,0 +1,64 @@
+{
+  "id": "kirikkale_kiliclar_sogani",
+  "ad": "Kırıkkale Kılıçlar Soğanı",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Kırıkkale Kılıçlar köyünün yerel soğanı: dış kabuğu kahverengi-kırmızı, eti beyazdan kırmızıya, tadı diğer soğanlara göre hafif acıdır. Ağustosta sökülür, basit depolarda kışa kadar saklanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "71",
+  "gorsel_id": "kuru_sogan",
+  "aktif": true,
+  "enerji_kcal_100g": 40,
+  "enerji_durum": "çiğ, yenebilir kısım (kuru soğan genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Onions, raw (FDC ID 170000)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170000/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 39,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "kirikkale_kiliclar_sogani__71__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "71",
+      "donem_turu": "hasat",
+      "bas": "08-01",
+      "bit": "08-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Kırıkkale Kılıçlar Soğanı (No 365)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/365.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Kılıçlar soğanı Ağustos'ta sökülür."
+    },
+    {
+      "id": "kirikkale_kiliclar_sogani__71__depo__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "71",
+      "donem_turu": "depo",
+      "bas": "09-01",
+      "bit": "01-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Kırıkkale Kılıçlar Soğanı (No 365)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/365.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Kılıçlar soğanı basit depolarda Ocak sonuna kadar saklanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Elinizde sert ve ağır olanı seçin.",
+    "Dış kabuk kuru, ince ve kâğıt gibi hışırdamalı.",
+    "Filizlenmiş, yumuşamış ya da kararmış (küflü) olanları almayın.",
+    "Kokusu keskin olmalı ama çürük kokmamalı."
+  ],
+  "besin": [],
+  "tarifler": [
+    "sumakli_sogan",
+    "zeytinyagli_taze_fasulye",
+    "kapuska"
+  ]
+}

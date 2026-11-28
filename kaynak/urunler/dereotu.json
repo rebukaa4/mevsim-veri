@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/172233/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 39,
+  "siralama": 52,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Kalın saplarını kesin, bol suda yıkayıp süzün.",
@@ -65,6 +65,19 @@
       "not": "Dereotu Akdeniz'de ekimden nisan sonuna kadar tarladan gelir; sıcakta çabuk çiçeğe kaçar."
     },
     {
+      "id": "dereotu__ic_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "01-01",
+      "bit": "12-31",
+      "kaynak_adi": "Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://www.konya.bel.tr/hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Dereotu yıl boyu bulunur."
+    },
+    {
       "id": "dereotu__karadeniz__pazar_yogun__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "karadeniz",
@@ -73,6 +86,19 @@
       "bit": "12-31",
       "kaynak_adi": "Mevsim, Marmara ürün tablosu (docs/08_marmara_urun_tablosu.md) ve oradaki İBB hal tonajları",
       "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Dereotu yıl boyu bulunur."
+    },
+    {
+      "id": "dereotu__guneydogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "01-01",
+      "bit": "12-31",
+      "kaynak_adi": "Şanlıurfa Büyükşehir Belediyesi hal fiyatları (19 tarih, Mayıs 2025 ve Mart – Kasım 2026)",
+      "kaynak_link": "https://halfiyatlari.sanliurfa.bel.tr/",
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Dereotu yıl boyu bulunur."

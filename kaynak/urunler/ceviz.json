@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170187/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 17,
+  "siralama": 19,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Kabuğu kırmak için cevizi sivri uçları yukarı-aşağı gelecek şekilde tutun ve ortadaki birleşme çizgisinden ceviz kıracağıyla ya da çekiçle hafifçe vurun.",
@@ -63,6 +63,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "resmi",
       "not": "Akdeniz bölgesinin cevizi yaylalardan eylül ortasından ekim sonuna kadar toplanır."
+    },
+    {
+      "id": "ceviz__ic_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "hasat",
+      "bas": "09-15",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Kaman Cevizi (No 624)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/a2cc7341-1a21-4844-aed8-8ba03e63a6c3.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kuru ceviz Eylül ortasından Ekim sonuna kadar toplanır."
     },
     {
       "id": "ceviz__karadeniz__hasat__1",

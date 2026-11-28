@@ -65,6 +65,19 @@
       "not": "Akdeniz kıyısında açık tarla biberi hazirandan kasım sonuna kadar bol bulunur; kış ve bahar aylarındaki biber seradandır."
     },
     {
+      "id": "dolmalik_biber__ic_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "hasat",
+      "bas": "08-01",
+      "bit": "10-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Cemele Biberi (No 956) + Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026) + Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/b4a4e051-71c7-412f-856d-8effafa9618c.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Yerel tarla dolmalık biberi Ağustos'tan ilk donlara kadar bol."
+    },
+    {
       "id": "dolmalik_biber__karadeniz__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "karadeniz",
@@ -76,6 +89,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Karadeniz tarla dolmalık biberi Temmuz ortasından Ekim sonuna kadar bulunur."
+    },
+    {
+      "id": "dolmalik_biber__guneydogu_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "hasat",
+      "bas": "06-15",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Antep Dolmalık Biber Kurusu / Gaziantep Dolmalık Biber Kurusu (No 752) + Gaziantep Büyükşehir Belediyesi hal rayiç fiyatları (47 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/74528f19-eac1-4539-8fb1-600f57ca3607.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Yerel dolmalık biber Haziran ortasından Ekim sonuna kadar bol; Temmuz–Eylül'de kurutmalık olarak da toplanır."
     }
   ],
   "secim_ipuclari": [

@@ -28,6 +28,32 @@
   "hazirlama_kaynak_link": null,
   "mevsimler": [
     {
+      "id": "madimak__ic_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "05-01",
+      "bit": "06-30",
+      "kaynak_adi": "Saraç H. ve ark. 2018, Madımak (Polygonum cognatum Meissn.) bitki özütlerinin besin elementleri…, SDÜ Ziraat Fak. Derg. özel sayı: 340–347",
+      "kaynak_link": "https://dergipark.org.tr/download/article-file/604534",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Madımak Mayıs–Haziran'da toplanır; en çok Sivas ve Yozgat pazarlarında taze satılır."
+    },
+    {
+      "id": "madimak__58__pazar_yogun__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "58",
+      "donem_turu": "pazar_yogun",
+      "bas": "05-01",
+      "bit": "06-30",
+      "kaynak_adi": "Saraç H. ve ark. 2018, Madımak (Polygonum cognatum Meissn.) bitki özütlerinin besin elementleri…, SDÜ Ziraat Fak. Derg. özel sayı: 340–347",
+      "kaynak_link": "https://dergipark.org.tr/download/article-file/604534",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "akademik",
+      "not": "Madımak Mayıs–Haziran'da toplanır; Sivas ve Yozgat pazarlarında taze satılır, kurusu kışın da bulunur."
+    },
+    {
       "id": "madimak__karadeniz__pazar_yogun__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "karadeniz",

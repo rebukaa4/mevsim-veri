@@ -65,6 +65,19 @@
       "not": "Akdeniz'de açık tarla çileği martta olgunlaşır ve haziran sonuna kadar bol gelir; aralıktan itibaren gelen çilek seradandır."
     },
     {
+      "id": "cilek__ic_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "hasat",
+      "bas": "06-01",
+      "bit": "07-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Hüyük Çileği (No 722) + GKGM, Çilek el kitabı (Orta Anadolu dikim zamanları) + Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026) + Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/152f5b4d-633f-436c-adf6-ecf20328c301.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "İç Anadolu tarla çileği Haziran–Temmuz'da olgunlaşır; baharda gelen çilek güneyden ve seradandır."
+    },
+    {
       "id": "cilek__karadeniz__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "karadeniz",
@@ -76,6 +89,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Karadeniz tarla çileği Mayıs ortasından Haziran sonuna kadar toplanır."
+    },
+    {
+      "id": "cilek__guneydogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "03-15",
+      "bit": "07-15",
+      "kaynak_adi": "Gaziantep Büyükşehir Belediyesi hal rayiç fiyatları (47 tarih, Aralık 2024 – Kasım 2026) + Şanlıurfa Büyükşehir Belediyesi hal fiyatları (19 tarih, Mayıs 2025 ve Mart – Kasım 2026) + Türk Patent coğrafi işaret tescili: Sason Çileği (No 667)",
+      "kaynak_link": "https://www.gaziantep.bel.tr/tr/hal-rayic",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Çilek Mart ortasından Temmuz ortasına kadar bol; erken gelenler sera ve Akdeniz ürünüdür."
     }
   ],
   "secim_ipuclari": [

@@ -1,0 +1,58 @@
+{
+  "id": "kenger",
+  "ad": "Kenger",
+  "diger_adlar": [
+    "kereng",
+    "kenger otu"
+  ],
+  "kategori_id": "ot",
+  "kisa_tanim": "Güneydoğu'nun baharda toplanan dikenli yabani bitkisi; dikenleri ayıklanan genç sürgünü ve yumuşak gövdesi kavrulup yumurtayla ya da etle pişirilir.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "kenger",
+  "aktif": true,
+  "enerji_kcal_100g": null,
+  "enerji_durum": null,
+  "enerji_kaynak_adi": null,
+  "enerji_kaynak_link": null,
+  "az_bilinen": true,
+  "bilinirlik": 4,
+  "siralama": 15,
+  "tanitim": "Kenger (Gundelia tournefortii), kurak yamaçlarda ve tarla kenarlarında yetişen, devedikenine benzeyen dikenli bir bitkidir. Şanlıurfa, Diyarbakır, Mardin ve çevresinde baharda, mart–mayıs arasında çiçeklenmeden önce toplanır ve semt pazarlarında taze sürgün olarak satılır. Yenen kısmı genç sürgünün ve toprağa yakın kalın gövdenin yumuşak içidir; tadı enginarı andırır. Yaprak uçları sert dikenlidir, bu yüzden eldivenle ayıklanır. Kavurması, yumurtalısı ve etli yemeği yapılır.",
+  "hazirlama_adimlari": [
+    "Eldiven takın; makas ya da bıçakla yaprakların dikenli uçlarını ve sert yaprakları kesip atın.",
+    "Gövdenin ve kalın sapların dış lifli kabuğunu bıçakla soyun; içteki açık renkli yumuşak kısım kalsın.",
+    "Ayıkladığınız parçaları kararmaması için limonlu suya atın.",
+    "3–4 cm boyunda doğrayıp kaynar tuzlu suda 5–10 dakika haşlayın; suyunu süzün.",
+    "Haşlanmış kengeri soğanla kavurun, yumurtayla ya da kıymayla pişirin."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "kenger__guneydogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "03-01",
+      "bit": "05-31",
+      "kaynak_adi": "Akan H., Balos M.M. 2023, Karaköprü (Şanlıurfa)'da gıda olarak tüketilen yabani bitkiler, Int. J. Life Sci. Biotechnol. 6(1):61–81",
+      "kaynak_link": "https://dergipark.org.tr/en/download/article-file/2935733",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kenger baharda toplanır ve semt pazarlarında taze sürgün olarak satılır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Körpe, açık yeşil ve dolgun sürgünleri seçin; çiçek tomurcuğu belirmiş, sertleşmiş bitkiler lifli olur.",
+    "Kesik yerleri taze ve sütlü görünmeli; kurumuş, kararmış ya da pörsümüş sürgünleri almayın.",
+    "Ayıklayınca yarısından çoğu gider; yemek için iki-üç kişiye en az 1 kg alın."
+  ],
+  "besin": [],
+  "tarifler": [
+    "kenger_kavurmasi",
+    "yumurtali_ot_kavurmasi"
+  ]
+}

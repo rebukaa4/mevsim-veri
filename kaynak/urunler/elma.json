@@ -101,6 +101,32 @@
       "not": "Isparta elması soğuk hava depolarından aralıktan ağustos sonuna kadar, yani yeni hasada kadar bulunur."
     },
     {
+      "id": "elma__ic_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "hasat",
+      "bas": "08-15",
+      "bit": "10-31",
+      "kaynak_adi": "Son Dakika, \"Niğde'de Elma Hasadı Devam Ediyor\" (28.08.2024) + Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026)",
+      "kaynak_link": "https://www.sondakika.com/guncel/haber-nigde-de-elma-hasadi-devam-ediyor-17764919/",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Niğde ve Karaman elması Ağustos ortasından Ekim sonuna kadar toplanır."
+    },
+    {
+      "id": "elma__ic_anadolu__depo__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "depo",
+      "bas": "11-01",
+      "bit": "05-31",
+      "kaynak_adi": "Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026) + Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026)",
+      "kaynak_link": "https://www.konya.bel.tr/hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Elma soğuk depodan Mayıs sonuna kadar bol bulunur."
+    },
+    {
       "id": "elma__karadeniz__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "karadeniz",
@@ -125,6 +151,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "resmi",
       "not": "Elma depodan Nisan sonuna kadar bol bulunur."
+    },
+    {
+      "id": "elma__guneydogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "01-01",
+      "bit": "12-31",
+      "kaynak_adi": "Gaziantep Büyükşehir Belediyesi hal rayiç fiyatları (47 tarih, Aralık 2024 – Kasım 2026) + Şanlıurfa Büyükşehir Belediyesi hal fiyatları (19 tarih, Mayıs 2025 ve Mart – Kasım 2026)",
+      "kaynak_link": "https://www.gaziantep.bel.tr/tr/hal-rayic",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Elma yıl boyu bulunur; yeni hasat Eylül'de gelir."
     }
   ],
   "secim_ipuclari": [

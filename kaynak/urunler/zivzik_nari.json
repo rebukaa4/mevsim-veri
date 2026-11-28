@@ -1,0 +1,85 @@
+{
+  "id": "zivzik_nari",
+  "ad": "Zivzik Narı",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Siirt Şirvan'ın Zivzik köyünden adını alan, iri taneli, bol sulu, tatlı ve ince kabuklu narı; ekim başından kasımın ikinci haftasına kadar toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "56",
+  "gorsel_id": "nar",
+  "aktif": true,
+  "enerji_kcal_100g": 83,
+  "enerji_durum": "çiğ, taneleri (nar genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Pomegranates, raw (FDC ID 169134, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169134/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 2,
+  "siralama": 107,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Narın tepesindeki taç kısmını bıçakla daire şeklinde kesip çıkarın.",
+    "Kabuğu, içteki beyaz zarların çizgisi boyunca yukarıdan aşağı 4–6 yerinden yüzeysel olarak çizin.",
+    "Narı büyük bir su kabının içinde elinizle dilimlerine ayırın; taneleri su içinde ayıklayın. Böylece etrafa su sıçramaz.",
+    "Beyaz zarlar suyun üstüne çıkar, taneler dibe çöker; zarları alıp suyu süzün."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "zivzik_nari__56__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "56",
+      "donem_turu": "hasat",
+      "bas": "10-01",
+      "bit": "11-14",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Zivzik Narı (No 1861)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/303c3cf9-d56f-4ce1-9b03-2f24a015bae8.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Siirt'in zivzik narı Ekim başından Kasım'ın ikinci haftasına kadar toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Boyuna göre ağır olsun; ağır nar daha sulu demektir.",
+    "Kabuğu sert ve gergin olmalı; yumuşak bölge içinin bozulduğunu gösterebilir.",
+    "Kabuktaki küçük çizikler sorun değildir; derin yarık ve çürük almayın.",
+    "Köşeli, hafif köşeleri belirgin narlar genelde iyice olgunlaşmıştır."
+  ],
+  "besin": [
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini kaynağıdır: 100 g'da 16,4 µg; günlük başvuru değerine oranı yaklaşık %21.",
+      "kaynak_adi": "USDA FoodData Central — Pomegranates, raw (FDC ID 169134, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169134/nutrients"
+    },
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat kaynağıdır: 100 g'da 38 µg; günlük başvuru değerine oranı yaklaşık %19.",
+      "kaynak_adi": "USDA FoodData Central — Pomegranates, raw (FDC ID 169134, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169134/nutrients"
+    },
+    {
+      "ad": "Bakır",
+      "tur": "mineral",
+      "aciklama": "Bakır kaynağıdır: 100 g'da 0,16 mg; günlük başvuru değerine oranı yaklaşık %15.",
+      "kaynak_adi": "USDA FoodData Central — Pomegranates, raw (FDC ID 169134, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169134/nutrients"
+    },
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif kaynağıdır: 100 g'da 4 g.",
+      "kaynak_adi": "USDA FoodData Central — Pomegranates, raw (FDC ID 169134, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169134/nutrients"
+    }
+  ],
+  "tarifler": [
+    "narli_coban_salatasi",
+    "narenciye_salatasi",
+    "hurmali_kis_salatasi"
+  ]
+}

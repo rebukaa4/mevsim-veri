@@ -1,0 +1,58 @@
+{
+  "id": "eldivan_kirazi",
+  "ad": "Eldivan Kirazı",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Çankırı Eldivan'da '0900 Ziraat' çeşidinden yetiştirilen kiraz: kabuğu parlak koyu bordo, eti krem-pembe, uzun saplıdır. Haziran–ağustosta elle toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "18",
+  "gorsel_id": "kiraz",
+  "aktif": true,
+  "enerji_kcal_100g": 63,
+  "enerji_durum": "çiğ, çekirdeksiz yenebilir kısım (kiraz genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Cherries, sweet, raw (FDC ID 171719, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/171719/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 67,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "eldivan_kirazi__18__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "18",
+      "donem_turu": "hasat",
+      "bas": "06-01",
+      "bit": "08-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Eldivan Kirazı (No 1550)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/c4e7a089-340f-4e3a-baa1-e015ee9e0a33.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Eldivan kirazı Haziran'dan Ağustos sonuna kadar elle toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Sapı yeşil ve esnek olsun; kahverengileşmiş, kurumuş sap kirazın bekletildiğini gösterir.",
+    "Taneler sert, parlak ve dolgun olmalı; yumuşamış ya da buruşmuş tane almayın.",
+    "Çatlak taneler çabuk ekşir; kasada çatlak çoksa başka tezgâha bakın.",
+    "Koyu kırmızı renk genelde daha tatlı ve olgun demektir."
+  ],
+  "besin": [
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum içerir: 100 g'da 222 mg; günlük başvuru değerine oranı yaklaşık %11.",
+      "kaynak_adi": "USDA FoodData Central — Cherries, sweet, raw (FDC ID 171719, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/171719/nutrients"
+    }
+  ],
+  "tarifler": [
+    "kiraz_kompostosu",
+    "kiraz_receli"
+  ]
+}

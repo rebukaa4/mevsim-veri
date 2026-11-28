@@ -65,6 +65,19 @@
       "not": "Taze soğan Akdeniz'de aralıktan nisan sonuna kadar bol bulunur."
     },
     {
+      "id": "taze_sogan__ic_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "01-01",
+      "bit": "12-31",
+      "kaynak_adi": "Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://www.konya.bel.tr/hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Taze soğan yıl boyu bulunur."
+    },
+    {
       "id": "taze_sogan__karadeniz__pazar_yogun__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "karadeniz",
@@ -76,6 +89,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Taze soğan baharda, Mart ortasından Haziran ortasına kadar en bol."
+    },
+    {
+      "id": "taze_sogan__guneydogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "01-01",
+      "bit": "12-31",
+      "kaynak_adi": "Gaziantep Büyükşehir Belediyesi hal rayiç fiyatları (47 tarih, Aralık 2024 – Kasım 2026) + Şanlıurfa Büyükşehir Belediyesi hal fiyatları (19 tarih, Mayıs 2025 ve Mart – Kasım 2026)",
+      "kaynak_link": "https://www.gaziantep.bel.tr/tr/hal-rayic",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Taze soğan yıl boyu bulunur."
     }
   ],
   "secim_ipuclari": [

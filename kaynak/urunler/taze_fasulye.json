@@ -78,6 +78,19 @@
       "not": "Yaz sonunda ekilen güzlük fasulye ekim ve kasım aylarında yeniden bol bulunur."
     },
     {
+      "id": "taze_fasulye__ic_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "hasat",
+      "bas": "07-01",
+      "bit": "10-07",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Akyurt Teberik Fasulyesi (No 1510) + Türk Patent coğrafi işaret tescili: Derbent Fasulyesi (No 959) + Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026) + Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/548b9f99-1e9c-40bc-9c39-809dc5c7ab2b.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Yerel tarla fasulyesi Temmuz'dan Ekim'in ilk haftasına kadar bol."
+    },
+    {
       "id": "taze_fasulye__karadeniz__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "karadeniz",
@@ -89,6 +102,32 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Karadeniz fasulyesi Temmuz'dan Ekim ortasına kadar toplanır; en bol Ağustos–Eylül."
+    },
+    {
+      "id": "taze_fasulye__guneydogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "05-01",
+      "bit": "06-30",
+      "kaynak_adi": "Gaziantep Büyükşehir Belediyesi hal rayiç fiyatları (47 tarih, Aralık 2024 – Kasım 2026) + Şanlıurfa Büyükşehir Belediyesi hal fiyatları (19 tarih, Mayıs 2025 ve Mart – Kasım 2026)",
+      "kaynak_link": "https://www.gaziantep.bel.tr/tr/hal-rayic",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Baharın taze fasulyesi Mayıs–Haziran'da bol; yaz ortasında azalır."
+    },
+    {
+      "id": "taze_fasulye__guneydogu_anadolu__pazar_yogun__2",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "09-01",
+      "bit": "11-30",
+      "kaynak_adi": "Gaziantep Büyükşehir Belediyesi hal rayiç fiyatları (47 tarih, Aralık 2024 – Kasım 2026) + Şanlıurfa Büyükşehir Belediyesi hal fiyatları (19 tarih, Mayıs 2025 ve Mart – Kasım 2026)",
+      "kaynak_link": "https://www.gaziantep.bel.tr/tr/hal-rayic",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Güzün ikinci ürün taze fasulye Eylül'den Kasım sonuna kadar bol."
     }
   ],
   "secim_ipuclari": [

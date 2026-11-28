@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169998/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 46,
+  "siralama": 59,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Kabuklarını ve püsküllerini soyun; kalan ince püskülleri elle temizleyin.",
@@ -63,6 +63,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Akdeniz'de taze mısır hazirandan ekim sonuna kadar bulunur."
+    },
+    {
+      "id": "taze_misir__ic_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "hasat",
+      "bas": "08-15",
+      "bit": "10-07",
+      "kaynak_adi": "Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026) + Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026)",
+      "kaynak_link": "https://www.konya.bel.tr/hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Taze (haşlamalık) mısır Ağustos ortasından Ekim başına kadar bol."
     },
     {
       "id": "taze_misir__karadeniz__hasat__1",

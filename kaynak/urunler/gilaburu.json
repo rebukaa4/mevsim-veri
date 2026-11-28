@@ -1,0 +1,54 @@
+{
+  "id": "gilaburu",
+  "ad": "Gilaburu",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Kayseri ve Sivas'ın kırmızı, nohut iriliğinde, salkım hâlindeki meyvesi; çiğken çok acı-ekşidir, suda bekletilerek yumuşatılır ve suyu içilir. Eylül–kasımda toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "gilaburu",
+  "aktif": true,
+  "enerji_kcal_100g": null,
+  "enerji_durum": null,
+  "enerji_kaynak_adi": null,
+  "enerji_kaynak_link": null,
+  "az_bilinen": true,
+  "bilinirlik": 4,
+  "siralama": 120,
+  "tanitim": "Gilaburu, dere kenarlarında ve bahçelerde yetişen 1,5–4 metrelik bir çalının (Viburnum opulus) meyvesidir. Sonbaharda salkımlarında 30–40 tane parlak kırmızı, nohut iriliğinde, sulu ve tek çekirdekli meyve olur. Çiğ tadı çok acı ve ekşidir; bu yüzden olduğu gibi yenmez. Kayseri ve Sivas'ta geleneksel olarak salkımlar kavanozlarda suya basılıp haftalarca bekletilir; acılık azalır, meyve yumuşar ve kendine özgü kokulu, ekşi bir su elde edilir. Bu su şekerle tatlandırılıp şerbet gibi içilir. Süs bitkisi olarak dikilen 'kartopu' çalısı aynı türün meyve vermeyen çeşididir.",
+  "hazirlama_adimlari": [
+    "Salkımları saplarından ayırmadan ayıklayın; ezik, kararmış ve yapraklı kısımları atın.",
+    "Bol soğuk suda birkaç kez yıkayıp süzün.",
+    "Temiz bir cam kavanoza doldurun, üzerini kaynatılıp soğutulmuş suyla tamamen kapatın; ağzını kapatıp serin ve karanlık bir yerde bekletin.",
+    "Yörede gilaburu en az birkaç hafta, çoğu zaman kış boyunca suda bekletilir; meyve yumuşar, acılığı azalır ve su kırmızılaşır.",
+    "İçmeden önce kavanozdaki meyveleri tahta kaşıkla ezip süzün; suyu tadına göre şekerle tatlandırın. Çekirdekler yenmez."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "gilaburu__ic_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "hasat",
+      "bas": "09-01",
+      "bit": "11-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Gemerek Gilaburusu (No 241) + Türk Patent coğrafi işaret tescili: Akkışla Gilaburusu (No 669)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/241.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Gilaburu Eylül'den Kasım sonuna kadar toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Taneleri parlak kırmızı, dolgun ve sıkı olan salkımları seçin; buruşmuş ya da kararmış taneler bekledi demektir.",
+    "Hafif bir don görmüş gilaburu daha yumuşak ve daha az acıdır; yörede bu yüzden ekim–kasımda toplananı tercih edilir.",
+    "Ezilmiş, suyu akmış ya da küf kokan salkımları almayın; suya basılacak meyvenin sağlam olması gerekir."
+  ],
+  "besin": [],
+  "tarifler": [
+    "gilaburu_serbeti"
+  ]
+}

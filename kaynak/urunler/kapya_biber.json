@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170108/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 34,
+  "siralama": 47,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Közlemek için ocak telinde ya da fırında (220 °C) kabukları kararana kadar çevirerek pişirin.",
@@ -66,6 +66,19 @@
       "not": "Kapya biberin kızarması yeşil bibere göre daha uzun sürdüğü için yerli tarla ürünü temmuzdan kasım sonuna kadar bulunur."
     },
     {
+      "id": "kapya_biber__ic_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "hasat",
+      "bas": "08-15",
+      "bit": "10-15",
+      "kaynak_adi": "Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026) + Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026) + Türk Patent coğrafi işaret tescili: Cemele Biberi (No 956)",
+      "kaynak_link": "https://www.konya.bel.tr/hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kırmızı kapya biber Ağustos ortasından ilk donlara kadar bol."
+    },
+    {
       "id": "kapya_biber__karadeniz__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "karadeniz",
@@ -77,6 +90,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Bafra Ovası'nın kırmızı kapya biberi Ağustos sonundan Ekim sonuna kadar toplanır."
+    },
+    {
+      "id": "kapya_biber__guneydogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "07-01",
+      "bit": "10-31",
+      "kaynak_adi": "Gaziantep Büyükşehir Belediyesi hal rayiç fiyatları (47 tarih, Aralık 2024 – Kasım 2026) + Şanlıurfa Büyükşehir Belediyesi hal fiyatları (19 tarih, Mayıs 2025 ve Mart – Kasım 2026)",
+      "kaynak_link": "https://www.gaziantep.bel.tr/tr/hal-rayic",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kırmızı kapya biber Temmuz'dan Ekim sonuna kadar bol."
     }
   ],
   "secim_ipuclari": [

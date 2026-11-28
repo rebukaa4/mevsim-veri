@@ -1,0 +1,73 @@
+{
+  "id": "nizip_zeytinyagi",
+  "ad": "Nizip Zeytinyağı",
+  "diger_adlar": [],
+  "kategori_id": "diger",
+  "kisa_tanim": "Gaziantep'te Nizip Yağlık zeytininden sıkılan natürel sızma zeytinyağı; rengi berrak yeşilden sarıya değişir. Zeytin kasımdan şubatın ilk haftasına kadar toplanıp sıkılır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "27",
+  "gorsel_id": "zeytinyagi",
+  "aktif": true,
+  "enerji_kcal_100g": 884,
+  "enerji_durum": "100 g zeytinyağı (zeytinyağı (yeni hasat) genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Oil, olive, salad or cooking (FDC ID 171413, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/171413/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 18,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "nizip_zeytinyagi__27__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "27",
+      "donem_turu": "hasat",
+      "bas": "11-01",
+      "bit": "02-07",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Nizip Zeytinyağı (No 158)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/85cd4c5b-1016-4e4b-8f47-01908c688089.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Nizip zeytinyağı için zeytin Kasım'dan Şubat'ın ilk haftasına kadar toplanıp sıkılır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Etikette 'natürel sızma' yazanı seçin; bu en yüksek sınıftır ve serbest asitliği en fazla %0,8'dir. Asitlik ne kadar düşükse o kadar iyidir.",
+    "Etikette hasat yılı (ör. 2026/2027 hasadı) yazanı tercih edin; yalnızca son kullanma tarihi yazıyorsa yağın ne kadar eski olduğunu bilemezsiniz.",
+    "'Riviera' ya da 'rafine' yazan yağlar sızma değildir; işlemden geçmiş yağ karışımlarıdır.",
+    "Koyu renkli cam şişe ya da teneke kutuda alın; ışıktan, ısıdan ve havadan uzak, ağzı kapalı saklayın ve açtıktan sonra birkaç ay içinde tüketin. Ocağın yanında saklamayın."
+  ],
+  "besin": [
+    {
+      "ad": "E vitamini",
+      "tur": "vitamin",
+      "aciklama": "E vitamini açısından zengindir: 100 g'da 14,4 mg; günlük başvuru değerine oranı yaklaşık %120.",
+      "kaynak_adi": "USDA FoodData Central — Oil, olive, salad or cooking (FDC ID 171413, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/171413/nutrients"
+    },
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini açısından zengindir: 100 g'da 60,2 µg; günlük başvuru değerine oranı yaklaşık %80.",
+      "kaynak_adi": "USDA FoodData Central — Oil, olive, salad or cooking (FDC ID 171413, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/171413/nutrients"
+    },
+    {
+      "ad": "Tekli doymamış yağ",
+      "tur": "diger",
+      "aciklama": "Yağının büyük kısmı tekli doymamış yağ asitlerinden oluşur: 100 g'da 73 g.",
+      "kaynak_adi": "USDA FoodData Central — Oil, olive, salad or cooking (FDC ID 171413, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/171413/nutrients"
+    }
+  ],
+  "tarifler": [
+    "limon_sosu",
+    "zeytinyagli_enginar",
+    "patates_salatasi"
+  ]
+}

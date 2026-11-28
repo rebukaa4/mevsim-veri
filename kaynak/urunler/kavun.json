@@ -75,6 +75,19 @@
       "not": "Akdeniz kavunu hazirandan eylül sonuna kadar tarladan gelir."
     },
     {
+      "id": "kavun__ic_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "hasat",
+      "bas": "08-01",
+      "bit": "10-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Yozgat Aydıncık Bağrıbütün Kavunu (No 524) + Türk Patent coğrafi işaret tescili: Kazan Kavunu (No 763) + Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026) + Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/d1138eb7-ce5d-43c1-afeb-c2e9c5dc6281.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "İç Anadolu kavunu Ağustos başından Ekim ortasına kadar toplanır; kışlık Kazan kavunu saklanır."
+    },
+    {
       "id": "kavun__karadeniz__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "karadeniz",
@@ -86,6 +99,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Bafra ve Tokat kavunu Temmuz ortasından Eylül sonuna kadar bulunur."
+    },
+    {
+      "id": "kavun__guneydogu_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "hasat",
+      "bas": "06-15",
+      "bit": "10-31",
+      "kaynak_adi": "Gaziantep Büyükşehir Belediyesi hal rayiç fiyatları (47 tarih, Aralık 2024 – Kasım 2026) + Şanlıurfa Büyükşehir Belediyesi hal fiyatları (19 tarih, Mayıs 2025 ve Mart – Kasım 2026) + Türk Patent coğrafi işaret tescili: Midyat Kavunu (No 954)",
+      "kaynak_link": "https://www.gaziantep.bel.tr/tr/hal-rayic",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Güneydoğu kavunu Haziran ortasından Ekim sonuna kadar bol; Midyat kavunu Ağustos–Eylül'de toplanır."
     }
   ],
   "secim_ipuclari": [

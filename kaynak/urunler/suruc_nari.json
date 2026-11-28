@@ -1,0 +1,98 @@
+{
+  "id": "suruc_nari",
+  "ad": "Suruç Narı",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Şanlıurfa Suruç'un sarı zemin üzerine kırmızı-pembe kabuklu, iri ve kolay tanelenen, yumuşak çekirdekli mayhoş-tatlı narı; ağustos sonundan kasım ortasına kadar toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "63",
+  "gorsel_id": "nar",
+  "aktif": true,
+  "enerji_kcal_100g": 83,
+  "enerji_durum": "çiğ, taneleri (nar genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Pomegranates, raw (FDC ID 169134, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169134/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 2,
+  "siralama": 105,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Narın tepesindeki taç kısmını bıçakla daire şeklinde kesip çıkarın.",
+    "Kabuğu, içteki beyaz zarların çizgisi boyunca yukarıdan aşağı 4–6 yerinden yüzeysel olarak çizin.",
+    "Narı büyük bir su kabının içinde elinizle dilimlerine ayırın; taneleri su içinde ayıklayın. Böylece etrafa su sıçramaz.",
+    "Beyaz zarlar suyun üstüne çıkar, taneler dibe çöker; zarları alıp suyu süzün."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "suruc_nari__63__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "63",
+      "donem_turu": "hasat",
+      "bas": "08-24",
+      "bit": "11-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Suruç Narı (No 812)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/776f449f-e5ba-436f-8bdb-458a902256ad.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Suruç narı Ağustos sonundan Kasım ortasına kadar toplanır."
+    },
+    {
+      "id": "suruc_nari__63__depo__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "63",
+      "donem_turu": "depo",
+      "bas": "11-16",
+      "bit": "05-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Suruç Narı (No 812)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/776f449f-e5ba-436f-8bdb-458a902256ad.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Suruç narı soğuk depoda Mayıs ortasına kadar saklanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Boyuna göre ağır olsun; ağır nar daha sulu demektir.",
+    "Kabuğu sert ve gergin olmalı; yumuşak bölge içinin bozulduğunu gösterebilir.",
+    "Kabuktaki küçük çizikler sorun değildir; derin yarık ve çürük almayın.",
+    "Köşeli, hafif köşeleri belirgin narlar genelde iyice olgunlaşmıştır."
+  ],
+  "besin": [
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini kaynağıdır: 100 g'da 16,4 µg; günlük başvuru değerine oranı yaklaşık %21.",
+      "kaynak_adi": "USDA FoodData Central — Pomegranates, raw (FDC ID 169134, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169134/nutrients"
+    },
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat kaynağıdır: 100 g'da 38 µg; günlük başvuru değerine oranı yaklaşık %19.",
+      "kaynak_adi": "USDA FoodData Central — Pomegranates, raw (FDC ID 169134, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169134/nutrients"
+    },
+    {
+      "ad": "Bakır",
+      "tur": "mineral",
+      "aciklama": "Bakır kaynağıdır: 100 g'da 0,16 mg; günlük başvuru değerine oranı yaklaşık %15.",
+      "kaynak_adi": "USDA FoodData Central — Pomegranates, raw (FDC ID 169134, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169134/nutrients"
+    },
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif kaynağıdır: 100 g'da 4 g.",
+      "kaynak_adi": "USDA FoodData Central — Pomegranates, raw (FDC ID 169134, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169134/nutrients"
+    }
+  ],
+  "tarifler": [
+    "narli_coban_salatasi",
+    "narenciye_salatasi",
+    "hurmali_kis_salatasi"
+  ]
+}

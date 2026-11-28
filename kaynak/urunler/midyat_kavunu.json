@@ -1,0 +1,78 @@
+{
+  "id": "midyat_kavunu",
+  "ad": "Midyat Kavunu",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Mardin Midyat'ın susuz yetişen silindir biçimli, açık sarı, kahverengi benekli kavunu; şekeri düşük, tadı hafif mayhoştur. Ağustos–eylülde toplanır, soğuk depoda ocağa kadar saklanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "47",
+  "gorsel_id": "kavun",
+  "aktif": true,
+  "enerji_kcal_100g": 28,
+  "enerji_durum": "çiğ, yenebilir kısım (kavun genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Melons, casaba, raw (FDC ID 169093, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169093/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 77,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "midyat_kavunu__47__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "47",
+      "donem_turu": "hasat",
+      "bas": "08-01",
+      "bit": "09-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Midyat Kavunu (No 954)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/a5f86f0c-e38a-420d-b8b1-3c6664d71a9c.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Midyat kavunu Ağustos'un ilk haftasından Eylül'ün son haftasına kadar toplanır."
+    },
+    {
+      "id": "midyat_kavunu__47__depo__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "47",
+      "donem_turu": "depo",
+      "bas": "10-01",
+      "bit": "01-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Midyat Kavunu (No 954)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/a5f86f0c-e38a-420d-b8b1-3c6664d71a9c.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Midyat kavunu soğuk depoda Ocak sonuna kadar saklanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Sap tarafının karşısındaki uç (çiçek ucu) parmakla bastırınca hafifçe esnemeli.",
+    "Boyuna göre ağır olan kavun daha sulu ve olgundur.",
+    "Çiçek ucu tarafında hoş, tatlı bir koku olmalı; koku yoksa ham olabilir.",
+    "Kabukta yumuşamış, çökük ya da küflü leke olmamalı."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini kaynağıdır: 100 g'da 21,8 mg; günlük başvuru değerine oranı yaklaşık %27.",
+      "kaynak_adi": "USDA FoodData Central — Melons, casaba, raw (FDC ID 169093, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169093/nutrients"
+    },
+    {
+      "ad": "Su",
+      "tur": "diger",
+      "aciklama": "Su oranı yüksektir: 100 g'ının yaklaşık 91,8 g'ı sudur.",
+      "kaynak_adi": "USDA FoodData Central — Melons, casaba, raw (FDC ID 169093, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169093/nutrients"
+    }
+  ],
+  "tarifler": [
+    "kavun_beyaz_peynir",
+    "kavun_buzlu_tatli"
+  ]
+}

@@ -75,6 +75,19 @@
       "not": "Akdeniz bölgesinin kirazı yayla ve göller yöresinden gelir; haziran ve temmuzda bol bulunur."
     },
     {
+      "id": "kiraz__ic_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "hasat",
+      "bas": "06-20",
+      "bit": "07-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Akşehir Kirazı (No 75) + Türk Patent coğrafi işaret tescili: Ereğli Beyaz Kirazı (No 406) + Türk Patent coğrafi işaret tescili: Eldivan Kirazı (No 1550) + Türk Patent coğrafi işaret tescili: Darboğaz Kirazı (No 550)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/75.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "İç Anadolu kirazı Haziran'ın son on gününden Temmuz sonuna kadar toplanır; yüksek yerlerde Ağustos ortasına sarkar."
+    },
+    {
       "id": "kiraz__karadeniz__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "karadeniz",
@@ -86,6 +99,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Kiraz Haziran'dan Temmuz sonuna kadar; yüksek yerlerde Ağustos'a sarkar."
+    },
+    {
+      "id": "kiraz__guneydogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "06-01",
+      "bit": "07-31",
+      "kaynak_adi": "Gaziantep Büyükşehir Belediyesi hal rayiç fiyatları (47 tarih, Aralık 2024 – Kasım 2026) + Şanlıurfa Büyükşehir Belediyesi hal fiyatları (19 tarih, Mayıs 2025 ve Mart – Kasım 2026)",
+      "kaynak_link": "https://www.gaziantep.bel.tr/tr/hal-rayic",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kiraz Haziran–Temmuz arasında bol."
     }
   ],
   "secim_ipuclari": [

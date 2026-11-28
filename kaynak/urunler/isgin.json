@@ -1,0 +1,77 @@
+{
+  "id": "isgin",
+  "ad": "Işgın",
+  "diger_adlar": [
+    "ışkın",
+    "uşgun"
+  ],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Dağ yamaçlarında yetişen yabani ravent; ekşi, sulu sapları baharda Diyarbakır pazarlarına gelir. Kabuğu soyulup tuzla çiğ yenir.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "isgin",
+  "aktif": true,
+  "enerji_kcal_100g": 21,
+  "enerji_durum": "çiğ sap (USDA'daki ravent kaydı; ışgınla aynı cinsten yakın bir tür, Rheum rhabarbarum)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Rhubarb, raw (FDC ID 167758, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/167758/nutrients",
+  "az_bilinen": true,
+  "bilinirlik": 5,
+  "siralama": 97,
+  "tanitim": "Işgın (Rheum ribes), Doğu ve Güneydoğu Anadolu'nun 1500–2000 metrelik taşlık yamaçlarında yetişen yabani bir raventtir. Nisandan haziran sonuna kadar toplanan kalın, sulu sapları Hakkari ve Muş dağlarından Diyarbakır pazarlarına gelir. Sapın dışı kırmızımsı-yeşil ve liflidir; soyulunca içindeki açık yeşil, gevrek ve ekşi kısım tuza batırılarak çiğ yenir. Yörede yemeğe ve turşuya da katılır. Yalnızca sapı yenir; büyük, kırışık yaprakları yenmez.",
+  "hazirlama_adimlari": [
+    "Yaprakları sapın ucundan kesip atın; yapraklar yenmez.",
+    "Sapları yıkayın; dibinden başlayarak dıştaki ince, lifli kabuğu bıçakla tutup yukarı doğru çekerek soyun.",
+    "Soyulmuş sapı parmak uzunluğunda kesin; tuza batırarak çiğ yiyin ya da ince doğrayıp salataya katın.",
+    "Hemen yemeyecekseniz soyulmuş sapları nemli bir beze sarıp buzdolabında 1–2 gün saklayın."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "isgin__guneydogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "04-15",
+      "bit": "06-30",
+      "kaynak_adi": "Şahin A., Üşenti İ. 2023, Işgın (Rheum ribes) üzerine çalışma, J. Natural Life Medicine 5(2):66–73 (Dicle Üniv.) + Baycar A., Rheum ribes derlemesi, Türkiye Teknoloji ve Uygulamalı Bilimler Dergisi (Siirt Üniv.)",
+      "kaynak_link": "https://dergipark.org.tr/en/download/article-file/3393873",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Işgın Nisan ortasından Haziran sonuna kadar büyük şehir pazarlarına gelir; çoğu Hakkari ve Muş dağlarından toplanır."
+    },
+    {
+      "id": "isgin__21__pazar_yogun__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "21",
+      "donem_turu": "pazar_yogun",
+      "bas": "04-15",
+      "bit": "06-30",
+      "kaynak_adi": "Şahin A., Üşenti İ. 2023, Işgın (Rheum ribes) üzerine çalışma, J. Natural Life Medicine 5(2):66–73 (Dicle Üniv.) + Baycar A., Rheum ribes derlemesi, Türkiye Teknoloji ve Uygulamalı Bilimler Dergisi (Siirt Üniv.)",
+      "kaynak_link": "https://dergipark.org.tr/en/download/article-file/3393873",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "akademik",
+      "not": "Işgın Nisan ortasından Haziran sonuna kadar Diyarbakır pazarlarında satılır; Hakkari ve Muş dağlarından gelir."
+    }
+  ],
+  "secim_ipuclari": [
+    "Kalın, sert ve sulu sapları seçin; kırınca çıtırdayarak kırılmalı.",
+    "Sapın kesik ucu taze ve nemli olsun; kurumuş, yumuşamış ya da kararmış sapları almayın.",
+    "Çabuk pörsür; aldığınız gün ya da ertesi gün tüketin."
+  ],
+  "besin": [
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini açısından zengindir: 100 g'da 29,3 µg; günlük başvuru değerine oranı yaklaşık %39. (aynı cinsten ravent değeri)",
+      "kaynak_adi": "USDA FoodData Central — Rhubarb, raw (FDC ID 167758, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/167758/nutrients"
+    }
+  ],
+  "tarifler": [
+    "isgin_salatasi"
+  ]
+}

@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169236/nutrients",
   "az_bilinen": true,
   "bilinirlik": 4,
-  "siralama": 76,
+  "siralama": 93,
   "tanitim": "Yerelması, ayçiçeğinin akrabası bir bitkinin toprak altındaki yumrusudur; kabuğu soyulup ya da iyice fırçalanıp yenir. Patatese benzer ama daha tatlı ve hafif cevizimsi bir tadı vardır; çiğken çıtırdır.",
   "hazirlama_adimlari": [
     "Önce bir kaba su ve yarım limonun suyunu koyun; soyulan yumrular kararmasın diye buraya atılacak.",
@@ -65,6 +65,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Yerelması kasım ortasından mart sonuna kadar bulunur."
+    },
+    {
+      "id": "yerelmasi__ic_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "11-01",
+      "bit": "04-15",
+      "kaynak_adi": "Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026) + Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026)",
+      "kaynak_link": "https://www.konya.bel.tr/hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Yerelması Kasım'dan Nisan ortasına kadar bulunur."
     },
     {
       "id": "yerelmasi__karadeniz__pazar_yogun__1",

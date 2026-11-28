@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169986/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 37,
+  "siralama": 50,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Yapraklarını ve kalın sapını kesip çiçeklerine (küçük demetlere) ayırın.",
@@ -66,6 +66,19 @@
       "not": "Karnabahar Akdeniz'de aralıktan mart sonuna kadar tarladan gelir."
     },
     {
+      "id": "karnabahar__ic_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "11-01",
+      "bit": "03-31",
+      "kaynak_adi": "Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026) + Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026)",
+      "kaynak_link": "https://www.konya.bel.tr/hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Karnabahar Kasım'dan Mart sonuna kadar bol; kışın gelen ürün ılık bölgelerden."
+    },
+    {
       "id": "karnabahar__karadeniz__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "karadeniz",
@@ -77,6 +90,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Karnabahar Kasım'dan Nisan sonuna kadar bulunur."
+    },
+    {
+      "id": "karnabahar__guneydogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "11-01",
+      "bit": "03-31",
+      "kaynak_adi": "Gaziantep Büyükşehir Belediyesi hal rayiç fiyatları (47 tarih, Aralık 2024 – Kasım 2026) + Şanlıurfa Büyükşehir Belediyesi hal fiyatları (19 tarih, Mayıs 2025 ve Mart – Kasım 2026)",
+      "kaynak_link": "https://www.gaziantep.bel.tr/tr/hal-rayic",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Karnabahar Kasım'dan Mart sonuna kadar bol."
     }
   ],
   "secim_ipuclari": [

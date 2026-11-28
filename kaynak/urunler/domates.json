@@ -62,6 +62,19 @@
       "not": "Akdeniz kıyısında açık tarla domatesi haziranda gelmeye başlar ve don olmadığı için kasım sonuna kadar sürer; sera domatesi yıl boyu bulunur."
     },
     {
+      "id": "domates__ic_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "hasat",
+      "bas": "08-01",
+      "bit": "10-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Ayaş Domatesi (No 1236) + Türk Patent coğrafi işaret tescili: Koyulhisar Domatesi (No 653) + Atalay İ., Türkiye'de Vejetasyon Sürelerinin Dağılışı + Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026) + Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/6adef5f3-983e-4a7c-a1d0-f3b0d4d8fc6d.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "İç Anadolu tarla domatesi Ağustos başında gelir, ilk donlara kadar sürer; diğer aylarda gelen domates sera ya da güney ürünüdür."
+    },
+    {
       "id": "domates__karadeniz__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "karadeniz",
@@ -73,6 +86,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Karadeniz tarla domatesi Temmuz ortasında gelmeye başlar, Ekim sonuna kadar sürer; kışın gelen domates seradır."
+    },
+    {
+      "id": "domates__guneydogu_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "hasat",
+      "bas": "06-15",
+      "bit": "10-31",
+      "kaynak_adi": "Gaziantep Büyükşehir Belediyesi hal rayiç fiyatları (47 tarih, Aralık 2024 – Kasım 2026) + Şanlıurfa Büyükşehir Belediyesi hal fiyatları (19 tarih, Mayıs 2025 ve Mart – Kasım 2026) + Türk Patent coğrafi işaret tescili: Sof Domatesi (No 1512) + Türk Patent coğrafi işaret tescili: Kozluk Domatesi (No 1507)",
+      "kaynak_link": "https://www.gaziantep.bel.tr/tr/hal-rayic",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Güneydoğu tarla domatesi Haziran ortasından Ekim sonuna kadar bol; yüksek yerlerde (Sof, Kozluk) Ağustos sonundan güz sonuna kadar sürer."
     }
   ],
   "secim_ipuclari": [

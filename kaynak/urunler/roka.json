@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169387/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 40,
+  "siralama": 53,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Kalın sap uçlarını kesin, bol suda yıkayıp süzün."
@@ -64,6 +64,19 @@
       "not": "Roka Akdeniz'de ekimden nisan sonuna kadar tarladan bol gelir; yaz rokası azdır."
     },
     {
+      "id": "roka__ic_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "01-01",
+      "bit": "12-31",
+      "kaynak_adi": "Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026) + Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://www.ankara.bel.tr/hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Roka yıl boyu bulunur."
+    },
+    {
       "id": "roka__karadeniz__pazar_yogun__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "karadeniz",
@@ -75,6 +88,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Roka serin aylarda bol; yazın az bulunur."
+    },
+    {
+      "id": "roka__guneydogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "01-01",
+      "bit": "12-31",
+      "kaynak_adi": "Şanlıurfa Büyükşehir Belediyesi hal fiyatları (19 tarih, Mayıs 2025 ve Mart – Kasım 2026) + Gaziantep Büyükşehir Belediyesi hal rayiç fiyatları (47 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://halfiyatlari.sanliurfa.bel.tr/",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Roka yıl boyu bulunur."
     }
   ],
   "secim_ipuclari": [

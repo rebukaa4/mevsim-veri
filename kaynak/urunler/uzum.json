@@ -78,6 +78,19 @@
       "not": "Akdeniz'de açık bağ sofralık üzümü temmuz başında başlar ve eylül sonuna kadar sürer."
     },
     {
+      "id": "uzum__ic_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "hasat",
+      "bas": "08-01",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: İncesu Karaevrek Üzümü (No 198) + Türk Patent coğrafi işaret tescili: Karaman Ekşikara Üzümü (No 1274) + Türk Patent coğrafi işaret tescili: Kırıkkale Hasandede Üzümü (No 1901) + Türk Patent coğrafi işaret tescili: Nevşehir Parmak Üzümü (No 1680) + Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/198.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "İç Anadolu üzümü Ağustos'tan Ekim sonuna kadar toplanır; Kapadokya üzümü Eylül–Ekim'de gelir."
+    },
+    {
       "id": "uzum__karadeniz__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "karadeniz",
@@ -89,6 +102,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Üzüm Ağustos ortasından Ekim sonuna kadar bulunur; sofralık üzüm çoğunlukla iç kesimden gelir."
+    },
+    {
+      "id": "uzum__guneydogu_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "hasat",
+      "bas": "07-24",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Midyat Zeynebi Üzümü (No 1023) + Türk Patent coğrafi işaret tescili: Kilis Horoz Karası Üzümü (No 1632) + Türk Patent coğrafi işaret tescili: Adıyaman Besni Üzümü (No 357) + Türk Patent coğrafi işaret tescili: Gercüş Mezrune Üzümü (No 1499) + Gaziantep Büyükşehir Belediyesi hal rayiç fiyatları (47 tarih, Aralık 2024 – Kasım 2026) + Şanlıurfa Büyükşehir Belediyesi hal fiyatları (19 tarih, Mayıs 2025 ve Mart – Kasım 2026)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/6d6b6f41-cb35-4737-aad0-5b024a6268a7.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Güneydoğu üzümü Temmuz sonundan Ekim sonuna kadar toplanır; Midyat'ta erken, Gercüş'te geç gelir."
     }
   ],
   "secim_ipuclari": [

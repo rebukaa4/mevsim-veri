@@ -131,6 +131,32 @@
       "not": "Patates depodan yıl boyu bulunur."
     },
     {
+      "id": "patates__ic_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "hasat",
+      "bas": "08-01",
+      "bit": "10-31",
+      "kaynak_adi": "Yılmaz H., Demircan V., Erel G. 2006, Bazı Önemli Patates Üreticisi İllerde Patates Üretim Maliyeti ve Gelirinin Karşılaştırmalı Olarak İncelenmesi, SDÜ Ziraat Fak. Derg. 1(1):22–32 + Öztürk T. 2010, The Potato Storage in the Volcanic Tuff Storages in Turkey, GOÜ Ziraat Fak. Derg. 27(2):113–120",
+      "kaynak_link": "https://dergipark.org.tr/en/download/article-file/308840",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "akademik",
+      "not": "Niğde ve Nevşehir patatesi Ağustos'tan Ekim sonuna kadar sökülür."
+    },
+    {
+      "id": "patates__ic_anadolu__depo__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "depo",
+      "bas": "11-01",
+      "bit": "05-31",
+      "kaynak_adi": "Öztürk T. 2010, The Potato Storage in the Volcanic Tuff Storages in Turkey, GOÜ Ziraat Fak. Derg. 27(2):113–120 + Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026) + Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026)",
+      "kaynak_link": "https://dergipark.org.tr/tr/download/article-file/82221",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "akademik",
+      "not": "Kapadokya'nın kaya depolarındaki patates Mayıs sonuna kadar pazara gelir."
+    },
+    {
       "id": "patates__karadeniz__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "karadeniz",
@@ -155,6 +181,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Patates depodan ilkbahar sonuna kadar bulunur."
+    },
+    {
+      "id": "patates__guneydogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "01-01",
+      "bit": "12-31",
+      "kaynak_adi": "Gaziantep Büyükşehir Belediyesi hal rayiç fiyatları (47 tarih, Aralık 2024 – Kasım 2026) + Şanlıurfa Büyükşehir Belediyesi hal fiyatları (19 tarih, Mayıs 2025 ve Mart – Kasım 2026)",
+      "kaynak_link": "https://www.gaziantep.bel.tr/tr/hal-rayic",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Patates yıl boyu bulunur."
     }
   ],
   "secim_ipuclari": [

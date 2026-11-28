@@ -1,0 +1,85 @@
+{
+  "id": "araban_sarimsagi",
+  "ad": "Araban Sarımsağı",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Gaziantep Araban'ın iri, beyaz kabuklu, krem-sarı dişli erkenci sarımsağı; başında 10–15 diş olur. Mayısta sökülür.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "27",
+  "gorsel_id": "kuru_sarimsak",
+  "aktif": true,
+  "enerji_kcal_100g": 149,
+  "enerji_durum": "çiğ, yenebilir kısım (kuru sarımsak genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Garlic, raw (FDC ID 169230)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169230/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 45,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "araban_sarimsagi__27__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "27",
+      "donem_turu": "hasat",
+      "bas": "05-01",
+      "bit": "05-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Araban Sarımsağı (No 529)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/cd6681f6-b94a-4ed7-bec7-eaf80a6db7b4.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Araban sarımsağı Mayıs'ta sökülür ve erkenci olarak pazara çıkar."
+    },
+    {
+      "id": "araban_sarimsagi__27__depo__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "27",
+      "donem_turu": "depo",
+      "bas": "06-01",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Araban Sarımsağı (No 529)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/cd6681f6-b94a-4ed7-bec7-eaf80a6db7b4.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Araban sarımsağı depodan Ekim sonuna kadar bulunur."
+    }
+  ],
+  "secim_ipuclari": [
+    "Baş sert, dolgun ve ağır olsun.",
+    "Dişler birbirine sıkı yapışık olmalı, kabuk kuru ve sağlam olmalı.",
+    "Yeşil filiz vermiş, yumuşamış ya da küflü olanları almayın."
+  ],
+  "besin": [
+    {
+      "ad": "B6 vitamini",
+      "tur": "vitamin",
+      "aciklama": "B6 vitamini açısından zengindir (100 g'da 1,2 mg; günlük başvuru değerine oranı yaklaşık %89).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Garlic, raw (FDC ID 169230)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169230/nutrients"
+    },
+    {
+      "ad": "Manganez",
+      "tur": "mineral",
+      "aciklama": "Manganez açısından zengindir (100 g'da 1,7 mg; günlük başvuru değerine oranı yaklaşık %84).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Garlic, raw (FDC ID 169230)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169230/nutrients"
+    },
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir (100 g'da 31 mg; günlük başvuru değerine oranı yaklaşık %39).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Garlic, raw (FDC ID 169230)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169230/nutrients"
+    }
+  ],
+  "tarifler": [
+    "cacik",
+    "ispanak_borani",
+    "kozlenmis_patlican_salatasi"
+  ]
+}

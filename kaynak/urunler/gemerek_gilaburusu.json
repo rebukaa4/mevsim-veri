@@ -1,0 +1,54 @@
+{
+  "id": "gemerek_gilaburusu",
+  "ad": "Gemerek Gilaburusu",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Sivas Gemerek'in etli, sulu, ince kabuklu ve iri taneli gilaburusu; bahçelerde ve dere kenarlarında yetişir, eylül–kasımda toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "58",
+  "gorsel_id": "gilaburu",
+  "aktif": true,
+  "enerji_kcal_100g": null,
+  "enerji_durum": null,
+  "enerji_kaynak_adi": null,
+  "enerji_kaynak_link": null,
+  "az_bilinen": true,
+  "bilinirlik": 4,
+  "siralama": 122,
+  "tanitim": "Sivas Gemerek'in etli, sulu, ince kabuklu ve iri taneli gilaburusu; bahçelerde ve dere kenarlarında yetişir, eylül–kasımda toplanır. Çiğ tadı çok acı ve ekşidir; yörede kavanozlarda suya basılıp haftalarca bekletilir, sonra suyu şekerle tatlandırılarak içilir. Hazırlanışı genel gilaburu sayfasındaki adımlarla aynıdır.",
+  "hazirlama_adimlari": [
+    "Salkımları saplarından ayırmadan ayıklayın; ezik, kararmış ve yapraklı kısımları atın.",
+    "Bol soğuk suda birkaç kez yıkayıp süzün.",
+    "Temiz bir cam kavanoza doldurun, üzerini kaynatılıp soğutulmuş suyla tamamen kapatın; ağzını kapatıp serin ve karanlık bir yerde bekletin.",
+    "Yörede gilaburu en az birkaç hafta, çoğu zaman kış boyunca suda bekletilir; meyve yumuşar, acılığı azalır ve su kırmızılaşır.",
+    "İçmeden önce kavanozdaki meyveleri tahta kaşıkla ezip süzün; suyu tadına göre şekerle tatlandırın. Çekirdekler yenmez."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "gemerek_gilaburusu__58__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "58",
+      "donem_turu": "hasat",
+      "bas": "09-01",
+      "bit": "11-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Gemerek Gilaburusu (No 241)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/241.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Gemerek gilaburusu Eylül'den Kasım sonuna kadar toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Taneleri parlak kırmızı, dolgun ve sıkı olan salkımları seçin; buruşmuş ya da kararmış taneler bekledi demektir.",
+    "Hafif bir don görmüş gilaburu daha yumuşak ve daha az acıdır; yörede bu yüzden ekim–kasımda toplananı tercih edilir.",
+    "Ezilmiş, suyu akmış ya da küf kokan salkımları almayın; suya basılacak meyvenin sağlam olması gerekir."
+  ],
+  "besin": [],
+  "tarifler": [
+    "gilaburu_serbeti"
+  ]
+}

@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170379/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 43,
+  "siralama": 56,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Çiçeklerini sapından ayırın; kalın sapın kabuğunu soyup onu da doğrayabilirsiniz.",
@@ -64,6 +64,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Brokoli Akdeniz'de kasım ortasından mart ortasına kadar tarladan gelir."
+    },
+    {
+      "id": "brokoli__ic_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "11-15",
+      "bit": "03-15",
+      "kaynak_adi": "Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://www.konya.bel.tr/hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Brokoli Kasım ortasından Mart ortasına kadar bol."
     },
     {
       "id": "brokoli__karadeniz__hasat__1",

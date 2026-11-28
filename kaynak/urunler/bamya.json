@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169260/nutrients",
   "az_bilinen": true,
   "bilinirlik": 3,
-  "siralama": 61,
+  "siralama": 74,
   "tanitim": "Bamya, köşeli kabukları içindeki küçük tohumlarla birlikte bütün olarak yenen bir sebzedir. Pişince yumuşar ve hafif kaygan bir dokusu olur; limon ya da domatesle ekşili pişirilince tadı açılır.",
   "hazirlama_adimlari": [
     "Bamyaları yıkamadan önce sap kısmındaki külahı, sivri bir bıçakla kalem açar gibi çevirerek inceltin; içini açmayın, yoksa salyası çıkar.",
@@ -67,6 +67,19 @@
       "not": "Bamya Akdeniz'de hazirandan ekim sonuna kadar tezgâhtadır."
     },
     {
+      "id": "bamya__ic_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "07-01",
+      "bit": "09-30",
+      "kaynak_adi": "Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026) + Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026)",
+      "kaynak_link": "https://www.konya.bel.tr/hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Bamya Temmuz–Eylül arasında pazarda bol; çoğu Amasya, Ege ve Akdeniz'den gelir."
+    },
+    {
       "id": "bamya__karadeniz__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "karadeniz",
@@ -78,6 +91,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Bamya Temmuz–Eylül arasında bulunur; en çok Amasya ve Tokat tarafından gelir."
+    },
+    {
+      "id": "bamya__guneydogu_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "hasat",
+      "bas": "06-01",
+      "bit": "10-15",
+      "kaynak_adi": "Gaziantep Büyükşehir Belediyesi hal rayiç fiyatları (47 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://www.gaziantep.bel.tr/tr/hal-rayic",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Bamya Haziran'dan Ekim ortasına kadar bol."
     }
   ],
   "secim_ipuclari": [

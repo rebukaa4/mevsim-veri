@@ -1,0 +1,60 @@
+{
+  "id": "eregli_beyaz_kirazi",
+  "ad": "Ereğli Beyaz Kirazı",
+  "diger_adlar": [
+    "sarı kiraz"
+  ],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Konya Ereğli'nin 1902'den beri yetiştirilen, kehribar sarısı renkli, açık sarı ve sert etli 'beyaz' kirazı (Starks Gold); suyu renksizdir. Haziran sonundan temmuz ortasına kadar toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "42",
+  "gorsel_id": "eregli_beyaz_kirazi",
+  "aktif": true,
+  "enerji_kcal_100g": 63,
+  "enerji_durum": "çiğ, çekirdeksiz yenebilir kısım (kiraz genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Cherries, sweet, raw (FDC ID 171719, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/171719/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 66,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "eregli_beyaz_kirazi__42__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "42",
+      "donem_turu": "hasat",
+      "bas": "06-20",
+      "bit": "07-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Ereğli Beyaz Kirazı (No 406)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/406.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Ereğli beyaz kirazı 20 Haziran – 15 Temmuz arasında toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Sapı yeşil ve esnek olsun; kahverengileşmiş, kurumuş sap kirazın bekletildiğini gösterir.",
+    "Taneler sert, parlak ve dolgun olmalı; yumuşamış ya da buruşmuş tane almayın.",
+    "Çatlak taneler çabuk ekşir; kasada çatlak çoksa başka tezgâha bakın.",
+    "Koyu kırmızı renk genelde daha tatlı ve olgun demektir."
+  ],
+  "besin": [
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum içerir: 100 g'da 222 mg; günlük başvuru değerine oranı yaklaşık %11.",
+      "kaynak_adi": "USDA FoodData Central — Cherries, sweet, raw (FDC ID 171719, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/171719/nutrients"
+    }
+  ],
+  "tarifler": [
+    "kiraz_kompostosu",
+    "kiraz_receli"
+  ]
+}

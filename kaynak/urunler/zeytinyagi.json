@@ -60,6 +60,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "resmi",
       "not": "Akdeniz'de yeni hasat zeytinyağı ekimden ocak sonuna kadar sıkılır."
+    },
+    {
+      "id": "zeytinyagi__guneydogu_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "hasat",
+      "bas": "10-01",
+      "bit": "02-07",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Nizip Zeytinyağı (No 158) + Türk Patent coğrafi işaret tescili: Derik Halhalı Zeytinyağı (No 1249)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/85cd4c5b-1016-4e4b-8f47-01908c688089.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Yeni hasat zeytinyağı Ekim'den Şubat başına kadar sıkılır."
     }
   ],
   "secim_ipuclari": [

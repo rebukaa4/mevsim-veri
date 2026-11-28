@@ -1,5 +1,14 @@
 [
   {
+    "id": "acur",
+    "kaynak_adi": "Wikimedia Commons: Cucumis melo flexuosus.jpg",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Cucumis_melo_flexuosus.jpg",
+    "yazar": "Katpatuka",
+    "lisans": "Public domain",
+    "lisans_link": null,
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge. Bıçak maskeden çıkarıldı."
+  },
+  {
     "id": "ahtapot",
     "kaynak_adi": "Wikimedia Commons: Fish4546 - Flickr - NOAA Photo Library.jpg",
     "kaynak_link": "https://commons.wikimedia.org/wiki/File:Fish4546_-_Flickr_-_NOAA_Photo_Library.jpg",
@@ -34,6 +43,15 @@
     "lisans": "Public domain",
     "lisans_link": null,
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
+    "id": "antep_fistigi",
+    "kaynak_adi": "Wikimedia Commons: Pistachios (39799740255).jpg",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Pistachios_(39799740255).jpg",
+    "yazar": "Theo Crazzolara",
+    "lisans": "CC BY 2.0",
+    "lisans_link": "https://creativecommons.org/licenses/by/2.0/",
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge. Önce netlikteki fıstıklar kırpıldı."
   },
   {
     "id": "arapsaci",
@@ -360,6 +378,15 @@
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {
+    "id": "eregli_beyaz_kirazi",
+    "kaynak_adi": "Wikimedia Commons: Rainier cherries.jpg",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Rainier_cherries.jpg",
+    "yazar": "dnak",
+    "lisans": "CC BY 2.0",
+    "lisans_link": "https://creativecommons.org/licenses/by/2.0/",
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
     "id": "erik",
     "kaynak_adi": "Wikimedia Commons: Red-Plums.jpg",
     "kaynak_link": "https://commons.wikimedia.org/wiki/File:Red-Plums.jpg",
@@ -384,6 +411,15 @@
     "yazar": "Gphoto",
     "lisans": "CC BY-SA 3.0",
     "lisans_link": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
+    "id": "gilaburu",
+    "kaynak_adi": "Wikimedia Commons: Viburnum opulus 2011 G1.jpg",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Viburnum_opulus_2011_G1.jpg",
+    "yazar": "George Chernilevsky",
+    "lisans": "Public domain",
+    "lisans_link": null,
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {
@@ -441,12 +477,30 @@
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {
+    "id": "isgin",
+    "kaynak_adi": "Wikimedia Commons: Rheum ribes - Işgın 04.jpg",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Rheum_ribes_-_I%C5%9Fg%C4%B1n_04.jpg",
+    "yazar": "Zeynel Cebeci",
+    "lisans": "CC BY-SA 4.0",
+    "lisans_link": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
     "id": "isirgan",
     "kaynak_adi": "Wikimedia Commons: 2020 year. Herbarium. Urtica dioica. img-001.jpg",
     "kaynak_link": "https://commons.wikimedia.org/wiki/File:2020_year._Herbarium._Urtica_dioica._img-001.jpg",
     "yazar": "Dmitry Makeev",
     "lisans": "CC BY-SA 4.0",
     "lisans_link": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
+    "id": "isot_biberi",
+    "kaynak_adi": "Wikimedia Commons: Large Cayenne.jpg",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Large_Cayenne.jpg",
+    "yazar": "André Karwath aka Aka",
+    "lisans": "CC BY-SA 2.5",
+    "lisans_link": "https://creativecommons.org/licenses/by-sa/2.5/",
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {
@@ -474,6 +528,15 @@
     "yazar": "Luisa Metral, Isabelle Cheret",
     "lisans": "CC BY 4.0",
     "lisans_link": "https://creativecommons.org/licenses/by/4.0/",
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
+    "id": "kahta_bademi",
+    "kaynak_adi": "Wikimedia Commons: Almonds - in shell, shell cracked open, shelled, blanched.jpg",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Almonds_-_in_shell,_shell_cracked_open,_shelled,_blanched.jpg",
+    "yazar": "Ivar Leidus",
+    "lisans": "CC BY-SA 4.0",
+    "lisans_link": "https://creativecommons.org/licenses/by-sa/4.0/",
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {
@@ -618,6 +681,24 @@
     "yazar": "ABD Gıda ve İlaç Dairesi (FDA)",
     "lisans": "Public domain",
     "lisans_link": null,
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
+    "id": "keme",
+    "kaynak_adi": "iNaturalist: iNaturalist foto 15848201 (gözlem 11185490, Terfezia arenaria)",
+    "kaynak_link": "https://www.inaturalist.org/photos/15848201",
+    "yazar": "Davide Puddu",
+    "lisans": "CC BY 4.0",
+    "lisans_link": "https://creativecommons.org/licenses/by/4.0/",
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
+    "id": "kenger",
+    "kaynak_adi": "iNaturalist: iNaturalist foto 459045742 (gözlem 256079012, Gundelia tournefortii)",
+    "kaynak_link": "https://www.inaturalist.org/photos/459045742",
+    "yazar": "Nachman bones",
+    "lisans": "CC BY 4.0",
+    "lisans_link": "https://creativecommons.org/licenses/by/4.0/",
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {
@@ -936,6 +1017,15 @@
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {
+    "id": "nizip_mizar_havucu",
+    "kaynak_adi": "Wikimedia Commons: Yellow Carrots (3914473107).jpg",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Yellow_Carrots_(3914473107).jpg",
+    "yazar": "Peretz Partensky from San Francisco, USA",
+    "lisans": "CC BY-SA 2.0",
+    "lisans_link": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
     "id": "palamut",
     "kaynak_adi": "Wikimedia Commons: Poisson, Sayada, 25 mars 2017 (01).jpg",
     "kaynak_link": "https://commons.wikimedia.org/wiki/File:Poisson,_Sayada,_25_mars_2017_(01).jpg",
@@ -1248,6 +1338,15 @@
     "yazar": "fotokoci",
     "lisans": "CC0",
     "lisans_link": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
+    "id": "yamula_patlicani",
+    "kaynak_adi": "Wikimedia Commons: Stripedeggplant.jpg",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Stripedeggplant.jpg",
+    "yazar": "Teke",
+    "lisans": "CC BY-SA 3.0",
+    "lisans_link": "http://www.gnu.org/copyleft/fdl.html/",
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {

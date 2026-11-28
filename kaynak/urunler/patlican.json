@@ -66,6 +66,19 @@
       "not": "Akdeniz kıyısında tarla patlıcanı hazirandan kasım sonuna kadar bol bulunur; kışın gelen patlıcan seradandır."
     },
     {
+      "id": "patlican__ic_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "hasat",
+      "bas": "07-25",
+      "bit": "10-07",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Yamula Patlıcanı (No 138) + Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026) + Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/0e94adf1-781b-436a-ba37-53cab53f11b2.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Yerel tarla patlıcanı Temmuz sonundan Ekim'in ilk haftasına kadar bol; kışın gelen patlıcan seradır."
+    },
+    {
       "id": "patlican__karadeniz__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "karadeniz",
@@ -77,6 +90,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Karadeniz tarla patlıcanı Temmuz ortasından Ekim ortasına kadar bulunur."
+    },
+    {
+      "id": "patlican__guneydogu_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "hasat",
+      "bas": "06-01",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Nizip Patlıcanı (No 595) + Türk Patent coğrafi işaret tescili: Birecik Patlıcanı (No 217) + Türk Patent coğrafi işaret tescili: Antep Kuruluk Patlıcanı (Gaziantep Kuru Patlıcanı) (No 376) + Gaziantep Büyükşehir Belediyesi hal rayiç fiyatları (47 tarih, Aralık 2024 – Kasım 2026) + Şanlıurfa Büyükşehir Belediyesi hal fiyatları (19 tarih, Mayıs 2025 ve Mart – Kasım 2026)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/9773086e-416f-4460-9dad-3ba4ca871bd5.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Yerel tarla patlıcanı Haziran başından Ekim sonuna kadar bol; Ağustos–Eylül kurutmalık patlıcan zamanıdır."
     }
   ],
   "secim_ipuclari": [

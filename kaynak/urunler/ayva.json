@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/168163/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 69,
+  "siralama": 90,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Kabuğundaki tüyleri ılık su altında bir bezle ovarak temizleyin.",
@@ -78,6 +78,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Ayva eylül ortasından şubat sonuna kadar, kışın depodan bulunur."
+    },
+    {
+      "id": "ayva__ic_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "10-01",
+      "bit": "03-31",
+      "kaynak_adi": "Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026) + Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://www.ankara.bel.tr/hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Ayva Ekim'den Mart sonuna kadar bol."
     },
     {
       "id": "ayva__karadeniz__pazar_yogun__1",

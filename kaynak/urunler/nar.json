@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169134/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 66,
+  "siralama": 87,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Narın tepesindeki taç kısmını bıçakla daire şeklinde kesip çıkarın.",
@@ -93,6 +93,19 @@
       "not": "Nar depodan mart sonuna kadar bulunur."
     },
     {
+      "id": "nar__ic_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "10-01",
+      "bit": "01-31",
+      "kaynak_adi": "Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026) + Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://www.ankara.bel.tr/hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Nar Ekim–Ocak arasında bol; güney bölgelerden gelir."
+    },
+    {
       "id": "nar__karadeniz__pazar_yogun__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "karadeniz",
@@ -104,6 +117,32 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Nar Ekim–Ocak arasında bol; güney bölgelerden gelir."
+    },
+    {
+      "id": "nar__guneydogu_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "hasat",
+      "bas": "08-24",
+      "bit": "11-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Suruç Narı (No 812) + Türk Patent coğrafi işaret tescili: Kahta Narı (No 699) + Türk Patent coğrafi işaret tescili: Zivzik Narı (No 1861) + Türk Patent coğrafi işaret tescili: Gaziantep Oğuzeli Narı /Antep Oğuzeli Narı (No 448) + Gaziantep Büyükşehir Belediyesi hal rayiç fiyatları (47 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/776f449f-e5ba-436f-8bdb-458a902256ad.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Güneydoğu narı Ağustos sonundan Kasım ortasına kadar toplanır."
+    },
+    {
+      "id": "nar__guneydogu_anadolu__depo__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "depo",
+      "bas": "11-16",
+      "bit": "03-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Kahta Narı (No 699) + Türk Patent coğrafi işaret tescili: Suruç Narı (No 812) + Gaziantep Büyükşehir Belediyesi hal rayiç fiyatları (47 tarih, Aralık 2024 – Kasım 2026)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/ada91d1b-beeb-4698-9757-52869530f60f.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Yerli nar depodan Mart sonuna kadar bulunur."
     }
   ],
   "secim_ipuclari": [

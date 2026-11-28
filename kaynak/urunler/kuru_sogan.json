@@ -88,6 +88,32 @@
       "not": "Kuru soğan depodan yıl boyu bulunur."
     },
     {
+      "id": "kuru_sogan__ic_anadolu__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "hasat",
+      "bas": "08-01",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Polatlı Soğanı (No 725) + Türk Patent coğrafi işaret tescili: Kırıkkale Kılıçlar Soğanı (No 365)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/271e4cc0-071b-4a64-baf5-9c5fd199f0cd.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Polatlı ve Kırıkkale soğanı Ağustos başından Ekim sonuna kadar sökülür."
+    },
+    {
+      "id": "kuru_sogan__ic_anadolu__depo__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "depo",
+      "bas": "11-01",
+      "bit": "04-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Polatlı Soğanı (No 725) + Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026) + Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/271e4cc0-071b-4a64-baf5-9c5fd199f0cd.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Yerli soğan depodan Nisan sonuna kadar bulunur."
+    },
+    {
       "id": "kuru_sogan__karadeniz__hasat__1",
       "kapsam_turu": "bolge",
       "kapsam_id": "karadeniz",
@@ -112,6 +138,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "resmi",
       "not": "Hasattan sonra depodan Mart sonuna kadar yerli soğan bulunur."
+    },
+    {
+      "id": "kuru_sogan__guneydogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "01-01",
+      "bit": "12-31",
+      "kaynak_adi": "Gaziantep Büyükşehir Belediyesi hal rayiç fiyatları (47 tarih, Aralık 2024 – Kasım 2026) + Şanlıurfa Büyükşehir Belediyesi hal fiyatları (19 tarih, Mayıs 2025 ve Mart – Kasım 2026)",
+      "kaynak_link": "https://www.gaziantep.bel.tr/tr/hal-rayic",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kuru soğan yıl boyu bulunur; yeni hasat Mayıs'ta gelir."
     }
   ],
   "secim_ipuclari": [

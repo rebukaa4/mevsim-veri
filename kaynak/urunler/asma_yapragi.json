@@ -19,7 +19,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/168575/nutrients",
   "az_bilinen": true,
   "bilinirlik": 3,
-  "siralama": 67,
+  "siralama": 80,
   "tanitim": "Asma yaprağı, üzüm bağlarından mayıs ve haziranda, yapraklar henüz genç, ince ve yumuşakken toplanır. Taze yaprak kısa süre haşlanıp hemen sarma yapılır; yıl boyu kullanmak için de tuzlu suda (salamura) saklanır. Yaz ilerledikçe yaprak kalınlaşır, sertleşir ve sarmaya uygun olmaz.",
   "hazirlama_adimlari": [
     "Yaprakları bol suda tek tek yıkayın, saplarını makasla kesin.",
@@ -43,6 +43,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Taze asma yaprağı Mayıs–Haziran'da toplanır."
+    },
+    {
+      "id": "asma_yapragi__ic_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "ic_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "05-15",
+      "bit": "07-15",
+      "kaynak_adi": "Konya Büyükşehir Belediyesi hal fiyatları (48 tarih, Aralık 2024 – Kasım 2026) + Ankara Büyükşehir Belediyesi hal fiyatları (12 tarih, Aralık 2025 – Kasım 2026)",
+      "kaynak_link": "https://www.konya.bel.tr/hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Taze asma yaprağı Mayıs ortasından Temmuz ortasına kadar bulunur."
     },
     {
       "id": "asma_yapragi__karadeniz__hasat__1",
@@ -69,6 +82,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "resmi",
       "not": "Tokat'ta narince asma yaprağı Mayıs ortasından Ağustos başına kadar toplanır."
+    },
+    {
+      "id": "asma_yapragi__guneydogu_anadolu__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "guneydogu_anadolu",
+      "donem_turu": "pazar_yogun",
+      "bas": "05-15",
+      "bit": "07-31",
+      "kaynak_adi": "Gaziantep Büyükşehir Belediyesi hal rayiç fiyatları (47 tarih, Aralık 2024 – Kasım 2026) + Şanlıurfa Büyükşehir Belediyesi hal fiyatları (19 tarih, Mayıs 2025 ve Mart – Kasım 2026)",
+      "kaynak_link": "https://www.gaziantep.bel.tr/tr/hal-rayic",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Taze asma yaprağı Mayıs ortasından Temmuz sonuna kadar bulunur."
     }
   ],
   "secim_ipuclari": [
