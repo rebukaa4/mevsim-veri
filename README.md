@@ -21,6 +21,7 @@ Bu depo, "Mevsim" mobil uygulamasının indirdiği veri dosyasını üretir.
   Günlük durumu ayrı `durum` dalında tutar (main ve veri sürümü değişmez).
 - `testler/` — derleyici testleri (kendi örnek kayıtlarıyla, `testler/ornek_kaynak/`) (`python -m unittest discover -s testler`)
 - Yayın adresi: `https://rebukaa4.github.io/mevsim-veri/v1/surum.json` ve `.../v1/mevsim_veri.json`
+- `sayfalar/` — Pages kök dizinine kopyalanan sabit sayfalar (ör. gizlilik politikası: `https://rebukaa4.github.io/mevsim-veri/gizlilik.html`)
 
 Her değişiklik bir Pull Request ile önerilir ve onaylanmadan yayınlanmaz.
 
