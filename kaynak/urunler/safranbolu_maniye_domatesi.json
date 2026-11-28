@@ -1,0 +1,61 @@
+{
+  "id": "safranbolu_maniye_domatesi",
+  "ad": "Safranbolu Maniye Domatesi",
+  "diger_adlar": [
+    "Safranbolu maniyesi"
+  ],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Karabük'ün açık tarlada yetişen yerel Maniye domatesi: ince kabuklu, etli ve dolgun; çabuk bozulduğu için taze yenir.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "78",
+  "gorsel_id": "domates",
+  "aktif": true,
+  "enerji_kcal_100g": 18,
+  "enerji_durum": "çiğ, yenebilir kısım (domates genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Tomatoes, red, ripe, raw, year round average (FDC ID 170457)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170457/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 33,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "safranbolu_maniye_domatesi__78__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "78",
+      "donem_turu": "hasat",
+      "bas": "07-01",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Safranbolu Maniye Domatesi (No 1195)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/239a309a-e0b1-472d-9372-5efd7e4324ab.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Maniye domatesi Temmuz başından Ekim'e kadar toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Kabuğu parlak, rengi baştan sona eşit kırmızı olsun; yeşil omuzlu olanlar henüz tam olgun değildir.",
+    "Avucunuzda hafifçe sıkın: dolgun ama hafif esneyen domates olgundur, çok yumuşak olan ezilmiştir.",
+    "Sap kısmını koklayın; tarla domatesinde belirgin, hoş bir domates kokusu olur.",
+    "Çatlak, çökük ya da sulanmış lekesi olanları almayın."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini kaynağıdır (100 g'da 14 mg; günlük başvuru değerine oranı yaklaşık %17).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Tomatoes, red, ripe, raw, year round average (FDC ID 170457)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170457/nutrients"
+    }
+  ],
+  "tarifler": [
+    "coban_salatasi",
+    "menemen",
+    "zeytinyagli_taze_fasulye"
+  ]
+}

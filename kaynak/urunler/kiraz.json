@@ -73,6 +73,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Akdeniz bölgesinin kirazı yayla ve göller yöresinden gelir; haziran ve temmuzda bol bulunur."
+    },
+    {
+      "id": "kiraz__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "06-01",
+      "bit": "07-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Amasya Kirazı (No 1166)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/8fdab783-0074-4cb1-9761-a50ad791d879.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kiraz Haziran'dan Temmuz sonuna kadar; yüksek yerlerde Ağustos'a sarkar."
     }
   ],
   "secim_ipuclari": [

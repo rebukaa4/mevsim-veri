@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/168407/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 44,
+  "siralama": 49,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Kök kısmını kesin, bol suda yıkayın.",
@@ -63,6 +63,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Tere Akdeniz'de ekimden nisan sonuna kadar bulunur."
+    },
+    {
+      "id": "tere__karadeniz__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "10-01",
+      "bit": "04-30",
+      "kaynak_adi": "Mevsim, Marmara ürün tablosu (docs/08_marmara_urun_tablosu.md) ve oradaki İBB hal tonajları + Karaer F., Töngel Ö. 2015, Samsun'da Yetişen Yenebilir Yabani Otlar ve Meyveler Rehberi (OKA)",
+      "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Tere Ekim–Nisan arasında bol."
     }
   ],
   "secim_ipuclari": [

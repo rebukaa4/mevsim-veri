@@ -1,0 +1,72 @@
+{
+  "id": "amasya_misket_elmasi",
+  "ad": "Amasya Misket Elması",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Amasya'nın geç toplanan, kokulu misket elması: güneş gören yüzü kızarır, gölgede kalan yüzü yeşil kalır; serin depoda bahara kadar dayanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "05",
+  "gorsel_id": "elma",
+  "aktif": true,
+  "enerji_kcal_100g": 52,
+  "enerji_durum": "çiğ, kabuğuyla (elma genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Apples, raw, with skin (Includes foods for USDA's Food Distribution Program) (FDC ID 171688, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/171688/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 57,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "amasya_misket_elmasi__05__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "05",
+      "donem_turu": "hasat",
+      "bas": "09-16",
+      "bit": "10-10",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Amasya Misket Elması (No 424)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/f10a99e2-92de-4318-a88e-20fb45252ca2.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Amasya misket elması Eylül'ün ikinci yarısında ya da Ekim başında toplanır."
+    },
+    {
+      "id": "amasya_misket_elmasi__05__depo__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "05",
+      "donem_turu": "depo",
+      "bas": "10-11",
+      "bit": "04-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Amasya Misket Elması (No 424)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/f10a99e2-92de-4318-a88e-20fb45252ca2.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Amasya misket elması bahara kadar dayanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Sert ve diri olsun; bastırınca iz kalıyorsa unlu (pamuk gibi) olabilir.",
+    "Kabuğu parlak ve gergin olmalı; buruşmuş kabuk uzun depolama işaretidir.",
+    "Ezik, kararmış ya da delikli (kurtlu) elma almayın.",
+    "Sap çukurunda hoş bir elma kokusu olmalı."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini içerir: 100 g'da 4,6 mg; günlük başvuru değerine oranı yaklaşık %5.",
+      "kaynak_adi": "USDA FoodData Central — Apples, raw, with skin (Includes foods for USDA's Food Distribution Program) (FDC ID 171688, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/171688/nutrients"
+    }
+  ],
+  "tarifler": [
+    "meyve_salatasi",
+    "firin_elma",
+    "elmali_kek"
+  ]
+}

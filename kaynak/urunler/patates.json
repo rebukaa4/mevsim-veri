@@ -129,6 +129,32 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Patates depodan yıl boyu bulunur."
+    },
+    {
+      "id": "patates__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "08-15",
+      "bit": "10-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Bolu Sarı Patatesi (No 589)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/2776ca7d-977a-4797-b26b-bdf0f7d6f701.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Karadeniz'in yayla patatesi Ağustos ortasından Ekim ortasına kadar sökülür."
+    },
+    {
+      "id": "patates__karadeniz__depo__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "depo",
+      "bas": "10-16",
+      "bit": "05-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Bolu Sarı Patatesi (No 589)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/2776ca7d-977a-4797-b26b-bdf0f7d6f701.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Patates depodan ilkbahar sonuna kadar bulunur."
     }
   ],
   "secim_ipuclari": [

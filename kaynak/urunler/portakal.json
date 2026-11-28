@@ -60,6 +60,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "resmi",
       "not": "Akdeniz portakalı kasımda başlar ve mart sonuna kadar dalından taze gelir."
+    },
+    {
+      "id": "portakal__karadeniz__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "12-01",
+      "bit": "03-31",
+      "kaynak_adi": "Mevsim, Marmara ürün tablosu (docs/08_marmara_urun_tablosu.md) ve oradaki İBB hal tonajları + Mevsim, Akdeniz ürün tablosu (docs/08_akdeniz_urun_tablosu.md)",
+      "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Portakal Aralık–Mart arasında bol; güneyden gelir."
     }
   ],
   "secim_ipuclari": [

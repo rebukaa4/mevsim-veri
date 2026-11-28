@@ -1,0 +1,72 @@
+{
+  "id": "likapa",
+  "ad": "Likapa (yaban mersini)",
+  "diger_adlar": [
+    "maviyemiş",
+    "ayı üzümü",
+    "çay üzümü"
+  ],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Doğu Karadeniz yaylalarında çalılarda yetişen, mavimsi-siyah, bezelye iriliğinde yaban mersini; yaz ortasından eylüle kadar toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "likapa",
+  "aktif": true,
+  "enerji_kcal_100g": 57,
+  "enerji_durum": "çiğ (USDA'daki kültür yaban mersini kaydı; likapa aynı cinsten yabani bir türdür)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Blueberries, raw (FDC ID 171711, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/171711/nutrients",
+  "az_bilinen": true,
+  "bilinirlik": 4,
+  "siralama": 91,
+  "tanitim": "Likapa, Doğu Karadeniz'in yayla ve orman açıklıklarında yetişen Kafkas yaban mersinidir (Vaccinium arctostaphylos). Yörede ayı üzümü, çay üzümü ya da maviyemiş de denir. Meyveleri bezelye iriliğinde, mavimsi-siyah ve üstü hafif buğuludur; tadı tatlı-mayhoştur. Yaz ortasında olgunlaşır, eylül ortasına kadar toplanır. Taze yenir, reçeli yapılır, yoğurda ve hamur işlerine katılır. Markette satılan iri kültür yaban mersininden daha küçük ve daha koyu renklidir.",
+  "hazirlama_adimlari": [
+    "Yaprak, sap ve olgunlaşmamış taneleri ayıklayın.",
+    "Yemeden hemen önce soğuk suda kısa yıkayın; önceden yıkarsanız çabuk yumuşar.",
+    "Taze yiyin ya da yoğurda, kahvaltıya ekleyin.",
+    "Fazlasını tepsiye tek kat serip dondurun, sonra poşete alın; kışın reçel ve kekte kullanılır."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "likapa__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "07-01",
+      "bit": "09-15",
+      "kaynak_adi": "Karaer F., Töngel Ö. 2015, Samsun'da Yetişen Yenebilir Yabani Otlar ve Meyveler Rehberi (OKA)",
+      "kaynak_link": "https://oka.gov.tr/assets/upload/dosyalar/162samsun_ot_yemekleri_rehber.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Likapa (yaban mersini) yaylalarda yaz başından Eylül ortasına kadar toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Koyu mavi-siyah, dolgun ve üzeri buğulu (beyazımsı) taneleri seçin; buğu tazeliği gösterir.",
+    "Kırmızı ya da yeşilimsi taneler olgunlaşmamıştır; ekşidir.",
+    "Kabın dibine bakın: ezilmiş, sulanmış ya da küflenmiş tane varsa almayın."
+  ],
+  "besin": [
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini kaynağıdır: 100 g'da 19,3 µg; günlük başvuru değerine oranı yaklaşık %26.",
+      "kaynak_adi": "USDA FoodData Central — Blueberries, raw (FDC ID 171711, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/171711/nutrients"
+    },
+    {
+      "ad": "Manganez",
+      "tur": "mineral",
+      "aciklama": "Manganez kaynağıdır: 100 g'da 0,34 mg; günlük başvuru değerine oranı yaklaşık %17.",
+      "kaynak_adi": "USDA FoodData Central — Blueberries, raw (FDC ID 171711, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/171711/nutrients"
+    }
+  ],
+  "tarifler": [
+    "meyveli_yogurt_kasesi"
+  ]
+}

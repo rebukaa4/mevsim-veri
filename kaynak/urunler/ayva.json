@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/168163/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 61,
+  "siralama": 69,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Kabuğundaki tüyleri ılık su altında bir bezle ovarak temizleyin.",
@@ -78,6 +78,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Ayva eylül ortasından şubat sonuna kadar, kışın depodan bulunur."
+    },
+    {
+      "id": "ayva__karadeniz__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "10-01",
+      "bit": "01-31",
+      "kaynak_adi": "Mevsim, Marmara ürün tablosu (docs/08_marmara_urun_tablosu.md) ve oradaki İBB hal tonajları",
+      "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Ayva Ekim–Ocak arasında bol."
     }
   ],
   "secim_ipuclari": [

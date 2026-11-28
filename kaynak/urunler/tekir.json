@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://www.alimentinutrizione.it/tabelle-nutrizionali/123900",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 17,
+  "siralama": 18,
   "tanitim": "Barbunyaya çok benzer ve aynı şekilde pişirilir; tezgâhta ikisi sık karıştırılır.",
   "hazirlama_adimlari": [
     "İsterseniz temizliği balıkçıya yaptırabilirsiniz; evde yapacaksanız mutfak lavabosunda, soğuk suyla çalışın.",
@@ -67,6 +67,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Tekir Akdeniz'de eylül ortasından nisan ortasına kadar bol avlanır."
+    },
+    {
+      "id": "tekir__karadeniz__av__1",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "av",
+      "bas": "09-01",
+      "bit": "04-14",
+      "kaynak_adi": "6/1 Numaralı Tebliğ (2024/20), RG 11.08.2024 + Samsun kıyısı balıkçılığı derlemesi 2024 (asgari boylar, kalkan avının ay dağılımı; Dergipark)",
+      "kaynak_link": "https://resmigazete.gov.tr/eskiler/2024/08/20240811-3.htm",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Tekir barbunyayla birlikte Eylül – Nisan ortası arasında avlanır."
     }
   ],
   "secim_ipuclari": [

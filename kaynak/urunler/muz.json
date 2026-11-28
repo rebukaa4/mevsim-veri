@@ -60,6 +60,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "resmi",
       "not": "Anamur ve Alanya'da açık bahçe muzu ekimden mart sonuna kadar yoğun toplanır; örtü altı muz yıl boyu bulunur."
+    },
+    {
+      "id": "muz__karadeniz__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "01-01",
+      "bit": "12-31",
+      "kaynak_adi": "Mevsim, Akdeniz ürün tablosu (docs/08_akdeniz_urun_tablosu.md)",
+      "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Yerli muz yıl boyu bulunur; Akdeniz'den gelir."
     }
   ],
   "secim_ipuclari": [

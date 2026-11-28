@@ -73,6 +73,32 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Armut Akdeniz'in yayla ve göller yöresinden ağustostan ekim ortasına kadar gelir."
+    },
+    {
+      "id": "armut__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "08-15",
+      "bit": "10-31",
+      "kaynak_adi": "Mevsim, Marmara ürün tablosu (docs/08_marmara_urun_tablosu.md) ve oradaki İBB hal tonajları",
+      "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Armut Ağustos ortasından Ekim sonuna kadar toplanır."
+    },
+    {
+      "id": "armut__karadeniz__depo__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "depo",
+      "bas": "11-01",
+      "bit": "03-31",
+      "kaynak_adi": "Mevsim, Marmara ürün tablosu (docs/08_marmara_urun_tablosu.md) ve oradaki İBB hal tonajları",
+      "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Armut depodan Mart sonuna kadar bulunur."
     }
   ],
   "secim_ipuclari": [

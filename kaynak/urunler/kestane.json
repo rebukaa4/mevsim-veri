@@ -91,6 +91,32 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Kestane Akdeniz pazarlarına kasımdan şubat sonuna kadar başka bölgelerden gelir."
+    },
+    {
+      "id": "kestane__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "09-15",
+      "bit": "11-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Düzce Kestanesi (No 1268) + Türk Patent coğrafi işaret tescili: Kastamonu Kuzu Kestanesi (No 1549) + Türk Patent coğrafi işaret tescili: Akçakoca Kaplandede Kestanesi (No 1201)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/cf3a36e5-0337-4b66-844a-090b66012b05.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Kestane Eylül ortasından Kasım ortasına kadar toplanır."
+    },
+    {
+      "id": "kestane__karadeniz__depo__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "depo",
+      "bas": "11-16",
+      "bit": "02-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Düzce Kestanesi (No 1268) + Türk Patent coğrafi işaret tescili: Kastamonu Kuzu Kestanesi (No 1549)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/cf3a36e5-0337-4b66-844a-090b66012b05.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Kestane soğuk depodan Şubat ortasına kadar bulunur."
     }
   ],
   "secim_ipuclari": [

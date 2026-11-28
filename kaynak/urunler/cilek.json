@@ -63,6 +63,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Akdeniz'de açık tarla çileği martta olgunlaşır ve haziran sonuna kadar bol gelir; aralıktan itibaren gelen çilek seradandır."
+    },
+    {
+      "id": "cilek__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "05-15",
+      "bit": "06-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Karadeniz Ereğli Osmanlı Çileği (No 794) + Mevsim, Marmara ürün tablosu (docs/08_marmara_urun_tablosu.md) ve oradaki İBB hal tonajları",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/0766d34a-b6b8-445a-8c1b-31987b851c9f.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Karadeniz tarla çileği Mayıs ortasından Haziran sonuna kadar toplanır."
     }
   ],
   "secim_ipuclari": [

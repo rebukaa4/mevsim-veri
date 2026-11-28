@@ -1,0 +1,59 @@
+{
+  "id": "bolu_kanlica_mantari",
+  "ad": "Bolu Kanlıca Mantarı",
+  "diger_adlar": [
+    "kanlıca",
+    "elicek",
+    "ebişek",
+    "melki"
+  ],
+  "kategori_id": "diger",
+  "kisa_tanim": "Bolu'nun göknar ormanlarında sonbahar yağmurlarından sonra çıkan turuncu şapkalı yabani mantar; kırılınca turuncu, süt gibi bir sıvı akar.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "14",
+  "gorsel_id": "bolu_kanlica_mantari",
+  "aktif": true,
+  "enerji_kcal_100g": null,
+  "enerji_durum": null,
+  "enerji_kaynak_adi": null,
+  "enerji_kaynak_link": null,
+  "az_bilinen": true,
+  "bilinirlik": 4,
+  "siralama": 45,
+  "tanitim": "Kanlıca, Bolu'nun göknar ormanlarında, iğne yapraklarla örtülü kireçli topraklarda ağustos sonundan ekim sonuna kadar çıkan yabani bir mantardır (Lactarius salmonicolor). Yörede elicek, ebişek ve melki de denir. Şapkası turuncu, 3–11 cm boyunda ve ortası çukurdur; kırılınca kesitinden turuncu, süt gibi bir sıvı akar ve kırılan yerler zamanla yeşilimsi lekelenir. Eti sıkıdır; ızgarası, tereyağında kavurması ve közde pişirilmesi sevilir. Yabani mantar zehirli türlerle karıştırılabilir: yalnızca mantarı tanıyan, güvenilir satıcıdan alın ve emin olmadığınız mantarı yemeyin.",
+  "hazirlama_adimlari": [
+    "Mantarları suda bekletmeyin; toprağı ve iğne yaprakları fırça ya da nemli bezle silerek temizleyin.",
+    "Sap ucunu kesin; kurt deliği olan kısımları ayırın.",
+    "İri olanları dilimleyin, küçükleri bütün bırakın.",
+    "Çiğ yemeyin; tavada, ızgarada ya da közde iyice pişirin. Pişince turuncu renk biraz koyulaşır."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "bolu_kanlica_mantari__14__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "14",
+      "donem_turu": "hasat",
+      "bas": "08-24",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Bolu Kanlıca Mantarı (No 683)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/37926ed5-2001-43d0-b5ba-08418a3d08b0.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Kanlıca mantarı Ağustos sonundan Ekim sonuna kadar ormandan toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Yalnızca mantarı tanıyan, güvenilir satıcıdan alın; kendiniz toplayacaksanız mantarı bilen birine gösterin.",
+    "Şapkası canlı turuncu, sıkı ve kuru olsun; yumuşamış, kurt delikli ya da kötü kokan mantarı almayın.",
+    "Kırınca turuncu süt akmalı; beyaz süt çıkan ya da hiç süt çıkmayan mantar kanlıca değildir.",
+    "Kırılan yerlerin yeşilimsi lekelenmesi bu mantarda normaldir; çok lekelenmiş olanlar beklemiştir."
+  ],
+  "besin": [],
+  "tarifler": [
+    "tereyagli_kanlica"
+  ]
+}

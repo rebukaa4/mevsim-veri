@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169260/nutrients",
   "az_bilinen": true,
   "bilinirlik": 3,
-  "siralama": 55,
+  "siralama": 61,
   "tanitim": "Bamya, köşeli kabukları içindeki küçük tohumlarla birlikte bütün olarak yenen bir sebzedir. Pişince yumuşar ve hafif kaygan bir dokusu olur; limon ya da domatesle ekşili pişirilince tadı açılır.",
   "hazirlama_adimlari": [
     "Bamyaları yıkamadan önce sap kısmındaki külahı, sivri bir bıçakla kalem açar gibi çevirerek inceltin; içini açmayın, yoksa salyası çıkar.",
@@ -65,6 +65,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Bamya Akdeniz'de hazirandan ekim sonuna kadar tezgâhtadır."
+    },
+    {
+      "id": "bamya__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "07-01",
+      "bit": "09-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Amasya Çiçek Bamyası (No 352)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/352.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Bamya Temmuz–Eylül arasında bulunur; en çok Amasya ve Tokat tarafından gelir."
     }
   ],
   "secim_ipuclari": [

@@ -76,6 +76,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "resmi",
       "not": "Akdeniz'de açık bağ sofralık üzümü temmuz başında başlar ve eylül sonuna kadar sürer."
+    },
+    {
+      "id": "uzum__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "08-15",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Rize Kokulu Üzümü (No 1721) + Türk Patent coğrafi işaret tescili: Safranbolu Çavuş Üzümü (No 1302)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/1643410f-79dc-4eff-910d-0536a11cd202.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Üzüm Ağustos ortasından Ekim sonuna kadar bulunur; sofralık üzüm çoğunlukla iç kesimden gelir."
     }
   ],
   "secim_ipuclari": [

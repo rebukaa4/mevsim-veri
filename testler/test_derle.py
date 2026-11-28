@@ -242,7 +242,21 @@ class DerleTesti(unittest.TestCase):
 
     def test_ciftlik_urunu_yil_boyu_olmali(self):
         self.urun_degistir("ornek_levrek_ciftlik", lambda u: u.update(yil_boyu=False))
-        self.reddedilmeli("yil_boyu: true olmalı")
+        self.reddedilmeli("ya yil_boyu: true olmalı ya da hasat kaydı almalı")
+
+    def test_mevsimli_ciftlik_urunu_hasat_kaydiyla_gecer(self):
+        # Türk somonu gibi: çiftlik ama denizdeki hasadı mevsimli (yil_boyu: false + hasat kaydı)
+        self.urun_degistir("ornek_levrek_ciftlik", lambda u: (u.update(yil_boyu=False), u["mevsimler"].append(
+            mevsim("ornek_levrek_ciftlik__ege__hasat__1", tur="deniz", donem="hasat", bas="01-01", bit="06-30"))))
+        veri, hatalar, _ = self.derle()
+        self.assertEqual(hatalar, [])
+        u = next(x for x in veri["urunler"] if x["id"] == "ornek_levrek_ciftlik")
+        self.assertEqual((u["uretim_sekli"], u["yil_boyu"], len(u["mevsimler"])), ("ciftlik", False, 1))
+
+    def test_mevsimli_ciftlik_urununde_av_kaydi_olamaz(self):
+        self.urun_degistir("ornek_levrek_ciftlik", lambda u: (u.update(yil_boyu=False), u["mevsimler"].append(
+            mevsim("ornek_levrek_ciftlik__ege__av__1", tur="deniz", donem="av"))))
+        self.reddedilmeli("yalnızca 'hasat' kaydı")
 
     def test_deniz_kapsami_yalniz_balikta(self):
         self.urun_degistir("ornek_ispanak", lambda u: u["mevsimler"].append(

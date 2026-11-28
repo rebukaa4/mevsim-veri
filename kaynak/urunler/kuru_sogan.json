@@ -86,6 +86,32 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Kuru soğan depodan yıl boyu bulunur."
+    },
+    {
+      "id": "kuru_sogan__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "06-01",
+      "bit": "09-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Suluova Soğanı (No 1207)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/74cd4abf-02e5-4039-a4f3-9bf94116c8c5.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Kuru soğan Haziran'dan Eylül sonuna kadar sökülür."
+    },
+    {
+      "id": "kuru_sogan__karadeniz__depo__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "depo",
+      "bas": "10-01",
+      "bit": "03-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Suluova Soğanı (No 1207)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/74cd4abf-02e5-4039-a4f3-9bf94116c8c5.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Hasattan sonra depodan Mart sonuna kadar yerli soğan bulunur."
     }
   ],
   "secim_ipuclari": [

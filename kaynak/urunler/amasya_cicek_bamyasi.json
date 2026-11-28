@@ -1,0 +1,85 @@
+{
+  "id": "amasya_cicek_bamyasi",
+  "ad": "Amasya Çiçek Bamyası",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Amasya'nın açık yeşil, çok küçük meyveli bamyası; çiçeği düşer düşmez toplanır, taze pişirilir ya da ipe dizilip kurutulur.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "05",
+  "gorsel_id": "bamya",
+  "aktif": true,
+  "enerji_kcal_100g": 33,
+  "enerji_durum": "çiğ, yenebilir kısım (bamya genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Okra, raw (FDC ID 169260)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169260/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 3,
+  "siralama": 75,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Bamyaları yıkamadan önce sap kısmındaki külahı, sivri bir bıçakla kalem açar gibi çevirerek inceltin; içini açmayın, yoksa salyası çıkar.",
+    "Ayıkladıktan sonra yıkayıp süzün.",
+    "Salyasını azaltmak için bir kaba alıp üzerine 1 çay bardağı limon suyu ya da sirke ve biraz tuz dökün, 20-30 dakika bekletin.",
+    "Pişirmeden önce durulayın; pişirirken çok karıştırmayın, tencereyi çevirerek sallayın."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "amasya_cicek_bamyasi__05__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "05",
+      "donem_turu": "hasat",
+      "bas": "07-01",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Amasya Çiçek Bamyası (No 352)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/352.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Amasya çiçek bamyası Temmuz–Ekim arasında, en çok Temmuz–Ağustos'ta toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Küçük ve orta boy olanları seçin (parmak boyu kadar); iri bamya lifli ve serttir.",
+    "Ucundan bükünce kolayca kırılmalı; esneyen bamya bayattır.",
+    "Rengi canlı yeşil olmalı, kararmış lekeli olmamalı.",
+    "Dokunduğunuzda hafif tüylü ama yapışkan olmayan bamya tazedir."
+  ],
+  "besin": [
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini açısından zengindir (100 g'da 31 µg; günlük başvuru değerine oranı yaklaşık %42).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Okra, raw (FDC ID 169260)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169260/nutrients"
+    },
+    {
+      "ad": "Manganez",
+      "tur": "mineral",
+      "aciklama": "Manganez açısından zengindir (100 g'da 0,8 mg; günlük başvuru değerine oranı yaklaşık %39).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Okra, raw (FDC ID 169260)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169260/nutrients"
+    },
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat açısından zengindir (100 g'da 60 µg; günlük başvuru değerine oranı yaklaşık %30).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Okra, raw (FDC ID 169260)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169260/nutrients"
+    },
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif kaynağıdır (100 g'da 3,2 g).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Okra, raw (FDC ID 169260)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169260/nutrients"
+    }
+  ],
+  "tarifler": [
+    "zeytinyagli_bamya",
+    "kiymali_bamya",
+    "sebzeli_turlu"
+  ]
+}

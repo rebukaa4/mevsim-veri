@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170400/nutrients",
   "az_bilinen": true,
   "bilinirlik": 3,
-  "siralama": 58,
+  "siralama": 64,
   "tanitim": "Kök kereviz, toprak altında büyüyen yuvarlak bir yumrudur; kalın kabuğu soyulup açık renkli eti yenir. Tadı hafif tatlı, kendine özgü kokulu ve maydanoza yakındır.",
   "hazirlama_adimlari": [
     "Önce bir kaba su ve 1 limonun suyunu koyun; soyulan kereviz kararmasın diye bu suya atılacak.",
@@ -65,6 +65,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Kök kereviz Akdeniz'de aralıktan nisan sonuna kadar bulunur."
+    },
+    {
+      "id": "kereviz__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "11-01",
+      "bit": "03-31",
+      "kaynak_adi": "Mevsim, Marmara ürün tablosu (docs/08_marmara_urun_tablosu.md) ve oradaki İBB hal tonajları",
+      "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kök kereviz Kasım–Mart arasında bulunur."
     }
   ],
   "secim_ipuclari": [

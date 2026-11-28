@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/173954/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 64,
+  "siralama": 72,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Yıkadıktan sonra sapını koparın.",
@@ -63,6 +63,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Vişne iç kesimlerden haziran ortasından temmuz sonuna kadar gelir."
+    },
+    {
+      "id": "visne__karadeniz__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "07-01",
+      "bit": "07-31",
+      "kaynak_adi": "Mevsim, Marmara ürün tablosu (docs/08_marmara_urun_tablosu.md) ve oradaki İBB hal tonajları",
+      "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Vişne Temmuz ayında bol."
     }
   ],
   "secim_ipuclari": [

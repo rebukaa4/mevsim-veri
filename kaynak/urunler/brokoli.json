@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170379/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 38,
+  "siralama": 43,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Çiçeklerini sapından ayırın; kalın sapın kabuğunu soyup onu da doğrayabilirsiniz.",
@@ -64,6 +64,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Brokoli Akdeniz'de kasım ortasından mart ortasına kadar tarladan gelir."
+    },
+    {
+      "id": "brokoli__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "11-01",
+      "bit": "04-15",
+      "kaynak_adi": "NTV, 'Samsun'dan Rusya'ya satılıyor. Tarlada son mahsuller kaldı' (yalnızca arama özeti) + Mevsim, Marmara ürün tablosu (docs/08_marmara_urun_tablosu.md) ve oradaki İBB hal tonajları",
+      "kaynak_link": "https://www.ntv.com.tr/yerel-haberler/galeri-samsundan-rusyaya-satiliyor-tarlada-son-mahsuller-kaldi-1724157",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Brokoli Kasım'dan Nisan ortasına kadar bulunur."
     }
   ],
   "secim_ipuclari": [

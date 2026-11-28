@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169251/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 30,
+  "siralama": 35,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Mantarı suda bekletmeyin; sünger gibi su çeker.",
@@ -62,6 +62,19 @@
       "bit": "12-31",
       "kaynak_adi": "Mevsim Ege sezon tablosu ve İzmir BB hal açık verisi; Akdeniz'e iklim farkıyla uyarlama",
       "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kültür mantarı yıl boyu bulunur."
+    },
+    {
+      "id": "mantar__karadeniz__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "01-01",
+      "bit": "12-31",
+      "kaynak_adi": "Mevsim, Marmara ürün tablosu (docs/08_marmara_urun_tablosu.md) ve oradaki İBB hal tonajları",
+      "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Kültür mantarı yıl boyu bulunur."

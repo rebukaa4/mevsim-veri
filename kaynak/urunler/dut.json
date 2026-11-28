@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169913/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 66,
+  "siralama": 74,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Bir süzgecin içinde, çok kısa süre ve hafif akan suyla yıkayın; ovalamayın.",
@@ -63,6 +63,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Dut Akdeniz'de nisan ortasından haziran ortasına kadar bulunur."
+    },
+    {
+      "id": "dut__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "06-15",
+      "bit": "07-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Şebinkarahisar Karadutu (No 885)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/033b4a70-19ca-4180-9067-1d279f11e25f.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Dut Haziran ortasından Temmuz sonuna kadar toplanır."
     }
   ],
   "secim_ipuclari": [

@@ -64,6 +64,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Akdeniz kıyısında marul kasımdan nisan ortasına kadar tarladan gelir; sıcakta çabuk tohuma kaçar."
+    },
+    {
+      "id": "marul__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "10-15",
+      "bit": "05-31",
+      "kaynak_adi": "NTV, 'Samsun'dan Rusya'ya satılıyor. Tarlada son mahsuller kaldı' (yalnızca arama özeti) + Mevsim, Marmara ürün tablosu (docs/08_marmara_urun_tablosu.md) ve oradaki İBB hal tonajları",
+      "kaynak_link": "https://www.ntv.com.tr/yerel-haberler/galeri-samsundan-rusyaya-satiliyor-tarlada-son-mahsuller-kaldi-1724157",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Bafra marulu Ekim ortasından Mayıs sonuna kadar gelir; yazın gelen marul yayladan ya da seradan."
     }
   ],
   "secim_ipuclari": [

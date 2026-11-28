@@ -16,7 +16,7 @@
   "enerji_kaynak_link": null,
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 45,
+  "siralama": 50,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Kökünü ve yaprakların kurumuş uçlarını kesin.",
@@ -63,6 +63,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Taze sarımsak Akdeniz kıyısında marttan mayıs sonuna kadar bulunur."
+    },
+    {
+      "id": "taze_sarimsak__karadeniz__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "05-15",
+      "bit": "06-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Taşköprü Sarımsağı (No 135) + Mevsim, Marmara ürün tablosu (docs/08_marmara_urun_tablosu.md) ve oradaki İBB hal tonajları",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/f24563b0-579b-4fd4-a47c-28339c21dbc7.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Taze (yeşil) sarımsak Mayıs ortasından Haziran sonuna kadar bulunur."
     }
   ],
   "secim_ipuclari": [

@@ -53,6 +53,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "tahmini",
       "not": "Halde en düzenli aralık – mart ortası arasında; Karadeniz'den gelmiş olabilir."
+    },
+    {
+      "id": "mezgit__karadeniz__av__1",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "av",
+      "bas": "11-01",
+      "bit": "03-31",
+      "kaynak_adi": "Karadurmuş 2021, Karadeniz mezgit avcılığı (Dergipark) + Aydın & Hacıoğlu 2017, Trabzon mezgit ağ avcılığı (Dergipark) + 6/1 Numaralı Tebliğ (2024/20), RG 11.08.2024",
+      "kaynak_link": "https://dergipark.org.tr/tr/download/article-file/1356848",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "akademik",
+      "not": "Mezgit Karadeniz'de yıl boyu ağla avlanır; en bol Kasım–Mart."
     }
   ],
   "secim_ipuclari": [

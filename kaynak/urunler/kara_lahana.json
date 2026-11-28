@@ -5,7 +5,7 @@
     "pancar"
   ],
   "kategori_id": "sebze",
-  "kisa_tanim": "Baş bağlamayan, uzun saplı, koyu yeşil yapraklı lahana; kışın çorbası ve sarması yapılır.",
+  "kisa_tanim": "Karadeniz mutfağının temel kış sebzesi: baş bağlamayan, uzun saplı, koyu yeşil yapraklı lahana; çorbası, sarması ve kavurması yapılır.",
   "uretim_sekli": "dogal",
   "yil_boyu": false,
   "ilgili_urun_id": null,
@@ -18,8 +18,8 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/168421/nutrients",
   "az_bilinen": true,
   "bilinirlik": 3,
-  "siralama": 60,
-  "tanitim": "Kara lahana, baş bağlamayan, yaprakları tek tek koparılan bir lahanadır. Yaprakları koyu yeşil, kalın damarlı ve serttir; pişince yumuşar ve hafif acımsı bir tat verir. Karadeniz mutfağının temel sebzesidir; çorbası, sarması ve kavurması yapılır. Soğuk havada tadı güzelleşir; Marmara pazarında kasımdan nisana kadar bulunur, bir kısmı Karadeniz'den gelir.",
+  "siralama": 66,
+  "tanitim": "Kara lahana, baş bağlamayan, yaprakları tek tek koparılan bir lahanadır. Yaprakları koyu yeşil, kalın damarlı ve serttir; pişince yumuşar ve hafif acımsı bir tat verir. Karadeniz'de 'pancar' diye de anılır ve kış mutfağının temelidir: kara lahana çorbası, sarması ve kavurması hemen her evde yapılır. Soğuk havada, özellikle ilk kırağıdan sonra tadı güzelleşir. Karadeniz'de ekim ortasından nisan ortasına, Marmara pazarında kasımdan nisana kadar bulunur.",
   "hazirlama_adimlari": [
     "Yaprakları tek tek ayırıp bol suda yıkayın.",
     "Kalın orta damarı bıçakla V biçiminde kesip çıkarın; çorba ve kavurmada damarı ince doğrayıp yaprakla birlikte pişirebilirsiniz.",
@@ -41,6 +41,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Kara lahana Marmara pazarında Kasım–Nisan arasında bol."
+    },
+    {
+      "id": "kara_lahana__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "10-15",
+      "bit": "04-15",
+      "kaynak_adi": "Karaer F., Töngel Ö. 2015, Samsun'da Yetişen Yenebilir Yabani Otlar ve Meyveler Rehberi (OKA) + Mevsim, Marmara ürün tablosu (docs/08_marmara_urun_tablosu.md) ve oradaki İBB hal tonajları",
+      "kaynak_link": "https://oka.gov.tr/assets/upload/dosyalar/162samsun_ot_yemekleri_rehber.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kara lahana Karadeniz'in kış sebzesidir; yaprakları Ekim ortasından Nisan ortasına kadar toplanır."
     }
   ],
   "secim_ipuclari": [
@@ -101,6 +114,7 @@
   ],
   "tarifler": [
     "kara_lahana_corbasi",
+    "kara_lahana_sarmasi",
     "kara_lahana_kavurmasi"
   ]
 }

@@ -88,6 +88,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Kışın toplanan Lamas limonu depolarda saklanır ve marttan ağustos sonuna kadar depodan gelir."
+    },
+    {
+      "id": "limon__karadeniz__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "01-01",
+      "bit": "12-31",
+      "kaynak_adi": "Mevsim, Marmara ürün tablosu (docs/08_marmara_urun_tablosu.md) ve oradaki İBB hal tonajları + Mevsim, Akdeniz ürün tablosu (docs/08_akdeniz_urun_tablosu.md)",
+      "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Limon yıl boyu bulunur; güneyden gelir."
     }
   ],
   "secim_ipuclari": [

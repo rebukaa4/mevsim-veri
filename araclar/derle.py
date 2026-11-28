@@ -324,10 +324,15 @@ def kurallari_dogrula(veri: dict, hatalar: list[str], uyarilar: list[str], oncek
             hatalar.append(f"{on}: aynı tarif birden çok kez bağlanmış")
 
         mevsimler = [m for m in (u.get("mevsimler") or []) if isinstance(m, dict)]
-        if u.get("uretim_sekli") == "ciftlik" and u.get("yil_boyu") is not True:
-            hatalar.append(f"{on}: çiftlik ürünü yil_boyu: true olmalı")
-        if (u.get("uretim_sekli") == "ciftlik" or u.get("yil_boyu") is True) and mevsimler:
+        # Çiftlik ürünü ya yıl boyudur (yil_boyu: true, mevsim kaydı yok) ya da mevsimlidir
+        # (yil_boyu: false; ör. denizde yalnızca kış-bahar yetiştirilen Türk somonu): en az bir kayıt, yalnızca "hasat".
+        if u.get("yil_boyu") is True and mevsimler:
             hatalar.append(f"{on}: çiftlik / yıl boyu ürününde mevsim kaydı olamaz")
+        if u.get("uretim_sekli") == "ciftlik" and u.get("yil_boyu") is not True:
+            if not mevsimler:
+                hatalar.append(f"{on}: çiftlik ürünü ya yil_boyu: true olmalı ya da hasat kaydı almalı")
+            elif any(m.get("donem_turu") != "hasat" for m in mevsimler):
+                hatalar.append(f"{on}: mevsimli çiftlik ürününde yalnızca 'hasat' kaydı olabilir")
         if (u.get("uretim_sekli") == "dogal" and u.get("yil_boyu") is not True
                 and u.get("aktif") is True and not mevsimler):
             uyarilar.append(f"{on}: doğal ürünün hiç mevsim kaydı yok")

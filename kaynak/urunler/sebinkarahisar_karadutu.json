@@ -1,0 +1,62 @@
+{
+  "id": "sebinkarahisar_karadutu",
+  "ad": "Şebinkarahisar Karadutu",
+  "diger_adlar": [
+    "kara dut"
+  ],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Giresun Şebinkarahisar'ın kara dutu (Morus nigra): koyu mor-siyah, çok sulu, mayhoş-tatlı meyve; haziran–temmuzda toplanır, elde ve giyside leke bırakır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "28",
+  "gorsel_id": "sebinkarahisar_karadutu",
+  "aktif": true,
+  "enerji_kcal_100g": 43,
+  "enerji_durum": "çiğ (dut genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Mulberries, raw (FDC ID 169913, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169913/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 2,
+  "siralama": 81,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Bir süzgecin içinde, çok kısa süre ve hafif akan suyla yıkayın; ovalamayın.",
+    "Kara dut elleri ve giysiyi boyar; önlük kullanın, lekeyi hemen limonla ovun."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "sebinkarahisar_karadutu__28__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "28",
+      "donem_turu": "hasat",
+      "bas": "06-01",
+      "bit": "07-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Şebinkarahisar Karadutu (No 885)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/033b4a70-19ca-4180-9067-1d279f11e25f.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Şebinkarahisar karadutu Haziran–Temmuz'da toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Taneler dolgun ve kuru olsun; suyunu salmış, yapışmış dut çabuk ekşir.",
+    "Kabın dibinde ezilmiş ya da küflenmiş tane olmamalı.",
+    "Çok çabuk bozulur; aldığınız gün yiyin."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir: 100 g'da 36,4 mg; günlük başvuru değerine oranı yaklaşık %45.",
+      "kaynak_adi": "USDA FoodData Central — Mulberries, raw (FDC ID 169913, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169913/nutrients"
+    }
+  ],
+  "tarifler": [
+    "meyveli_yogurt_kasesi",
+    "dut_receli"
+  ]
+}

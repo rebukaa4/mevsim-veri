@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169276/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 42,
+  "siralama": 47,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Yapraklarını ve kökünü kesip fırçayla yıkayın.",
@@ -64,6 +64,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Turp Akdeniz'de kasımdan mart sonuna kadar bol bulunur."
+    },
+    {
+      "id": "turp__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "11-01",
+      "bit": "03-31",
+      "kaynak_adi": "Mevsim, Marmara ürün tablosu (docs/08_marmara_urun_tablosu.md) ve oradaki İBB hal tonajları",
+      "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Turp Kasım–Mart arasında bol."
     }
   ],
   "secim_ipuclari": [

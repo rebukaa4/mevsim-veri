@@ -1,0 +1,53 @@
+{
+  "id": "karayemis",
+  "ad": "Karayemiş",
+  "diger_adlar": [
+    "taflan"
+  ],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Taflan da denen karayemiş ağacının salkım hâlindeki küçük meyvesi; yaz ortasında koyu mor-siyah olunca yenir, kırmızıyken buruktur.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "karayemis",
+  "aktif": true,
+  "enerji_kcal_100g": null,
+  "enerji_durum": null,
+  "enerji_kaynak_adi": null,
+  "enerji_kaynak_link": null,
+  "az_bilinen": true,
+  "bilinirlik": 4,
+  "siralama": 90,
+  "tanitim": "Karayemiş (taflan), Karadeniz'in kıyı ormanlarında ve bahçe kenarlarında yetişen, yaprağını dökmeyen karayemiş ağacının (Prunus laurocerasus) meyvesidir. Kiraz büyüklüğündeki parlak meyveler salkım hâlinde olur; önce yeşil, sonra kırmızı olur, tam olgunlaşınca koyu mor-siyaha döner. Yalnızca bu koyu ve yumuşak hâli yenir: kırmızı ve sert meyve ağızda burukluk bırakır. Tadı tatlı, hafif buruktur; içinde tek ve iri bir çekirdek vardır. Çekirdeği ve yaprakları yenmez.",
+  "hazirlama_adimlari": [
+    "Meyveleri salkımdan ayırın; kırmızı ve sert olanları ayıklayıp yalnızca koyu, yumuşak olanları bırakın.",
+    "Soğuk suda nazikçe yıkayıp süzün.",
+    "Taze yenir: etini yiyin, çekirdeği atın. Çekirdeği çiğnemeyin, kırmayın ve yutmayın.",
+    "Buzdolabında ağzı açık bir kapta en çok 1–2 gün saklayın."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "karayemis__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "07-01",
+      "bit": "08-31",
+      "kaynak_adi": "Fındık Araştırma Enstitüsü (Giresun), karayemiş çeşitleri sayfası (yalnızca arama özeti) + Karaer F., Töngel Ö. 2015, Samsun'da Yetişen Yenebilir Yabani Otlar ve Meyveler Rehberi (OKA)",
+      "kaynak_link": "https://arastirma.tarimorman.gov.tr/findik/Sayfalar/Detay.aspx?SayfaId=52",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Karayemiş (taflan) Temmuz–Ağustos'ta olgunlaşır; meyvesi koyu mor-siyah olunca yenir."
+    }
+  ],
+  "secim_ipuclari": [
+    "Koyu mor-siyah, parlak ve hafif yumuşak meyveleri seçin; kırmızı ya da sert olanlar olgunlaşmamıştır ve buruktur.",
+    "Salkım hâlinde ve saplı alırsanız daha az ezilir; ezilmiş, suyu akmış meyveyi almayın.",
+    "Çabuk bozulur; bir iki günde yiyebileceğiniz kadar alın."
+  ],
+  "besin": [],
+  "tarifler": []
+}

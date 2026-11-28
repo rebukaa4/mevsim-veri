@@ -1,0 +1,93 @@
+{
+  "id": "ordu_kivisi",
+  "ad": "Ordu Kivisi",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Ordu'da Hayward çeşidinden yetiştirilen kivi; kasımda toplanır, soğuk depoda 5–6 ay, bahara kadar saklanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "52",
+  "gorsel_id": "kivi",
+  "aktif": true,
+  "enerji_kcal_100g": 61,
+  "enerji_durum": "çiğ, kabuksuz (yeşil etli) (kivi genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Kiwifruit, green, raw (FDC ID 168153, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/168153/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 2,
+  "siralama": 80,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "İkiye bölüp kaşıkla oyarak ya da kabuğunu bıçakla soyup dilimleyerek yiyin."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "ordu_kivisi__52__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "52",
+      "donem_turu": "hasat",
+      "bas": "11-01",
+      "bit": "11-30",
+      "kaynak_adi": "Timeturk 13.11.2026, 'Ordu kivisi hasadı başladı' + Türk Patent coğrafi işaret tescili: Ordu Kivisi (No 451)",
+      "kaynak_link": "https://www.timeturk.com/ordu-kivisi-hasadi-basladi-9-bin-370-ton-rekolte-bekleniyor",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Ordu kivisi Kasım ayında toplanır."
+    },
+    {
+      "id": "ordu_kivisi__52__depo__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "52",
+      "donem_turu": "depo",
+      "bas": "12-01",
+      "bit": "04-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Ordu Kivisi (No 451)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/37bae9e6-f873-488d-a061-17e65c3b364d.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Ordu kivisi soğuk depoda 5–6 ay saklanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Parmakla hafifçe bastırınca az esneyen kivi yemeye hazırdır.",
+    "Çok yumuşak, buruşuk ya da ekşi kokan kiviyi almayın.",
+    "Sert aldıysanız oda sıcaklığında birkaç gün bekletin."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir: 100 g'da 92,7 mg; günlük başvuru değerine oranı yaklaşık %115.",
+      "kaynak_adi": "USDA FoodData Central — Kiwifruit, green, raw (FDC ID 168153, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168153/nutrients"
+    },
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini açısından zengindir: 100 g'da 40,3 µg; günlük başvuru değerine oranı yaklaşık %53.",
+      "kaynak_adi": "USDA FoodData Central — Kiwifruit, green, raw (FDC ID 168153, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168153/nutrients"
+    },
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum kaynağıdır: 100 g'da 312 mg; günlük başvuru değerine oranı yaklaşık %15.",
+      "kaynak_adi": "USDA FoodData Central — Kiwifruit, green, raw (FDC ID 168153, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168153/nutrients"
+    },
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif kaynağıdır: 100 g'da 3 g.",
+      "kaynak_adi": "USDA FoodData Central — Kiwifruit, green, raw (FDC ID 168153, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/168153/nutrients"
+    }
+  ],
+  "tarifler": [
+    "meyveli_yogurt_kasesi",
+    "meyve_salatasi"
+  ]
+}

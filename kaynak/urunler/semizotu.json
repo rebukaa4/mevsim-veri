@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169274/nutrients",
   "az_bilinen": true,
   "bilinirlik": 3,
-  "siralama": 56,
+  "siralama": 62,
   "tanitim": "Semizotu, etli küçük yaprakları ve gevrek saplarıyla yenen bir yaz yeşilliğidir. Tadı hafif ekşimsi ve ferahtır; çiğ salatada da yemekte de kullanılır.",
   "hazirlama_adimlari": [
     "Köklerini ve kalın, sert sap uçlarını kesin.",
@@ -64,6 +64,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Semizotu sıcak aylarda, mayıstan ekim sonuna kadar bol bulunur."
+    },
+    {
+      "id": "semizotu__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "06-01",
+      "bit": "09-15",
+      "kaynak_adi": "Mevsim, Marmara ürün tablosu (docs/08_marmara_urun_tablosu.md) ve oradaki İBB hal tonajları",
+      "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Ekili semizotu Haziran'dan Eylül ortasına kadar bulunur."
     }
   ],
   "secim_ipuclari": [

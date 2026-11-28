@@ -19,7 +19,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/168575/nutrients",
   "az_bilinen": true,
   "bilinirlik": 3,
-  "siralama": 61,
+  "siralama": 67,
   "tanitim": "Asma yaprağı, üzüm bağlarından mayıs ve haziranda, yapraklar henüz genç, ince ve yumuşakken toplanır. Taze yaprak kısa süre haşlanıp hemen sarma yapılır; yıl boyu kullanmak için de tuzlu suda (salamura) saklanır. Yaz ilerledikçe yaprak kalınlaşır, sertleşir ve sarmaya uygun olmaz.",
   "hazirlama_adimlari": [
     "Yaprakları bol suda tek tek yıkayın, saplarını makasla kesin.",
@@ -43,6 +43,32 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Taze asma yaprağı Mayıs–Haziran'da toplanır."
+    },
+    {
+      "id": "asma_yapragi__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "05-15",
+      "bit": "07-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Tokat Narince Salamura Asma Yaprağı (No 420)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/fcaf9cf0-c239-4658-ba9a-76f9d9875e0d.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Taze asma yaprağı Mayıs ortasından Temmuz sonuna kadar toplanır."
+    },
+    {
+      "id": "asma_yapragi__60__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "60",
+      "donem_turu": "hasat",
+      "bas": "05-15",
+      "bit": "08-10",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Tokat Narince Salamura Asma Yaprağı (No 420)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/fcaf9cf0-c239-4658-ba9a-76f9d9875e0d.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Tokat'ta narince asma yaprağı Mayıs ortasından Ağustos başına kadar toplanır."
     }
   ],
   "secim_ipuclari": [

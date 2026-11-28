@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170108/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 29,
+  "siralama": 34,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Közlemek için ocak telinde ya da fırında (220 °C) kabukları kararana kadar çevirerek pişirin.",
@@ -64,6 +64,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Kapya biberin kızarması yeşil bibere göre daha uzun sürdüğü için yerli tarla ürünü temmuzdan kasım sonuna kadar bulunur."
+    },
+    {
+      "id": "kapya_biber__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "08-24",
+      "bit": "10-31",
+      "kaynak_adi": "Ekonomi Gazetesi, 'Kapya biberin hasadı başladı' ve DHA Bafra kapya biber haberi (yalnızca arama özeti)",
+      "kaynak_link": "https://www.ekonomigazetesi.com/tarim/kapya-biberin-hasadi-basladi-58244",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Bafra Ovası'nın kırmızı kapya biberi Ağustos sonundan Ekim sonuna kadar toplanır."
     }
   ],
   "secim_ipuclari": [

@@ -63,6 +63,32 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "resmi",
       "not": "Akdeniz bölgesinin cevizi yaylalardan eylül ortasından ekim sonuna kadar toplanır."
+    },
+    {
+      "id": "ceviz__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "09-01",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Niksar Cevizi (No 177) + Türk Patent coğrafi işaret tescili: Oğuzlar Cevizi (No 493)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/177.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Ceviz Eylül–Ekim'de toplanır."
+    },
+    {
+      "id": "ceviz__karadeniz__depo__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "depo",
+      "bas": "11-01",
+      "bit": "06-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Niksar Cevizi (No 177)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/177.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kuru ceviz kış ve bahar boyunca bulunur."
     }
   ],
   "secim_ipuclari": [

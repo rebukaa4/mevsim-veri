@@ -1,0 +1,56 @@
+{
+  "id": "devrek_kireni",
+  "ad": "Devrek Kireni",
+  "diger_adlar": [
+    "kiren"
+  ],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Zonguldak Devrek'te 'kiren' denen kızılcık; ormanlarda kendiliğinden yetişir, bahçelerde de yetiştirilir. Temmuz ortasından ekim başına kadar toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "67",
+  "gorsel_id": "kizilcik",
+  "aktif": true,
+  "enerji_kcal_100g": null,
+  "enerji_durum": null,
+  "enerji_kaynak_adi": null,
+  "enerji_kaynak_link": null,
+  "az_bilinen": false,
+  "bilinirlik": 3,
+  "siralama": 88,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Saplarını ayıklayıp bol suda yıkayın.",
+    "Çekirdek kolay çıkmaz: şerbet ve marmelat için meyveyi suyla yumuşayana kadar pişirip süzgeçten geçirerek çekirdeği ayırın.",
+    "Reçel için bütün meyveyi kısa süre haşlayıp şekerle pişirin; çekirdekler içinde kalır.",
+    "Taze yemek isterseniz koyulaşmış, yumuşamış olanları seçip tuzla da yiyebilirsiniz."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "devrek_kireni__67__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "67",
+      "donem_turu": "hasat",
+      "bas": "07-15",
+      "bit": "10-10",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Devrek Kireni (No 1299)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/3930b0df-5d7a-4bd8-abac-12c29ad07c8a.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Devrek kireni Temmuz ortasından Ekim başına kadar toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Koyu kırmızı, parlak ve dolgun olanları seçin; açık kırmızı ya da sarımsı olanlar ham ve çok ekşidir.",
+    "Hafif yumuşamış olanlar daha olgundur, ama ezilip suyu akmış olanları almayın.",
+    "Kızılcık çabuk bozulur: aldığınız gün ya da ertesi gün kullanın."
+  ],
+  "besin": [],
+  "tarifler": [
+    "kizilcik_serbeti",
+    "kizilcik_marmelati"
+  ]
+}

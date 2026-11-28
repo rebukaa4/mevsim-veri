@@ -60,6 +60,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Türkiye'nin ilk karpuzu Adana ve Mersin'den mayıs ortasında çıkar ve ağustos sonuna kadar bol bulunur."
+    },
+    {
+      "id": "karpuz__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "07-15",
+      "bit": "09-15",
+      "kaynak_adi": "Mevsim, Marmara ürün tablosu (docs/08_marmara_urun_tablosu.md) ve oradaki İBB hal tonajları",
+      "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Karpuz Temmuz ortasından Eylül ortasına kadar bulunur; Haziran karpuzu güneyden gelir."
     }
   ],
   "secim_ipuclari": [

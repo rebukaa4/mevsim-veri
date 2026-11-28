@@ -1,0 +1,72 @@
+{
+  "id": "corum_uyuk_sarimsagi",
+  "ad": "Çorum Üyük Sarımsağı",
+  "diger_adlar": [],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Çorum Üyük köyünde atalık tohumdan yetiştirilen beyaz kabuklu sarımsak; diş kabuğu açık mor-pembe, dişleri krem-sarı renklidir ve uzun süre dayanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "19",
+  "gorsel_id": "kuru_sarimsak",
+  "aktif": true,
+  "enerji_kcal_100g": 149,
+  "enerji_durum": "çiğ, yenebilir kısım (kuru sarımsak genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Garlic, raw (FDC ID 169230)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169230/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 30,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "corum_uyuk_sarimsagi__19__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "19",
+      "donem_turu": "hasat",
+      "bas": "07-01",
+      "bit": "09-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Çorum Üyük Sarımsağı (No 1906)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/9f4fbfd5-b4d8-4073-ad1d-188166de9d26.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Üyük sarımsağı Temmuz–Eylül arasında sökülür."
+    }
+  ],
+  "secim_ipuclari": [
+    "Baş sert, dolgun ve ağır olsun.",
+    "Dişler birbirine sıkı yapışık olmalı, kabuk kuru ve sağlam olmalı.",
+    "Yeşil filiz vermiş, yumuşamış ya da küflü olanları almayın."
+  ],
+  "besin": [
+    {
+      "ad": "B6 vitamini",
+      "tur": "vitamin",
+      "aciklama": "B6 vitamini açısından zengindir (100 g'da 1,2 mg; günlük başvuru değerine oranı yaklaşık %89).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Garlic, raw (FDC ID 169230)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169230/nutrients"
+    },
+    {
+      "ad": "Manganez",
+      "tur": "mineral",
+      "aciklama": "Manganez açısından zengindir (100 g'da 1,7 mg; günlük başvuru değerine oranı yaklaşık %84).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Garlic, raw (FDC ID 169230)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169230/nutrients"
+    },
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir (100 g'da 31 mg; günlük başvuru değerine oranı yaklaşık %39).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Garlic, raw (FDC ID 169230)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169230/nutrients"
+    }
+  ],
+  "tarifler": [
+    "cacik",
+    "ispanak_borani",
+    "kozlenmis_patlican_salatasi"
+  ]
+}

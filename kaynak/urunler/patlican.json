@@ -64,6 +64,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Akdeniz kıyısında tarla patlıcanı hazirandan kasım sonuna kadar bol bulunur; kışın gelen patlıcan seradandır."
+    },
+    {
+      "id": "patlican__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "07-15",
+      "bit": "10-15",
+      "kaynak_adi": "Sağlam N., Taşova C. 2017, Akademik Ziraat Dergisi 6(Özel sayı):41–46 (Tokat domates) + Mevsim, Marmara ürün tablosu (docs/08_marmara_urun_tablosu.md) ve oradaki İBB hal tonajları",
+      "kaynak_link": "https://dergipark.org.tr/en/download/article-file/378068",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Karadeniz tarla patlıcanı Temmuz ortasından Ekim ortasına kadar bulunur."
     }
   ],
   "secim_ipuclari": [

@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/168405/nutrients",
   "az_bilinen": true,
   "bilinirlik": 3,
-  "siralama": 59,
+  "siralama": 65,
   "tanitim": "Börülce, kuru fasulyeye akraba bir baklagil; taze halinde ince uzun kabukları içindeki küçük tanelerle birlikte yenir. Tadı taze fasulyeye benzer ama daha ince ve hafif tatlıdır.",
   "hazirlama_adimlari": [
     "Bol suda yıkayın.",
@@ -65,6 +65,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Sıcağı seven börülce Akdeniz'de hazirandan ekim sonuna kadar bulunur."
+    },
+    {
+      "id": "borulce__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "07-15",
+      "bit": "09-30",
+      "kaynak_adi": "Mevsim, Marmara ürün tablosu (docs/08_marmara_urun_tablosu.md) ve oradaki İBB hal tonajları",
+      "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Taze börülce Karadeniz pazarında Temmuz ortasından Eylül sonuna kadar az miktarda bulunur."
     }
   ],
   "secim_ipuclari": [
