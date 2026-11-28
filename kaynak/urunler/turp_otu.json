@@ -40,6 +40,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "tahmini",
       "not": "Yabani turp; Bodrum'da en sık yenen otlardan."
+    },
+    {
+      "id": "turp_otu__akdeniz__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "11-01",
+      "bit": "04-30",
+      "kaynak_adi": "Sargın 2019, YYÜ Fen Bilimleri Enstitüsü Dergisi (Bozyazı'da gıda olarak tüketilen yabani bitkiler); Mevsim Ege sezon tablosu ve İzmir BB hal açık verisi; Akdeniz'e iklim farkıyla uyarlama",
+      "kaynak_link": "https://dergipark.org.tr/en/download/article-file/911472",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Yabani turp otu Akdeniz'de kasımdan nisan sonuna kadar toplanır."
     }
   ],
   "secim_ipuclari": [

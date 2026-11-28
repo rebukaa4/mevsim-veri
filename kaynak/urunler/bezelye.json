@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170419/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 31,
+  "siralama": 33,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Kabuğu uç kısmından açıp tanelerini başparmağınızla bir kaba sıyırın.",
@@ -37,6 +37,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "tahmini",
       "not": "Serin mevsim ürünü; kıyıda sıcaklar başlayınca biter. Yaz sonuna kadar görülen bezelye iç bölgelerden gelir."
+    },
+    {
+      "id": "bezelye__akdeniz__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "02-01",
+      "bit": "04-30",
+      "kaynak_adi": "GKGM, \"Yemeklik Baklagiller\" el kitabı; Mevsim Ege sezon tablosu ve İzmir BB hal açık verisi; Akdeniz'e iklim farkıyla uyarlama",
+      "kaynak_link": "https://www.tarimorman.gov.tr/GKGM/Belgeler/Uretici_Bilgi_Kosesi/Dokumanlar/yemeklik_baklagil.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Akdeniz kıyısında taze bezelye kış sonundan nisan sonuna kadar bulunur."
     }
   ],
   "secim_ipuclari": [

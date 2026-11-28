@@ -1,0 +1,107 @@
+{
+  "id": "avokado",
+  "ad": "Avokado",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Antalya'nın Alanya ve Gazipaşa kıyısında yetişen, armut biçimli, yağlı meyve; olgunlaşınca eti kremamsı bir kıvamda yumuşar.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "avokado",
+  "aktif": true,
+  "enerji_kcal_100g": 160,
+  "enerji_durum": "çiğ, kabuksuz ve çekirdeksiz yenebilir kısım (ticari çeşitlerin ortalaması)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Avocados, raw, all commercial varieties (FDC ID 171705, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/171705/nutrients",
+  "az_bilinen": true,
+  "bilinirlik": 3,
+  "siralama": 58,
+  "tanitim": "Avokado, armut biçimli, kalın kabuklu ve içinde tek büyük çekirdeği olan bir meyvedir. Şekeri az, yağı fazladır; olgunlaşınca eti tereyağı kıvamında yumuşar, hafif fındıksı bir tadı olur. Türkiye'deki üretimin büyük kısmı Antalya'nın Alanya ve Gazipaşa ilçelerindedir; buradaki ağaçların çoğu kabuğu olgunlaşınca da yeşil kalan Fuerte türüdür. Ekim sonundan nisana kadar toplanır.",
+  "hazirlama_adimlari": [
+    "Sert avokadoyu tezgâhta 2–5 gün bekletin; bir elma ya da muzla birlikte kâğıt torbaya koyarsanız daha çabuk olgunlaşır.",
+    "Olgunlaşan avokadoyu buzdolabına alın; böylece birkaç gün daha dayanır.",
+    "Yıkayıp kurulayın. Bıçakla boyuna, çekirdeğe değene kadar çepeçevre kesin; iki yarıyı ters yönlere çevirerek ayırın.",
+    "Çekirdeği kaşıkla çıkarın. Etini kaşıkla oyun ya da yarımları ters çevirip kabuğunu soyarak dilimleyin.",
+    "Kesilen avokado havayla temas edince kararır: üzerine hemen limon suyu sıkın. Kalan yarıyı çekirdeğiyle birlikte streç filme sarıp buzdolabında saklayın ve ertesi gün kullanın; kararan ince üst tabakayı kaşıkla sıyırabilirsiniz."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "avokado__akdeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "hasat",
+      "bas": "11-01",
+      "bit": "04-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Alanya Avokadosu (Tescil No 386)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/386.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Türkiye'nin avokadosu Alanya ve çevresinden kasım başından nisan sonuna kadar toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Hemen yiyecekseniz avucunuzda hafifçe sıktığınızda azıcık yumuşayanı seçin; parmak izi kalacak kadar yumuşak olan fazla olgunlaşmıştır.",
+    "Birkaç gün sonra kullanacaksanız sert olanı alın; oda sıcaklığında bekleyince olgunlaşır.",
+    "Sapın çıktığı yerdeki küçük kapağı kaldırın: altı yeşilse içi iyidir, kahverengiyse kararmaya başlamış olabilir.",
+    "Alanya'nın Fuerte avokadosu olgunlaşınca da yeşil kalır; olgunluğu renge değil yumuşaklığa bakarak anlayın. Ezik, çökük ya da çatlak kabuklu olanı almayın."
+  ],
+  "besin": [
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif açısından zengindir: 100 g'da 6,7 g.",
+      "kaynak_adi": "USDA FoodData Central — Avocados, raw, all commercial varieties (FDC ID 171705, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/171705/nutrients"
+    },
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat açısından zengindir: 100 g'da 81 µg; günlük başvuru değerine oranı yaklaşık %40.",
+      "kaynak_adi": "USDA FoodData Central — Avocados, raw, all commercial varieties (FDC ID 171705, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/171705/nutrients"
+    },
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini kaynağıdır: 100 g'da 21 µg; günlük başvuru değerine oranı yaklaşık %28.",
+      "kaynak_adi": "USDA FoodData Central — Avocados, raw, all commercial varieties (FDC ID 171705, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/171705/nutrients"
+    },
+    {
+      "ad": "Potasyum",
+      "tur": "mineral",
+      "aciklama": "Potasyum kaynağıdır: 100 g'da 485 mg; günlük başvuru değerine oranı yaklaşık %24.",
+      "kaynak_adi": "USDA FoodData Central — Avocados, raw, all commercial varieties (FDC ID 171705, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/171705/nutrients"
+    },
+    {
+      "ad": "Pantotenik asit",
+      "tur": "vitamin",
+      "aciklama": "Pantotenik asit kaynağıdır: 100 g'da 1,39 mg; günlük başvuru değerine oranı yaklaşık %23.",
+      "kaynak_adi": "USDA FoodData Central — Avocados, raw, all commercial varieties (FDC ID 171705, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/171705/nutrients"
+    },
+    {
+      "ad": "E vitamini",
+      "tur": "vitamin",
+      "aciklama": "E vitamini kaynağıdır: 100 g'da 2,07 mg; günlük başvuru değerine oranı yaklaşık %17.",
+      "kaynak_adi": "USDA FoodData Central — Avocados, raw, all commercial varieties (FDC ID 171705, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/171705/nutrients"
+    },
+    {
+      "ad": "Tekli doymamış yağ",
+      "tur": "diger",
+      "aciklama": "Yağının büyük kısmı tekli doymamış yağ asitlerinden oluşur: 100 g'da 14,7 g yağın 9,8 g'ı.",
+      "kaynak_adi": "USDA FoodData Central — Avocados, raw, all commercial varieties (FDC ID 171705, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/171705/nutrients"
+    }
+  ],
+  "tarifler": [
+    "avokado_ezmesi",
+    "avokadolu_kahvalti_ekmegi",
+    "avokadolu_roka_salatasi"
+  ]
+}

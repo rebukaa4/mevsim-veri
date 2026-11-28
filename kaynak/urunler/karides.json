@@ -41,6 +41,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "akademik",
       "not": "Yaz aylarında satılan karides Ege'deki av kısıtlaması nedeniyle başka kaynaklıdır."
+    },
+    {
+      "id": "karides__akdeniz__av__1",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "av",
+      "bas": "09-16",
+      "bit": "04-14",
+      "kaynak_adi": "Bayhan, Çiçek, Ünlüer, Özdil 2022, COMU J Mar Sci Fish 5(2):150-159 (Silifke-Yumurtalık karides, aylık örnekleme 1981-82); 6/1 Numaralı Ticari Amaçlı Su Ürünleri Avcılığı Tebliği (No 2024/20), RG 11.08.2024/32629",
+      "kaynak_link": "https://dergipark.org.tr/en/download/article-file/2678087",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "akademik",
+      "not": "Mersin ve İskenderun körfezlerinin karidesi trol avının açıldığı 16 Eylül'den nisan ortasına kadar bol avlanır."
     }
   ],
   "secim_ipuclari": [

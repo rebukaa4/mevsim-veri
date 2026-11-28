@@ -54,6 +54,15 @@
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {
+    "id": "avokado",
+    "kaynak_adi": "Wikimedia Commons: Avocado Hass - single and halved.jpg",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Avocado_Hass_-_single_and_halved.jpg",
+    "yazar": "Ivar Leidus",
+    "lisans": "CC BY-SA 4.0",
+    "lisans_link": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
     "id": "ayva",
     "kaynak_adi": "Wikimedia Commons: Quince (10889s).jpg",
     "kaynak_link": "https://commons.wikimedia.org/wiki/File:Quince_(10889s).jpg",
@@ -495,6 +504,15 @@
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {
+    "id": "keciboynuzu",
+    "kaynak_adi": "Wikimedia Commons: Karpos xaroupias.jpg",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Karpos_xaroupias.jpg",
+    "yazar": "Ανώνυμος Βικιπαιδιστής",
+    "lisans": "CC BY-SA 3.0",
+    "lisans_link": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
     "id": "kefal",
     "kaynak_adi": "Wikimedia Commons: Mugil cephalus (FDA 134).jpg",
     "kaynak_link": "https://commons.wikimedia.org/wiki/File:Mugil_cephalus_(FDA_134).jpg",
@@ -538,6 +556,15 @@
     "lisans": "CC BY-SA 3.0",
     "lisans_link": "https://creativecommons.org/licenses/by-sa/3.0/",
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
+    "id": "kirikhan_siyah_havucu",
+    "kaynak_adi": "Wikimedia Commons: Mrkev Purple Haze.jpg",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Mrkev_Purple_Haze.jpg",
+    "yazar": "Dezidor",
+    "lisans": "CC BY 3.0",
+    "lisans_link": "https://creativecommons.org/licenses/by/3.0/",
+    "duzenleme_notu": "Tabak, etiket kartı ve arkadaki kâse kırpıldı; arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {
     "id": "kirmizi_lahana",
@@ -891,6 +918,15 @@
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {
+    "id": "senirkent_dimrit_uzumu",
+    "kaynak_adi": "Wikimedia Commons: Grappolo di uva nera.jpg",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Grappolo_di_uva_nera.jpg",
+    "yazar": "Anna.Massini",
+    "lisans": "CC BY 4.0",
+    "lisans_link": "https://creativecommons.org/licenses/by/4.0/",
+    "duzenleme_notu": "Arkadaki ikinci salkım maskeden çıkarıldı; arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
     "id": "sevketibostan",
     "kaynak_adi": "Wikimedia Commons: Tagarninas-cortadas.JPG",
     "kaynak_link": "https://commons.wikimedia.org/wiki/File:Tagarninas-cortadas.JPG",
@@ -1039,6 +1075,15 @@
     "kaynak_adi": "Wikimedia Commons: Eriobotrya japonica Fruits.jpg",
     "kaynak_link": "https://commons.wikimedia.org/wiki/File:Eriobotrya_japonica_Fruits.jpg",
     "yazar": "Dinkun Chen",
+    "lisans": "CC BY-SA 4.0",
+    "lisans_link": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
+    "id": "yer_fistigi",
+    "kaynak_adi": "Wikimedia Commons: 2020-02-14 06 11 16 Unshelled peanuts in the Dulles section of Sterling, Loudoun County, Virginia.jpg",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:2020-02-14_06_11_16_Unshelled_peanuts_in_the_Dulles_section_of_Sterling,_Loudoun_County,_Virginia.jpg",
+    "yazar": "Famartin",
     "lisans": "CC BY-SA 4.0",
     "lisans_link": "https://creativecommons.org/licenses/by-sa/4.0/",
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."

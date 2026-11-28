@@ -1,0 +1,80 @@
+{
+  "id": "hatay_halhali_zeytini",
+  "ad": "Hatay Halhalı Zeytini",
+  "diger_adlar": [
+    "hilhale"
+  ],
+  "kategori_id": "diger",
+  "kisa_tanim": "Hatay'ın Halhalı (hilhale) zeytini: yeşilken toplanır, kırma ya da salamura yeşil zeytin olarak satılır; çekirdeği etinden kolay ayrılır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "31",
+  "gorsel_id": "zeytin",
+  "aktif": true,
+  "enerji_kcal_100g": 145,
+  "enerji_durum": "salamura yeşil zeytin (sofralık, hazır) (zeytin genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Olives, pickled, canned or bottled, green (FDC ID 169096, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169096/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 5,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Taze zeytin ağaçtan toplandığı gibi yenmez: çok acıdır. Yenebilmesi için acısının suda ve tuzlu suda (salamura) bekletilerek alınması gerekir.",
+    "Yeşil zeytini bıçakla bir iki yerinden çizin ya da taşla hafifçe kırın.",
+    "Zeytinleri suya koyup acısı azalana kadar suyunu her gün değiştirin; bu genelde birkaç gün ile birkaç hafta sürer, ara ara tadına bakın.",
+    "Acısı çıkınca zeytini tuzlu suda (salamura) bekletin, isterseniz limon dilimi ve defne yaprağı ekleyin. Tuz oranı ve bekleme süresi için güvendiğiniz bir yerel tarife ya da üreticiye danışın.",
+    "Bulanıklaşan, köpüren ya da kötü kokan salamuradaki zeytini yemeyin."
+  ],
+  "hazirlama_kaynak_adi": "Akhisar Domat Zeytini coğrafi işaret tescil belgesi (No 166: salamuranın zeytinin acısını alıp yenebilir hâle getirdiği tanımı) + Mevsim ekibi (ev yöntemi adımları)",
+  "hazirlama_kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/166.pdf",
+  "mevsimler": [
+    {
+      "id": "hatay_halhali_zeytini__31__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "31",
+      "donem_turu": "hasat",
+      "bas": "09-01",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Hatay Halhalı Zeytini (Tescil No 1353)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/4cad4749-606e-496a-99bc-54e54177fcbe.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Halhalı zeytini yeşil olarak eylül ve ekimde toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Taze (ham) zeytin alıyorsanız sert, lekesiz, ezilmemiş ve iri taneleri seçin; çürük ve kurtlu taneleri ayıklayın.",
+    "Sofralık zeytinde taneler dolgun ve parlak olsun; buruşmuş, yumuşamış zeytin almayın.",
+    "Salamurası berrak olmalı; bulanık, köpüklü ya da kötü kokulu salamura bozulma işaretidir.",
+    "Açıkta satılan zeytinde tadına bakın; aşırı tuzlu ya da acı olanları almayın."
+  ],
+  "besin": [
+    {
+      "ad": "E vitamini",
+      "tur": "vitamin",
+      "aciklama": "E vitamini açısından zengindir: 100 g'da 3,81 mg; günlük başvuru değerine oranı yaklaşık %31.",
+      "kaynak_adi": "USDA FoodData Central — Olives, pickled, canned or bottled, green (FDC ID 169096, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169096/nutrients"
+    },
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif kaynağıdır: 100 g'da 3,3 g.",
+      "kaynak_adi": "USDA FoodData Central — Olives, pickled, canned or bottled, green (FDC ID 169096, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169096/nutrients"
+    },
+    {
+      "ad": "Sodyum (tuz)",
+      "tur": "mineral",
+      "aciklama": "Salamura olduğu için sodyumu yüksektir: 100 g'da 1560 mg.",
+      "kaynak_adi": "USDA FoodData Central — Olives, pickled, canned or bottled, green (FDC ID 169096, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169096/nutrients"
+    }
+  ],
+  "tarifler": [
+    "zeytin_salatasi",
+    "zeytin_ezmesi"
+  ]
+}

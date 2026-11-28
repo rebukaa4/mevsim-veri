@@ -1,0 +1,58 @@
+{
+  "id": "kirikhan_siyah_havucu",
+  "ad": "Kırıkhan Siyah Havucu",
+  "diger_adlar": [
+    "mor havuç",
+    "kara havuç"
+  ],
+  "kategori_id": "sebze",
+  "kisa_tanim": "Hatay Kırıkhan'ın kabuğu ve içi koyu mor-siyah renkli havucu; şalgam suyunun ana malzemesidir, çiğ ve yemeklerde de kullanılır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "31",
+  "gorsel_id": "kirikhan_siyah_havucu",
+  "aktif": true,
+  "enerji_kcal_100g": 41,
+  "enerji_durum": "çiğ, yenebilir kısım (havuç genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Carrots, raw (FDC ID 170393)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170393/nutrients",
+  "az_bilinen": true,
+  "bilinirlik": 3,
+  "siralama": 55,
+  "tanitim": "Kırıkhan siyah havucu, kabuğu ve içi koyu mor-siyah renkli bir havuçtur. Hatay ve Adana'da en çok şalgam suyu yapımında kullanılır; çiğ olarak salataya da katılır, turuncu havuç gibi pişirilir. Rengi kuvvetlidir: kestiğiniz tahtayı, elinizi ve katıldığı yemeği morartır. Aralıktan haziran ortasına kadar sökülür.",
+  "hazirlama_adimlari": [
+    "Havuçları fırçayla yıkayın; kabuğu ince olduğu için soymanız gerekmez, isterseniz bıçakla hafifçe kazıyın.",
+    "Rengi eli ve kesme tahtasını boyar: eldiven ve kolay yıkanan bir tahta kullanın.",
+    "Çiğ olarak rendeleyip salataya katabilir ya da yemeklerde turuncu havuç gibi kullanabilirsiniz; yemeğin rengi morarır.",
+    "Şalgam suyu için dilimlenip bulgur unu ya da ekşi maya, tuz ve suyla birkaç hafta mayalandırılır; oran ve süre için güvendiğiniz bir yerel tarife bakın."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "kirikhan_siyah_havucu__31__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "31",
+      "donem_turu": "hasat",
+      "bas": "12-01",
+      "bit": "06-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Kırıkhan Siyah Havucu (Tescil No 1251)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/c9a9912b-9409-4b8c-959e-0397979d9779.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Kırıkhan siyah havucu aralık başından haziran ortasına kadar sökülür."
+    }
+  ],
+  "secim_ipuclari": [
+    "Sert, düzgün ve dolgun havuçları seçin; yumuşamış, buruşmuş ya da çatlamış olanları almayın.",
+    "Kabuğu koyu ve eşit renkli olsun; üzerinde ıslak, çürük ya da küflü leke bulunmamalı.",
+    "Yaprakları varsa taze ve yeşil olsun; yaprağı alınmış havuç buzdolabında daha uzun dayanır."
+  ],
+  "besin": [],
+  "tarifler": [
+    "havuc_tarator",
+    "havuclu_mercimek_corbasi",
+    "lahana_salatasi"
+  ]
+}

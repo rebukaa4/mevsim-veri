@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170379/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 32,
+  "siralama": 34,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Çiçeklerini sapından ayırın; kalın sapın kabuğunu soyup onu da doğrayabilirsiniz.",
@@ -38,6 +38,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "tahmini",
       "not": "Menemen ovası brokolisi; en bol olduğu dönem kasım ortası – şubat."
+    },
+    {
+      "id": "brokoli__akdeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "hasat",
+      "bas": "11-16",
+      "bit": "03-15",
+      "kaynak_adi": "GKGM, \"Lahanagiller\" el kitabı; Mevsim Ege sezon tablosu ve İzmir BB hal açık verisi; Akdeniz'e iklim farkıyla uyarlama",
+      "kaynak_link": "https://www.tarimorman.gov.tr/GKGM/Belgeler/Uretici_Bilgi_Kosesi/Dokumanlar/lahanagiller.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Brokoli Akdeniz'de kasım ortasından mart ortasına kadar tarladan gelir."
     }
   ],
   "secim_ipuclari": [

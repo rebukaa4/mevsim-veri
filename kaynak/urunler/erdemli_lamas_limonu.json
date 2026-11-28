@@ -1,0 +1,59 @@
+{
+  "id": "erdemli_lamas_limonu",
+  "ad": "Erdemli Lamas Limonu",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Mersin Erdemli'nin Lamas limonu: uzun, silindir biçimli, ucu belirgin sivri, pürüzsüz ve orta kalın kabuklu, bol sulu.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "33",
+  "gorsel_id": "limon",
+  "aktif": true,
+  "enerji_kcal_100g": 29,
+  "enerji_durum": "çiğ, kabuksuz (limon genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Lemons, raw, without peel (FDC ID 167746, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/167746/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 32,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Daha çok su almak için limonu sıkmadan önce tezgâhta avucunuzla bastırarak yuvarlayın."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "erdemli_lamas_limonu__33__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "33",
+      "donem_turu": "hasat",
+      "bas": "11-01",
+      "bit": "02-28",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Erdemli Lamas Limonu (Tescil No 466)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/dc34aba2-bf20-4cf6-9366-e95b7084dee5.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Erdemli Lamas limonu kasım başından şubat sonuna kadar toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Boyuna göre ağır ve parlak kabuklu limon daha sulu olur.",
+    "Kabuğu ince ve hafif esneyen limon seçin; çok kalın, pütürlü kabuklularda su az olur.",
+    "Yeşilimsi kabuk tazelik işareti olabilir; buruşmuş ya da kararmış limon almayın."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini açısından zengindir: 100 g'da 53 mg; günlük başvuru değerine oranı yaklaşık %66.",
+      "kaynak_adi": "USDA FoodData Central — Lemons, raw, without peel (FDC ID 167746, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/167746/nutrients"
+    }
+  ],
+  "tarifler": [
+    "limonata",
+    "limon_sosu"
+  ]
+}

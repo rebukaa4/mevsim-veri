@@ -1,19 +1,29 @@
 #!/usr/bin/env python3
-"""Ege ilk veri aktarıcısı (yeniden çalıştırılabilir).
+"""İçerik aktarıcısı (yeniden çalıştırılabilir; tüm bölgeler).
 
 Uygulama klasöründeki onaylı taslaklardan kaynak/urunler/<id>.json,
 kaynak/tarifler/<id>.json ve kaynak/gorseller.json dosyalarını üretir.
 
 Girdiler (--girdi = mevsim_app klasörü):
-  veri_taslak/icerik_sebze_ot.json, icerik_meyve_diger_yoresel.json, icerik_balik.json
+  veri_taslak/icerik_sebze_ot.json, icerik_meyve_diger_yoresel.json, icerik_balik.json, icerik_akdeniz.json
   araclar/katalog_urunler.py            (kanonik ürün kimlikleri ve kategoriler)
   docs/05_gorsel_lisans_kaydi.md        (görsel lisans kaydı)
   assets_kaynak/webp/<id>.webp          (bitmiş fotoğraflar)
-Bu klasördeki elle bakımlı dosya:
-  araclar/ege_mevsim.json               (sezon satırları + kaynak listesi; 04_ege_urun_tablosu.md'den)
+Bu klasördeki elle bakımlı dosyalar:
+  araclar/mevsim/<bolge_id>.json        (bölge başına sezon satırları + kaynak listesi; ör. ege.json, akdeniz.json)
   araclar/bilinirlik.json               (kategori içi tanınırlık sırası: bilinirlik + siralama)
 
-Kullanım:  python araclar/ege_icerik_aktar.py --girdi "../mevsim_app"
+Bölge dosyası: {"aciklama", "arastirma_tarihi", "kaynaklar": {kod: {ad, link}}, "satirlar": [...]}.
+Satırın kaynağı ya "kaynaklar" (kod listesi) ya da doğrudan "kaynak_adi" + "kaynak_link" ile yazılır.
+Bir dosyadaki satırlar yalnızca o bölgeyi (bölge, alt bölge, bölgenin illeri) ya da bölgenin
+kıyısındaki denizi kapsayabilir. Balık ve deniz ürünleri yalnızca deniz satırı alır; başka denizin
+balığı bir bölgenin pazarına gelse de o denizin kendi kaydıyla görünür.
+
+Yöresel ürün taslağında "besin", "enerji_*", "secim_ipuclari", "hazirlama_*" ya da "tarifler"
+alanı hiç yazılmamışsa ana ürününden (ana_urun_id) alınır; tarifler kopyalanmaz, ana ürünün
+tariflerine bağlanır.
+
+Kullanım:  python araclar/icerik_aktar.py --girdi "../mevsim_app"
 Sonra:     python araclar/derle.py --kontrol
 Yalnızca Python standart kütüphanesi kullanılır.
 """
@@ -28,9 +38,14 @@ from collections import defaultdict
 from pathlib import Path
 
 KOK = Path(__file__).resolve().parent.parent
-ICERIK = ["icerik_sebze_ot.json", "icerik_meyve_diger_yoresel.json", "icerik_balik.json"]
+MEVSIM_KLASORU = Path(__file__).resolve().parent / "mevsim"
+ICERIK = ["icerik_sebze_ot.json", "icerik_meyve_diger_yoresel.json", "icerik_balik.json", "icerik_akdeniz.json"]
 KATALOG_KATEGORI = {"SEBZE": "sebze", "MEYVE": "meyve", "BALIK": "balik_deniz"}
 DIGER_ALT = {"ot": "ot", "diger": "diger"}
+# Yöresel ürün taslağında hiç yazılmamışsa ana üründen alınan alanlar
+MIRAS_ALANLARI = ("besin", "enerji_kcal_100g", "enerji_durum", "enerji_kaynak_adi", "enerji_kaynak_link",
+                  "secim_ipuclari", "hazirlama_adimlari", "hazirlama_kaynak_adi", "hazirlama_kaynak_link",
+                  "tarifler")
 
 # Aynı yemeğin iki ajan tarafından farklı kimlikle yazılmış kopyaları -> tutulacak kimlik
 TARIF_BIRLESTIR = {
@@ -139,7 +154,54 @@ def bilinirlik_oku(yol: Path, urunler: dict, kategori: dict, hatalar: list) -> d
     return sonuc
 
 
-def mevsimler_kur(uid: str, satirlar: list, kaynaklar: dict, tarih: str, yoresel_il: str | None) -> list:
+def mevsim_satirlari_oku(klasor: Path, ortak: Path, hatalar: list) -> dict:
+    """araclar/mevsim/<bolge_id>.json dosyalarını bölge sırasıyla okur.
+
+    Dönüş: {urun_id: [satır, ...]}; her satırda kaynak_adi, kaynak_link ve arastirma_tarihi çözülmüştür.
+    Bir dosya yalnızca kendi bölgesini ya da o bölgenin kıyısındaki denizi kapsayabilir.
+    """
+    bolgeler = {b["id"]: b["sira"] for b in json_oku(ortak / "bolgeler.json")}
+    il_bolge = {i["id"]: i["bolge_id"] for i in json_oku(ortak / "iller.json")}
+    alt_bolge = {a["id"]: a["bolge_id"] for a in json_oku(ortak / "alt_bolgeler.json")}
+    bolge_deniz = {(b["bolge_id"], b["deniz_id"]) for b in json_oku(ortak / "bolge_deniz.json")}
+    dosyalar = sorted(klasor.glob("*.json"), key=lambda p: (bolgeler.get(p.stem, 99), p.stem))
+    sonuc = defaultdict(list)
+    for yol in dosyalar:
+        bolge = yol.stem
+        if bolge not in bolgeler:
+            hatalar.append(f"mevsim/{yol.name}: dosya adı bir bölge kimliği olmalı")
+            continue
+        veri = json_oku(yol)
+        kaynaklar = veri.get("kaynaklar") or {}
+        for n, s in enumerate(veri["satirlar"], start=1):
+            on = f"mevsim/{yol.name} satır {n} ({s.get('urun_id')})"
+            tur, kid = s["kapsam_turu"], s["kapsam_id"]
+            ust = {"bolge": kid, "il": il_bolge.get(kid), "alt_bolge": alt_bolge.get(kid)}.get(tur)
+            if tur == "deniz":
+                if (bolge, kid) not in bolge_deniz:
+                    hatalar.append(f"{on}: {kid} denizi {bolge} bölgesinin kıyısında değil")
+            elif not (tur == "il" and kid is None) and ust != bolge:
+                hatalar.append(f"{on}: {tur} {kid} bu dosyanın bölgesine ({bolge}) ait değil")
+            if "kaynak_adi" in s:
+                ad, link = s["kaynak_adi"], s.get("kaynak_link")
+            else:
+                adlar = []
+                for k in s["kaynaklar"]:
+                    if k not in kaynaklar:
+                        hatalar.append(f"{on}: bilinmeyen kaynak kodu {k}")
+                        continue
+                    a = kaynaklar[k]["ad"]
+                    if k == "K-R4" and s.get("teblig_maddesi"):
+                        a += f", madde {s['teblig_maddesi']}"
+                    adlar.append(a)
+                ad = "; ".join(adlar)
+                link = next((kaynaklar[k]["link"] for k in s["kaynaklar"] if k in kaynaklar and kaynaklar[k]["link"]), None)
+            sonuc[s["urun_id"]].append({**s, "kaynak_adi": ad, "kaynak_link": link,
+                                        "arastirma_tarihi": veri["arastirma_tarihi"]})
+    return sonuc
+
+
+def mevsimler_kur(uid: str, satirlar: list, yoresel_il: str | None) -> list:
     sayac = defaultdict(int)
     kayitlar = []
     for s in satirlar:
@@ -147,20 +209,31 @@ def mevsimler_kur(uid: str, satirlar: list, kaynaklar: dict, tarih: str, yoresel
         if tur == "il" and kid is None:
             kid = yoresel_il
         sayac[(kid, s["donem_turu"])] += 1
-        adlar = []
-        for k in s["kaynaklar"]:
-            ad = kaynaklar[k]["ad"]
-            if k == "K-R4" and s.get("teblig_maddesi"):
-                ad += f", madde {s['teblig_maddesi']}"
-            adlar.append(ad)
-        link = next((kaynaklar[k]["link"] for k in s["kaynaklar"] if kaynaklar[k]["link"]), None)
         kayitlar.append({
             "id": f"{uid}__{kid}__{s['donem_turu']}__{sayac[(kid, s['donem_turu'])]}",
             "kapsam_turu": tur, "kapsam_id": kid, "donem_turu": s["donem_turu"],
-            "bas": s["bas"], "bit": s["bit"], "kaynak_adi": "; ".join(adlar), "kaynak_link": link,
-            "arastirma_tarihi": tarih, "guven": s["guven"], "not": s["not"],
+            "bas": s["bas"], "bit": s["bit"], "kaynak_adi": s["kaynak_adi"], "kaynak_link": s["kaynak_link"],
+            "arastirma_tarihi": s["arastirma_tarihi"], "guven": s["guven"], "not": s["not"],
         })
     return kayitlar
+
+
+def miras_uygula(urunler: dict, hatalar: list) -> None:
+    """Yöresel üründe hiç yazılmamış alanları ana üründen alır (yerinde)."""
+    for uid, u in urunler.items():
+        ana_id = u.get("ana_urun_id")
+        if not u.get("yoresel_il_id") or not ana_id:
+            continue
+        ana = urunler.get(ana_id)
+        if ana is None:
+            hatalar.append(f"{uid}: ana ürün {ana_id} bulunamadı")
+            continue
+        for alan in MIRAS_ALANLARI:
+            if alan not in u:
+                u[alan] = ana.get(alan)
+        if "enerji_durum" not in u.get("_yazilan", ()) and u.get("enerji_kcal_100g") is not None \
+                and u.get("enerji_durum") and "genel değeri" not in u["enerji_durum"]:
+            u["enerji_durum"] = f"{u['enerji_durum']} ({ana['ad'].lower()} genel değeri)"
 
 
 def main(argv=None) -> int:
@@ -171,15 +244,21 @@ def main(argv=None) -> int:
     if hasattr(sys.stdout, "reconfigure"):
         sys.stdout.reconfigure(encoding="utf-8")
 
+    hatalar = []
     katalog = katalog_oku(a.girdi)
-    mevsim_veri = json_oku(Path(__file__).with_name("ege_mevsim.json"))
+    satir_urun = mevsim_satirlari_oku(MEVSIM_KLASORU, a.kaynak / "ortak", hatalar)
     gorseller, gorsel_esi = gorseller_oku(a.girdi)  # gorsel_esi: urun_id -> başka ürünün görsel kimliği
 
     urunler, tarifler, kopya = {}, {}, []
     for dosya in ICERIK:
-        d = json_oku(a.girdi / "veri_taslak" / dosya)
+        yol = a.girdi / "veri_taslak" / dosya
+        if not yol.exists():
+            continue
+        d = json_oku(yol)
         for u in d["urunler"]:
-            urunler[u["urun_id"]] = u
+            if u["urun_id"] in urunler:
+                hatalar.append(f"içerik iki kez yazılmış: {u['urun_id']}")
+            urunler[u["urun_id"]] = {**u, "_yazilan": tuple(u)}
         for t in d["tarifler"]:
             tid = TARIF_BIRLESTIR.get(t["id"], t["id"])
             if tid in tarifler:
@@ -187,12 +266,8 @@ def main(argv=None) -> int:
                 continue
             if tid == t["id"]:
                 tarifler[tid] = {k: t[k] for k in TARIF_ALANLARI if k in t}
+    miras_uygula(urunler, hatalar)
 
-    satir_urun = defaultdict(list)
-    for s in mevsim_veri["satirlar"]:
-        satir_urun[s["urun_id"]].append(s)
-
-    hatalar = []
     for uid in set(satir_urun) - set(urunler):
         hatalar.append(f"sezon tablosundaki ürünün içeriği yok: {uid}")
     for uid in set(katalog) - set(urunler):
@@ -227,8 +302,7 @@ def main(argv=None) -> int:
             "az_bilinen": bool(u.get("az_bilinen")), "bilinirlik": None, "siralama": None, "tanitim": u.get("tanitim"),
             "hazirlama_adimlari": u.get("hazirlama_adimlari") or [],
             "hazirlama_kaynak_adi": u.get("hazirlama_kaynak_adi"), "hazirlama_kaynak_link": u.get("hazirlama_kaynak_link"),
-            "mevsimler": [] if ciftlik else mevsimler_kur(uid, satir_urun.get(uid, []), mevsim_veri["kaynaklar"],
-                                                          mevsim_veri["arastirma_tarihi"], yoresel_il),
+            "mevsimler": [] if ciftlik else mevsimler_kur(uid, satir_urun.get(uid, []), yoresel_il),
             "secim_ipuclari": u.get("secim_ipuclari") or [],
             "besin": [{k: b.get(k) for k in BESIN_ALANLARI} for b in u.get("besin") or []],
             "tarifler": bagli,
@@ -240,6 +314,8 @@ def main(argv=None) -> int:
             hatalar.append(f"çiftlik ürününe sezon satırı bağlanmış: {uid}")
         if not ciftlik and not kayit["mevsimler"]:
             hatalar.append(f"doğal ürünün sezon satırı yok: {uid}")
+        if kat == "balik_deniz" and any(m["kapsam_turu"] != "deniz" for m in kayit["mevsimler"]):
+            hatalar.append(f"balık / deniz ürünü yalnızca deniz satırı alır (bölge satırı var): {uid}")
         if kayit["gorsel_id"] is None:
             gorselsiz.append(uid)
         if kayit["enerji_kcal_100g"] is None:

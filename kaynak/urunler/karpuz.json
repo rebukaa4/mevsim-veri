@@ -34,6 +34,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "tahmini",
       "not": "Aydın karpuzu haziranda başlar; en bol olduğu dönem temmuz – ekim."
+    },
+    {
+      "id": "karpuz__akdeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "hasat",
+      "bas": "05-15",
+      "bit": "08-31",
+      "kaynak_adi": "T.C. Ticaret Bakanlığı, Hasat Dönemi sayfası (Adana-Mersin ve Antalya hasat izin tarihleri 2025, 2026); GKGM, \"Kavun-Karpuz\" el kitabı",
+      "kaynak_link": "https://ticaret.gov.tr/urun-guvenligi/tarim-urunlerinin-dis-ticaret-denetimleri/hasat-donemi",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Türkiye'nin ilk karpuzu Adana ve Mersin'den mayıs ortasında çıkar ve ağustos sonuna kadar bol bulunur."
     }
   ],
   "secim_ipuclari": [

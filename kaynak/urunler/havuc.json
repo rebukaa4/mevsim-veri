@@ -34,6 +34,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "tahmini",
       "not": "Halde ekim – mart arası bol; kışlık havuç yazın ekilir."
+    },
+    {
+      "id": "havuc__akdeniz__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "12-01",
+      "bit": "06-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Kırıkhan Havucu (Tescil No 1701); GKGM, \"Havuç\" el kitabı",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/28e2f6ca-cbe8-4128-9f3e-9b0bba1506c2.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Akdeniz'de taze havuç aralıktan haziran ortasına kadar tarladan gelir."
     }
   ],
   "secim_ipuclari": [

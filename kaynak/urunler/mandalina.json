@@ -34,6 +34,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "akademik",
       "not": "Satsuma mandalina hasadı."
+    },
+    {
+      "id": "mandalina__akdeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "hasat",
+      "bas": "10-01",
+      "bit": "03-31",
+      "kaynak_adi": "T.C. Ticaret Bakanlığı, Hasat Dönemi sayfası (Adana-Mersin ve Antalya hasat izin tarihleri 2025, 2026)",
+      "kaynak_link": "https://ticaret.gov.tr/urun-guvenligi/tarim-urunlerinin-dis-ticaret-denetimleri/hasat-donemi",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Akdeniz'de ilk mandalinalar ekim başında toplanır, geç türler mart sonuna kadar sürer."
     }
   ],
   "secim_ipuclari": [

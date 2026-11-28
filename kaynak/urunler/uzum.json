@@ -50,6 +50,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "akademik",
       "not": "Geç olgunlaşan sofralık üzüm çeşitleri."
+    },
+    {
+      "id": "uzum__akdeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "hasat",
+      "bas": "07-01",
+      "bit": "09-30",
+      "kaynak_adi": "T.C. Ticaret Bakanlığı, Hasat Dönemi sayfası (Adana-Mersin ve Antalya hasat izin tarihleri 2025, 2026); Türk Patent coğrafi işaret tescili: Tarsus Beyazı Üzüm (Topacık) (Tescil No 69)",
+      "kaynak_link": "https://ticaret.gov.tr/urun-guvenligi/tarim-urunlerinin-dis-ticaret-denetimleri/hasat-donemi",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Akdeniz'de açık bağ sofralık üzümü temmuz başında başlar ve eylül sonuna kadar sürer."
     }
   ],
   "secim_ipuclari": [

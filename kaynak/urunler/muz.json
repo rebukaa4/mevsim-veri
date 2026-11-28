@@ -34,6 +34,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "tahmini",
       "not": "Ege'de ticari muz yetişmez; yerli muz Anamur ve Alanya'dan yıl boyu gelir."
+    },
+    {
+      "id": "muz__akdeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "hasat",
+      "bas": "10-01",
+      "bit": "03-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Anamur Muzu (Tescil No 56); Türk Patent coğrafi işaret tescili: Alanya Muzu (Tescil No 1176)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/9ce8b615-dfc7-4008-88fa-0889fb0e17db.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Anamur ve Alanya'da açık bahçe muzu ekimden mart sonuna kadar yoğun toplanır; örtü altı muz yıl boyu bulunur."
     }
   ],
   "secim_ipuclari": [

@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169276/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 36,
+  "siralama": 38,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Yapraklarını ve kökünü kesip fırçayla yıkayın.",
@@ -38,6 +38,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "tahmini",
       "not": "Halde neredeyse yıl boyu var, temmuz – ağustosta azalır. Kara turp daha çok kasım – mart arasında görülür."
+    },
+    {
+      "id": "turp__akdeniz__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "11-01",
+      "bit": "03-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Kadirli Turpu (Tescil No 531)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/64040a56-0177-40cb-93da-7b6a671cac41.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Turp Akdeniz'de kasımdan mart sonuna kadar bol bulunur."
     }
   ],
   "secim_ipuclari": [

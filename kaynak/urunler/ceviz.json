@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170187/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 5,
+  "siralama": 11,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Kabuğu kırmak için cevizi sivri uçları yukarı-aşağı gelecek şekilde tutun ve ortadaki birleşme çizgisinden ceviz kıracağıyla ya da çekiçle hafifçe vurun.",
@@ -37,6 +37,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "resmi",
       "not": "Kavaklıdere'de ceviz hasadı."
+    },
+    {
+      "id": "ceviz__akdeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "hasat",
+      "bas": "09-10",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Çağlayancerit Cevizi (Tescil No 175); Türk Patent coğrafi işaret tescili: Karamanlı Cevizi (Tescil No 527)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/7e53de2f-f8dd-4bf0-872e-c6396b2e84bf.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Akdeniz bölgesinin cevizi yaylalardan eylül ortasından ekim sonuna kadar toplanır."
     }
   ],
   "secim_ipuclari": [

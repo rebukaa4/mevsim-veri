@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169986/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 26,
+  "siralama": 28,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Yapraklarını ve kalın sapını kesip çiçeklerine (küçük demetlere) ayırın.",
@@ -38,6 +38,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "tahmini",
       "not": "Kışlık sebze hasadı en çok aralık – şubat arasında yoğundur."
+    },
+    {
+      "id": "karnabahar__akdeniz__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "12-01",
+      "bit": "03-31",
+      "kaynak_adi": "GKGM, \"Lahanagiller\" el kitabı; Mevsim Ege sezon tablosu ve İzmir BB hal açık verisi; Akdeniz'e iklim farkıyla uyarlama",
+      "kaynak_link": "https://www.tarimorman.gov.tr/GKGM/Belgeler/Uretici_Bilgi_Kosesi/Dokumanlar/lahanagiller.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Karnabahar Akdeniz'de aralıktan mart sonuna kadar tarladan gelir."
     }
   ],
   "secim_ipuclari": [

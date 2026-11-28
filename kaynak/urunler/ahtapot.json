@@ -41,6 +41,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "akademik",
       "not": "Ahtapot avı 15 Nisan – 31 Ekim arasında yasaktır."
+    },
+    {
+      "id": "ahtapot__akdeniz__av__1",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "av",
+      "bas": "11-01",
+      "bit": "04-14",
+      "kaynak_adi": "6/1 Numaralı Ticari Amaçlı Su Ürünleri Avcılığı Tebliği (No 2024/20), RG 11.08.2024/32629",
+      "kaynak_link": "https://www.resmigazete.gov.tr/eskiler/2024/08/20240811-3.htm",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Ahtapot avı yalnızca 1 Kasım ile 14 Nisan arasında serbesttir."
     }
   ],
   "secim_ipuclari": [

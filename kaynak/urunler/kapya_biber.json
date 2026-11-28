@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170108/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 23,
+  "siralama": 25,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Közlemek için ocak telinde ya da fırında (220 °C) kabukları kararana kadar çevirerek pişirin.",
@@ -38,6 +38,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "tahmini",
       "not": "Kızarması yeşil biberden uzun sürdüğü için tarladan biraz daha geç gelir."
+    },
+    {
+      "id": "kapya_biber__akdeniz__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "07-01",
+      "bit": "11-30",
+      "kaynak_adi": "Mevsim Ege sezon tablosu ve İzmir BB hal açık verisi; Akdeniz'e iklim farkıyla uyarlama",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kapya biberin kızarması yeşil bibere göre daha uzun sürdüğü için yerli tarla ürünü temmuzdan kasım sonuna kadar bulunur."
     }
   ],
   "secim_ipuclari": [

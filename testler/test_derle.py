@@ -403,7 +403,7 @@ class DerleTesti(unittest.TestCase):
         self.assertEqual((hamsi["bilinirlik"], hamsi["siralama"]), (1, 1))
 
     def test_siralama_dosyasi_kurallari(self):
-        import ege_icerik_aktar as aktar
+        import icerik_aktar as aktar
         yol = self.gecici / "bilinirlik.json"
         urunler = {"a": {}, "b": {"yoresel_il_id": "35"}, "c": {}, "d": {"az_bilinen": True}}
         kategori = {"a": "sebze", "b": "sebze", "c": "sebze", "d": "sebze"}
@@ -424,6 +424,77 @@ class DerleTesti(unittest.TestCase):
         self.assertTrue(any("en az 3" in h for h in hatalar), hatalar)
         _, hatalar = dene([["a", 1], ["b", 1], ["c", 2]])
         self.assertTrue(any("sıralama dosyasında yok" in h for h in hatalar), hatalar)
+
+    # bölge dosyaları (icerik_aktar.py) --------------------------------------
+    def bolge_dosyasi_yaz(self, klasor, bolge, satirlar, kaynaklar=None, tarih="2026-11-28"):
+        klasor.mkdir(exist_ok=True)
+        (klasor / f"{bolge}.json").write_text(json.dumps(
+            {"aciklama": "", "arastirma_tarihi": tarih, "kaynaklar": kaynaklar or {}, "satirlar": satirlar},
+            ensure_ascii=False), encoding="utf-8")
+
+    @staticmethod
+    def satir(uid, tur, kid, donem="hasat", **ek):
+        return {"urun_id": uid, "kapsam_turu": tur, "kapsam_id": kid, "donem_turu": donem,
+                "bas": "01-01", "bit": "02-28", "guven": "tahmini", "not": "", **ek}
+
+    def test_bolge_dosyalari_bolge_sirasiyla_okunur_ve_kaynak_cozulur(self):
+        import icerik_aktar as aktar
+        klasor = self.gecici / "mevsim"
+        self.bolge_dosyasi_yaz(klasor, "akdeniz", [
+            self.satir("domates", "bolge", "akdeniz", kaynak_adi="Doğrudan kaynak", kaynak_link=None),
+            self.satir("finike", "il", "07", kaynak_adi="Tescil", kaynak_link="https://ornek.org/t.pdf"),
+            self.satir("karides", "deniz", "akdeniz", "av", kaynak_adi="Tebliğ", kaynak_link=None),
+        ])
+        self.bolge_dosyasi_yaz(klasor, "ege", [self.satir("domates", "bolge", "ege", kaynaklar=["X1", "X2"])],
+                               kaynaklar={"X1": {"ad": "Birinci", "link": None}, "X2": {"ad": "İkinci", "link": "https://ornek.org"}},
+                               tarih="2026-11-27")
+        hatalar = []
+        sonuc = aktar.mevsim_satirlari_oku(klasor, self.kaynak / "ortak", hatalar)
+        self.assertEqual(hatalar, [])
+        # Ege (sıra 2) Akdeniz'den (sıra 3) önce gelir; kod listesi ad + ilk bağlantıya çözülür
+        ege, akd = sonuc["domates"]
+        self.assertEqual((ege["kapsam_id"], ege["kaynak_adi"], ege["kaynak_link"], ege["arastirma_tarihi"]),
+                         ("ege", "Birinci; İkinci", "https://ornek.org", "2026-11-27"))
+        self.assertEqual((akd["kapsam_id"], akd["kaynak_adi"], akd["arastirma_tarihi"]), ("akdeniz", "Doğrudan kaynak", "2026-11-28"))
+        kayitlar = aktar.mevsimler_kur("domates", sonuc["domates"], None)
+        self.assertEqual([k["id"] for k in kayitlar], ["domates__ege__hasat__1", "domates__akdeniz__hasat__1"])
+
+    def test_bolge_dosyasi_baska_bolgeyi_ya_da_kiyisiz_denizi_kapsayamaz(self):
+        import icerik_aktar as aktar
+        klasor = self.gecici / "mevsim"
+        self.bolge_dosyasi_yaz(klasor, "akdeniz", [
+            self.satir("a", "bolge", "ege", kaynak_adi="k"),
+            self.satir("b", "il", "35", kaynak_adi="k"),         # İzmir Ege'dedir
+            self.satir("c", "deniz", "karadeniz", "av", kaynak_adi="k"),
+            self.satir("d", "il", "31", kaynak_adi="k"),         # Hatay: geçerli
+        ])
+        hatalar = []
+        aktar.mevsim_satirlari_oku(klasor, self.kaynak / "ortak", hatalar)
+        self.assertEqual(len(hatalar), 3, hatalar)
+        self.assertTrue(any("karadeniz denizi akdeniz bölgesinin kıyısında değil" in h for h in hatalar), hatalar)
+
+    def test_yoresel_urun_yazilmayan_alanlari_ana_urunden_alir(self):
+        import icerik_aktar as aktar
+        ana = {"ad": "Havuç", "besin": [{"ad": "A"}], "enerji_kcal_100g": 41, "enerji_durum": "çiğ",
+               "tarifler": ["havuc_tarator"], "secim_ipuclari": ["sert olsun"]}
+        yoresel = {"yoresel_il_id": "31", "ana_urun_id": "havuc", "besin": [], "_yazilan": ("besin",)}
+        urunler = {"havuc": ana, "y": yoresel}
+        hatalar = []
+        aktar.miras_uygula(urunler, hatalar)
+        self.assertEqual(hatalar, [])
+        self.assertEqual(yoresel["besin"], [], "açıkça boş yazılan alan korunur")
+        self.assertEqual(yoresel["tarifler"], ["havuc_tarator"])
+        self.assertEqual(yoresel["enerji_kcal_100g"], 41)
+        self.assertEqual(yoresel["enerji_durum"], "çiğ (havuç genel değeri)")
+
+    def test_gercek_kaynakta_balik_yalnizca_deniz_kaydi_alir(self):
+        veri, hatalar, _ = derle.derle(KOK / "kaynak", SEMA, 5)
+        self.assertEqual(hatalar, [])
+        for u in veri["urunler"]:
+            if u["kategori_id"] == "balik_deniz":
+                self.assertTrue(all(m["kapsam_turu"] == "deniz" for m in u["mevsimler"]), u["id"])
+        akdeniz = [m for u in veri["urunler"] for m in u["mevsimler"] if m["kapsam_turu"] == "bolge" and m["kapsam_id"] == "akdeniz"]
+        self.assertTrue(akdeniz, "Akdeniz bölge kaydı yok")
 
     def test_sema_surumu_sabit(self):
         veri, _, _ = self.derle()

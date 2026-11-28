@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/174673/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 36,
+  "siralama": 50,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Kabuğunu beyaz kısmıyla birlikte bıçakla soyun, dilimleri zarlarının arasından keserek çıkarın; böylece acılığı azalır."
@@ -36,6 +36,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "tahmini",
       "not": "Halde en bol olduğu dönem ocak – mart; büyük olasılıkla Akdeniz ürünü."
+    },
+    {
+      "id": "greyfurt__akdeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "hasat",
+      "bas": "10-15",
+      "bit": "03-31",
+      "kaynak_adi": "T.C. Ticaret Bakanlığı, Hasat Dönemi sayfası (Adana-Mersin ve Antalya hasat izin tarihleri 2025, 2026)",
+      "kaynak_link": "https://ticaret.gov.tr/urun-guvenligi/tarim-urunlerinin-dis-ticaret-denetimleri/hasat-donemi",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Akdeniz greyfurtu ekim ortasında başlar ve mart sonuna kadar bulunur."
     }
   ],
   "secim_ipuclari": [

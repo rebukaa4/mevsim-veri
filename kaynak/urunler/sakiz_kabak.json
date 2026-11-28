@@ -37,6 +37,32 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "tahmini",
       "not": "Ege'de tarladan gelen yazlık kabak dönemi."
+    },
+    {
+      "id": "sakiz_kabak__akdeniz__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "04-15",
+      "bit": "07-15",
+      "kaynak_adi": "GKGM, \"Hıyar-Kabak\" el kitabı",
+      "kaynak_link": "https://www.tarimorman.gov.tr/GKGM/Belgeler/Uretici_Bilgi_Kosesi/Dokumanlar/h%C4%B1yar-kabak.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Akdeniz kıyısında şubat sonunda ekilen kabak nisan ortasından temmuz ortasına kadar gelir; yaz sıcağında ürün azalır."
+    },
+    {
+      "id": "sakiz_kabak__akdeniz__pazar_yogun__2",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "10-01",
+      "bit": "11-30",
+      "kaynak_adi": "GKGM, \"Hıyar-Kabak\" el kitabı",
+      "kaynak_link": "https://www.tarimorman.gov.tr/GKGM/Belgeler/Uretici_Bilgi_Kosesi/Dokumanlar/h%C4%B1yar-kabak.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Ağustos sonunda ekilen güzlük kabak ekim ve kasım aylarında yeniden bol gelir."
     }
   ],
   "secim_ipuclari": [

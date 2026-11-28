@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/171697/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 28,
+  "siralama": 42,
   "tanitim": null,
   "hazirlama_adimlari": [],
   "hazirlama_kaynak_adi": null,
@@ -34,6 +34,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "tahmini",
       "not": "Ege kayısısı haziran – temmuzda; mayısta Akdeniz'den, ağustos – eylülde Malatya'dan gelir."
+    },
+    {
+      "id": "kayisi__akdeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "hasat",
+      "bas": "04-24",
+      "bit": "06-30",
+      "kaynak_adi": "NTV, 24.04.2025, Mersin'de ilk açık alan kayısı hasadı",
+      "kaynak_link": "https://www.ntv.com.tr/turkiye/galeri-ilk-hasat-yapildi-500-tlden-alici-buldu,uGUV-H_x-Uaa2qqnmlo4kA",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Türkiye'nin ilk kayısısı Mersin Mut'tan nisan sonunda çıkar ve haziran sonuna kadar sürer."
     }
   ],
   "secim_ipuclari": [

@@ -38,6 +38,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "tahmini",
       "not": "Menemen ovası ıspanağı; en bol olduğu aylar mart – nisan."
+    },
+    {
+      "id": "ispanak__akdeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "hasat",
+      "bas": "11-01",
+      "bit": "03-31",
+      "kaynak_adi": "Mevsim Ege sezon tablosu ve İzmir BB hal açık verisi; Akdeniz'e iklim farkıyla uyarlama",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Akdeniz'de ıspanak kasımdan mart sonuna kadar tarladan gelir."
     }
   ],
   "secim_ipuclari": [

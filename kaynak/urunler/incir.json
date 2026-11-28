@@ -34,6 +34,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "resmi",
       "not": "Taze incir temmuz sonunda başlar; en bol olduğu dönem eylülün ilk yarısı."
+    },
+    {
+      "id": "incir__akdeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "hasat",
+      "bas": "07-10",
+      "bit": "09-15",
+      "kaynak_adi": "T.C. Ticaret Bakanlığı, Hasat Dönemi sayfası (Adana-Mersin ve Antalya hasat izin tarihleri 2025, 2026); Türk Patent coğrafi işaret tescili: Melli İnciri (Tescil No 370)",
+      "kaynak_link": "https://ticaret.gov.tr/urun-guvenligi/tarim-urunlerinin-dis-ticaret-denetimleri/hasat-donemi",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Akdeniz'de taze incir temmuz başından eylül ortasına kadar bulunur."
     }
   ],
   "secim_ipuclari": [

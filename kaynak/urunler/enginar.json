@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169205/nutrients",
   "az_bilinen": true,
   "bilinirlik": 3,
-  "siralama": 41,
+  "siralama": 45,
   "tanitim": "Enginar, açmamış bir çiçek tomurcuğudur; dış sert yaprakları ayıklanır ve alttaki etli 'çanak' (kalp) kısmı yenir. Tadı hafif buruk, tatlımsı ve kendine özgüdür.",
   "hazirlama_adimlari": [
     "Önce bir kaba su, 1 limonun suyu ve 1 kaşık un koyup karıştırın; temizlenen enginarlar kararmasın diye bu suya atılacak.",
@@ -40,6 +40,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "tahmini",
       "not": "Hasat şubatta başlar, nisanda en yoğun olur. Urla ve Aydın enginarı kasımda başlar."
+    },
+    {
+      "id": "enginar__akdeniz__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "02-01",
+      "bit": "05-15",
+      "kaynak_adi": "Mevsim Ege sezon tablosu ve İzmir BB hal açık verisi; Akdeniz'e iklim farkıyla uyarlama",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Akdeniz'de enginar şubattan mayıs ortasına kadar bulunur; bölgede üretim azdır."
     }
   ],
   "secim_ipuclari": [

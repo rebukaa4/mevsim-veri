@@ -47,6 +47,32 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "tahmini",
       "not": "Depolanmış elma; tezgâhta en bol olduğu aylar mart – nisan."
+    },
+    {
+      "id": "elma__akdeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "hasat",
+      "bas": "09-15",
+      "bit": "11-30",
+      "kaynak_adi": "NTV, 02.10.2025, Isparta elma hasadı (il yetkilisinin açıklaması)",
+      "kaynak_link": "https://www.ntv.com.tr/turkiye/galeri-turkiyede-uretimde-ilk-sirada-50-cesit-var-hasat-kasima-kadar-surecek,3Qi6-PuaxEKmUMjfVB3aPQ",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Türkiye'nin elma merkezi Isparta'da hasat eylül ortasında başlar ve kasım sonuna kadar sürer."
+    },
+    {
+      "id": "elma__akdeniz__depo__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "depo",
+      "bas": "12-01",
+      "bit": "08-31",
+      "kaynak_adi": "NTV, 02.10.2025, Isparta elma hasadı (il yetkilisinin açıklaması); Isparta İl Tarım ve Orman Müdürlüğü, \"Elma Diyarı Isparta'da Hasat Başladı\" (12.10.2023)",
+      "kaynak_link": "https://www.ntv.com.tr/turkiye/galeri-turkiyede-uretimde-ilk-sirada-50-cesit-var-hasat-kasima-kadar-surecek,3Qi6-PuaxEKmUMjfVB3aPQ",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Isparta elması soğuk hava depolarından aralıktan ağustos sonuna kadar, yani yeni hasada kadar bulunur."
     }
   ],
   "secim_ipuclari": [

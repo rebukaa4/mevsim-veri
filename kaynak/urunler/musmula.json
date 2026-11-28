@@ -16,7 +16,7 @@
   "enerji_kaynak_link": null,
   "az_bilinen": true,
   "bilinirlik": 4,
-  "siralama": 42,
+  "siralama": 59,
   "tanitim": "Muşmula, ağaçtan sert ve buruk toplanan, bekletilince kahverengileşip yumuşayan küçük, yuvarlak bir kış meyvesidir. Olgunlaşınca tadı ekşi-tatlı, kıvamı elma püresine benzer; kabuğu ağza alınıp içi emilerek ya da kaşıkla yenir.",
   "hazirlama_adimlari": [
     "Sert muşmulaları tek kat halinde, serin ve havadar bir yerde (ör. kâğıt serilmiş bir tepside) 1–3 hafta bekletin.",
@@ -39,6 +39,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "tahmini",
       "not": "Muşmula halde seyrek görülüyor; dönem bilgisi zayıf."
+    },
+    {
+      "id": "musmula__akdeniz__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "akdeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "11-01",
+      "bit": "01-31",
+      "kaynak_adi": "Mevsim Ege sezon tablosu ve İzmir BB hal açık verisi; Akdeniz'e iklim farkıyla uyarlama",
+      "kaynak_link": "https://acikveri.bizizmir.com/dataset/sebze-ve-meyve-hal-fiyatlari",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Muşmula kasımdan ocak sonuna kadar az miktarda bulunur."
     }
   ],
   "secim_ipuclari": [
