@@ -1,0 +1,39 @@
+# Nöbetçi: toplayıcı 3 günden uzun süredir başarılı çalışmadıysa ya da bir kaynak 5 kez üst üste okunamadıysa
+# TEK bir Türkçe Issue açar/günceller (GitHub depo sahibine e-posta gönderir); düzelince kendiliğinden kapatır.
+name: Nöbetçi
+
+on:
+  schedule:
+    - cron: "15 7 * * *"          # 07:15 UTC = 10:15 Türkiye; toplayıcıdan yaklaşık 4 saat sonra
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  kontrol:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
+      issues: write          # uyarı kaydını açmak / kapatmak için
+      actions: write         # zamanlanmış iş akışlarını etkin tutmak için (aşağıdaki son adım)
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - name: Son durumu oku (durum dalı)
+        run: |
+          mkdir -p _durum
+          git fetch --quiet --depth 1 origin durum && git show FETCH_HEAD:durum/son_calisma.json > _durum/son_calisma.json || true
+      - name: Kontrol et, gerekirse uyar
+        run: python toplayici/nobetci.py --durum _durum/son_calisma.json
+      - name: Zamanlanmış iş akışlarını etkin tut
+        # GitHub, açık depolarda 60 gün etkinlik olmazsa zamanlanmış iş akışlarını durdurur.
+        # Etkin bir iş akışını yeniden "etkinleştirmek" zararsızdır; durdurulmuşsa da geri açar.
+        run: |
+          gh workflow enable toplayici.yml || true
+          gh workflow enable nobetci.yml || true

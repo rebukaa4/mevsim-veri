@@ -20,6 +20,8 @@ jobs:
           python-version: "3.12"
       - name: Derleyici testleri
         run: python -m unittest discover -s testler -v
+      - name: Toplayıcı testleri
+        run: python -m unittest discover -s toplayici/testler -v
       - name: Şu an yayındaki dosyayı al (karşılaştırma için)
         run: curl -fsSL -o onceki.json https://rebukaa4.github.io/mevsim-veri/v1/mevsim_veri.json || rm -f onceki.json
       - name: Veriyi doğrula

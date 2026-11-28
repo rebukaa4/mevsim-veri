@@ -1,0 +1,71 @@
+{
+ "aciklama": "Toplayıcının tüm ayarları ve eşikleri. Bir kaynağı kapatmak için 'acik' değerini false yapın. Gün sayıları takvim günüdür; 'pazar günü' halin liste yayımladığı (boş olmayan, önceki günün aynısı olmayan) gündür.",
+ "istek": {
+  "kullanici_araci": "mevsim-veri-toplayici/1.0 (acik kaynakli mevsim takvimi; gunde birkac istek)",
+  "zaman_asimi_sn": 30,
+  "istekler_arasi_bekleme_sn": 2,
+  "geri_bakis_gun": 4
+ },
+ "kaynaklar": {
+  "izmir_sebze_meyve": {"acik": true, "ad": "İzmir BB sebze-meyve hali"},
+  "izmir_balik": {"acik": true, "ad": "İzmir BB balık hali"},
+  "hks": {"acik": true, "ad": "Hal Kayıt Sistemi (Ticaret Bakanlığı), yalnızca ilk sayfa", "not": "Kullanım koşulları doğrulanmadı; yalnızca ilk sayfa okunur, form gönderilmez. Kapatmak için acik: false."},
+  "resmi_gazete": {"acik": true, "ad": "Resmî Gazete günlük fihrist"},
+  "konya": {"acik": true, "ad": "Konya BB meyve-sebze hali"}
+ },
+ "yil_boyu_takvim_gun": 330,
+ "yil_boyu_halde_oran": 0.75,
+ "gunluk_en_fazla_oneri": 2,
+ "dislanan_etiketler": ["SERA", "ITHAL", "KULTUR", "DONUK", "TATLI", "YEM"],
+ "kurallar": {
+  "izmir": {
+   "bolge": "ege",
+   "deniz": "ege",
+   "donem_turleri": ["hasat", "av", "pazar_yogun"],
+   "pencere_gun": 21,
+   "erken_en_az_pazar_gunu": 4,
+   "erken_en_az_oran": 0.5,
+   "erken_fark_gun": 10,
+   "erken_ufuk_gun": 90,
+   "yok_gecikme_gun": 21,
+   "yok_en_az_pazar_gunu": 6,
+   "cekildi_son_pazar_gunu": 8,
+   "cekildi_kalan_gun": 21,
+   "cekildi_once_en_az_pazar_gunu": 4,
+   "bitti_fark_gun": 14,
+   "bitti_ufuk_gun": 60,
+   "not_gecerlilik_en_fazla_gun": 60
+  },
+  "konya": {
+   "bolge": "ic_anadolu",
+   "deniz": null,
+   "donem_turleri": ["pazar_yogun"],
+   "pencere_gun": 28,
+   "erken_en_az_pazar_gunu": 4,
+   "erken_en_az_oran": 0.6,
+   "erken_fark_gun": 14,
+   "erken_ufuk_gun": 90,
+   "yok_gecikme_gun": 28,
+   "yok_en_az_pazar_gunu": 6,
+   "cekildi_son_pazar_gunu": 6,
+   "cekildi_kalan_gun": 28,
+   "cekildi_once_en_az_pazar_gunu": 4,
+   "bitti_fark_gun": 21,
+   "bitti_ufuk_gun": 60,
+   "not_gecerlilik_en_fazla_gun": 60
+  },
+  "hks": {
+   "egilim_gun": 7,
+   "degisim_orani": 0.25
+  }
+ },
+ "resmi_gazete": {
+  "geri_bakis_gun": 3,
+  "anahtar_kaliplar": ["su ürünleri", "avcılığının düzenlenmesi", "(?<![\\d/])6/[12](?![\\d/])"],
+  "aciklama": "Başlıkta bu kalıplardan biri geçerse (büyük/küçük harf fark etmez) bir 'takvimi gözden geçir' kaydı (Issue) açılır. 'Tebliğ No' tek başına aranmaz, çünkü gıda ve vergi tebliğlerinde de geçiyor; başlıkta ayrıca görünürse Issue metnine yazılır."
+ },
+ "nobetci": {
+  "en_fazla_gun": 3,
+  "ardisik_hata": 5
+ }
+}

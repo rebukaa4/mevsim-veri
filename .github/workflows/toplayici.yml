@@ -1,0 +1,66 @@
+# Her sabah ~06:30 (Türkiye) kaynakları tarar; işaret bulursa ÖNERİ (PR / Issue) açar. Hiçbir şeyi birleştirmez.
+# Durum ve gözlem dosyaları ayrı "durum" dalına yazılır: main'in geçmişi ve veri_surumu değişmez, yayın tetiklenmez.
+name: Toplayıcı
+
+on:
+  schedule:
+    - cron: "30 3 * * *"          # 03:30 UTC = 06:30 Türkiye (UTC+3)
+  workflow_dispatch:
+    inputs:
+      kuru:
+        description: "Kuru çalıştırma (öneri açmaz, hiçbir şey kaydetmez)"
+        type: boolean
+        default: false
+      kaynak:
+        description: "Yalnızca bu kaynak"
+        type: choice
+        default: hepsi
+        options: [hepsi, izmir_sebze_meyve, izmir_balik, hks, konya, resmi_gazete]
+
+permissions: {}
+
+concurrency:
+  group: toplayici
+  cancel-in-progress: false
+
+jobs:
+  topla:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write        # durum dalına ve öneri dallarına yazmak için
+      pull-requests: write   # öneri PR'ı açmak için
+      issues: write          # Resmî Gazete "takvimi gözden geçir" kaydı için
+      actions: write         # öneri dalında PR kontrolünü başlatmak için
+    env:
+      GH_TOKEN: ${{ github.token }}
+      KURU: ${{ github.event_name == 'workflow_dispatch' && inputs.kuru || 'false' }}
+      KAYNAK: ${{ inputs.kaynak || 'hepsi' }}
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - name: Durum dalını al (yoksa boş başlat)
+        run: |
+          if git ls-remote --exit-code --heads origin durum >/dev/null; then
+            git clone --quiet --depth 1 --branch durum "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" _durum
+          else
+            mkdir -p _durum/durum && cd _durum && git init --quiet -b durum \
+              && git remote add origin "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          fi
+      - name: Toplayıcı testleri
+        run: python -m unittest discover -s toplayici/testler -v
+      - name: Kaynakları tara
+        run: |
+          ARG=""
+          if [ "$KURU" = "true" ]; then ARG="--kuru"; fi
+          python toplayici/toplayici.py --durum-dizini _durum/durum --kaynak "$KAYNAK" $ARG
+      - name: Durumu kaydet (durum dalı)
+        if: env.KURU != 'true'
+        run: |
+          cd _durum
+          git add -A
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+            commit --quiet -m "Toplayıcı durumu $(date -u +%Y-%m-%d)" || { echo "Değişiklik yok"; exit 0; }
+          git push --quiet origin HEAD:durum

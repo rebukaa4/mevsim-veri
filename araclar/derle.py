@@ -427,6 +427,10 @@ def kurallari_dogrula(veri: dict, hatalar: list[str], uyarilar: list[str], oncek
         if not isinstance(n, dict):
             continue
         on = f"yil_notlari/{n.get('id')}"
+        # Fiyat yok kuralı yıl notlarının kullanıcıya görünen metinleri için de geçerlidir
+        for alan in ("baslik", "metin"):
+            if _fiyat_dili(n.get(alan)):
+                hatalar.append(f"{on}: {alan} fiyattan söz ediyor (fiyat yok kuralı): {n.get(alan)!r}")
         if n.get("urun_id") not in urun:
             hatalar.append(f"{on}: bilinmeyen ürün: {n.get('urun_id')}")
         tur, kid = n.get("kapsam_turu"), n.get("kapsam_id")
