@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": null,
   "enerji_kaynak_link": null,
   "az_bilinen": true,
+  "bilinirlik": 4,
+  "siralama": 7,
   "tanitim": "Yabani kuşkonmaz (tilkişen), dikenli bir çalının baharda verdiği ince, yeşil körpe filizleridir; yalnızca filizlerin kolayca kırılan yumuşak uç kısmı yenir. Tadı kültür kuşkonmazından daha yoğun, hafif acımsı ve otsudur.",
   "hazirlama_adimlari": [
     "Her filizi iki elinizle tutup alt ucundan bükün; kendiliğinden kırıldığı yerden aşağısı serttir, atın.",

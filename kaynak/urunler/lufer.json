@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": "USDA FoodData Central — \"Fish, bluefish, raw\" (FDC ID 171949)",
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/171949/nutrients",
   "az_bilinen": false,
+  "bilinirlik": 2,
+  "siralama": 9,
   "tanitim": "Lüfer, çinekop ve sarıkanat aynı balığın boy adlarıdır: 8–10 cm defne yaprağı, 10–20 cm çinekop, 20–25 cm sarıkanat, 25–35 cm lüfer, 35 cm'den büyüğü kofana (Kalaycı ve ark. 2019, Gürtan 1959'a dayanarak). Yasal en küçük av boyu 18 cm'dir (Tebliğ 2024/20). Eti yumuşak ve orta yağlıdır, ızgarada ya da tavada yapılır.",
   "hazirlama_adimlari": [],
   "hazirlama_kaynak_adi": null,

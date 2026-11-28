@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": "USDA FoodData Central — \"Fish, anchovy, european, raw\" (FDC ID 174182)",
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/174182/nutrients",
   "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 1,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Hamsiyi alır almaz soğuk suyla yıkayıp buzdolabına koyun; temizliği aynı gün yapın.",

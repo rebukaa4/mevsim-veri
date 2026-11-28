@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Peppers, sweet, green, raw (FDC ID 170427)",
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170427/nutrients",
   "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 15,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Yıkayın; sap çevresini bıçakla daire şeklinde kesip kapak gibi çıkarın.",

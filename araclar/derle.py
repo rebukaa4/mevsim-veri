@@ -381,6 +381,26 @@ def kurallari_dogrula(veri: dict, hatalar: list[str], uyarilar: list[str], oncek
                 if ust is not None and (ust, m.get("donem_turu")) not in bolge_duzeyi:
                     hatalar.append(f"{mon}: {tur} düzeyi kaydın '{ust}' bölgesinde aynı dönem türüyle bölge düzeyi kaydı yok")
 
+    # Tanınırlık sırası (isteğe bağlı alanlar): kategori içinde sıra tekrar etmez,
+    # az bilinen ürün "herkesin bildiği" düzeyde olamaz.
+    kategori_sira: dict = {}
+    for u in veri.get("urunler", []):
+        if not isinstance(u, dict):
+            continue
+        on = f"urunler/{u.get('id')}"
+        duzey, sira = u.get("bilinirlik"), u.get("siralama")
+        if (duzey is None) != (sira is None):
+            uyarilar.append(f"{on}: bilinirlik ve siralama birlikte yazılmalı")
+        if isinstance(sira, int) and not isinstance(sira, bool):
+            anahtar = (u.get("kategori_id"), sira)
+            if anahtar in kategori_sira:
+                hatalar.append(f"{on}: siralama {sira}, '{u.get('kategori_id')}' kategorisinde "
+                               f"{kategori_sira[anahtar]} ile aynı")
+            else:
+                kategori_sira[anahtar] = u.get("id")
+        if u.get("az_bilinen") is True and isinstance(duzey, int) and duzey < 3:
+            hatalar.append(f"{on}: az bilinen ürünün bilinirlik değeri en az 3 olmalı")
+
     # Yıl notları
     for n in veri.get("yil_notlari", []):
         if not isinstance(n, dict):

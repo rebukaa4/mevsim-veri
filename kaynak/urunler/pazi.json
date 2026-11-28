@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Chard, swiss, raw (FDC ID 169991)",
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169991/nutrients",
   "az_bilinen": true,
+  "bilinirlik": 3,
+  "siralama": 45,
   "tanitim": "Pazı, pancarın yaprakları için yetiştirilen akrabasıdır; geniş yeşil yaprakları ve kalın beyaz ya da renkli sapları yenir. Tadı ıspanağa benzer ama biraz daha toprak tadındadır.",
   "hazirlama_adimlari": [
     "Yaprakları bol suda, toprağı tamamen gidene kadar yıkayın.",

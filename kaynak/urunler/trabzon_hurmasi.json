@@ -17,6 +17,8 @@
   "enerji_kaynak_adi": "USDA FoodData Central — Persimmons, japanese, raw (FDC ID 169941, SR Legacy)",
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169941/nutrients",
   "az_bilinen": true,
+  "bilinirlik": 3,
+  "siralama": 39,
   "tanitim": "Trabzon hurması, domatese benzeyen turuncu bir sonbahar meyvesidir. Tam olgunlaşmadan yenirse ağzı buruşturur; iyice yumuşayınca tatlı, jöle kıvamında olur. Kaşıkla ya da soyulup dilimlenerek yenir.",
   "hazirlama_adimlari": [
     "Sert ve buruk olanları oda sıcaklığında, bir elma ya da muzla aynı poşette 3–7 gün bekletin; iyice yumuşayınca buruk tadı kaybolur.",

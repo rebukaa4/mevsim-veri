@@ -356,6 +356,75 @@ class DerleTesti(unittest.TestCase):
         _, hatalar, _ = self.derle(onceki=onceki)
         self.assertTrue(any("%90" in h for h in hatalar), hatalar)
 
+    # tanınırlık sırası -------------------------------------------------------
+    def test_bilinirlik_istege_bagli_ve_gecerli_deger_gecer(self):
+        self.urun_degistir("ornek_hamsi", lambda u: u.update(bilinirlik=1, siralama=1))
+        self.urun_degistir("ornek_levrek_ciftlik", lambda u: u.update(bilinirlik=2, siralama=2))
+        veri, hatalar, _ = self.derle()
+        self.assertEqual(hatalar, [])
+        self.assertNotIn("bilinirlik", next(u for u in veri["urunler"] if u["id"] == "ornek_ispanak"))
+
+    def test_bilinirlik_aralik_disi(self):
+        self.urun_degistir("ornek_hamsi", lambda u: u.update(bilinirlik=6, siralama=1))
+        self.reddedilmeli("en fazla 5")
+        self.urun_degistir("ornek_hamsi", lambda u: u.update(bilinirlik=0, siralama=1))
+        self.reddedilmeli("en az 1")
+
+    def test_siralama_tamsayi_ve_pozitif(self):
+        self.urun_degistir("ornek_hamsi", lambda u: u.update(bilinirlik=1, siralama=0))
+        self.reddedilmeli("en az 1")
+        self.urun_degistir("ornek_hamsi", lambda u: u.update(bilinirlik=1, siralama="1"))
+        self.reddedilmeli("tip integer/null")
+
+    def test_ayni_kategoride_tekrar_eden_siralama(self):
+        self.urun_degistir("ornek_hamsi", lambda u: u.update(bilinirlik=1, siralama=3))
+        self.urun_degistir("ornek_levrek_ciftlik", lambda u: u.update(bilinirlik=1, siralama=3))
+        self.reddedilmeli("kategorisinde")
+
+    def test_farkli_kategoride_ayni_siralama_serbest(self):
+        self.urun_degistir("ornek_hamsi", lambda u: u.update(bilinirlik=1, siralama=1))
+        self.urun_degistir("ornek_ispanak", lambda u: u.update(bilinirlik=1, siralama=1))
+        _, hatalar, _ = self.derle()
+        self.assertEqual(hatalar, [])
+
+    def test_az_bilinen_ust_sirada_olamaz(self):
+        def degis(u):
+            u.update(az_bilinen=True, bilinirlik=2, siralama=1, tanitim="Tanıtım.",
+                     hazirlama_adimlari=["Yıkayın."])
+        self.urun_degistir("ornek_hamsi", degis)
+        self.reddedilmeli("en az 3")
+
+    def test_gercek_kaynakta_her_urunun_sirasi_var(self):
+        veri, _, _ = derle.derle(KOK / "kaynak", SEMA, 5)
+        for u in veri["urunler"]:
+            self.assertIsInstance(u.get("bilinirlik"), int, u["id"])
+            self.assertIsInstance(u.get("siralama"), int, u["id"])
+        hamsi = next(u for u in veri["urunler"] if u["id"] == "hamsi")
+        self.assertEqual((hamsi["bilinirlik"], hamsi["siralama"]), (1, 1))
+
+    def test_siralama_dosyasi_kurallari(self):
+        import ege_icerik_aktar as aktar
+        yol = self.gecici / "bilinirlik.json"
+        urunler = {"a": {}, "b": {"yoresel_il_id": "35"}, "c": {}, "d": {"az_bilinen": True}}
+        kategori = {"a": "sebze", "b": "sebze", "c": "sebze", "d": "sebze"}
+
+        def dene(liste):
+            yol.write_text(json.dumps({"aciklama": "", "sebze": liste}), encoding="utf-8")
+            hatalar = []
+            return aktar.bilinirlik_oku(yol, urunler, kategori, hatalar), hatalar
+
+        sonuc, hatalar = dene([["a", 1], ["b", 1], ["c", 2], ["d", 3]])
+        self.assertEqual(hatalar, [])
+        self.assertEqual(sonuc["c"], (2, 3))
+        _, hatalar = dene([["a", 2], ["b", 2], ["c", 1], ["d", 3]])
+        self.assertTrue(any("daha az bilinen" in h for h in hatalar), hatalar)
+        _, hatalar = dene([["b", 1], ["a", 1], ["c", 2], ["d", 3]])
+        self.assertTrue(any("yöresel" in h for h in hatalar), hatalar)
+        _, hatalar = dene([["a", 1], ["b", 1], ["c", 2], ["d", 2]])
+        self.assertTrue(any("en az 3" in h for h in hatalar), hatalar)
+        _, hatalar = dene([["a", 1], ["b", 1], ["c", 2]])
+        self.assertTrue(any("sıralama dosyasında yok" in h for h in hatalar), hatalar)
+
     def test_sema_surumu_sabit(self):
         veri, _, _ = self.derle()
         veri["sema_surumu"] = 2

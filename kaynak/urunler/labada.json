@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Dock, raw (FDC ID 170076)",
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170076/nutrients",
   "az_bilinen": true,
+  "bilinirlik": 4,
+  "siralama": 11,
   "tanitim": "Labada, geniş ve uzun yapraklı yabani bir bitkidir (Rumex türleri); genç yaprakları yenir. Tadı ıspanağa benzer ama hafif ekşimsidir; sarma ve kavurmada kullanılır.",
   "hazirlama_adimlari": [
     "Yaprakları saplarından ayırın; kalın orta damarı keserek inceltin.",

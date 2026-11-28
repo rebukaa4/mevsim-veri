@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": null,
   "enerji_kaynak_link": null,
   "az_bilinen": true,
+  "bilinirlik": 5,
+  "siralama": 12,
   "tanitim": "Arapsaçı, yabani rezenenin ince, tüy gibi yapraklarıdır; yaprakları ve körpe sapları yenir. Tadı ve kokusu anasonu andırır; börekte, kavurmada ve zeytinyağlılarda kullanılır.",
   "hazirlama_adimlari": [
     "Kalın, sert sapları ayırın; yalnızca ince yaprakları ve körpe sapları kullanın.",

@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": "CREA Centro di ricerca Alimenti e Nutrizione, Tabelle di Composizione degli Alimenti (İtalya, 2019) — \"Spigola\" (kod 123200)",
   "enerji_kaynak_link": "https://www.alimentinutrizione.it/tabelle-nutrizionali/123200",
   "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 5,
   "tanitim": "Doğal levrek denizden avlanır; çiftlik levreğine göre genellikle daha iri, yağı daha az ve eti daha sıkıdır. Ayrımı satıcıya sormak en güvenlisidir; halde 'deniz' ve 'kültür' diye ayrı satılır.",
   "hazirlama_adimlari": [
     "İsterseniz temizliği balıkçıya yaptırabilirsiniz; evde yapacaksanız mutfak lavabosunda, soğuk suyla çalışın.",

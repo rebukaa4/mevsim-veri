@@ -133,6 +133,8 @@
         "enerji_kaynak_adi": {"$ref": "#/$defs/metin_bos"},
         "enerji_kaynak_link": {"$ref": "#/$defs/link_bos"},
         "az_bilinen": {"type": "boolean"},
+        "bilinirlik": {"type": ["integer", "null"], "minimum": 1, "maximum": 5, "description": "İsteğe bağlı. 1 = herkes düzenli alır ... 5 = nadir / uzman işi."},
+        "siralama": {"type": ["integer", "null"], "minimum": 1, "description": "İsteğe bağlı. Kategori içinde en tanınandan en az tanınana sıra (1 = en üstte)."},
         "tanitim": {"$ref": "#/$defs/metin_bos"},
         "hazirlama_adimlari": {"$ref": "#/$defs/metin_dizisi"},
         "hazirlama_kaynak_adi": {"$ref": "#/$defs/metin_bos"},

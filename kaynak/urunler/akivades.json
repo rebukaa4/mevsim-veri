@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": "USDA FoodData Central — \"Mollusks, clam, mixed species, raw\" (FDC ID 174214)",
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/174214/nutrients",
   "az_bilinen": true,
+  "bilinirlik": 5,
+  "siralama": 35,
   "tanitim": "Kum ve çakıllı dipte yaşayan, kabuğunda halka halka kabartılar olan bir kabuklu deniz ürünüdür; içi küçük, tatlı ve hafif tuzludur. Genellikle sarımsaklı buğulama ya da makarna yapılır. Halde satılmaz; balıkçı ve toplayıcılardan bulunur.",
   "hazirlama_adimlari": [
     "Yalnızca güvendiğiniz, kontrollü bölgeden toplanmış ürün satan balıkçıdan alın; kabuklu deniz ürünleri suyun temizliğinden doğrudan etkilenir.",

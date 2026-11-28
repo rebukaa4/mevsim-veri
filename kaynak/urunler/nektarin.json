@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": "USDA FoodData Central — Nectarines, raw (FDC ID 169914, SR Legacy)",
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169914/nutrients",
   "az_bilinen": false,
+  "bilinirlik": 2,
+  "siralama": 34,
   "tanitim": null,
   "hazirlama_adimlari": [],
   "hazirlama_kaynak_adi": null,

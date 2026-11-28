@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Eggplant, raw (FDC ID 169228)",
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169228/nutrients",
   "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 4,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Yıkayın, sapını kesin; isterseniz kabuğunu alacalı (bir şerit soyup bir şerit bırakarak) soyun.",

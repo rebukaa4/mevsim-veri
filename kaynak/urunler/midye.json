@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": "USDA FoodData Central — \"Mollusks, mussel, blue, raw\" (FDC ID 174216)",
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/174216/nutrients",
   "az_bilinen": false,
+  "bilinirlik": 2,
+  "siralama": 16,
   "tanitim": "Kara midye (Mytilus galloprovincialis), kayalara ve iskelelere tutunarak yaşayan, siyah-mor kabuklu bir kabuklu deniz ürünüdür. İçi turuncu ya da krem renkli, hafif tuzlu ve tatlımsıdır; tava, pilaki, buğulama ya da dolma yapılır. Yasal av yasağı 15 Nisan – 30 Haziran arasıdır (Tebliğ 2024/20).",
   "hazirlama_adimlari": [
     "Kabuklu deniz ürünleri suyun temizliğinden doğrudan etkilenir; midyeyi yalnızca güvendiğiniz, kontrollü üretim ya da toplama bölgesinden ürün satan balıkçıdan alın.",

@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": "USDA FoodData Central — Lemons, raw, without peel (FDC ID 167746, SR Legacy)",
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/167746/nutrients",
   "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 10,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Daha çok su almak için limonu sıkmadan önce tezgâhta avucunuzla bastırarak yuvarlayın."

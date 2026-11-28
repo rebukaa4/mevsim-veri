@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Potatoes, flesh and skin, raw (FDC ID 170026)",
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170026/nutrients",
   "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 5,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Patatesi fırçayla yıkayın; taze patates kabuğuyla da pişirilebilir.",

@@ -17,6 +17,8 @@
   "enerji_kaynak_adi": "USDA FoodData Central — Loquats, raw (FDC ID 169908, SR Legacy)",
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169908/nutrients",
   "az_bilinen": true,
+  "bilinirlik": 3,
+  "siralama": 38,
   "tanitim": "Yenidünya, erikten biraz büyük, ince turuncu kabuklu bir ilkbahar meyvesidir. Tadı tatlı-mayhoştur; kabuğu soyulup çekirdekleri çıkarılarak taze yenir, kompostosu ve reçeli de yapılır.",
   "hazirlama_adimlari": [
     "Yıkayın, sapını koparın.",

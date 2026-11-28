@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": "Kocatepe D., Altan C.O., Turan H. 2019. Ukrainian Food Journal 8(3) — Karadeniz mezgidi, Aralık–Mayıs aylık bileşim",
   "enerji_kaynak_link": "https://doi.org/10.24263/2304-974X-2019-8-3-5",
   "az_bilinen": false,
+  "bilinirlik": 2,
+  "siralama": 10,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Pulları kuyruktan başa doğru bıçağın sırtıyla kazıyın; bunu dolu bir leğende ya da poşetin içinde yaparsanız pullar etrafa sıçramaz.",

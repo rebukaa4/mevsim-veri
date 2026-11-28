@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Okra, raw (FDC ID 169260)",
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169260/nutrients",
   "az_bilinen": true,
+  "bilinirlik": 3,
+  "siralama": 43,
   "tanitim": "Bamya, köşeli kabukları içindeki küçük tohumlarla birlikte bütün olarak yenen bir sebzedir. Pişince yumuşar ve hafif kaygan bir dokusu olur; limon ya da domatesle ekşili pişirilince tadı açılır.",
   "hazirlama_adimlari": [
     "Bamyaları yıkamadan önce sap kısmındaki külahı, sivri bir bıçakla kalem açar gibi çevirerek inceltin; içini açmayın, yoksa salyası çıkar.",

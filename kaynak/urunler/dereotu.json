@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Dill weed, fresh (FDC ID 172233)",
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/172233/nutrients",
   "az_bilinen": false,
+  "bilinirlik": 2,
+  "siralama": 28,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Kalın saplarını kesin, bol suda yıkayıp süzün.",

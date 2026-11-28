@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": null,
   "enerji_kaynak_link": null,
   "az_bilinen": true,
+  "bilinirlik": 4,
+  "siralama": 10,
   "tanitim": "Turp otu, yabani turpun (Raphanus raphanistrum) çiçeklenmeden önce toplanan genç yaprak ve körpe saplarıdır. Tadı hafif acı ve turpu andıran keskinliktedir; haşlanınca yumuşar.",
   "hazirlama_adimlari": [
     "Sert sap uçlarını ve sararmış yaprakları ayıklayın.",

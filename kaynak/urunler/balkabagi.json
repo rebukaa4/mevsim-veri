@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": "USDA FoodData Central, SR Legacy: Pumpkin, raw (FDC ID 168448)",
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/168448/nutrients",
   "az_bilinen": false,
+  "bilinirlik": 2,
+  "siralama": 34,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Kalın kabuğunu keskin bir bıçakla, dilimleri tahtaya yatırarak soyun.",

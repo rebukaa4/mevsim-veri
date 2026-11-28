@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": "Boran G., Karaçam H. 2011. Seasonal Changes in Proximate Composition of Some Fish Species from the Black Sea. Turk. J. Fish. Aquat. Sci. 11:1-5 (Tablo 1)",
   "enerji_kaynak_link": "https://www.trjfas.org/pdf.php?id=657",
   "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 2,
   "tanitim": "Tezgâhta 'istavrit' adıyla iki yakın tür satılır: karagöz istavrit (Trachurus trachurus) ve sarıkuyruk istavrit (Trachurus mediterraneus); ikisi de aynı şekilde pişirilir. Yan çizgisi boyunca sert pulları (kalkan pulları) vardır; genellikle tava yapılır.",
   "hazirlama_adimlari": [
     "Başını ve iç organlarını çıkarıp karnını yıkayın.",

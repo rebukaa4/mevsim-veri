@@ -15,6 +15,8 @@
   "enerji_kaynak_adi": "USDA FoodData Central — \"Fish, swordfish, raw\" (FDC ID 173703)",
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/173703/nutrients",
   "az_bilinen": false,
+  "bilinirlik": 3,
+  "siralama": 23,
   "tanitim": null,
   "hazirlama_adimlari": [],
   "hazirlama_kaynak_adi": null,
