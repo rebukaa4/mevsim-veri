@@ -60,6 +60,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Akdeniz kıyısında açık tarla domatesi haziranda gelmeye başlar ve don olmadığı için kasım sonuna kadar sürer; sera domatesi yıl boyu bulunur."
+    },
+    {
+      "id": "domates__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "07-15",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Boyabat Gazidere Domatesi (No 427) + Türk Patent coğrafi işaret tescili: Safranbolu Maniye Domatesi (No 1195) + Sağlam N., Taşova C. 2017, Akademik Ziraat Dergisi 6(Özel sayı):41–46 (Tokat domates)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/0421b251-5936-477c-8734-61af4b8cf470.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Karadeniz tarla domatesi Temmuz ortasında gelmeye başlar, Ekim sonuna kadar sürer; kışın gelen domates seradır."
     }
   ],
   "secim_ipuclari": [

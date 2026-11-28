@@ -73,6 +73,32 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Kuru sarımsak depodan yıl boyu bulunur."
+    },
+    {
+      "id": "kuru_sarimsak__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "07-01",
+      "bit": "07-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Taşköprü Sarımsağı (No 135) + Türk Patent coğrafi işaret tescili: Çorum Üyük Sarımsağı (No 1906)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/f24563b0-579b-4fd4-a47c-28339c21dbc7.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Taşköprü sarımsağı Temmuz'da sökülür."
+    },
+    {
+      "id": "kuru_sarimsak__karadeniz__depo__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "depo",
+      "bas": "08-01",
+      "bit": "04-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Taşköprü Sarımsağı (No 135)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/f24563b0-579b-4fd4-a47c-28339c21dbc7.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Yerli kuru sarımsak depodan Nisan sonuna kadar bulunur."
     }
   ],
   "secim_ipuclari": [

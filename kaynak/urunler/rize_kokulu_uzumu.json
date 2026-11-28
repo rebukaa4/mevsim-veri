@@ -1,0 +1,70 @@
+{
+  "id": "rize_kokulu_uzumu",
+  "ad": "Rize Kokulu Üzümü",
+  "diger_adlar": [
+    "çilek üzümü"
+  ],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Rize'nin Amerikan asmasından (Vitis labrusca) mavimsi siyah, kalın kabuklu, yuvarlak taneli üzümü; kendine özgü güçlü bir kokusu vardır, tanesinde 2–3 çekirdek bulunur.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "53",
+  "gorsel_id": "rize_kokulu_uzumu",
+  "aktif": true,
+  "enerji_kcal_100g": 67,
+  "enerji_durum": "çiğ (USDA'daki Amerikan tipi, kabuğu kolay ayrılan üzüm kaydı; aynı tür, Vitis labrusca)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Grapes, american type (slip skin), raw (FDC ID 174682, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/174682/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 63,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Yemeden hemen önce, salkımı bir süzgece koyup akan su altında yıkayın.",
+    "Taneleri sapından ayırmadan buzdolabında saklayın; ayırınca daha çabuk bozulur."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "rize_kokulu_uzumu__53__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "53",
+      "donem_turu": "hasat",
+      "bas": "08-01",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Rize Kokulu Üzümü (No 1721)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/1643410f-79dc-4eff-910d-0536a11cd202.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Rize kokulu üzümü Ağustos–Ekim arasında toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Salkım sapı yeşil ve esnek olsun; kahverengi, kuru sap eski üründür.",
+    "Taneler salkıma sıkıca bağlı olmalı; sallayınca dökülüyorsa bekletilmiştir.",
+    "Tanelerde ezik, çatlak ya da kahverengi leke olmamalı.",
+    "Tane üzerindeki ince beyaz pus doğaldır."
+  ],
+  "besin": [
+    {
+      "ad": "Manganez",
+      "tur": "mineral",
+      "aciklama": "Manganez açısından zengindir: 100 g'da 0,72 mg; günlük başvuru değerine oranı yaklaşık %36.",
+      "kaynak_adi": "USDA FoodData Central — Grapes, american type (slip skin), raw (FDC ID 174682, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/174682/nutrients"
+    },
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini kaynağıdır: 100 g'da 14,6 µg; günlük başvuru değerine oranı yaklaşık %19.",
+      "kaynak_adi": "USDA FoodData Central — Grapes, american type (slip skin), raw (FDC ID 174682, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/174682/nutrients"
+    }
+  ],
+  "tarifler": [
+    "meyve_salatasi",
+    "uzum_kompostosu"
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": "turk_somonu",
+  "ad": "Türk somonu",
+  "diger_adlar": [
+    "deniz alabalığı",
+    "Karadeniz somonu"
+  ],
+  "kategori_id": "balik_deniz",
+  "kisa_tanim": "Karadeniz'de deniz kafeslerinde iri boya kadar büyütülen gökkuşağı alabalığı; somon değildir. Denizden taze hasadı kış ve bahar aylarındadır.",
+  "uretim_sekli": "ciftlik",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "turk_somonu",
+  "aktif": true,
+  "enerji_kcal_100g": 141,
+  "enerji_durum": "çiğ (USDA'daki çiftlik gökkuşağı alabalığı kaydı; Türk somonu aynı türdür)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Fish, trout, rainbow, farmed, raw (FDC ID 173717, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/173717/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 2,
+  "siralama": 15,
+  "tanitim": "Türk somonu, somon değil, iri boya (2–4 kg ve üstü) kadar büyütülmüş gökkuşağı alabalığıdır (Oncorhynchus mykiss). Yavrular önce tatlı suda büyütülür; deniz suyu soğuyunca sonbahar sonunda Karadeniz'deki ağ kafeslere taşınır ve deniz ısınmadan, bahar boyunca hasat edilir. Eti pembe-turuncu, yağlı ve sıkıdır; fileto, dilim ya da bütün olarak satılır. Yaz aylarında Karadeniz'de deniz kafesi yetiştiriciliği yapılmaz; bu aylarda bulunan iri alabalık dondurulmuş ya da tatlı suda yetiştirilmiştir.",
+  "hazirlama_adimlari": [
+    "Bütün balığı balıkçıya temizletip fileto ya da dilim yaptırabilirsiniz.",
+    "Filetodaki ince kılçıkları parmakla yoklayıp cımbızla çekin.",
+    "Derili tarafını kurulayın; tavada ve ızgarada önce deri tarafı pişirilirse deri çıtır olur.",
+    "Eti kalın olduğundan orta ateşte, içi tam pişene kadar (yaklaşık 10–15 dakika) pişirin."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "turk_somonu__karadeniz__hasat__1",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "01-01",
+      "bit": "06-30",
+      "kaynak_adi": "Verep & Balta 2023, Karadeniz'de deniz alabalığı (Türk somonu) yetiştiriciliği + İstanbul Üniversitesi Veteriner Fakültesi Dergisi 2003, Karadeniz'de ağ kafeste alabalık",
+      "kaynak_link": "https://dergipark.org.tr/tr/download/article-file/3525414",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Türk somonu Karadeniz'de deniz kafeslerinde yetiştirilen çiftlik alabalığıdır; taze olarak en çok kış sonu ve bahar boyunca, Haziran'a kadar çıkar."
+    }
+  ],
+  "secim_ipuclari": [
+    "Bütün balıkta gözler parlak ve dolgun, solungaçlar kırmızı olsun; deri parlak ve kaygan olmalı.",
+    "Fileto ve dilimde et canlı pembe-turuncu, sıkı ve nemli olmalı; kurumuş, solmuş ya da ayrışmış et bayattır.",
+    "Temiz deniz kokmalı; ağır ya da ekşi kokan balığı almayın."
+  ],
+  "besin": [
+    {
+      "ad": "Protein",
+      "tur": "diger",
+      "aciklama": "Protein açısından zengindir: enerjisinin yaklaşık %57'si proteinden gelir (100 g'da 19,9 g).",
+      "kaynak_adi": "USDA FoodData Central — Fish, trout, rainbow, farmed, raw (FDC ID 173717, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173717/nutrients"
+    },
+    {
+      "ad": "Selenyum",
+      "tur": "mineral",
+      "aciklama": "Selenyum açısından zengindir: 100 g'da 23,6 µg; günlük başvuru değerine oranı yaklaşık %43.",
+      "kaynak_adi": "USDA FoodData Central — Fish, trout, rainbow, farmed, raw (FDC ID 173717, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173717/nutrients"
+    },
+    {
+      "ad": "Niasin",
+      "tur": "vitamin",
+      "aciklama": "Niasin açısından zengindir: 100 g'da 5,57 mg; günlük başvuru değerine oranı yaklaşık %35.",
+      "kaynak_adi": "USDA FoodData Central — Fish, trout, rainbow, farmed, raw (FDC ID 173717, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173717/nutrients"
+    },
+    {
+      "ad": "Fosfor",
+      "tur": "mineral",
+      "aciklama": "Fosfor açısından zengindir: 100 g'da 226 mg; günlük başvuru değerine oranı yaklaşık %32.",
+      "kaynak_adi": "USDA FoodData Central — Fish, trout, rainbow, farmed, raw (FDC ID 173717, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173717/nutrients"
+    },
+    {
+      "ad": "Pantotenik asit",
+      "tur": "vitamin",
+      "aciklama": "Pantotenik asit kaynağıdır: 100 g'da 1,67 mg; günlük başvuru değerine oranı yaklaşık %28.",
+      "kaynak_adi": "USDA FoodData Central — Fish, trout, rainbow, farmed, raw (FDC ID 173717, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173717/nutrients"
+    },
+    {
+      "ad": "B6 vitamini",
+      "tur": "vitamin",
+      "aciklama": "B6 vitamini kaynağıdır: 100 g'da 0,34 mg; günlük başvuru değerine oranı yaklaşık %24.",
+      "kaynak_adi": "USDA FoodData Central — Fish, trout, rainbow, farmed, raw (FDC ID 173717, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173717/nutrients"
+    },
+    {
+      "ad": "E vitamini",
+      "tur": "vitamin",
+      "aciklama": "E vitamini kaynağıdır: 100 g'da 2,34 mg; günlük başvuru değerine oranı yaklaşık %19.",
+      "kaynak_adi": "USDA FoodData Central — Fish, trout, rainbow, farmed, raw (FDC ID 173717, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/173717/nutrients"
+    }
+  ],
+  "tarifler": [
+    "firinda_turk_somonu",
+    "izgara_balik"
+  ]
+}

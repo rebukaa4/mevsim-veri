@@ -16,7 +16,7 @@
   "enerji_kaynak_link": null,
   "az_bilinen": true,
   "bilinirlik": 3,
-  "siralama": 77,
+  "siralama": 87,
   "tanitim": "Kızılcık, zeytin büyüklüğünde, zeytin biçimli, parlak kırmızı bir meyvedir; ortasında tek ve sert bir çekirdeği vardır. Çiğken oldukça ekşidir; iyice olgunlaşıp koyu kırmızıya dönünce ve dalında yumuşayınca ekşiliği azalır. Ağustos ve eylülde pazara gelir; çoğunlukla şerbet, reçel, marmelat ve pestil yapılır.",
   "hazirlama_adimlari": [
     "Saplarını ayıklayıp bol suda yıkayın.",
@@ -36,6 +36,19 @@
       "bit": "09-30",
       "kaynak_adi": "İBB Ürün Bazlı Hal Tonajları Veri Seti (2023; 2024 ve 2025 Bayrampaşa Hali)",
       "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kızılcık Ağustos–Eylül'de pazarda bulunur."
+    },
+    {
+      "id": "kizilcik__karadeniz__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "08-01",
+      "bit": "09-30",
+      "kaynak_adi": "Karaer F., Töngel Ö. 2015, Samsun'da Yetişen Yenebilir Yabani Otlar ve Meyveler Rehberi (OKA) + Mevsim, Marmara ürün tablosu (docs/08_marmara_urun_tablosu.md) ve oradaki İBB hal tonajları",
+      "kaynak_link": "https://oka.gov.tr/assets/upload/dosyalar/162samsun_ot_yemekleri_rehber.pdf",
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Kızılcık Ağustos–Eylül'de pazarda bulunur."

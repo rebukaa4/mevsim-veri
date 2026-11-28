@@ -77,6 +77,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "İstavrit Akdeniz'de eylül ortasından nisan ortasına kadar avlanır."
+    },
+    {
+      "id": "istavrit__karadeniz__av__1",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "av",
+      "bas": "09-15",
+      "bit": "12-31",
+      "kaynak_adi": "SÜMAE, YUNUS Araştırma Bülteni 8(1), 2008 (Karadeniz balıkları) + Tebliğ 2026/25, RG 16.09.2026 + 6/1 Numaralı Tebliğ (2024/20), RG 11.08.2024",
+      "kaynak_link": "https://dergipark.org.tr/tr/download/article-file/204324",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "İstavrit Karadeniz'de av açılışından (15 Eylül) Aralık sonuna kadar bol."
     }
   ],
   "secim_ipuclari": [

@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/168153/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 62,
+  "siralama": 70,
   "tanitim": null,
   "hazirlama_adimlari": [
     "İkiye bölüp kaşıkla oyarak ya da kabuğunu bıçakla soyup dilimleyerek yiyin."
@@ -75,6 +75,32 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Yerli kivi kasımdan nisan sonuna kadar, kışın depodan bulunur."
+    },
+    {
+      "id": "kivi__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "11-01",
+      "bit": "11-30",
+      "kaynak_adi": "Timeturk 13.11.2026, 'Ordu kivisi hasadı başladı' + Türk Patent coğrafi işaret tescili: Ordu Kivisi (No 451)",
+      "kaynak_link": "https://www.timeturk.com/ordu-kivisi-hasadi-basladi-9-bin-370-ton-rekolte-bekleniyor",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Karadeniz kivisi Kasım ayında toplanır."
+    },
+    {
+      "id": "kivi__karadeniz__depo__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "depo",
+      "bas": "12-01",
+      "bit": "04-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Ordu Kivisi (No 451)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/37bae9e6-f873-488d-a061-17e65c3b364d.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kivi soğuk depodan Nisan sonuna kadar bulunur."
     }
   ],
   "secim_ipuclari": [

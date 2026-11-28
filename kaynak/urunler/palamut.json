@@ -52,6 +52,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "akademik",
       "not": "Palamut avı 1 Nisan – 31 Ağustos arasında yasaktır; sonbahar göçüyle Ege'ye gelir."
+    },
+    {
+      "id": "palamut__karadeniz__av__1",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "av",
+      "bas": "09-01",
+      "bit": "11-30",
+      "kaynak_adi": "Genç ve ark. 2025, Turkish Journal of Maritime and Marine Sciences (Karadeniz palamutu aylık örnekleme) + Tebliğ 2025/11, RG 16.04.2025",
+      "kaynak_link": "https://dergipark.org.tr/tr/download/article-file/4125585",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "akademik",
+      "not": "Palamut Karadeniz'de Eylül'den Kasım sonuna kadar bol; en bol Eylül–Ekim."
     }
   ],
   "secim_ipuclari": [

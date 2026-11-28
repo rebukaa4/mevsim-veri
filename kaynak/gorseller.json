@@ -153,6 +153,15 @@
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {
+    "id": "bolu_kanlica_mantari",
+    "kaynak_adi": "Wikimedia Commons: Lachs-Reizker (Lactarius salmonicolor).JPG",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Lachs-Reizker_(Lactarius_salmonicolor).JPG",
+    "yazar": "Holger Krisp",
+    "lisans": "CC BY 3.0",
+    "lisans_link": "https://creativecommons.org/licenses/by/3.0/",
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
     "id": "borulce",
     "kaynak_adi": "Wikimedia Commons: Purple cowpea pods.jpg",
     "kaynak_link": "https://commons.wikimedia.org/wiki/File:Purple_cowpea_pods.jpg",
@@ -249,15 +258,6 @@
     "yazar": "ABD Gıda ve İlaç Dairesi (FDA)",
     "lisans": "Public domain",
     "lisans_link": null,
-    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
-  },
-  {
-    "id": "degirmendere_findigi",
-    "kaynak_adi": "Wikimedia Commons: Hazelnuts (Corylus avellana).jpg",
-    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Hazelnuts_(Corylus_avellana).jpg",
-    "yazar": "Ivar Leidus",
-    "lisans": "CC BY-SA 4.0",
-    "lisans_link": "https://creativecommons.org/licenses/by-sa/4.0/",
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {
@@ -369,6 +369,15 @@
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {
+    "id": "findik",
+    "kaynak_adi": "Wikimedia Commons: Hazelnuts (Corylus avellana).jpg",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Hazelnuts_(Corylus_avellana).jpg",
+    "yazar": "Ivar Leidus",
+    "lisans": "CC BY-SA 4.0",
+    "lisans_link": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
     "id": "gemlik_zeytini",
     "kaynak_adi": "Wikimedia Commons: Olives in bowl.jpg",
     "kaynak_link": "https://commons.wikimedia.org/wiki/File:Olives_in_bowl.jpg",
@@ -477,6 +486,15 @@
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {
+    "id": "kaldirik",
+    "kaynak_adi": "Wikimedia Commons: Trachystemon orientalis (6).jpg",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Trachystemon_orientalis_(6).jpg",
+    "yazar": "Karduelis",
+    "lisans": "Public domain",
+    "lisans_link": null,
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
     "id": "kale_biberi",
     "kaynak_adi": "Wikimedia Commons: Large Cayenne.jpg",
     "kaynak_link": "https://commons.wikimedia.org/wiki/File:Large_Cayenne.jpg",
@@ -528,6 +546,15 @@
     "yazar": "Albert Cardona",
     "lisans": "CC BY 4.0",
     "lisans_link": "https://creativecommons.org/licenses/by/4.0/",
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
+    "id": "karayemis",
+    "kaynak_adi": "Wikimedia Commons: Prunus laurocerasus - Taflan, Giresun 2017-07-05 01-11.jpg",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Prunus_laurocerasus_-_Taflan,_Giresun_2017-07-05_01-11.jpg",
+    "yazar": "Zeynel Cebeci",
+    "lisans": "CC BY-SA 4.0",
+    "lisans_link": "https://creativecommons.org/licenses/by-sa/4.0/",
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {
@@ -684,6 +711,15 @@
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {
+    "id": "kocayemis",
+    "kaynak_adi": "Wikimedia Commons: Arbouse.jpg",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Arbouse.jpg",
+    "yazar": "Didier Descouens",
+    "lisans": "CC BY-SA 4.0",
+    "lisans_link": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
     "id": "kolyoz",
     "kaynak_adi": "Wikimedia Commons: Scomber colias (FDA 263).jpg",
     "kaynak_link": "https://commons.wikimedia.org/wiki/File:Scomber_colias_(FDA_263).jpg",
@@ -756,6 +792,15 @@
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {
+    "id": "likapa",
+    "kaynak_adi": "Wikimedia Commons: Blueberries in Austria.jpg",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Blueberries_in_Austria.jpg",
+    "yazar": "Tiia Monto",
+    "lisans": "CC BY-SA 3.0",
+    "lisans_link": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
     "id": "limon",
     "kaynak_adi": "Wikimedia Commons: Lemon-Whole-Split.jpg",
     "kaynak_link": "https://commons.wikimedia.org/wiki/File:Lemon-Whole-Split.jpg",
@@ -771,6 +816,15 @@
     "yazar": "ABD Gıda ve İlaç Dairesi (FDA)",
     "lisans": "Public domain",
     "lisans_link": null,
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
+    "id": "madimak",
+    "kaynak_adi": "Wikimedia Commons: Polygonum cognatum kz01.jpg",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Polygonum_cognatum_kz01.jpg",
+    "yazar": "Krzysztof Ziarnek, Kenraiz",
+    "lisans": "CC BY-SA 4.0",
+    "lisans_link": "https://creativecommons.org/licenses/by-sa/4.0/",
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {
@@ -805,6 +859,15 @@
     "kaynak_adi": "Wikimedia Commons: Liat Portal for Foodie Disorder - Parsley.jpg",
     "kaynak_link": "https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Parsley.jpg",
     "yazar": "HaJunkiyada",
+    "lisans": "CC BY-SA 4.0",
+    "lisans_link": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
+    "id": "melocan",
+    "kaynak_adi": "Wikimedia Commons: Smilax excelsa - Dikenucu.JPG",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Smilax_excelsa_-_Dikenucu.JPG",
+    "yazar": "Zeynel Cebeci",
     "lisans": "CC BY-SA 4.0",
     "lisans_link": "https://creativecommons.org/licenses/by-sa/4.0/",
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
@@ -936,6 +999,15 @@
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {
+    "id": "rize_kokulu_uzumu",
+    "kaynak_adi": "Wikimedia Commons: Isabella grape bunch.jpg",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Isabella_grape_bunch.jpg",
+    "yazar": "Il cacciatore",
+    "lisans": "CC BY-SA 3.0",
+    "lisans_link": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
     "id": "roka",
     "kaynak_adi": "Pexels: Pexels 4519017 (arugula-leaves)",
     "kaynak_link": "https://www.pexels.com/photo/arugula-leaves-4519017/",
@@ -976,6 +1048,15 @@
     "kaynak_adi": "Wikimedia Commons: Sargo 2.jpg",
     "kaynak_link": "https://commons.wikimedia.org/wiki/File:Sargo_2.jpg",
     "yazar": "sonia mp",
+    "lisans": "CC BY-SA 3.0",
+    "lisans_link": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
+    "id": "sebinkarahisar_karadutu",
+    "kaynak_adi": "Wikimedia Commons: Morus nigra fruits MS.JPG",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Morus_nigra_fruits_MS.JPG",
+    "yazar": "Magdalena Šajinovićová",
     "lisans": "CC BY-SA 3.0",
     "lisans_link": "https://creativecommons.org/licenses/by-sa/3.0/",
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
@@ -1113,6 +1194,15 @@
     "yazar": "Fructibus",
     "lisans": "CC0",
     "lisans_link": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
+  },
+  {
+    "id": "turk_somonu",
+    "kaynak_adi": "Wikimedia Commons: Lachsforelle.jpg",
+    "kaynak_link": "https://commons.wikimedia.org/wiki/File:Lachsforelle.jpg",
+    "yazar": "Andreas Wernitznig",
+    "lisans": "CC BY-SA 2.0 de",
+    "lisans_link": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en/",
     "duzenleme_notu": "Arka plan silindi, hafif parlaklık/renk eşitleme, ölçek ve gölge."
   },
   {

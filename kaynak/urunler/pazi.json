@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169991/nutrients",
   "az_bilinen": true,
   "bilinirlik": 3,
-  "siralama": 57,
+  "siralama": 63,
   "tanitim": "Pazı, pancarın yaprakları için yetiştirilen akrabasıdır; geniş yeşil yaprakları ve kalın beyaz ya da renkli sapları yenir. Tadı ıspanağa benzer ama biraz daha toprak tadındadır.",
   "hazirlama_adimlari": [
     "Yaprakları bol suda, toprağı tamamen gidene kadar yıkayın.",
@@ -65,6 +65,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Pazı Akdeniz'de kasımdan nisan sonuna kadar bol bulunur."
+    },
+    {
+      "id": "pazi__karadeniz__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "04-01",
+      "bit": "10-31",
+      "kaynak_adi": "Karaer F., Töngel Ö. 2015, Samsun'da Yetişen Yenebilir Yabani Otlar ve Meyveler Rehberi (OKA)",
+      "kaynak_link": "https://oka.gov.tr/assets/upload/dosyalar/162samsun_ot_yemekleri_rehber.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Karadeniz'de bahçe pazısı Nisan'dan Ekim sonuna kadar toplanır."
     }
   ],
   "secim_ipuclari": [

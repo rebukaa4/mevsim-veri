@@ -53,6 +53,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "akademik",
       "not": "Ege'de gırgır avı 1 Eylül'de açılır. Yaz aylarında satılan hamsi başka av yönteminden ya da başka denizden gelir."
+    },
+    {
+      "id": "hamsi__karadeniz__av__1",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "av",
+      "bas": "10-15",
+      "bit": "02-28",
+      "kaynak_adi": "Gücü ve ark. 2017, Frontiers in Marine Science 4:275 (Karadeniz hamsisi) + SÜMAE, YUNUS Araştırma Bülteni 8(1), 2008 (Karadeniz balıkları) + TRT Haber 07.12.2019, 'Hamsinin Doğu Karadeniz'e göçü başladı' + Habertürk Trabzon 14.02.2026, sezon sonu hamsi bolluğu + Tebliğ 2026/25, RG 16.09.2026 + 6/1 Numaralı Tebliğ (2024/20), RG 11.08.2024",
+      "kaynak_link": "https://www.frontiersin.org/articles/10.3389/fmars.2017.00275",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "akademik",
+      "not": "Hamsi Karadeniz'de Ekim ortasından Şubat sonuna kadar bol; en bol Kasım–Aralık, doğu kıyılarında Ocak–Şubat'ta da bol."
     }
   ],
   "secim_ipuclari": [

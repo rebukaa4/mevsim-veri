@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169134/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 58,
+  "siralama": 66,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Narın tepesindeki taç kısmını bıçakla daire şeklinde kesip çıkarın.",
@@ -91,6 +91,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "akademik",
       "not": "Nar depodan mart sonuna kadar bulunur."
+    },
+    {
+      "id": "nar__karadeniz__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "10-01",
+      "bit": "01-31",
+      "kaynak_adi": "Mevsim, Marmara ürün tablosu (docs/08_marmara_urun_tablosu.md) ve oradaki İBB hal tonajları + Mevsim, Akdeniz ürün tablosu (docs/08_akdeniz_urun_tablosu.md)",
+      "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Nar Ekim–Ocak arasında bol; güney bölgelerden gelir."
     }
   ],
   "secim_ipuclari": [

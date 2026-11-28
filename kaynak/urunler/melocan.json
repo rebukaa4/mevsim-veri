@@ -1,0 +1,58 @@
+{
+  "id": "melocan",
+  "ad": "Melocan (diken ucu)",
+  "diger_adlar": [
+    "diken ucu",
+    "kırçan",
+    "gıcır"
+  ],
+  "kategori_id": "ot",
+  "kisa_tanim": "Dikenli bir sarmaşığın (Smilax excelsa) baharda çıkan körpe sürgün uçları; kuşkonmaz gibi kavrulur, turşusu yapılır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "melocan",
+  "aktif": true,
+  "enerji_kcal_100g": null,
+  "enerji_durum": null,
+  "enerji_kaynak_adi": null,
+  "enerji_kaynak_link": null,
+  "az_bilinen": true,
+  "bilinirlik": 5,
+  "siralama": 17,
+  "tanitim": "Melocan, Karadeniz ormanlarında ağaçlara sarılarak büyüyen dikenli bir sarmaşığın (Smilax excelsa) körpe sürgün uçlarıdır. Yörede diken ucu, kırçan ya da gıcır da denir. İlkbaharda yeni çıkan sürgünler ince, kıvrık uçlu ve açık yeşil-kızıl renklidir; yalnızca elle kolayca kırılan yumuşak uç kısmı yenir. Tadı yabani kuşkonmaza benzer, hafif buruk ve otsudur. Kavurması, yumurtalısı ve turşusu yapılır.",
+  "hazirlama_adimlari": [
+    "Her sürgünü elle bükün; kolayca kırıldığı yerden üstteki yumuşak kısmı alın, sert ve dikenli alt kısmı atın.",
+    "Yıkayıp 2–3 cm boyunda doğrayın.",
+    "Buruk tadı azaltmak için kaynar tuzlu suda 2–3 dakika haşlayıp süzün.",
+    "Soğanla kavurun ya da yumurtalı yapın; turşu için haşlamadan kurulabilir."
+  ],
+  "hazirlama_kaynak_adi": "Karaer F., Töngel Ö. 2015, Samsun'da Yetişen Yenebilir Yabani Otlar ve Meyveler Rehberi (OKA) ve Mevsim ekibi",
+  "hazirlama_kaynak_link": "https://oka.gov.tr/assets/upload/dosyalar/162samsun_ot_yemekleri_rehber.pdf",
+  "mevsimler": [
+    {
+      "id": "melocan__karadeniz__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "03-15",
+      "bit": "05-15",
+      "kaynak_adi": "Karaer F., Töngel Ö. 2015, Samsun'da Yetişen Yenebilir Yabani Otlar ve Meyveler Rehberi (OKA)",
+      "kaynak_link": "https://oka.gov.tr/assets/upload/dosyalar/162samsun_ot_yemekleri_rehber.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Melocanın taze sürgün uçları ilkbaharda toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "İnce, körpe ve elle bükülünce kolayca kırılan sürgünleri seçin.",
+    "Uçları canlı yeşil-kızıl olsun; kurumuş, kararmış ya da lifli sürgünler bayattır.",
+    "Dikenli ve sertleşmiş gövde parçası olan demetlerde yenecek kısım azdır."
+  ],
+  "besin": [],
+  "tarifler": [
+    "melocan_kavurmasi",
+    "yumurtali_ot_kavurmasi"
+  ]
+}

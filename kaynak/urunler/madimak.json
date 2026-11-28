@@ -1,0 +1,54 @@
+{
+  "id": "madimak",
+  "ad": "Madımak",
+  "diger_adlar": [],
+  "kategori_id": "ot",
+  "kisa_tanim": "Tokat, Amasya ve Sivas'ın sevilen bahar otu: yerde yayılan, küçük sivri yapraklı bitki; bulgurlu yemeği yapılır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "madimak",
+  "aktif": true,
+  "enerji_kcal_100g": null,
+  "enerji_durum": null,
+  "enerji_kaynak_adi": null,
+  "enerji_kaynak_link": null,
+  "az_bilinen": true,
+  "bilinirlik": 4,
+  "siralama": 14,
+  "tanitim": "Madımak (Polygonum cognatum), iç kesimlerin kuru tarla kenarlarında ve yamaçlarında yere yayılarak büyüyen küçük yapraklı bir bahar otudur. Yaprakları gri-yeşil, sivri ve küçüktür; gövdesi ince ve boğumludur. Nisandan haziran ortasına kadar toplanır; Tokat, Amasya ve Çorum pazarlarında, büyük şehirlerde de semt pazarlarında satılır. Hafif ekşimsi bir tadı vardır. En bilinen hâli soğan, sarımsak ve bulgurla pişirilen madımak yemeğidir; yanına yoğurt yakışır.",
+  "hazirlama_adimlari": [
+    "Kökleri, sararmış yaprakları ve araya karışmış başka otları ayıklayın.",
+    "Toprağı çok olur: bol suda, su berrak kalana kadar 4–5 kez yıkayın.",
+    "İnce doğrayın; kaynar suda 3–4 dakika haşlayıp iyice süzün ve hafifçe sıkın.",
+    "Haşlanmış madımağı soğan ve bulgurla yemek yapın ya da yumurtayla kavurun."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "madimak__karadeniz__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "04-01",
+      "bit": "06-15",
+      "kaynak_adi": "Karaer F., Töngel Ö. 2015, Samsun'da Yetişen Yenebilir Yabani Otlar ve Meyveler Rehberi (OKA)",
+      "kaynak_link": "https://oka.gov.tr/assets/upload/dosyalar/162samsun_ot_yemekleri_rehber.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Madımak Nisan'dan Haziran ortasına kadar toplanır; Tokat, Amasya ve Çorum pazarlarında görülür."
+    }
+  ],
+  "secim_ipuclari": [
+    "Yaprakları taze, yeşil ve diri olan demetleri seçin; sararmış, pörsümüş olanları almayın.",
+    "Çiçeklenmeden önceki körpe madımak daha yumuşaktır; kalın, sertleşmiş gövdeler lifli olur.",
+    "Madımak çok topraklı satılır; içinde başka ot ve kök olmamasına dikkat edin."
+  ],
+  "besin": [],
+  "tarifler": [
+    "madimak_yemegi",
+    "yumurtali_ot_kavurmasi"
+  ]
+}

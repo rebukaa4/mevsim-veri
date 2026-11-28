@@ -1,0 +1,86 @@
+{
+  "id": "giresun_isirgani",
+  "ad": "Giresun Isırganı",
+  "diger_adlar": [],
+  "kategori_id": "ot",
+  "kisa_tanim": "Giresun'da kendiliğinden yetişen ve tarlada da ekilen ısırgan; koyu yeşil, dişli kenarlı, yakıcı tüylü yaprakları yazın toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "28",
+  "gorsel_id": "isirgan",
+  "aktif": true,
+  "enerji_kcal_100g": null,
+  "enerji_durum": null,
+  "enerji_kaynak_adi": null,
+  "enerji_kaynak_link": null,
+  "az_bilinen": true,
+  "bilinirlik": 3,
+  "siralama": 7,
+  "tanitim": "Giresun ısırganı, Giresun'un nemli ve serin yamaçlarında kendiliğinden yetişen, yörede tarlada da ekilen ısırgandır (Urtica dioica). Yaprakları koyu yeşil, mızrak biçimli ve kenarları dişlidir; üzeri yakıcı tüylerle kaplıdır, bu yüzden eldivenle ayıklanır. Ekili ısırganın yaprakları yazın, ekimden 45–60 gün sonra toplanır. Haşlanınca yakıcılığı tamamen kaybolur; çorbası, kavurması ve mısır unlu yemeği yapılır.",
+  "hazirlama_adimlari": [
+    "Mutlaka eldiven giyin; ısırgana çıplak elle dokunmayın.",
+    "Yaprakları ve körpe uçları sert saplardan koparın.",
+    "Eldivenle bol suda yıkayın.",
+    "Kaynar suda 1-2 dakika haşlayın; haşlanınca yakıcılığı tamamen gider, artık elle tutulabilir.",
+    "Süzüp doğrayın; çorba, börek ya da kavurma için hazırdır.",
+    "Yabani otları, bitkiyi iyi tanıyan pazar satıcılarından alın; tahminle doğadan toplamayın, benzer görünen zehirli bitkiler olabilir."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim (kendi derlememiz; genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "giresun_isirgani__28__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "28",
+      "donem_turu": "hasat",
+      "bas": "07-01",
+      "bit": "09-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Giresun Isırganı (No 1052)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/af79734a-3503-4f38-a1b7-80768dd85198.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Ekili Giresun ısırganı yazın, Temmuz–Eylül arasında toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Genç, üst kısımdaki körpe yaprakları ve uçları seçin.",
+    "Koyu yeşil, diri yapraklar tazedir; sararmış olanları almayın.",
+    "Çiçeklenmiş ve sapları sertleşmiş ısırganı almayın."
+  ],
+  "besin": [
+    {
+      "ad": "K vitamini",
+      "tur": "vitamin",
+      "aciklama": "K vitamini açısından zengindir (haşlanmış ısırgan, 100 g'da 499 µg; günlük başvuru değerini aşar).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Stinging Nettles, blanched (Northern Plains Indians) (FDC ID 169819)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169819/nutrients"
+    },
+    {
+      "ad": "Kalsiyum",
+      "tur": "mineral",
+      "aciklama": "Kalsiyum açısından zengindir (haşlanmış ısırgan, 100 g'da 481 mg; günlük başvuru değerine oranı yaklaşık %60).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Stinging Nettles, blanched (Northern Plains Indians) (FDC ID 169819)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169819/nutrients"
+    },
+    {
+      "ad": "Manganez",
+      "tur": "mineral",
+      "aciklama": "Manganez açısından zengindir (haşlanmış ısırgan, 100 g'da 0,8 mg; günlük başvuru değerine oranı yaklaşık %39).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Stinging Nettles, blanched (Northern Plains Indians) (FDC ID 169819)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169819/nutrients"
+    },
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif açısından zengindir (haşlanmış ısırgan, 100 g'da 6,9 g).",
+      "kaynak_adi": "USDA FoodData Central, SR Legacy: Stinging Nettles, blanched (Northern Plains Indians) (FDC ID 169819)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/169819/nutrients"
+    }
+  ],
+  "tarifler": [
+    "yumurtali_ot_kavurmasi",
+    "isirgan_corbasi",
+    "otlu_borek"
+  ]
+}

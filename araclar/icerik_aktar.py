@@ -5,12 +5,13 @@ Uygulama klasöründeki onaylı taslaklardan kaynak/urunler/<id>.json,
 kaynak/tarifler/<id>.json ve kaynak/gorseller.json dosyalarını üretir.
 
 Girdiler (--girdi = mevsim_app klasörü):
-  veri_taslak/icerik_sebze_ot.json, icerik_meyve_diger_yoresel.json, icerik_balik.json, icerik_akdeniz.json, icerik_marmara.json
+  veri_taslak/icerik_sebze_ot.json, icerik_meyve_diger_yoresel.json, icerik_balik.json, icerik_akdeniz.json, icerik_marmara.json,
+  icerik_karadeniz.json
   araclar/katalog_urunler.py            (kanonik ürün kimlikleri ve kategoriler)
   docs/05_gorsel_lisans_kaydi.md        (görsel lisans kaydı)
   assets_kaynak/webp/<id>.webp          (bitmiş fotoğraflar)
 Bu klasördeki elle bakımlı dosyalar:
-  araclar/mevsim/<bolge_id>.json        (bölge başına sezon satırları + kaynak listesi; ör. ege.json, akdeniz.json, marmara.json)
+  araclar/mevsim/<bolge_id>.json        (bölge başına sezon satırları + kaynak listesi; ör. ege.json, akdeniz.json, marmara.json, karadeniz.json)
   araclar/bilinirlik.json               (kategori içi tanınırlık sırası: bilinirlik + siralama)
 
 Bölge dosyası: {"aciklama", "arastirma_tarihi", "kaynaklar": {kod: {ad, link}}, "satirlar": [...]}.
@@ -22,6 +23,10 @@ balığı bir bölgenin pazarına gelse de o denizin kendi kaydıyla görünür.
 Yöresel ürün taslağında "besin", "enerji_*", "secim_ipuclari", "hazirlama_*" ya da "tarifler"
 alanı hiç yazılmamışsa ana ürününden (ana_urun_id) alınır; tarifler kopyalanmaz, ana ürünün
 tariflerine bağlanır. Ana ürünü katalogda olmayan yöresel ürün (ana_urun_id boş) bu alanları kendisi yazar.
+
+Çiftlik ürünü varsayılan olarak yıl boyudur ve sezon satırı almaz. Taslakta "yil_boyu": false yazılan çiftlik
+ürünü (ör. denizde yalnızca kış-bahar yetiştirilen Türk somonu) mevsimlidir: sezon satırı zorunludur ve
+yalnızca "hasat" dönemi olabilir.
 
 Kullanım:  python araclar/icerik_aktar.py --girdi "../mevsim_app"
 Sonra:     python araclar/derle.py --kontrol
@@ -40,7 +45,7 @@ from pathlib import Path
 KOK = Path(__file__).resolve().parent.parent
 MEVSIM_KLASORU = Path(__file__).resolve().parent / "mevsim"
 ICERIK = ["icerik_sebze_ot.json", "icerik_meyve_diger_yoresel.json", "icerik_balik.json", "icerik_akdeniz.json",
-         "icerik_marmara.json"]
+         "icerik_marmara.json", "icerik_karadeniz.json"]
 KATALOG_KATEGORI = {"SEBZE": "sebze", "MEYVE": "meyve", "BALIK": "balik_deniz"}
 DIGER_ALT = {"ot": "ot", "diger": "diger"}
 # Yöresel ürün taslağında hiç yazılmamışsa ana üründen alınan alanlar
@@ -277,10 +282,11 @@ def main(argv=None) -> int:
     cikti, gorselsiz, kcal_yok = {}, [], []
     for uid, u in urunler.items():
         ciftlik = u.get("uretim_sekli") == "ciftlik"
+        yil_boyu = ciftlik and u.get("yil_boyu", True) is not False
         if uid in katalog:
             kat = katalog[uid]["kategori"]
             if katalog[uid]["yoresel"]:
-                # Ana ürünü katalogda olmayan yöresel ürün (ör. Değirmendere fındığı) "diğer"e girer
+                # Ana ürünü katalogda olmayan yöresel ürün (ör. Bolu kanlıca mantarı) "diğer"e girer
                 kat = (katalog.get(u.get("ana_urun_id")) or {}).get("kategori") or "diger"
         elif ciftlik or uid == "midye":  # çiftlik eşleri ve midye katalogda ayrı satır değil
             kat = "balik_deniz"
@@ -297,14 +303,14 @@ def main(argv=None) -> int:
         kayit = {
             "id": uid, "ad": u["ad"], "diger_adlar": u.get("diger_adlar") or [], "kategori_id": kat,
             "kisa_tanim": u.get("kisa_tanim"), "uretim_sekli": "ciftlik" if ciftlik else "dogal",
-            "yil_boyu": bool(ciftlik), "ilgili_urun_id": u.get("ilgili_urun_id"), "yoresel_il_id": yoresel_il,
+            "yil_boyu": yil_boyu, "ilgili_urun_id": u.get("ilgili_urun_id"), "yoresel_il_id": yoresel_il,
             "gorsel_id": gorsel_esi.get(uid) or (uid if uid in gorseller else None), "aktif": True,
             "enerji_kcal_100g": u.get("enerji_kcal_100g"), "enerji_durum": u.get("enerji_durum"),
             "enerji_kaynak_adi": u.get("enerji_kaynak_adi"), "enerji_kaynak_link": u.get("enerji_kaynak_link"),
             "az_bilinen": bool(u.get("az_bilinen")), "bilinirlik": None, "siralama": None, "tanitim": u.get("tanitim"),
             "hazirlama_adimlari": u.get("hazirlama_adimlari") or [],
             "hazirlama_kaynak_adi": u.get("hazirlama_kaynak_adi"), "hazirlama_kaynak_link": u.get("hazirlama_kaynak_link"),
-            "mevsimler": [] if ciftlik else mevsimler_kur(uid, satir_urun.get(uid, []), yoresel_il),
+            "mevsimler": [] if yil_boyu else mevsimler_kur(uid, satir_urun.get(uid, []), yoresel_il),
             "secim_ipuclari": u.get("secim_ipuclari") or [],
             "besin": [{k: b.get(k) for k in BESIN_ALANLARI} for b in u.get("besin") or []],
             "tarifler": bagli,
@@ -312,10 +318,12 @@ def main(argv=None) -> int:
         if ciftlik and kayit["gorsel_id"] is None and u.get("ilgili_urun_id") in gorseller:
             kayit["gorsel_id"] = u["ilgili_urun_id"]  # aynı tür: doğal karşılığının fotoğrafı
         kayit.update(ENERJI_DUZELT.get(uid, {}))
-        if ciftlik and satir_urun.get(uid):
-            hatalar.append(f"çiftlik ürününe sezon satırı bağlanmış: {uid}")
-        if not ciftlik and not kayit["mevsimler"]:
-            hatalar.append(f"doğal ürünün sezon satırı yok: {uid}")
+        if yil_boyu and satir_urun.get(uid):
+            hatalar.append(f"yıl boyu çiftlik ürününe sezon satırı bağlanmış: {uid}")
+        if not yil_boyu and not kayit["mevsimler"]:
+            hatalar.append(f"{'mevsimli çiftlik' if ciftlik else 'doğal'} ürünün sezon satırı yok: {uid}")
+        if ciftlik and any(m["donem_turu"] != "hasat" for m in kayit["mevsimler"]):
+            hatalar.append(f"mevsimli çiftlik ürünü yalnızca hasat satırı alır: {uid}")
         if kat == "balik_deniz" and any(m["kapsam_turu"] != "deniz" for m in kayit["mevsimler"]):
             hatalar.append(f"balık / deniz ürünü yalnızca deniz satırı alır (bölge satırı var): {uid}")
         if kayit["gorsel_id"] is None:

@@ -18,7 +18,7 @@
   "enerji_kaynak_link": null,
   "az_bilinen": true,
   "bilinirlik": 4,
-  "siralama": 34,
+  "siralama": 35,
   "tanitim": "Zargana, kalem gibi ince ve uzun gövdeli, ağzı gaga gibi uzayan, sırtı yeşil-mavi, karnı gümüşi bir balıktır. Eti beyaz ve lezzetlidir. Kılçıkları ve kemikleri doğal olarak yeşil renktedir; pişince de yeşil kalır. Bu bir bozulma işareti değildir, balığın kendi rengidir. Marmara'da en bol ekim-aralık arasında tutulur; tava ve fırında pişirilir.",
   "hazirlama_adimlari": [
     "Gaga gibi uzun ağız kısmını ve kafayı kesin; kuyruğu da kesebilirsiniz.",
@@ -41,6 +41,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "akademik",
       "not": "Zargana Marmara'da Ekim–Aralık arasında bol."
+    },
+    {
+      "id": "zargana__karadeniz__av__1",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "av",
+      "bas": "10-01",
+      "bit": "12-31",
+      "kaynak_adi": "Yıldız, Ulman & Demirel 2020, Ocean & Coastal Management 198:105353 (İstanbul balık hali) + SÜMAE, YUNUS Araştırma Bülteni 8(1), 2008 (Karadeniz balıkları)",
+      "kaynak_link": "https://acikerisim.istanbul.edu.tr/handle/20.500.12627/2427",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Zargana sonbaharda, Ekim–Aralık arasında daha çok görülür."
     }
   ],
   "secim_ipuclari": [

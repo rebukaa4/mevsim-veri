@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/172233/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 34,
+  "siralama": 39,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Kalın saplarını kesin, bol suda yıkayıp süzün.",
@@ -63,6 +63,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Dereotu Akdeniz'de ekimden nisan sonuna kadar tarladan gelir; sıcakta çabuk çiçeğe kaçar."
+    },
+    {
+      "id": "dereotu__karadeniz__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "01-01",
+      "bit": "12-31",
+      "kaynak_adi": "Mevsim, Marmara ürün tablosu (docs/08_marmara_urun_tablosu.md) ve oradaki İBB hal tonajları",
+      "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Dereotu yıl boyu bulunur."
     }
   ],
   "secim_ipuclari": [

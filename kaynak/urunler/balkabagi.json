@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/168448/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 40,
+  "siralama": 45,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Kalın kabuğunu keskin bir bıçakla, dilimleri tahtaya yatırarak soyun.",
@@ -77,6 +77,32 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Balkabağı eylülden şubat sonuna kadar, kışın depodan bulunur."
+    },
+    {
+      "id": "balkabagi__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "09-15",
+      "bit": "10-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Düzce Kestane Kabağı (No 580)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/fb974a6b-0c2d-44c9-a4f5-b2c1b3ce2377.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kabak Eylül ortasından Ekim sonuna kadar toplanır."
+    },
+    {
+      "id": "balkabagi__karadeniz__depo__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "depo",
+      "bas": "11-01",
+      "bit": "03-31",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Düzce Kestane Kabağı (No 580)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/fb974a6b-0c2d-44c9-a4f5-b2c1b3ce2377.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kabak serin yerde saklanarak kış boyu bulunur."
     }
   ],
   "secim_ipuclari": [

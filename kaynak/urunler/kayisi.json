@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/171697/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 57,
+  "siralama": 65,
   "tanitim": null,
   "hazirlama_adimlari": [],
   "hazirlama_kaynak_adi": null,
@@ -60,6 +60,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Türkiye'nin ilk kayısısı Mersin Mut'tan nisan sonunda çıkar ve haziran sonuna kadar sürer."
+    },
+    {
+      "id": "kayisi__karadeniz__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "06-15",
+      "bit": "07-31",
+      "kaynak_adi": "Mevsim, Marmara ürün tablosu (docs/08_marmara_urun_tablosu.md) ve oradaki İBB hal tonajları",
+      "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kayısı Haziran ortasından Temmuz sonuna kadar bulunur; çoğu iç bölgelerden gelir."
     }
   ],
   "secim_ipuclari": [

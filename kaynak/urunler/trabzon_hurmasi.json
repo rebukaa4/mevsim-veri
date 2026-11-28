@@ -18,7 +18,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169941/nutrients",
   "az_bilinen": true,
   "bilinirlik": 3,
-  "siralama": 73,
+  "siralama": 83,
   "tanitim": "Trabzon hurması, domatese benzeyen turuncu bir sonbahar meyvesidir. Tam olgunlaşmadan yenirse ağzı buruşturur; iyice yumuşayınca tatlı, jöle kıvamında olur. Kaşıkla ya da soyulup dilimlenerek yenir.",
   "hazirlama_adimlari": [
     "Sert ve buruk olanları oda sıcaklığında, bir elma ya da muzla aynı poşette 3–7 gün bekletin; iyice yumuşayınca buruk tadı kaybolur.",
@@ -79,6 +79,32 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Trabzon hurması ekimden aralık sonuna kadar bol bulunur."
+    },
+    {
+      "id": "trabzon_hurmasi__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "10-15",
+      "bit": "11-30",
+      "kaynak_adi": "Karadeniz Tarımsal Araştırma Enstitüsü (Samsun) Trabzon hurması broşürü (yalnızca arama özeti; dosya açılamadı) + Ankara Üniversitesi açık ders, Trabzon hurması (yalnızca arama özeti)",
+      "kaynak_link": "https://arastirma.tarimorman.gov.tr/ktae/Belgeler/brosurler/Kaplan.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Trabzon hurması Ekim ortasından Kasım sonuna kadar toplanır."
+    },
+    {
+      "id": "trabzon_hurmasi__karadeniz__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "12-01",
+      "bit": "01-31",
+      "kaynak_adi": "Ankara Üniversitesi açık ders, Trabzon hurması (yalnızca arama özeti) + Mevsim, Marmara ürün tablosu (docs/08_marmara_urun_tablosu.md) ve oradaki İBB hal tonajları",
+      "kaynak_link": "https://acikders.ankara.edu.tr/mod/resource/view.php?id=89859",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Toplanan hurma Ocak sonuna kadar pazarda bulunur."
     }
   ],
   "secim_ipuclari": [

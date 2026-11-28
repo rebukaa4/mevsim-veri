@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/169977/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 43,
+  "siralama": 48,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Dış yapraklarını ayıklayıp dört parçaya bölün; ortadaki sert sapı kesip çıkarın.",
@@ -64,6 +64,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Kırmızı lahana Akdeniz'de kasımdan mart sonuna kadar tarladan bol gelir."
+    },
+    {
+      "id": "kirmizi_lahana__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "10-15",
+      "bit": "04-30",
+      "kaynak_adi": "NTV, 'Samsun'dan Rusya'ya satılıyor. Tarlada son mahsuller kaldı' (yalnızca arama özeti) + Mevsim, Marmara ürün tablosu (docs/08_marmara_urun_tablosu.md) ve oradaki İBB hal tonajları",
+      "kaynak_link": "https://www.ntv.com.tr/yerel-haberler/galeri-samsundan-rusyaya-satiliyor-tarlada-son-mahsuller-kaldi-1724157",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kırmızı lahana Ekim ortasından Nisan sonuna kadar bulunur."
     }
   ],
   "secim_ipuclari": [

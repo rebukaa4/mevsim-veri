@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170377/nutrients",
   "az_bilinen": true,
   "bilinirlik": 3,
-  "siralama": 54,
+  "siralama": 60,
   "tanitim": "Bakla, Ege'de genç ve taze haliyle kabuğu ve tanesiyle birlikte yenen bir baklagildir. Kabuk pişince yumuşar, tadı hafif otsu ve tatlıdır; iri baklalarda yalnızca içteki yeşil taneler yenir.",
   "hazirlama_adimlari": [
     "Baklaları yıkayın; iki ucunu kesip kenarlarındaki kılçığı çekerek ayıklayın.",
@@ -65,6 +65,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Akdeniz'de taze bakla aralık ortasından nisan ortasına kadar bulunur ve Türkiye'nin ilk baklası buradan çıkar."
+    },
+    {
+      "id": "bakla__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "04-15",
+      "bit": "06-15",
+      "kaynak_adi": "Mevsim, Marmara ürün tablosu (docs/08_marmara_urun_tablosu.md) ve oradaki İBB hal tonajları",
+      "kaynak_link": "https://data.ibb.gov.tr/dataset/ibb-hal-tonajlari-veri-seti",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Yeşil bakla Nisan ortasından Haziran ortasına kadar bulunur."
     }
   ],
   "secim_ipuclari": [

@@ -64,6 +64,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Akdeniz'de ıspanak kasımdan mart sonuna kadar tarladan gelir."
+    },
+    {
+      "id": "ispanak__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "11-01",
+      "bit": "04-15",
+      "kaynak_adi": "NTV, 'Samsun'dan Rusya'ya satılıyor. Tarlada son mahsuller kaldı' (yalnızca arama özeti) + Mevsim, Marmara ürün tablosu (docs/08_marmara_urun_tablosu.md) ve oradaki İBB hal tonajları",
+      "kaynak_link": "https://www.ntv.com.tr/yerel-haberler/galeri-samsundan-rusyaya-satiliyor-tarlada-son-mahsuller-kaldi-1724157",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Karadeniz ıspanağı Kasım'dan Nisan ortasına kadar bulunur; Bafra ve Çarşamba ovaları başlıca kaynaktır."
     }
   ],
   "secim_ipuclari": [

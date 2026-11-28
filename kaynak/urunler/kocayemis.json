@@ -1,0 +1,55 @@
+{
+  "id": "kocayemis",
+  "ad": "Kocayemiş",
+  "diger_adlar": [
+    "dağ çileği",
+    "sandal"
+  ],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Sonbaharda kırmızılaşan, yüzeyi tanecikli, yuvarlak dağ çileği benzeri yabani meyve; tam olgunken tatlı ve unlu bir dokusu vardır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "kocayemis",
+  "aktif": true,
+  "enerji_kcal_100g": null,
+  "enerji_durum": null,
+  "enerji_kaynak_adi": null,
+  "enerji_kaynak_link": null,
+  "az_bilinen": true,
+  "bilinirlik": 4,
+  "siralama": 92,
+  "tanitim": "Kocayemiş (dağ çileği, sandal), kıyı ormanlarında ve makiliklerde yetişen kocayemiş ağacının (Arbutus unedo) meyvesidir. Bilye büyüklüğünde, yuvarlak ve yüzeyi küçük tanecikli meyveler önce sarı, sonra turuncu, tam olgunlaşınca koyu kırmızı olur. Meyve sonbaharda, ağaç çiçek açarken olgunlaşır. İçi sarı-turuncu, yumuşak ve unludur; tadı tatlı, hafif mayhoştur. Taze yenir, reçeli ve marmelatı yapılır. Aşırı olgunlaşıp ezilen meyve mayalanır; ekşimiş olanı yemeyin.",
+  "hazirlama_adimlari": [
+    "Sap ve yaprakları ayıklayın, soğuk suda nazikçe yıkayın.",
+    "Kabuğuyla birlikte taze yenir; tanecikli yüzeyi yenebilir.",
+    "Reçel ya da marmelat için fazla yumuşak olanları da kullanabilirsiniz; ekşimiş olanları atın."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "kocayemis__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "10-15",
+      "bit": "12-15",
+      "kaynak_adi": "Karaer F., Töngel Ö. 2015, Samsun'da Yetişen Yenebilir Yabani Otlar ve Meyveler Rehberi (OKA)",
+      "kaynak_link": "https://oka.gov.tr/assets/upload/dosyalar/162samsun_ot_yemekleri_rehber.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kocayemiş meyvesi sonbaharda, Ekim ortasından Aralık ortasına kadar kırmızılaşıp olgunlaşır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Koyu kırmızı ve hafif yumuşak olanları seçin; sarı ve turuncu olanlar henüz buruktur.",
+    "Ezilmiş, suyu akmış ya da ekşi kokan meyve mayalanmaya başlamıştır; almayın.",
+    "Çok çabuk bozulur; aldığınız gün ya da ertesi gün yiyin."
+  ],
+  "besin": [],
+  "tarifler": [
+    "kocayemis_receli"
+  ]
+}

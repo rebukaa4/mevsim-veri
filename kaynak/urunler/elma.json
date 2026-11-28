@@ -99,6 +99,32 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Isparta elması soğuk hava depolarından aralıktan ağustos sonuna kadar, yani yeni hasada kadar bulunur."
+    },
+    {
+      "id": "elma__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "09-16",
+      "bit": "11-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Amasya Misket Elması (No 424) + Türk Patent coğrafi işaret tescili: Yomra Elması (No 626) + Türk Patent coğrafi işaret tescili: Borçka Demir Elması (No 1284) + Türk Patent coğrafi işaret tescili: Piraziz Elması (No 204)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/f10a99e2-92de-4318-a88e-20fb45252ca2.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Karadeniz elması Eylül ikinci yarısından Kasım ortasına kadar toplanır."
+    },
+    {
+      "id": "elma__karadeniz__depo__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "depo",
+      "bas": "11-16",
+      "bit": "04-30",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Amasya Misket Elması (No 424) + Türk Patent coğrafi işaret tescili: Borçka Demir Elması (No 1284)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/f10a99e2-92de-4318-a88e-20fb45252ca2.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Elma depodan Nisan sonuna kadar bol bulunur."
     }
   ],
   "secim_ipuclari": [

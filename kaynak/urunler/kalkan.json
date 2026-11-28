@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/173710/nutrients",
   "az_bilinen": false,
   "bilinirlik": 2,
-  "siralama": 18,
+  "siralama": 19,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Kalkanı balıkçıya temizletip dilimletmek en kolayıdır.",
@@ -52,6 +52,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "tahmini",
       "not": "Kalkan avı 15 Nisan – 15 Haziran arasında yasaktır; geldiği deniz kesin değil."
+    },
+    {
+      "id": "kalkan__karadeniz__av__1",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "av",
+      "bas": "06-16",
+      "bit": "04-14",
+      "kaynak_adi": "6/1 Numaralı Tebliğ (2024/20), RG 11.08.2024 + Samsun kıyısı balıkçılığı derlemesi 2024 (asgari boylar, kalkan avının ay dağılımı; Dergipark)",
+      "kaynak_link": "https://resmigazete.gov.tr/eskiler/2024/08/20240811-3.htm",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Kalkan 15 Nisan – 15 Haziran dışında avlanabilir; kota dolunca av biter."
     }
   ],
   "secim_ipuclari": [

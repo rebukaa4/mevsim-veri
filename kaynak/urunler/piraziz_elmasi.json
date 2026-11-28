@@ -1,0 +1,59 @@
+{
+  "id": "piraziz_elmasi",
+  "ad": "Piraziz Elması",
+  "diger_adlar": [],
+  "kategori_id": "meyve",
+  "kisa_tanim": "Giresun Piraziz'in geç olgunlaşan elması: bir yüzü açık yeşil, öbür yüzü kırmızı; beyaz etli, mayhoş ve suludur. Kasımın ikinci haftasında toplanır.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "28",
+  "gorsel_id": "elma",
+  "aktif": true,
+  "enerji_kcal_100g": 52,
+  "enerji_durum": "çiğ, kabuğuyla (elma genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Apples, raw, with skin (Includes foods for USDA's Food Distribution Program) (FDC ID 171688, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/171688/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 1,
+  "siralama": 59,
+  "tanitim": null,
+  "hazirlama_adimlari": [],
+  "hazirlama_kaynak_adi": null,
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "piraziz_elmasi__28__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "28",
+      "donem_turu": "hasat",
+      "bas": "11-08",
+      "bit": "11-14",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Piraziz Elması (No 204)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/204.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Piraziz elması Kasım'ın ikinci haftasında toplanır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Sert ve diri olsun; bastırınca iz kalıyorsa unlu (pamuk gibi) olabilir.",
+    "Kabuğu parlak ve gergin olmalı; buruşmuş kabuk uzun depolama işaretidir.",
+    "Ezik, kararmış ya da delikli (kurtlu) elma almayın.",
+    "Sap çukurunda hoş bir elma kokusu olmalı."
+  ],
+  "besin": [
+    {
+      "ad": "C vitamini",
+      "tur": "vitamin",
+      "aciklama": "C vitamini içerir: 100 g'da 4,6 mg; günlük başvuru değerine oranı yaklaşık %5.",
+      "kaynak_adi": "USDA FoodData Central — Apples, raw, with skin (Includes foods for USDA's Food Distribution Program) (FDC ID 171688, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/171688/nutrients"
+    }
+  ],
+  "tarifler": [
+    "meyve_salatasi",
+    "firin_elma",
+    "elmali_kek"
+  ]
+}

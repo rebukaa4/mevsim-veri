@@ -1,0 +1,59 @@
+{
+  "id": "kaldirik",
+  "ad": "Kaldirik",
+  "diger_adlar": [
+    "kaldırık",
+    "galdirik",
+    "ıspit",
+    "doğu hodanı"
+  ],
+  "kategori_id": "ot",
+  "kisa_tanim": "Karadeniz'in en bilinen bahar otu: iri yapraklı, tüylü saplı, mavi-mor çiçekli; sapı ve tomurcukları haşlanıp kavrulur.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": null,
+  "gorsel_id": "kaldirik",
+  "aktif": true,
+  "enerji_kcal_100g": null,
+  "enerji_durum": null,
+  "enerji_kaynak_adi": null,
+  "enerji_kaynak_link": null,
+  "az_bilinen": true,
+  "bilinirlik": 4,
+  "siralama": 13,
+  "tanitim": "Kaldirik (kaldırık, galdirik, ıspit), Karadeniz'in nemli orman kenarlarında ve dere boylarında kendiliğinden yetişen, iri yapraklı bir ottur (Trachystemon orientalis). İlkbaharda yapraklardan önce mavi-mor çiçekli dallar çıkar; pazarda bu çiçekli dallar ve genç yaprak sapları demet hâlinde satılır. Sapları ve yaprakları kısa, batıcı tüylerle kaplıdır; haşlanınca tüyler yumuşar. Tadı hafif ekşimsi ve otsudur. Karadeniz mutfağında kavurması, yumurtalısı ve mısır unlusu yapılır.",
+  "hazirlama_adimlari": [
+    "Tüyler batabilir; ayıklarken eldiven giyebilirsiniz.",
+    "Sert, iri yaprakları ve kalın sap uçlarını ayırın; genç sapları, tomurcukları ve çiçekli uçları bırakın.",
+    "Bol suda yıkayıp 2–3 cm boyunda doğrayın.",
+    "Kaynar tuzlu suda 5 dakika haşlayıp süzün; tüyler yumuşar, ekşimsi tadı hafifler. Sonra kavurmaya geçin."
+  ],
+  "hazirlama_kaynak_adi": "Karaer F., Töngel Ö. 2015, Samsun'da Yetişen Yenebilir Yabani Otlar ve Meyveler Rehberi (OKA) ve Mevsim ekibi",
+  "hazirlama_kaynak_link": "https://oka.gov.tr/assets/upload/dosyalar/162samsun_ot_yemekleri_rehber.pdf",
+  "mevsimler": [
+    {
+      "id": "kaldirik__karadeniz__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "03-01",
+      "bit": "05-15",
+      "kaynak_adi": "Karaer F., Töngel Ö. 2015, Samsun'da Yetişen Yenebilir Yabani Otlar ve Meyveler Rehberi (OKA)",
+      "kaynak_link": "https://oka.gov.tr/assets/upload/dosyalar/162samsun_ot_yemekleri_rehber.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Kaldirik ilkbaharda, çiçek açtığı Mart–Mayıs arasında toplanır ve pazarda satılır."
+    }
+  ],
+  "secim_ipuclari": [
+    "Sapları diri, kırınca çıtırdayan demetleri seçin; yumuşamış, sararmış ya da kararmış saplar bayattır.",
+    "Çiçekleri yeni açmış, tomurcukları dolgun olanlar daha körpedir.",
+    "Kalın, odunlaşmış saplar sert olur; ince ve genç sapları tercih edin."
+  ],
+  "besin": [],
+  "tarifler": [
+    "kaldirik_kavurmasi",
+    "yumurtali_ot_kavurmasi"
+  ]
+}

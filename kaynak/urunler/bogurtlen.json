@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/173946/nutrients",
   "az_bilinen": false,
   "bilinirlik": 3,
-  "siralama": 74,
+  "siralama": 84,
   "tanitim": null,
   "hazirlama_adimlari": [
     "Yemeden hemen önce bir süzgeçte, kısa süre ve hafif suyla yıkayın.",
@@ -63,6 +63,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Yabani böğürtlen Akdeniz'de haziran ortasından ağustos sonuna kadar toplanır."
+    },
+    {
+      "id": "bogurtlen__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "07-15",
+      "bit": "09-30",
+      "kaynak_adi": "Karaer F., Töngel Ö. 2015, Samsun'da Yetişen Yenebilir Yabani Otlar ve Meyveler Rehberi (OKA) + Mevsim, Marmara ürün tablosu (docs/08_marmara_urun_tablosu.md) ve oradaki İBB hal tonajları",
+      "kaynak_link": "https://oka.gov.tr/assets/upload/dosyalar/162samsun_ot_yemekleri_rehber.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Yabani böğürtlen Temmuz ortasından Eylül sonuna kadar toplanır."
     }
   ],
   "secim_ipuclari": [

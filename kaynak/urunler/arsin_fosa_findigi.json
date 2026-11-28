@@ -1,0 +1,108 @@
+{
+  "id": "arsin_fosa_findigi",
+  "ad": "Arsin Foşa Fındığı",
+  "diger_adlar": [
+    "boyhane"
+  ],
+  "kategori_id": "diger",
+  "kisa_tanim": "Trabzon Arsin'in foşa çeşidi fındığı (yörede 'boyhane'); bölgede 1400'lerden beri kayıtlıdır, ağustos ortasında hasada gelir.",
+  "uretim_sekli": "dogal",
+  "yil_boyu": false,
+  "ilgili_urun_id": null,
+  "yoresel_il_id": "61",
+  "gorsel_id": "findik",
+  "aktif": true,
+  "enerji_kcal_100g": 628,
+  "enerji_durum": "kuru iç fındık (taze fındık daha nemli olduğundan enerjisi bundan düşüktür) (fındık genel değeri)",
+  "enerji_kaynak_adi": "USDA FoodData Central — Nuts, hazelnuts or filberts (FDC ID 170581, SR Legacy)",
+  "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170581/nutrients",
+  "az_bilinen": false,
+  "bilinirlik": 2,
+  "siralama": 32,
+  "tanitim": null,
+  "hazirlama_adimlari": [
+    "Kabuklu fındığı fındık kıracağıyla kırın; iç fındığı tabağa ayırın.",
+    "Kavurmak için iç fındığı yağsız tavada orta ateşte, sürekli karıştırarak 6–8 dakika ya da 170 °C fırında 10–12 dakika kavurun.",
+    "Kavrulmuş fındığı sıcakken bir bezin içinde ovalayın; zarının çoğu kolayca dökülür.",
+    "Kurutulmuş fındığı ağzı kapalı kavanozda, serin ve karanlık yerde saklayın; uzun saklamak için buzdolabına koyun."
+  ],
+  "hazirlama_kaynak_adi": "Mevsim ekibi (genel mutfak bilgisi)",
+  "hazirlama_kaynak_link": null,
+  "mevsimler": [
+    {
+      "id": "arsin_fosa_findigi__61__hasat__1",
+      "kapsam_turu": "il",
+      "kapsam_id": "61",
+      "donem_turu": "hasat",
+      "bas": "08-10",
+      "bit": "08-15",
+      "kaynak_adi": "Türk Patent coğrafi işaret tescili: Arsin Foşa Fındığı (No 1276)",
+      "kaynak_link": "https://ci.turkpatent.gov.tr/files/legacy/GeographicalSigns/ea5bad6f-0035-4895-bf03-15d5f749ca53.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "resmi",
+      "not": "Arsin foşa fındığı 10–15 Ağustos'ta hasat olgunluğuna gelir."
+    }
+  ],
+  "secim_ipuclari": [
+    "Kabuklu fındıkta kabuk parlak, lekesiz ve dolgun olsun; küflü, delik ya da kararmış kabuklu fındık almayın.",
+    "İç fındık dolgun, kuru ve çıtır olmalı; buruşmuş, yağlanmış görünen ya da acı-ekşi kokan fındık bayattır.",
+    "Taze (yaş) fındığın zurufu (yeşil kapçığı) canlı yeşil olur; kuruyup kararmışsa fındık beklemiştir.",
+    "Yeni hasat kurutulmuş fındık eylül-ekimde gelir; kışın aldığınız fındığı az az alın."
+  ],
+  "besin": [
+    {
+      "ad": "Lif",
+      "tur": "diger",
+      "aciklama": "Lif açısından zengindir: 100 g'da 9,7 g.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, hazelnuts or filberts (FDC ID 170581, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170581/nutrients"
+    },
+    {
+      "ad": "Manganez",
+      "tur": "mineral",
+      "aciklama": "Manganez açısından zengindir: 100 g'da 6,17 mg; günlük başvuru değerine oranı yaklaşık %309.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, hazelnuts or filberts (FDC ID 170581, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170581/nutrients"
+    },
+    {
+      "ad": "Bakır",
+      "tur": "mineral",
+      "aciklama": "Bakır açısından zengindir: 100 g'da 1,73 mg; günlük başvuru değerine oranı yaklaşık %172.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, hazelnuts or filberts (FDC ID 170581, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170581/nutrients"
+    },
+    {
+      "ad": "E vitamini",
+      "tur": "vitamin",
+      "aciklama": "E vitamini açısından zengindir: 100 g'da 15 mg; günlük başvuru değerine oranı yaklaşık %125.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, hazelnuts or filberts (FDC ID 170581, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170581/nutrients"
+    },
+    {
+      "ad": "B1 vitamini (tiamin)",
+      "tur": "vitamin",
+      "aciklama": "B1 vitamini (tiamin) açısından zengindir: 100 g'da 0,64 mg; günlük başvuru değerine oranı yaklaşık %58.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, hazelnuts or filberts (FDC ID 170581, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170581/nutrients"
+    },
+    {
+      "ad": "Folat",
+      "tur": "vitamin",
+      "aciklama": "Folat açısından zengindir: 100 g'da 113 µg; günlük başvuru değerine oranı yaklaşık %56.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, hazelnuts or filberts (FDC ID 170581, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170581/nutrients"
+    },
+    {
+      "ad": "Magnezyum",
+      "tur": "mineral",
+      "aciklama": "Magnezyum açısından zengindir: 100 g'da 163 mg; günlük başvuru değerine oranı yaklaşık %43.",
+      "kaynak_adi": "USDA FoodData Central — Nuts, hazelnuts or filberts (FDC ID 170581, SR Legacy)",
+      "kaynak_link": "https://fdc.nal.usda.gov/food-details/170581/nutrients"
+    }
+  ],
+  "tarifler": [
+    "findik_ezmesi",
+    "taze_findikli_roka_salatasi",
+    "findikli_ispanak_sote"
+  ]
+}

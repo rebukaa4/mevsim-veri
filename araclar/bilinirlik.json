@@ -4,7 +4,7 @@
     ["hamsi", 1], ["istavrit", 1], ["sardalya", 1], ["cipura", 1], ["levrek", 1],
     ["cipura_ciftlik", 1], ["levrek_ciftlik", 1],
     ["palamut", 2], ["lufer", 2], ["mezgit", 2], ["kefal", 2], ["barbunya", 2], ["uskumru", 2],
-    ["alabalik", 2], ["karides", 2], ["midye", 2], ["tekir", 2], ["kalkan", 2],
+    ["alabalik", 2], ["turk_somonu", 2], ["karides", 2], ["midye", 2], ["tekir", 2], ["kalkan", 2],
     ["mercan", 3], ["dil", 3], ["karagoz", 3], ["sargoz", 3], ["kilic", 3], ["berlam", 3], ["kalamar", 3],
     ["kolyoz", 4], ["sinarit", 4], ["ahtapot", 4], ["murekkep", 4], ["granyoz", 4], ["granyoz_ciftlik", 4],
     ["izmarit", 4], ["kupes", 4], ["zargana", 4],
@@ -17,15 +17,19 @@
     ["datca_domatesi", 1], ["odemis_patatesi", 1], ["suhut_patatesi", 1], ["arslanlar_biberi", 1],
     ["acipayam_havucu", 1], ["kale_biberi", 1], ["kirikhan_havucu", 1], ["afsin_kocovasi_sarimsagi", 1],
     ["yenisehir_biberi", 1], ["karacabey_sogani", 1], ["tekirdag_sogani", 1], ["kapidag_mor_sogani", 1],
+    ["taskopru_sarimsagi", 1], ["corum_uyuk_sarimsagi", 1], ["suluova_sogani", 1], ["boyabat_gazidere_domatesi", 1],
+    ["safranbolu_maniye_domatesi", 1],
     ["kapya_biber", 2], ["mantar", 2], ["pirasa", 2], ["karnabahar", 2], ["beyaz_lahana", 2], ["dereotu", 2],
     ["roka", 2], ["taze_nane", 2], ["bezelye", 2], ["brokoli", 2], ["kirmizi_pancar", 2], ["balkabagi", 2],
     ["taze_misir", 2], ["turp", 2], ["kirmizi_lahana", 2], ["tere", 2], ["taze_sarimsak", 2],
     ["emcelli_biberi", 2], ["karaisali_biberi", 2], ["kadirli_turpu", 2],
     ["cukuroren_biberi", 2], ["yenice_kirmizi_biberi", 2], ["inegol_pirasasi", 2], ["kizildamlar_kestane_kabagi", 2],
+    ["kislacik_pirasasi", 2],
     ["enginar", 3], ["bakla", 3], ["bamya", 3], ["semizotu", 3], ["pazi", 3], ["kereviz", 3], ["borulce", 3],
     ["kara_lahana", 3], ["asma_yapragi", 3],
     ["urla_enginari", 3], ["aydin_enginari", 3], ["bornova_bamyasi", 3], ["kirikhan_siyah_havucu", 3],
     ["hasanaga_enginari", 3], ["kesan_bamyasi", 3], ["balikesir_tombul_bamyasi", 3],
+    ["amasya_cicek_bamyasi", 3],
     ["yerelmasi", 4], ["bruksel_lahanasi", 4], ["bilecik_kamber_biberi", 4]
   ],
   "meyve": [
@@ -41,17 +45,22 @@
     ["keles_kirazi", 1], ["ceribasi_kirazi", 1], ["bursa_seftalisi", 1], ["lapseki_seftalisi", 1], ["pamukova_kavunu", 1],
     ["seymen_kavunu", 1], ["yesilcomlu_kavunu", 1], ["osmaneli_karpuzu", 1], ["iznik_muskule", 1], ["bozcaada_cavus", 1],
     ["bursa_siyah_inciri", 1], ["havran_inciri", 1], ["gursu_deveci_armudu", 1], ["bayramic_elmasi", 1], ["havran_mandalinasi", 1],
+    ["amasya_misket_elmasi", 1], ["amasya_kirazi", 1], ["piraziz_elmasi", 1], ["yomra_elmasi", 1], ["borcka_demir_elmasi", 1],
+    ["karadeniz_eregli_osmanli_cilegi", 1], ["rize_kokulu_uzumu", 1], ["safranbolu_cavus_uzumu", 1],
     ["kayisi", 2], ["nar", 2], ["erik", 2], ["can_erik", 2], ["ayva", 2], ["kivi", 2], ["nektarin", 2],
     ["visne", 2], ["greyfurt", 2], ["dut", 2], ["kuytucak_nari", 2], ["gezende_erigi", 2],
     ["geyve_ayvasi", 2], ["yalova_kivisi", 2], ["bayramic_beyazi", 2],
+    ["ordu_kivisi", 2], ["sebinkarahisar_karadutu", 2],
     ["yenidunya", 3], ["trabzon_hurmasi", 3], ["bogurtlen", 3], ["cagla", 3], ["avokado", 3], ["kizilcik", 3],
-    ["musmula", 4]
+    ["devrek_kireni", 3],
+    ["musmula", 4], ["karayemis", 4], ["likapa", 4], ["kocayemis", 4]
   ],
   "ot": [
     ["radika", 3], ["isirgan", 3], ["ebegumeci", 3], ["semizotu_yabani", 3], ["sevketibostan", 3],
     ["deniz_borulcesi", 3],
-    ["yabani_kuskonmaz", 4], ["kuzukulagi", 4], ["hardal_otu", 4], ["turp_otu", 4], ["labada", 4],
-    ["arapsaci", 5], ["cibez", 5]
+    ["giresun_isirgani", 3],
+    ["yabani_kuskonmaz", 4], ["kuzukulagi", 4], ["hardal_otu", 4], ["turp_otu", 4], ["labada", 4], ["kaldirik", 4], ["madimak", 4],
+    ["arapsaci", 5], ["cibez", 5], ["melocan", 5]
   ],
   "diger": [
     ["zeytin", 1], ["zeytinyagi", 1], ["akhisar_zeytini", 1], ["odemis_zeytinyagi", 1],
@@ -59,9 +68,13 @@
     ["mut_zeytinyagi", 1], ["ceyhan_zeytinyagi", 1], ["altinozu_zeytinyagi", 1],
     ["gemlik_zeytini", 1], ["karamursel_zeytini", 1], ["edremit_cizik_zeytini", 1], ["edremit_zeytinyagi", 1],
     ["sarkoy_zeytinyagi", 1], ["erdek_kapidag_zeytinyagi", 1],
-    ["ceviz", 2], ["kestane", 2], ["kavaklidere_cevizi", 2], ["simav_kestanesi", 2], ["buldan_kestanesi", 2], ["caglayancerit_cevizi", 2], ["karamanli_cevizi", 2],
+    ["ceviz", 2], ["kestane", 2], ["findik", 2], ["kavaklidere_cevizi", 2], ["simav_kestanesi", 2], ["buldan_kestanesi", 2], ["caglayancerit_cevizi", 2], ["karamanli_cevizi", 2],
     ["cakil_kestanesi", 2], ["sapanca_cevizi", 2],
+    ["giresun_tombul_findigi", 2], ["giresun_sivri_findigi", 2], ["giresun_kalinkara_findigi", 2], ["ordu_cakildak_findigi", 2],
+    ["gurgentepe_cakildak_findigi", 2], ["arsin_fosa_findigi", 2], ["akcakoca_sari_findigi", 2], ["bolu_dag_findigi", 2],
+    ["niksar_cevizi", 2], ["oguzlar_cevizi", 2], ["duzce_kestanesi", 2], ["akcakoca_kaplandede_kestanesi", 2],
+    ["kastamonu_kuzu_kestanesi", 2],
     ["yer_fistigi", 3], ["degirmendere_findigi", 3],
-    ["kuzu_gobegi", 4], ["keciboynuzu", 4], ["fethiye_mantari", 4]
+    ["kuzu_gobegi", 4], ["keciboynuzu", 4], ["fethiye_mantari", 4], ["bolu_kanlica_mantari", 4]
   ]
 }

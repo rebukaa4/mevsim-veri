@@ -4,7 +4,7 @@ Türkiye'de meyve, sebze, ot, balık ve deniz ürünlerinin **bölgelere ve deni
 mevsim takvimi**; ürün başına seçme ipuçları, hazırlama adımları ve tarifler.
 Bu depo, "Mevsim" mobil uygulamasının indirdiği veri dosyasını üretir.
 
-> **Durum:** Ege, Akdeniz ve Marmara bölgeleri (229 ürün; Ege Denizi, Akdeniz ve Marmara Denizi balıkları dahil). Diğer bölgeler
+> **Durum:** Ege, Akdeniz, Marmara ve Karadeniz bölgeleri (270 ürün; Ege Denizi, Akdeniz, Marmara Denizi ve Karadeniz balıkları dahil). Diğer bölgeler
 > sonraki aşamalarda eklenecek.
 
 ## Yapı
@@ -14,8 +14,8 @@ Bu depo, "Mevsim" mobil uygulamasının indirdiği veri dosyasını üretir.
 - `araclar/derle.py` — doğrulama ve derleme (`python araclar/derle.py`)
 - `araclar/icerik_aktar.py` — ürün ve tarif dosyalarını uygulama klasöründeki onaylı taslaklardan yeniden üretir
   (`python araclar/icerik_aktar.py --girdi ../mevsim_app`); sezon satırları ve kaynakları bölge başına
-  `araclar/mevsim/<bolge_id>.json` (ör. `ege.json`, `akdeniz.json`, `marmara.json`). Bir bölge dosyası yalnızca o bölgeyi ve
-  kıyısındaki denizi kapsar; balıklar yalnızca deniz kaydı alır.
+  `araclar/mevsim/<bolge_id>.json` (ör. `ege.json`, `akdeniz.json`, `marmara.json`, `karadeniz.json`). Bir bölge dosyası yalnızca o bölgeyi ve
+  kıyısındaki denizi kapsar; balıklar yalnızca deniz kaydı alır. Çiftlik ürünü yıl boyudur; yalnızca `"yil_boyu": false` yazılan çiftlik ürünü (Türk somonu) hasat kaydı alır.
 - `testler/` — derleyici testleri (kendi örnek kayıtlarıyla, `testler/ornek_kaynak/`) (`python -m unittest discover -s testler`)
 - Yayın adresi: `https://rebukaa4.github.io/mevsim-veri/v1/surum.json` ve `.../v1/mevsim_veri.json`
 

@@ -47,6 +47,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "akademik",
       "not": "İri lüfer ekim ortasından nisan ortasına kadar; en bol olduğu aylar ekim – aralık."
+    },
+    {
+      "id": "lufer__karadeniz__av__1",
+      "kapsam_turu": "deniz",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "av",
+      "bas": "09-15",
+      "bit": "12-31",
+      "kaynak_adi": "SÜMAE, YUNUS Araştırma Bülteni 8(1), 2008 (Karadeniz balıkları) + 6/1 Numaralı Tebliğ (2024/20), RG 11.08.2024",
+      "kaynak_link": "https://dergipark.org.tr/tr/download/article-file/204324",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "akademik",
+      "not": "Lüfer ve çinekop Karadeniz'de Eylül ortasından Aralık sonuna kadar bulunur."
     }
   ],
   "secim_ipuclari": [

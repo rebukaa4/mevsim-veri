@@ -16,7 +16,7 @@
   "enerji_kaynak_link": "https://fdc.nal.usda.gov/food-details/170076/nutrients",
   "az_bilinen": true,
   "bilinirlik": 4,
-  "siralama": 11,
+  "siralama": 12,
   "tanitim": "Labada, geniş ve uzun yapraklı yabani bir bitkidir (Rumex türleri); genç yaprakları yenir. Tadı ıspanağa benzer ama hafif ekşimsidir; sarma ve kavurmada kullanılır.",
   "hazirlama_adimlari": [
     "Yaprakları saplarından ayırın; kalın orta damarı keserek inceltin.",
@@ -53,6 +53,19 @@
       "arastirma_tarihi": "2026-11-27",
       "guven": "tahmini",
       "not": "Kıyı Ege'de yabani otların genel dönemi; iç Ege'de haziran – temmuzda toplanır."
+    },
+    {
+      "id": "labada__karadeniz__pazar_yogun__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "pazar_yogun",
+      "bas": "03-15",
+      "bit": "05-31",
+      "kaynak_adi": "Karaer F., Töngel Ö. 2015, Samsun'da Yetişen Yenebilir Yabani Otlar ve Meyveler Rehberi (OKA) + Mevsim, Marmara ürün tablosu (docs/08_marmara_urun_tablosu.md) ve oradaki İBB hal tonajları",
+      "kaynak_link": "https://oka.gov.tr/assets/upload/dosyalar/162samsun_ot_yemekleri_rehber.pdf",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Labadanın ilk yaprakları ilkbaharda toplanır."
     }
   ],
   "secim_ipuclari": [

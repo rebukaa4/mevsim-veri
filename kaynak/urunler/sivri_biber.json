@@ -63,6 +63,19 @@
       "arastirma_tarihi": "2026-11-28",
       "guven": "tahmini",
       "not": "Akdeniz kıyısında açık tarla biberi hazirandan kasım sonuna kadar bol bulunur; kış ve bahar aylarındaki biber seradandır."
+    },
+    {
+      "id": "sivri_biber__karadeniz__hasat__1",
+      "kapsam_turu": "bolge",
+      "kapsam_id": "karadeniz",
+      "donem_turu": "hasat",
+      "bas": "07-15",
+      "bit": "10-31",
+      "kaynak_adi": "Sağlam N., Taşova C. 2017, Akademik Ziraat Dergisi 6(Özel sayı):41–46 (Tokat domates) + Ekonomi Gazetesi, 'Kapya biberin hasadı başladı' ve DHA Bafra kapya biber haberi (yalnızca arama özeti) + Mevsim, Marmara ürün tablosu (docs/08_marmara_urun_tablosu.md) ve oradaki İBB hal tonajları",
+      "kaynak_link": "https://dergipark.org.tr/en/download/article-file/378068",
+      "arastirma_tarihi": "2026-11-28",
+      "guven": "tahmini",
+      "not": "Karadeniz tarla biberi Temmuz ortasından Ekim sonuna kadar bulunur; diğer aylarda gelen biber seradır."
     }
   ],
   "secim_ipuclari": [
