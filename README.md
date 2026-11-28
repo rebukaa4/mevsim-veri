@@ -17,6 +17,8 @@ Bu depo, "Mevsim" mobil uygulamasının indirdiği veri dosyasını üretir.
   `araclar/mevsim/<bolge_id>.json` (ör. `ege.json`, `akdeniz.json`, `marmara.json`, `karadeniz.json`). Bir bölge dosyası yalnızca o bölgeyi ve
   kıyısındaki denizi kapsar; deniz balıkları yalnızca deniz kaydı alır. İç su (göl) balığı `ic_su_adi` taşır (ör. inci kefali: "Van Gölü"),
   deniz kaydı almaz, il kaydı alır. Çiftlik ürünü yıl boyudur; yalnızca `"yil_boyu": false` yazılan çiftlik ürünü (Türk somonu) hasat kaydı alır.
+- `toplayici/` — her sabah hal ve Resmî Gazete kaynaklarını tarayıp **öneri** (PR / Issue) açan program; ayrıntı `toplayici/README.md`.
+  Günlük durumu ayrı `durum` dalında tutar (main ve veri sürümü değişmez).
 - `testler/` — derleyici testleri (kendi örnek kayıtlarıyla, `testler/ornek_kaynak/`) (`python -m unittest discover -s testler`)
 - Yayın adresi: `https://rebukaa4.github.io/mevsim-veri/v1/surum.json` ve `.../v1/mevsim_veri.json`
 

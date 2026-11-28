@@ -370,6 +370,12 @@ class DerleTesti(unittest.TestCase):
         self.not_yaz({"kapsam_id": None})
         self.reddedilmeli("birlikte dolu ya da birlikte boş")
 
+    def test_yil_notunda_fiyat_dili_reddedilir(self):
+        self.not_yaz({"baslik": "Hamsi ucuzladı"})
+        self.reddedilmeli("baslik fiyattan söz ediyor")
+        self.not_yaz({"baslik": "Hamsi bol", "metin": "Halde fiyatı düştü."})
+        self.reddedilmeli("metin fiyattan söz ediyor")
+
     # madde 9-10: önceki yayına göre ------------------------------------
     def onceki_veri(self):
         veri, hatalar, _ = self.derle(veri_surumu=4)

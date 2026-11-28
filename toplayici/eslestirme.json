@@ -1,0 +1,1575 @@
+{
+ "aciklama": "Hal kalem adı -> ürün kimliği eşleştirmesi. Adlar karşılaştırılırken büyük harfe çevrilir, Türkçe harfler sadeleştirilir (İ/ı->I, Ş->S, Ğ->G, Ü->U, Ö->O, Ç->C), boşluklar tekleştirilir. 'orneklem': kalemin örneklem günlerinin kaçında listelendiği (İzmir: 3.12.2025-13.11.2026 arası 14 günde bir alınan 26 hal günü; Konya: 2004-2026 arasından 16 liste). Örneklemin neredeyse her gününde görülen kalem 'yıl boyu halde' sayılır ve sinyal üretmez (eşik: ayarlar.json). 'yok_say': uygulamada karşılığı olmayan ya da bilerek eşleştirilmeyen kalemler (ithal meyve, uygulamada olmayan balık türleri, yemlik balık vb.). Burada olmayan yeni bir ad görülürse günlük durumda 'eşleşmeyen ad' olarak listelenir.",
+ "izmir_sebze_meyve": {
+  "aciklama": "İzmir BB sebze-meyve hal bülteni",
+  "orneklem_gun_sayisi": 26,
+  "kalemler": [
+   {
+    "ad": "ACUR",
+    "urun_id": "acur",
+    "orneklem": 9
+   },
+   {
+    "ad": "ARMUT  DEVECI",
+    "urun_id": "armut",
+    "orneklem": 26
+   },
+   {
+    "ad": "ARMUT  DİĞER",
+    "urun_id": "armut",
+    "orneklem": 26
+   },
+   {
+    "ad": "ARMUT  S.MARIA",
+    "urun_id": "armut",
+    "orneklem": 26
+   },
+   {
+    "ad": "ARMUT AKÇA",
+    "urun_id": "armut",
+    "orneklem": 3
+   },
+   {
+    "ad": "AVAKADO",
+    "urun_id": "avokado",
+    "orneklem": 26
+   },
+   {
+    "ad": "AYVA",
+    "urun_id": "ayva",
+    "orneklem": 15
+   },
+   {
+    "ad": "BADEM-ÇAĞLA",
+    "urun_id": "cagla",
+    "orneklem": 4
+   },
+   {
+    "ad": "BAKLA",
+    "urun_id": "bakla",
+    "orneklem": 9
+   },
+   {
+    "ad": "BAMYA",
+    "urun_id": "bamya",
+    "orneklem": 9
+   },
+   {
+    "ad": "BEZELYE",
+    "urun_id": "bezelye",
+    "orneklem": 9
+   },
+   {
+    "ad": "BORULCE",
+    "urun_id": "borulce",
+    "orneklem": 14
+   },
+   {
+    "ad": "BROKOLI",
+    "urun_id": "brokoli",
+    "orneklem": 26
+   },
+   {
+    "ad": "BİBER  DOLMA",
+    "urun_id": "dolmalik_biber",
+    "orneklem": 26
+   },
+   {
+    "ad": "BİBER  SİVRİ",
+    "urun_id": "sivri_biber",
+    "orneklem": 26
+   },
+   {
+    "ad": "BİBER KIRMIZI",
+    "urun_id": "kapya_biber",
+    "orneklem": 26
+   },
+   {
+    "ad": "BİBER KIRMIZI(TARLA)",
+    "urun_id": "kapya_biber",
+    "orneklem": 7
+   },
+   {
+    "ad": "BİBER SİVRİ (DİĞER)",
+    "urun_id": "sivri_biber",
+    "orneklem": 4
+   },
+   {
+    "ad": "BİBER ÇARLİSTON",
+    "urun_id": "carliston_biber",
+    "orneklem": 26
+   },
+   {
+    "ad": "BİBER ÇARLİSTON(DİĞER)",
+    "urun_id": "carliston_biber",
+    "orneklem": 4
+   },
+   {
+    "ad": "CENNET ELMASI",
+    "urun_id": "trabzon_hurmasi",
+    "orneklem": 10
+   },
+   {
+    "ad": "CILEK",
+    "urun_id": "cilek",
+    "orneklem": 26
+   },
+   {
+    "ad": "CİBEZ",
+    "urun_id": "cibez",
+    "orneklem": 13
+   },
+   {
+    "ad": "DARI(ADET)",
+    "urun_id": "taze_misir",
+    "orneklem": 10
+   },
+   {
+    "ad": "DENIZ BÖRÜLCESİ",
+    "urun_id": "deniz_borulcesi",
+    "orneklem": 26
+   },
+   {
+    "ad": "DOMATES  BEEF",
+    "urun_id": "domates",
+    "orneklem": 26
+   },
+   {
+    "ad": "DOMATES  SALKIM",
+    "urun_id": "domates",
+    "orneklem": 21
+   },
+   {
+    "ad": "DOMATES (KOKTEYL)",
+    "urun_id": "domates",
+    "orneklem": 26
+   },
+   {
+    "ad": "DOMATES CHERRY",
+    "urun_id": "domates",
+    "orneklem": 26
+   },
+   {
+    "ad": "DOMATES PEMBE",
+    "urun_id": "domates",
+    "orneklem": 26
+   },
+   {
+    "ad": "DOMATES SALKIM  (İYİ TARIM)",
+    "urun_id": "domates",
+    "orneklem": 5
+   },
+   {
+    "ad": "DOMATES SALÇALIK(RİO)",
+    "urun_id": "domates",
+    "orneklem": 8
+   },
+   {
+    "ad": "DOMATES SERA",
+    "urun_id": "domates",
+    "orneklem": 26
+   },
+   {
+    "ad": "DOMATES TARLA",
+    "urun_id": "domates",
+    "orneklem": 0
+   },
+   {
+    "ad": "ELMA  ARJANTİN",
+    "urun_id": "elma",
+    "orneklem": 23
+   },
+   {
+    "ad": "ELMA  DİĞER",
+    "urun_id": "elma",
+    "orneklem": 26
+   },
+   {
+    "ad": "ELMA  GOLDEN",
+    "urun_id": "elma",
+    "orneklem": 26
+   },
+   {
+    "ad": "ELMA  STARKING",
+    "urun_id": "elma",
+    "orneklem": 26
+   },
+   {
+    "ad": "ELMA GSMİT",
+    "urun_id": "elma",
+    "orneklem": 26
+   },
+   {
+    "ad": "ENGİNAR(CANAK)",
+    "urun_id": "enginar",
+    "orneklem": 6
+   },
+   {
+    "ad": "ERİK  ANJELIKA",
+    "urun_id": "erik",
+    "orneklem": 25
+   },
+   {
+    "ad": "ERİK  CAN",
+    "urun_id": "can_erik",
+    "orneklem": 6
+   },
+   {
+    "ad": "ERİK  PAPAZ",
+    "urun_id": "erik",
+    "orneklem": 10
+   },
+   {
+    "ad": "FASULYE   AYSE",
+    "urun_id": "taze_fasulye",
+    "orneklem": 26
+   },
+   {
+    "ad": "FASULYE   CALI",
+    "urun_id": "taze_fasulye",
+    "orneklem": 26
+   },
+   {
+    "ad": "GREYFURT",
+    "urun_id": "greyfurt",
+    "orneklem": 26
+   },
+   {
+    "ad": "HAVUÇ",
+    "urun_id": "havuc",
+    "orneklem": 26
+   },
+   {
+    "ad": "HAVUÇ(TAKOZ)",
+    "urun_id": "havuc",
+    "orneklem": 3
+   },
+   {
+    "ad": "INCIR  SİYAH",
+    "urun_id": "incir",
+    "orneklem": 7
+   },
+   {
+    "ad": "INCIR BEYAZ",
+    "urun_id": "incir",
+    "orneklem": 4
+   },
+   {
+    "ad": "ISPANAK",
+    "urun_id": "ispanak",
+    "orneklem": 26
+   },
+   {
+    "ad": "KABAK  BAL",
+    "urun_id": "balkabagi",
+    "orneklem": 26
+   },
+   {
+    "ad": "KABAK TAZE",
+    "urun_id": "sakiz_kabak",
+    "orneklem": 26
+   },
+   {
+    "ad": "KARNABAHAR",
+    "urun_id": "karnabahar",
+    "orneklem": 26
+   },
+   {
+    "ad": "KARPUZ",
+    "urun_id": "karpuz",
+    "orneklem": 26
+   },
+   {
+    "ad": "KAVUN DİĞER",
+    "urun_id": "kavun",
+    "orneklem": 26
+   },
+   {
+    "ad": "KAVUN TARLA",
+    "urun_id": "kavun",
+    "orneklem": 0
+   },
+   {
+    "ad": "KAYISI ",
+    "urun_id": "kayisi",
+    "orneklem": 11
+   },
+   {
+    "ad": "KAYISI  MALATYA",
+    "urun_id": "kayisi",
+    "orneklem": 6
+   },
+   {
+    "ad": "KAYISI ŞEKERPARE",
+    "urun_id": "kayisi",
+    "orneklem": 5
+   },
+   {
+    "ad": "KEREVIZ",
+    "urun_id": "kereviz",
+    "orneklem": 26
+   },
+   {
+    "ad": "KESTANE",
+    "urun_id": "kestane",
+    "orneklem": 9
+   },
+   {
+    "ad": "KIRAZ  ",
+    "urun_id": "kiraz",
+    "orneklem": 11
+   },
+   {
+    "ad": "KIRAZ  SALIHLI",
+    "urun_id": "kiraz",
+    "orneklem": 4
+   },
+   {
+    "ad": "KIVI  ",
+    "urun_id": "kivi",
+    "orneklem": 26
+   },
+   {
+    "ad": "KIVI  İTHAL",
+    "urun_id": "kivi",
+    "orneklem": 7
+   },
+   {
+    "ad": "LAHANA  BEYAZ",
+    "urun_id": "beyaz_lahana",
+    "orneklem": 26
+   },
+   {
+    "ad": "LAHANA  BURUKSEL",
+    "urun_id": "bruksel_lahanasi",
+    "orneklem": 8
+   },
+   {
+    "ad": "LAHANA  KIRMIZI",
+    "urun_id": "kirmizi_lahana",
+    "orneklem": 26
+   },
+   {
+    "ad": "LİMON  YENİ (MAYER)",
+    "urun_id": "limon",
+    "orneklem": 12
+   },
+   {
+    "ad": "LİMON DİĞER ",
+    "urun_id": "limon",
+    "orneklem": 26
+   },
+   {
+    "ad": "LİMON LAMAS",
+    "urun_id": "limon",
+    "orneklem": 26
+   },
+   {
+    "ad": "MALTA",
+    "urun_id": "yenidunya",
+    "orneklem": 6
+   },
+   {
+    "ad": "MANDALİNA",
+    "urun_id": "mandalina",
+    "orneklem": 14
+   },
+   {
+    "ad": "MANDALİNA MURKOT",
+    "urun_id": "mandalina",
+    "orneklem": 3
+   },
+   {
+    "ad": "MANTAR",
+    "urun_id": "mantar",
+    "orneklem": 26
+   },
+   {
+    "ad": "MARUL",
+    "urun_id": "marul",
+    "orneklem": 26
+   },
+   {
+    "ad": "MARUL AYSBERG",
+    "urun_id": "marul",
+    "orneklem": 26
+   },
+   {
+    "ad": "MARUL KIVIRCIK",
+    "urun_id": "marul",
+    "orneklem": 26
+   },
+   {
+    "ad": "MARUL LOLOROSSO",
+    "urun_id": "marul",
+    "orneklem": 26
+   },
+   {
+    "ad": "MUZ  ITHAL",
+    "urun_id": "muz",
+    "orneklem": 26
+   },
+   {
+    "ad": "MUZ  YERLI",
+    "urun_id": "muz",
+    "orneklem": 26
+   },
+   {
+    "ad": "NAR",
+    "urun_id": "nar",
+    "orneklem": 26
+   },
+   {
+    "ad": "NEKTARIN  BEYAZ",
+    "urun_id": "nektarin",
+    "orneklem": 7
+   },
+   {
+    "ad": "NEKTARIN KIRMIZI",
+    "urun_id": "nektarin",
+    "orneklem": 13
+   },
+   {
+    "ad": "PANCAR",
+    "urun_id": "kirmizi_pancar",
+    "orneklem": 26
+   },
+   {
+    "ad": "PATATES  CALMA",
+    "urun_id": "patates",
+    "orneklem": 26
+   },
+   {
+    "ad": "PATATES DİĞER",
+    "urun_id": "patates",
+    "orneklem": 26
+   },
+   {
+    "ad": "PATLICAN  UZUN",
+    "urun_id": "patlican",
+    "orneklem": 26
+   },
+   {
+    "ad": "PATLICAN TOPAN",
+    "urun_id": "patlican",
+    "orneklem": 26
+   },
+   {
+    "ad": "PAZI",
+    "urun_id": "pazi",
+    "orneklem": 26
+   },
+   {
+    "ad": "PIRASA",
+    "urun_id": "pirasa",
+    "orneklem": 21
+   },
+   {
+    "ad": "PORTAKAL  ",
+    "urun_id": "portakal",
+    "orneklem": 26
+   },
+   {
+    "ad": "SALATALIK ",
+    "urun_id": "salatalik",
+    "orneklem": 26
+   },
+   {
+    "ad": "SALATALIK  SİLOR",
+    "urun_id": "salatalik",
+    "orneklem": 26
+   },
+   {
+    "ad": "SARIMSAK  KURU",
+    "urun_id": "kuru_sarimsak",
+    "orneklem": 26
+   },
+   {
+    "ad": "SEMIZ OTU",
+    "urun_id": "semizotu",
+    "orneklem": 26
+   },
+   {
+    "ad": "SOĞAN   KIRMIZI",
+    "urun_id": "kuru_sogan",
+    "orneklem": 26
+   },
+   {
+    "ad": "SOĞAN   KURU",
+    "urun_id": "kuru_sogan",
+    "orneklem": 26
+   },
+   {
+    "ad": "SOĞAN   TAZE",
+    "urun_id": "taze_sogan",
+    "orneklem": 26
+   },
+   {
+    "ad": "TURP  KIRMIZI",
+    "urun_id": "turp",
+    "orneklem": 26
+   },
+   {
+    "ad": "VISNE",
+    "urun_id": "visne",
+    "orneklem": 5
+   },
+   {
+    "ad": "Y.DEREOTU",
+    "urun_id": "dereotu",
+    "orneklem": 26
+   },
+   {
+    "ad": "Y.MAYDONOZ",
+    "urun_id": "maydanoz",
+    "orneklem": 26
+   },
+   {
+    "ad": "Y.NANE",
+    "urun_id": "taze_nane",
+    "orneklem": 26
+   },
+   {
+    "ad": "Y.ROKA",
+    "urun_id": "roka",
+    "orneklem": 26
+   },
+   {
+    "ad": "Y.TERE",
+    "urun_id": "tere",
+    "orneklem": 26
+   },
+   {
+    "ad": "ÜZÜM  BEYAZ",
+    "urun_id": "uzum",
+    "orneklem": 17
+   },
+   {
+    "ad": "ÜZÜM  SİYAH",
+    "urun_id": "uzum",
+    "orneklem": 19
+   },
+   {
+    "ad": "ÜZÜM KAVACIK",
+    "urun_id": "uzum",
+    "orneklem": 7
+   },
+   {
+    "ad": "ŞEFTALI",
+    "urun_id": "seftali",
+    "orneklem": 13
+   }
+  ],
+  "yok_say": [
+   "ANANAS",
+   "BARBUNYA TAZE",
+   "BİBER  KIL ACI",
+   "BİBER  ŞİLİ",
+   "BİBER KÖY(MAZO)",
+   "HINDISTAN CEVIZI",
+   "MANGO",
+   "Y.REYHAN",
+   "ZENCEFİL"
+  ]
+ },
+ "izmir_balik": {
+  "aciklama": "İzmir BB balık hal bülteni",
+  "orneklem_gun_sayisi": 26,
+  "kalemler": [
+   {
+    "ad": "AHTAPOT(DONUK)",
+    "urun_id": "ahtapot",
+    "orneklem": 10
+   },
+   {
+    "ad": "AHTOPOT (DENİZ)",
+    "urun_id": "ahtapot",
+    "orneklem": 12
+   },
+   {
+    "ad": "AKYA (DENİZ)",
+    "urun_id": "akya",
+    "orneklem": 15
+   },
+   {
+    "ad": "AKYA(DONUK)",
+    "urun_id": "akya",
+    "orneklem": 1
+   },
+   {
+    "ad": "ALABALIK ( TATLI )",
+    "urun_id": "alabalik",
+    "orneklem": 4
+   },
+   {
+    "ad": "ALABALIK(DONUK)",
+    "urun_id": "alabalik",
+    "orneklem": 1
+   },
+   {
+    "ad": "BAKALYARO(BÜYÜKBOY)",
+    "urun_id": "berlam",
+    "orneklem": 26
+   },
+   {
+    "ad": "BAKALYARO(KÜÇÜKBOY)",
+    "urun_id": "berlam",
+    "orneklem": 16
+   },
+   {
+    "ad": "BARBUN (DONUK)",
+    "urun_id": "barbunya",
+    "orneklem": 0
+   },
+   {
+    "ad": "BARBUN (TEKİR)",
+    "urun_id": "tekir",
+    "orneklem": 28
+   },
+   {
+    "ad": "BARBUN(KAYA)",
+    "urun_id": "barbunya",
+    "orneklem": 26
+   },
+   {
+    "ad": "DIL",
+    "urun_id": "dil",
+    "orneklem": 23
+   },
+   {
+    "ad": "DONUK BAKALYARO",
+    "urun_id": "berlam",
+    "orneklem": 2
+   },
+   {
+    "ad": "DONUK DİL",
+    "urun_id": "dil",
+    "orneklem": 3
+   },
+   {
+    "ad": "DONUK HAMSİ",
+    "urun_id": "hamsi",
+    "orneklem": 16
+   },
+   {
+    "ad": "DONUK PALAMUT",
+    "urun_id": "palamut",
+    "orneklem": 0
+   },
+   {
+    "ad": "DONUK SARDALYA",
+    "urun_id": "sardalya",
+    "orneklem": 12
+   },
+   {
+    "ad": "DONUK(KALAMAR)",
+    "urun_id": "kalamar",
+    "orneklem": 7
+   },
+   {
+    "ad": "DİL(CANGIDEZ)",
+    "urun_id": "dil",
+    "orneklem": 13
+   },
+   {
+    "ad": "GRANYOZ (DENİZ)",
+    "urun_id": "granyoz",
+    "orneklem": 26
+   },
+   {
+    "ad": "HAMSI (DENİZ)",
+    "urun_id": "hamsi",
+    "orneklem": 19
+   },
+   {
+    "ad": "ISTAVRIT (DENİZ)",
+    "urun_id": "istavrit",
+    "orneklem": 25
+   },
+   {
+    "ad": "ISTAVRİT (DONUK)",
+    "urun_id": "istavrit",
+    "orneklem": 1
+   },
+   {
+    "ad": "ITHAL USKUMRU(DONUK)",
+    "urun_id": "uskumru",
+    "orneklem": 19
+   },
+   {
+    "ad": "IZMARIT (DENİZ)",
+    "urun_id": "izmarit",
+    "orneklem": 18
+   },
+   {
+    "ad": "KALAMAR (DENİZ)",
+    "urun_id": "kalamar",
+    "orneklem": 25
+   },
+   {
+    "ad": "KALKAN (DENİZ)",
+    "urun_id": "kalkan",
+    "orneklem": 10
+   },
+   {
+    "ad": "KARAGÖZ (DENİZ)",
+    "urun_id": "karagoz",
+    "orneklem": 21
+   },
+   {
+    "ad": "KARİDES (DENİZ)",
+    "urun_id": "karides",
+    "orneklem": 15
+   },
+   {
+    "ad": "KARİDES(DONUK)",
+    "urun_id": "karides",
+    "orneklem": 20
+   },
+   {
+    "ad": "KEFAL (DENİZ)",
+    "urun_id": "kefal",
+    "orneklem": 26
+   },
+   {
+    "ad": "KILIÇ (DENİZ)",
+    "urun_id": "kilic",
+    "orneklem": 8
+   },
+   {
+    "ad": "KOLYOZ (DENİZ)",
+    "urun_id": "kolyoz",
+    "orneklem": 26
+   },
+   {
+    "ad": "KOLYOZ (DONUK)",
+    "urun_id": "kolyoz",
+    "orneklem": 4
+   },
+   {
+    "ad": "KUPEZ (DENİZ)",
+    "urun_id": "kupes",
+    "orneklem": 26
+   },
+   {
+    "ad": "KUPEZ (DONUK)",
+    "urun_id": "kupes",
+    "orneklem": 3
+   },
+   {
+    "ad": "LEVREK ( KÜLTÜR )",
+    "urun_id": "levrek_ciftlik",
+    "orneklem": 26
+   },
+   {
+    "ad": "LEVREK (DENİZ)",
+    "urun_id": "levrek",
+    "orneklem": 25
+   },
+   {
+    "ad": "LÜFER ( DENİZ)",
+    "urun_id": "lufer",
+    "orneklem": 23
+   },
+   {
+    "ad": "LÜFER (KÜÇÜK )",
+    "urun_id": "lufer",
+    "orneklem": 7
+   },
+   {
+    "ad": "LÜFER(İRİ BOY)",
+    "urun_id": "lufer",
+    "orneklem": 4
+   },
+   {
+    "ad": "MERCAN (BÜYÜKBOY)",
+    "urun_id": "mercan",
+    "orneklem": 28
+   },
+   {
+    "ad": "MERCAN(KÜÇÜK BOY)",
+    "urun_id": "mercan",
+    "orneklem": 19
+   },
+   {
+    "ad": "MEZGİT (DENİZ)",
+    "urun_id": "mezgit",
+    "orneklem": 21
+   },
+   {
+    "ad": "MEZGİT (DONUK)",
+    "urun_id": "mezgit",
+    "orneklem": 5
+   },
+   {
+    "ad": "MİDYE DONUK",
+    "urun_id": "midye",
+    "orneklem": 5
+   },
+   {
+    "ad": "PALAMUT-TORİK (DENİZ",
+    "urun_id": "palamut",
+    "orneklem": 12
+   },
+   {
+    "ad": "PALAMUT-TORİK (DENİZ)",
+    "urun_id": "palamut",
+    "orneklem": 0
+   },
+   {
+    "ad": "SARDALYA (DENİZ)",
+    "urun_id": "sardalya",
+    "orneklem": 26
+   },
+   {
+    "ad": "SARGOZ(DENİZ)",
+    "urun_id": "sargoz",
+    "orneklem": 12
+   },
+   {
+    "ad": "SÜBYE (DENİZ)",
+    "urun_id": "murekkep",
+    "orneklem": 25
+   },
+   {
+    "ad": "SİNARİT (DENİZ)",
+    "urun_id": "sinarit",
+    "orneklem": 23
+   },
+   {
+    "ad": "TEKİR (DONUK)",
+    "urun_id": "tekir",
+    "orneklem": 0
+   },
+   {
+    "ad": "TEKİR(DENİZ)",
+    "urun_id": "tekir",
+    "orneklem": 18
+   },
+   {
+    "ad": "USKUMRU (DENİZ)",
+    "urun_id": "uskumru",
+    "orneklem": 14
+   },
+   {
+    "ad": "YABANİ KALAMAR",
+    "urun_id": "kalamar",
+    "orneklem": 23
+   },
+   {
+    "ad": "ZARGANA (DENİZ)",
+    "urun_id": "zargana",
+    "orneklem": 21
+   },
+   {
+    "ad": "ÇIPURA (DENİZ)",
+    "urun_id": "cipura",
+    "orneklem": 26
+   },
+   {
+    "ad": "ÇİPURA ( KÜLTÜR )",
+    "urun_id": "cipura_ciftlik",
+    "orneklem": 26
+   },
+   {
+    "ad": "İSTAVRİT(SARI KANAT)",
+    "urun_id": "istavrit",
+    "orneklem": 27
+   }
+  ],
+  "yok_say": [
+   "BÜLBÜL (DENİZ )",
+   "DONUK PANGA",
+   "DONUK SAZAN",
+   "DONUK SOMON",
+   "EŞKİNA(DENİZ)",
+   "FANGRI (DENİZ)",
+   "FENER (DENİZ)",
+   "HAMSİ (YEM)",
+   "HANOS ( DENİZ )",
+   "ISKORPIT (DENİZ)",
+   "ISPAROZ (DENİZ)",
+   "JAPON HAMSİ",
+   "KAMİT(DENİZ)",
+   "KEREVİT ( DENİZ )",
+   "KIRLANGIÇ (DENİZ)",
+   "KOFANA ( DENİZ )",
+   "KOLORİT(DENİZ)",
+   "KRAÇA ( DENİZ )",
+   "KRAÇA (DONUK)",
+   "KÖPEK (DENİZ)",
+   "LAHOZ (DENİZ)",
+   "LAKERDA",
+   "LOKUM(DENİZ)",
+   "LİDAKİ (DENİZ)",
+   "MARYA (DENİZ)",
+   "MARİNE SALATA (DONUK)",
+   "MASKO DENİZ",
+   "MELANUR (DENİZ)",
+   "MINEKOP (DENİZ)",
+   "MIRLAN(DENİZ)",
+   "MIRMIR (DENİZ)",
+   "PAPAĞAN ( DENİZ )",
+   "PEYGAMBER (DENİZ)",
+   "PİSİ ( DENİZ )",
+   "RİNGA",
+   "SARDALYA (YEM)",
+   "SARPA (DENİZ)",
+   "SAZAN ( TATLI )",
+   "SOKKAN(DENİZ)",
+   "SOMON ( TATLI )",
+   "TIRSI (DENİZ)",
+   "TOMBIK(DENİZ)",
+   "TRANÇA (DENİZ)",
+   "TURNA (DENİZ)",
+   "TİRSİ (DONUK)",
+   "VATOZ (DENİZ)",
+   "YAZILIORKINOS(DENİZ)",
+   "YENGEÇ (DENİZ)",
+   "YILAN ( TATLI )",
+   "ÇAPAK(TATLI)",
+   "ÇİMÇİM (DENİZ)",
+   "ÇİMÇİM (DONUK)",
+   "ÇİROZ (DONUK)",
+   "ÖKSÜZ(DENİZ)",
+   "İSKAROZ",
+   "İSPENDEK(DENİZ)",
+   "İSTAKOZ (DENİZ)",
+   "İTHAL SOMON(TATLI)"
+  ]
+ },
+ "konya": {
+  "aciklama": "Konya BB meyve-sebze hali listesi",
+  "orneklem_gun_sayisi": 16,
+  "kalemler": [
+   {
+    "ad": "ALIÇ (MUHTELİF)",
+    "urun_id": "alic",
+    "orneklem": 1
+   },
+   {
+    "ad": "ARMUT (ANKARA)",
+    "urun_id": "armut",
+    "orneklem": 12
+   },
+   {
+    "ad": "ARMUT (DEVECİ)",
+    "urun_id": "armut",
+    "orneklem": 4
+   },
+   {
+    "ad": "ARMUT (MUHTELİF)",
+    "urun_id": "armut",
+    "orneklem": 4
+   },
+   {
+    "ad": "ARMUT (SANTA MARİNA)",
+    "urun_id": "armut",
+    "orneklem": 3
+   },
+   {
+    "ad": "ASMA YAPRAĞI (MUHTELİF)",
+    "urun_id": "asma_yapragi",
+    "orneklem": 6
+   },
+   {
+    "ad": "AVOKADO (MUHTELİF)",
+    "urun_id": "avokado",
+    "orneklem": 12
+   },
+   {
+    "ad": "AYVA (MUHTELİF)",
+    "urun_id": "ayva",
+    "orneklem": 9
+   },
+   {
+    "ad": "BAKLA (MUHTELİF)",
+    "urun_id": "bakla",
+    "orneklem": 6
+   },
+   {
+    "ad": "BAMYA (MUHTELİF)",
+    "urun_id": "bamya",
+    "orneklem": 5
+   },
+   {
+    "ad": "BEZELYE (ARAKA)",
+    "urun_id": "bezelye",
+    "orneklem": 7
+   },
+   {
+    "ad": "BROKOLİ (MUHTELİF)",
+    "urun_id": "brokoli",
+    "orneklem": 14
+   },
+   {
+    "ad": "BİBER (DOLMA)",
+    "urun_id": "dolmalik_biber",
+    "orneklem": 15
+   },
+   {
+    "ad": "BİBER (KAPYA)",
+    "urun_id": "kapya_biber",
+    "orneklem": 13
+   },
+   {
+    "ad": "BİBER (SİVRİ)",
+    "urun_id": "sivri_biber",
+    "orneklem": 14
+   },
+   {
+    "ad": "BİBER (ÇARLİ)",
+    "urun_id": "carliston_biber",
+    "orneklem": 14
+   },
+   {
+    "ad": "DERE OTU (MUHTELİF)",
+    "urun_id": "dereotu",
+    "orneklem": 14
+   },
+   {
+    "ad": "DOMATES (KÖY)",
+    "urun_id": "domates",
+    "orneklem": 5
+   },
+   {
+    "ad": "DOMATES (MUHTELİF)",
+    "urun_id": "domates",
+    "orneklem": 15
+   },
+   {
+    "ad": "DOMATES (SALKIM)",
+    "urun_id": "domates",
+    "orneklem": 14
+   },
+   {
+    "ad": "DOMATES (SALÇALIK)",
+    "urun_id": "domates",
+    "orneklem": 2
+   },
+   {
+    "ad": "DUT (MUHTELİF)",
+    "urun_id": "dut",
+    "orneklem": 1
+   },
+   {
+    "ad": "DUT (PAKET)",
+    "urun_id": "dut",
+    "orneklem": 5
+   },
+   {
+    "ad": "EKŞİ OT (BAĞ)",
+    "urun_id": "kuzukulagi",
+    "orneklem": 14
+   },
+   {
+    "ad": "ELMA (AMASYA)",
+    "urun_id": "elma",
+    "orneklem": 6
+   },
+   {
+    "ad": "ELMA (ARJANTİN)",
+    "urun_id": "elma",
+    "orneklem": 4
+   },
+   {
+    "ad": "ELMA (GOLDEN)",
+    "urun_id": "elma",
+    "orneklem": 10
+   },
+   {
+    "ad": "ELMA (GRANNY SMİTH)",
+    "urun_id": "elma",
+    "orneklem": 3
+   },
+   {
+    "ad": "ELMA (MUHTELİF)",
+    "urun_id": "elma",
+    "orneklem": 14
+   },
+   {
+    "ad": "ELMA (STARKİNG)",
+    "urun_id": "elma",
+    "orneklem": 10
+   },
+   {
+    "ad": "ENGİNAR (MUHTELİF)",
+    "urun_id": "enginar",
+    "orneklem": 5
+   },
+   {
+    "ad": "ERİK (ANJELİKA)",
+    "urun_id": "erik",
+    "orneklem": 3
+   },
+   {
+    "ad": "ERİK (CAN)",
+    "urun_id": "can_erik",
+    "orneklem": 7
+   },
+   {
+    "ad": "ERİK (MUHTELİF)",
+    "urun_id": "erik",
+    "orneklem": 9
+   },
+   {
+    "ad": "ERİK (MÜRDÜM)",
+    "urun_id": "erik",
+    "orneklem": 1
+   },
+   {
+    "ad": "ERİK (PAPAZ)",
+    "urun_id": "erik",
+    "orneklem": 1
+   },
+   {
+    "ad": "FASULYE (MUHTELİF)",
+    "urun_id": "taze_fasulye",
+    "orneklem": 15
+   },
+   {
+    "ad": "GREYFURT (MUHTELİF)",
+    "urun_id": "greyfurt",
+    "orneklem": 10
+   },
+   {
+    "ad": "HAVUÇ (MUHTELİF)",
+    "urun_id": "havuc",
+    "orneklem": 14
+   },
+   {
+    "ad": "HURMA (CENNET)",
+    "urun_id": "trabzon_hurmasi",
+    "orneklem": 5
+   },
+   {
+    "ad": "ISPANAK (MUHTELİF)",
+    "urun_id": "ispanak",
+    "orneklem": 13
+   },
+   {
+    "ad": "KABAK (BAL)",
+    "urun_id": "balkabagi",
+    "orneklem": 8
+   },
+   {
+    "ad": "KABAK (BEYAZ)",
+    "urun_id": "sakiz_kabak",
+    "orneklem": 12
+   },
+   {
+    "ad": "KABAK (KARA)",
+    "urun_id": "sakiz_kabak",
+    "orneklem": 14
+   },
+   {
+    "ad": "KARNABAHAR (MUHTELİF)",
+    "urun_id": "karnabahar",
+    "orneklem": 12
+   },
+   {
+    "ad": "KARPUZ (MUHTELİF)",
+    "urun_id": "karpuz",
+    "orneklem": 13
+   },
+   {
+    "ad": "KAVUN (MUHTELİF)",
+    "urun_id": "kavun",
+    "orneklem": 13
+   },
+   {
+    "ad": "KAYISI (MUHTELİF)",
+    "urun_id": "kayisi",
+    "orneklem": 7
+   },
+   {
+    "ad": "KEREVİZ (MUHTELİF)",
+    "urun_id": "kereviz",
+    "orneklem": 10
+   },
+   {
+    "ad": "KESTANE (MUHTELİF)",
+    "urun_id": "kestane",
+    "orneklem": 4
+   },
+   {
+    "ad": "KİRAZ (BEYAZ)",
+    "urun_id": "kiraz",
+    "orneklem": 1
+   },
+   {
+    "ad": "KİRAZ (MUHTELİF)",
+    "urun_id": "kiraz",
+    "orneklem": 5
+   },
+   {
+    "ad": "KİRAZ (NAPOLYON)",
+    "urun_id": "kiraz",
+    "orneklem": 1
+   },
+   {
+    "ad": "KİVİ (MUHTELİF)",
+    "urun_id": "kivi",
+    "orneklem": 14
+   },
+   {
+    "ad": "KİVİ (İTHAL)",
+    "urun_id": "kivi",
+    "orneklem": 2
+   },
+   {
+    "ad": "LAHANA (BEYAZ)",
+    "urun_id": "beyaz_lahana",
+    "orneklem": 14
+   },
+   {
+    "ad": "LAHANA (BRÜKSEL)",
+    "urun_id": "bruksel_lahanasi",
+    "orneklem": 3
+   },
+   {
+    "ad": "LAHANA (MOR)",
+    "urun_id": "kirmizi_lahana",
+    "orneklem": 15
+   },
+   {
+    "ad": "LİMON (MUHTELİF)",
+    "urun_id": "limon",
+    "orneklem": 7
+   },
+   {
+    "ad": "LİMON (YATAK)",
+    "urun_id": "limon",
+    "orneklem": 5
+   },
+   {
+    "ad": "MANDALİNA (KİNG)",
+    "urun_id": "mandalina",
+    "orneklem": 2
+   },
+   {
+    "ad": "MANDALİNA (MUHTELİF)",
+    "urun_id": "mandalina",
+    "orneklem": 6
+   },
+   {
+    "ad": "MANDALİNA (SATSUMA)",
+    "urun_id": "mandalina",
+    "orneklem": 3
+   },
+   {
+    "ad": "MANTAR (KÜLTÜR)",
+    "urun_id": "mantar",
+    "orneklem": 14
+   },
+   {
+    "ad": "MARUL (AYSBERK)",
+    "urun_id": "marul",
+    "orneklem": 12
+   },
+   {
+    "ad": "MARUL (KIVIRCIK)",
+    "urun_id": "marul",
+    "orneklem": 2
+   },
+   {
+    "ad": "MARUL (MOR)",
+    "urun_id": "marul",
+    "orneklem": 11
+   },
+   {
+    "ad": "MARUL (MUHTELİF)",
+    "urun_id": "marul",
+    "orneklem": 12
+   },
+   {
+    "ad": "MAYDANOZ (MUHTELİF)",
+    "urun_id": "maydanoz",
+    "orneklem": 15
+   },
+   {
+    "ad": "MISIR (TAZE)",
+    "urun_id": "taze_misir",
+    "orneklem": 5
+   },
+   {
+    "ad": "MUZ (YERLİ)",
+    "urun_id": "muz",
+    "orneklem": 14
+   },
+   {
+    "ad": "MUZ (İTHAL)",
+    "urun_id": "muz",
+    "orneklem": 15
+   },
+   {
+    "ad": "NANE (BAĞ)",
+    "urun_id": "taze_nane",
+    "orneklem": 15
+   },
+   {
+    "ad": "NAR (MUHTELİF)",
+    "urun_id": "nar",
+    "orneklem": 3
+   },
+   {
+    "ad": "NAR (ÇEKİRDEKSİZ)",
+    "urun_id": "nar",
+    "orneklem": 8
+   },
+   {
+    "ad": "NEKTARİ (MUHTELİF)",
+    "urun_id": "nektarin",
+    "orneklem": 2
+   },
+   {
+    "ad": "PANCAR (KIRMIZI)",
+    "urun_id": "kirmizi_pancar",
+    "orneklem": 6
+   },
+   {
+    "ad": "PATATES (MUHTELİF)",
+    "urun_id": "patates",
+    "orneklem": 11
+   },
+   {
+    "ad": "PATLICAN (KEMER)",
+    "urun_id": "patlican",
+    "orneklem": 15
+   },
+   {
+    "ad": "PATLICAN (TOPAK)",
+    "urun_id": "patlican",
+    "orneklem": 14
+   },
+   {
+    "ad": "PAZI (MUHTELİF)",
+    "urun_id": "pazi",
+    "orneklem": 4
+   },
+   {
+    "ad": "PIRASA (MUHTELİF)",
+    "urun_id": "pirasa",
+    "orneklem": 11
+   },
+   {
+    "ad": "PORTAKAL (FİNİKE)",
+    "urun_id": "portakal",
+    "orneklem": 3
+   },
+   {
+    "ad": "PORTAKAL (MUHTELİF)",
+    "urun_id": "portakal",
+    "orneklem": 12
+   },
+   {
+    "ad": "PORTAKAL (SIKMALIK)",
+    "urun_id": "portakal",
+    "orneklem": 2
+   },
+   {
+    "ad": "PORTAKAL (WASHINGTON)",
+    "urun_id": "portakal",
+    "orneklem": 3
+   },
+   {
+    "ad": "ROKA (BAĞ)",
+    "urun_id": "roka",
+    "orneklem": 12
+   },
+   {
+    "ad": "SALATALIK (MUHTELİF)",
+    "urun_id": "salatalik",
+    "orneklem": 12
+   },
+   {
+    "ad": "SALATALIK (SİLOR)",
+    "urun_id": "salatalik",
+    "orneklem": 11
+   },
+   {
+    "ad": "SARIMSAK (KURU)",
+    "urun_id": "kuru_sarimsak",
+    "orneklem": 11
+   },
+   {
+    "ad": "SARIMSAK (TAZE)",
+    "urun_id": "taze_sarimsak",
+    "orneklem": 6
+   },
+   {
+    "ad": "SARIMSAK (İTHAL)",
+    "urun_id": "kuru_sarimsak",
+    "orneklem": 1
+   },
+   {
+    "ad": "SEMİZ OTU (BAĞ)",
+    "urun_id": "semizotu",
+    "orneklem": 12
+   },
+   {
+    "ad": "SOĞAN (KIRMIZI)",
+    "urun_id": "kuru_sogan",
+    "orneklem": 9
+   },
+   {
+    "ad": "SOĞAN (KURU)",
+    "urun_id": "kuru_sogan",
+    "orneklem": 12
+   },
+   {
+    "ad": "SOĞAN (YEŞİL)",
+    "urun_id": "taze_sogan",
+    "orneklem": 11
+   },
+   {
+    "ad": "TERE (MUHTELİF)",
+    "urun_id": "tere",
+    "orneklem": 12
+   },
+   {
+    "ad": "TURP (MUHTELİF)",
+    "urun_id": "turp",
+    "orneklem": 7
+   },
+   {
+    "ad": "YENİ DÜNYA (MALTA ERİĞİ)",
+    "urun_id": "yenidunya",
+    "orneklem": 4
+   },
+   {
+    "ad": "YER ELMASI (MUHTELİF)",
+    "urun_id": "yerelmasi",
+    "orneklem": 5
+   },
+   {
+    "ad": "ÇİLEK (MUHTELİF)",
+    "urun_id": "cilek",
+    "orneklem": 13
+   },
+   {
+    "ad": "ÜZÜM (MUHTELİF)",
+    "urun_id": "uzum",
+    "orneklem": 12
+   },
+   {
+    "ad": "ÜZÜM (SİYAH)",
+    "urun_id": "uzum",
+    "orneklem": 3
+   },
+   {
+    "ad": "ÜZÜM (ÇEKİRDEKSİZ)",
+    "urun_id": "uzum",
+    "orneklem": 5
+   },
+   {
+    "ad": "İNCİR (BEYAZ)",
+    "urun_id": "incir",
+    "orneklem": 3
+   },
+   {
+    "ad": "ŞEFTALİ (MUHTELİF)",
+    "urun_id": "seftali",
+    "orneklem": 6
+   },
+   {
+    "ad": "ŞEFTALİ (NEKTARİ)",
+    "urun_id": "nektarin",
+    "orneklem": 3
+   }
+  ],
+  "yok_say": [
+   "AHUDUDU (PAKET)",
+   "ALTIN ÇİLEK (PAKET)",
+   "ANANAS (MUHTELİF)",
+   "BARBUNYA (MUHTELİF)",
+   "BİBER (CİN)",
+   "BİBER (KIL)",
+   "BİBER (KÖY)",
+   "BİBER (ŞİLİ)",
+   "BİBER Kıl (Yerli) (MUHTELİF)",
+   "BİBER Sivri (Yerli) (MUHTELİF)",
+   "DOMATES (KOKTEYL)",
+   "DOMATES (SALKIM KUTU)",
+   "DOMATES (SALKIM ÇERİ)",
+   "DOMATES (Yerli) (MUHTELİF)",
+   "DOMATES (ÇERİ)",
+   "DOMATES (Çeri) (MUHTELİF)",
+   "DOMATES (İKİNCİ)",
+   "EJDER MEYVESİ (MUHTELİF)",
+   "ELMA (İKİNCİ)",
+   "ELMA (İthal) (MUHTELİF)",
+   "FASULYE (Yerli) (MUHTELİF)",
+   "FESLEĞEN (REYHAN)",
+   "HAVUÇ (İKİNCİ)",
+   "HIRTLAK (MUHTELİF)",
+   "HİNDİSTAN CEVİZİ (MUHTELİF)",
+   "KABAK (Yerli) (MUHTELİF)",
+   "KAMKAT (MUHTELİF)",
+   "KİRAZ (Yerli) (MUHTELİF)",
+   "LİMON (FİLE)",
+   "LİMON (İKİNCİ)",
+   "MANGO (MUHTELİF)",
+   "MARUL (Yerli)Adet (MUHTELİF)",
+   "MAYDONOZ (Yerli) Bağ (MUHTELİF)",
+   "MUHTELİF (MUHTELİF)",
+   "NOHUT (Taze) (MUHTELİF)",
+   "PATATES (TATLI)",
+   "PATATES (İKİNCİ)",
+   "PORTAKAL (İKİNCİ)",
+   "SALATALIK (Yerli) (MUHTELİF)",
+   "SOGAN (Göğer) (MUHTELİF)",
+   "SOĞAN (ARPACIK (PAKET))",
+   "SOĞAN (ARPACIK)",
+   "SOĞAN (İKİNCİ)",
+   "SİL HAVUÇ (MUHTELİF)",
+   "TERMİYE (MUHTELİF)",
+   "VİŞNE (yerli) (MUHTELİF)",
+   "YABAN MERSİNİ (PAKET)",
+   "ZENCEFİL (TAZE)"
+  ]
+ },
+ "hks": {
+  "aciklama": "Hal Kayıt Sistemi ilk sayfası (alfabetik ilk 25 satır). 'Ürün Adı' sütunu eşleştirilir; işlem hacmi ürün başına toplanır.",
+  "orneklem_gun_sayisi": 0,
+  "kalemler": [
+   {
+    "ad": "ACUR",
+    "urun_id": "acur",
+    "orneklem": 0
+   },
+   {
+    "ad": "ALIÇ",
+    "urun_id": "alic",
+    "orneklem": 0
+   },
+   {
+    "ad": "ARMUT",
+    "urun_id": "armut",
+    "orneklem": 0
+   },
+   {
+    "ad": "ASMA YAPRAĞI",
+    "urun_id": "asma_yapragi",
+    "orneklem": 0
+   },
+   {
+    "ad": "AVOKADO",
+    "urun_id": "avokado",
+    "orneklem": 0
+   },
+   {
+    "ad": "AYVA",
+    "urun_id": "ayva",
+    "orneklem": 0
+   }
+  ],
+  "yok_say": [
+   "ADAÇAYI (YAŞ-TAZE)",
+   "AHUDUDU(FRAMBUAZ)",
+   "ALABAŞ(KOHLRABİ)",
+   "ANANAS",
+   "ANDİVA"
+  ]
+ }
+}
