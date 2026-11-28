@@ -1,0 +1,147 @@
+{
+ "calisma_zamani": "2026-11-28T16:03:12+03:00",
+ "bugun": "2026-11-28",
+ "kuru": false,
+ "kaynaklar": {
+  "izmir_sebze_meyve": {
+   "ad": "İzmir BB sebze-meyve hali",
+   "durum": "basarili",
+   "istekler": [
+    {
+     "url": "https://openapi.izmir.bel.tr/api/ibb/halfiyatlari/sebzemeyve/2026-11-28",
+     "http": 204,
+     "bayt": 0,
+     "satir": 0
+    },
+    {
+     "url": "https://openapi.izmir.bel.tr/api/ibb/halfiyatlari/sebzemeyve/2026-11-27",
+     "http": 200,
+     "bayt": 18383,
+     "satir": 86
+    },
+    {
+     "url": "https://openapi.izmir.bel.tr/api/ibb/halfiyatlari/sebzemeyve/2026-11-26",
+     "http": 200,
+     "bayt": 18383,
+     "satir": 86
+    },
+    {
+     "url": "https://openapi.izmir.bel.tr/api/ibb/halfiyatlari/sebzemeyve/2026-11-25",
+     "http": 200,
+     "bayt": 18383,
+     "satir": 86
+    }
+   ],
+   "hata": null,
+   "ardisik_hata": 0,
+   "son_basarili": "2026-11-28T16:03:12+03:00",
+   "eslesmeyen": []
+  },
+  "izmir_balik": {
+   "ad": "İzmir BB balık hali",
+   "durum": "basarili",
+   "istekler": [
+    {
+     "url": "https://openapi.izmir.bel.tr/api/ibb/halfiyatlari/balik/2026-11-28",
+     "http": 204,
+     "bayt": 0,
+     "satir": 0
+    },
+    {
+     "url": "https://openapi.izmir.bel.tr/api/ibb/halfiyatlari/balik/2026-11-27",
+     "http": 204,
+     "bayt": 0,
+     "satir": 0
+    },
+    {
+     "url": "https://openapi.izmir.bel.tr/api/ibb/halfiyatlari/balik/2026-11-26",
+     "http": 200,
+     "bayt": 14751,
+     "satir": 67
+    },
+    {
+     "url": "https://openapi.izmir.bel.tr/api/ibb/halfiyatlari/balik/2026-11-25",
+     "http": 200,
+     "bayt": 13727,
+     "satir": 62
+    }
+   ],
+   "hata": null,
+   "ardisik_hata": 0,
+   "son_basarili": "2026-11-28T16:03:12+03:00",
+   "eslesmeyen": []
+  },
+  "hks": {
+   "ad": "Hal Kayıt Sistemi (Ticaret Bakanlığı), yalnızca ilk sayfa",
+   "durum": "basarili",
+   "istekler": [
+    {
+     "url": "https://www.hal.gov.tr/Sayfalar/FiyatDetaylari.aspx",
+     "http": 200,
+     "bayt": 64581,
+     "satir": 10,
+     "veri_tarihi": "2026-11-27"
+    }
+   ],
+   "hata": null,
+   "ardisik_hata": 0,
+   "son_basarili": "2026-11-28T16:03:12+03:00",
+   "eslesmeyen": []
+  },
+  "konya": {
+   "ad": "Konya BB meyve-sebze hali",
+   "durum": "basarili",
+   "istekler": [
+    {
+     "url": "https://www.konya.bel.tr/hal-fiyatlari",
+     "http": 200,
+     "bayt": 560348,
+     "satir": 104,
+     "liste_tarihi": "2026-11-26"
+    }
+   ],
+   "hata": null,
+   "ardisik_hata": 0,
+   "son_basarili": "2026-11-28T16:03:12+03:00",
+   "eslesmeyen": []
+  },
+  "resmi_gazete": {
+   "ad": "Resmî Gazete günlük fihrist",
+   "durum": "basarili",
+   "istekler": [
+    {
+     "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261128.htm",
+     "http": 200,
+     "bayt": 19468,
+     "satir": 26
+    },
+    {
+     "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261127.htm",
+     "http": 200,
+     "bayt": 22495,
+     "satir": 31
+    },
+    {
+     "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261126.htm",
+     "http": 200,
+     "bayt": 12741,
+     "satir": 16
+    }
+   ],
+   "hata": null,
+   "ardisik_hata": 0,
+   "son_basarili": "2026-11-28T16:03:12+03:00"
+  }
+ },
+ "eslesmeyen_adlar": {},
+ "oneriler": {
+  "acilan": [],
+  "zaten_var": [],
+  "kuru_gosterilen": [],
+  "ertelendi": [],
+  "suresi_doldu": [],
+  "hata": []
+ },
+ "son_basarili_calisma": "2026-11-28T16:03:12+03:00",
+ "onceki_basarili_calisma": null
+}
